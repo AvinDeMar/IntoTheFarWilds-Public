@@ -3,7 +3,8 @@
   "project": "Into the Far Wilds",
   "studio": "Crow Brain Games, LLC",
   "releases": [
-    "2026-10-16.1"
+    "2026-10-16.1",
+    "2026-10-16.2"
   ],
   "items": [
     {
@@ -2757,9 +2758,9 @@
       }
     },
     {
-      "id": "RES_BLACK_SULFUR_CABALLINUM",
-      "name": "black sulfur (caballinum)",
-      "display_name": "Black Sulfur (Caballinum)",
+      "id": "RES_BLACK_SULFUR",
+      "name": "black sulfur",
+      "display_name": "Black Sulfur",
       "kind": "icon",
       "category": "resources",
       "group": "Sulfur",
@@ -2767,7 +2768,7 @@
       "group_order": 16,
       "item_order": 5,
       "version": "v001",
-      "publication_version": "2026-10-16.1",
+      "publication_version": "2026-10-16.2",
       "thumbnail": {
         "path": "art/icons/resources/16-sulfur/res_black_sulfur_caballinum-thumbnail.png",
         "width": 100,
@@ -5033,5 +5034,5 @@
     }
   ],
   "retired": [],
-  "latest_release": "2026-10-16.1"
+  "latest_release": "2026-10-16.2"
 }

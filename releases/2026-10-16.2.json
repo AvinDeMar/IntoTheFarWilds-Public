@@ -1,0 +1,11 @@
+{
+  "release": "2026-10-16.2",
+  "date": "2026-10-16",
+  "operation": "rename",
+  "old_id": "RES_BLACK_SULFUR_CABALLINUM",
+  "id": "RES_BLACK_SULFUR",
+  "display_name": "Black Sulfur",
+  "published_items": 201,
+  "artwork_changed": false,
+  "image_paths": "Existing public URLs retained for link compatibility; same approved pixels and hashes."
+}
