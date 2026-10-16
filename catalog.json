@@ -1,0 +1,5037 @@
+{
+  "schema_version": 1,
+  "project": "Into the Far Wilds",
+  "studio": "Crow Brain Games, LLC",
+  "releases": [
+    "2026-10-16.1"
+  ],
+  "items": [
+    {
+      "id": "RES_FIBER",
+      "name": "fiber",
+      "display_name": "Fiber",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Fiber",
+      "group_slug": "01-fiber",
+      "group_order": 1,
+      "item_order": 0,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/01-fiber/res_fiber-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "a8f1104fa5e0a759d3970917453654ec2aceb513ba4bcb44b832af6cd76bea34"
+      },
+      "preview": {
+        "path": "art/icons/resources/01-fiber/res_fiber-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "58f9ec5fedf3545a60a56c1c036fb2e9794065a25fbc22000249d0e4b4b8dd4f"
+      }
+    },
+    {
+      "id": "RES_FLAX",
+      "name": "flax",
+      "display_name": "Flax",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Fiber",
+      "group_slug": "01-fiber",
+      "group_order": 1,
+      "item_order": 1,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/01-fiber/res_flax-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "38f2fda18c4684412fa624f74810d3a67087e2b4a71b6167a53447c7cfac35fe"
+      },
+      "preview": {
+        "path": "art/icons/resources/01-fiber/res_flax-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "0a5fac1f3d7f91372da7b73809d75716544716b9f5a20b42f03d572706a47fa2"
+      }
+    },
+    {
+      "id": "RES_HEMP",
+      "name": "hemp",
+      "display_name": "Hemp",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Fiber",
+      "group_slug": "01-fiber",
+      "group_order": 1,
+      "item_order": 2,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/01-fiber/res_hemp-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "f7a32109a64f53ec1ef198f7ab7783c4f9a2af619d25ceb6bf4c7bab962258e3"
+      },
+      "preview": {
+        "path": "art/icons/resources/01-fiber/res_hemp-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "2ad14913b73d31662bda2fc0dbcbefde238edc3b86a273b1d1441ea9c79479f4"
+      }
+    },
+    {
+      "id": "RES_COTTON",
+      "name": "cotton",
+      "display_name": "Cotton",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Fiber",
+      "group_slug": "01-fiber",
+      "group_order": 1,
+      "item_order": 3,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/01-fiber/res_cotton-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "fc984fbb203c71569000609375a08891acbbc031dcf7133b23105187d338d9e5"
+      },
+      "preview": {
+        "path": "art/icons/resources/01-fiber/res_cotton-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "4cbb4d69bb5ad520b4da2ffbd9bb9b908870ab79eb3532db280792bbca71938e"
+      }
+    },
+    {
+      "id": "RES_JUTE",
+      "name": "jute",
+      "display_name": "Jute",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Fiber",
+      "group_slug": "01-fiber",
+      "group_order": 1,
+      "item_order": 4,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/01-fiber/res_jute-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "158ebdbd8e21dec2ff6a390ae7676088daa5243dd569e32541b94f5875ff2e89"
+      },
+      "preview": {
+        "path": "art/icons/resources/01-fiber/res_jute-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "e97fa6b276b5029aca85edd9df074c8aa7a9bafdc1d70bedc50ea6ae3e83082d"
+      }
+    },
+    {
+      "id": "RES_SISAL",
+      "name": "sisal",
+      "display_name": "Sisal",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Fiber",
+      "group_slug": "01-fiber",
+      "group_order": 1,
+      "item_order": 5,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/01-fiber/res_sisal-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "c3d339b0283b298db1da77ec5bba40cc49bbc18e620d6ad655c4316c3b5db416"
+      },
+      "preview": {
+        "path": "art/icons/resources/01-fiber/res_sisal-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "b7f641840b0d9229b9fb3faa1d5ab98e1553d9e123e9da12ebaf90cef8bb6954"
+      }
+    },
+    {
+      "id": "RES_SILK",
+      "name": "silk",
+      "display_name": "Silk",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Fiber",
+      "group_slug": "01-fiber",
+      "group_order": 1,
+      "item_order": 6,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/01-fiber/res_silk-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "2d26fd0393a8c5cdbbded57623786f766fba19ce491159ca6228c20fe5329219"
+      },
+      "preview": {
+        "path": "art/icons/resources/01-fiber/res_silk-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "1e71dce4e7e92761b1d98be4d8be28650b6c62d24a31fa2237e4a2b0c51c8c8a"
+      }
+    },
+    {
+      "id": "RES_THATCH",
+      "name": "thatch",
+      "display_name": "Thatch",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Thatch",
+      "group_slug": "02-thatch",
+      "group_order": 2,
+      "item_order": 0,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/02-thatch/res_thatch-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "aa0c875790b06e49f9f70206cb0bcbe42ee48fd2a27663d4949235d133d1ffcd"
+      },
+      "preview": {
+        "path": "art/icons/resources/02-thatch/res_thatch-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "3e707cd37051e32ba66ef04f24fdce32a1165df1b89b3c43266008cb6ec8a3e5"
+      }
+    },
+    {
+      "id": "RES_STRAW",
+      "name": "straw",
+      "display_name": "Straw",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Thatch",
+      "group_slug": "02-thatch",
+      "group_order": 2,
+      "item_order": 1,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/02-thatch/res_straw-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "a364e760eb719bd18cab0f6a4e70d1f942d4a7890ddb954422c4cd105d391d88"
+      },
+      "preview": {
+        "path": "art/icons/resources/02-thatch/res_straw-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "042fb35a96479a876e89b18ad2c809740e228be117923a5336584b4c699dcf78"
+      }
+    },
+    {
+      "id": "RES_RIVER_REED",
+      "name": "river reed",
+      "display_name": "River Reed",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Thatch",
+      "group_slug": "02-thatch",
+      "group_order": 2,
+      "item_order": 2,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/02-thatch/res_river_reed-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "b5888484bd977ed24f9f3a194c7f10f56d0f5b6052863d0cc6b8857d1fff3cb2"
+      },
+      "preview": {
+        "path": "art/icons/resources/02-thatch/res_river_reed-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "6774fd91631a57b4b60d5b3306816657e6af8b24064a1d0b185e4844211dd3b2"
+      }
+    },
+    {
+      "id": "RES_PALM_FRONDS",
+      "name": "palm fronds",
+      "display_name": "Palm Fronds",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Thatch",
+      "group_slug": "02-thatch",
+      "group_order": 2,
+      "item_order": 3,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/02-thatch/res_palm_fronds-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "6e937b24610430e4cf5170cad0a4bfda504db09fe30783484f345f1ed8f340ee"
+      },
+      "preview": {
+        "path": "art/icons/resources/02-thatch/res_palm_fronds-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "0e7275dc6fffb7ba92ac9d37e520e77c22f33179c5225d15be7686060520b9b0"
+      }
+    },
+    {
+      "id": "RES_CANE_STALKS",
+      "name": "cane stalks",
+      "display_name": "Cane Stalks",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Thatch",
+      "group_slug": "02-thatch",
+      "group_order": 2,
+      "item_order": 4,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/02-thatch/res_cane_stalks-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "5e95adcd05c13fc4aec95ccc507252f506bc9688e17c4d65087ef11a904d6966"
+      },
+      "preview": {
+        "path": "art/icons/resources/02-thatch/res_cane_stalks-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "3e7ca026fad0f0a678f9804b32889ccd7a43123ce189d8180d8eb9407de9c423"
+      }
+    },
+    {
+      "id": "RES_BARK_STRIPS",
+      "name": "bark strips",
+      "display_name": "Bark Strips",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Thatch",
+      "group_slug": "02-thatch",
+      "group_order": 2,
+      "item_order": 5,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/02-thatch/res_bark_strips-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "08d37a66e9e407372e8ea382d499d9aeb08ccae6821285da19684fee98cdbb7e"
+      },
+      "preview": {
+        "path": "art/icons/resources/02-thatch/res_bark_strips-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "7a0f03bf7c8d31f209b26968796247da86d57864676ff9a219424c20d4232106"
+      }
+    },
+    {
+      "id": "RES_BRUSHWOOD",
+      "name": "brushwood",
+      "display_name": "Brushwood",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Thatch",
+      "group_slug": "02-thatch",
+      "group_order": 2,
+      "item_order": 6,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/02-thatch/res_brushwood-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "8840ab96149a1556c373341f6a6d38872526b0e498a8150f511b84bb4f8efc0a"
+      },
+      "preview": {
+        "path": "art/icons/resources/02-thatch/res_brushwood-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "40dddff2928f7e1c443822864a21976865a506c9705e08153344375a8de572c4"
+      }
+    },
+    {
+      "id": "RES_WOOD",
+      "name": "wood",
+      "display_name": "Wood",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Wood",
+      "group_slug": "03-wood",
+      "group_order": 3,
+      "item_order": 0,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/03-wood/res_wood-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "277da321e6916dd0917ef96610f091f4b8667f91f54216d52fee455058cd0e65"
+      },
+      "preview": {
+        "path": "art/icons/resources/03-wood/res_wood-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "8364918ad61fb42aef97ad14181fe02329c9ec1b18343c7796e2382d80e5bf86"
+      }
+    },
+    {
+      "id": "RES_WHITE_OAK",
+      "name": "white oak",
+      "display_name": "White Oak",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Wood",
+      "group_slug": "03-wood",
+      "group_order": 3,
+      "item_order": 1,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/03-wood/res_white_oak-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "69deb6aa8695f2bd2bdfd8fa1943e94ef923b16a234c41ab9c7138ee67dc05ac"
+      },
+      "preview": {
+        "path": "art/icons/resources/03-wood/res_white_oak-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "834bbae9530d11aa68f9f17e5f242ae27459383bb1fef9dec517e3c48ccb5fee"
+      }
+    },
+    {
+      "id": "RES_RED_CEDAR",
+      "name": "red cedar",
+      "display_name": "Red Cedar",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Wood",
+      "group_slug": "03-wood",
+      "group_order": 3,
+      "item_order": 2,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/03-wood/res_red_cedar-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "cdfce9414260ecb4b8b4b608068a08705a7dc8866eb2790d58401a9dc38a4d83"
+      },
+      "preview": {
+        "path": "art/icons/resources/03-wood/res_red_cedar-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "103bd13cee2125ee126268f03f37cfb4cafc973778305afe52c0dfaf8c9df6b2"
+      }
+    },
+    {
+      "id": "RES_PITCH_PINE",
+      "name": "pitch pine",
+      "display_name": "Pitch Pine",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Wood",
+      "group_slug": "03-wood",
+      "group_order": 3,
+      "item_order": 3,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/03-wood/res_pitch_pine-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "49bae804cb6752e30141351ff628b243ce69c93531ad7f612dfa3af85a08643a"
+      },
+      "preview": {
+        "path": "art/icons/resources/03-wood/res_pitch_pine-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "ce900e8f418a40cdd6de736ddae3b66ed6e4cd7d8e7cdf889f99dcee5f168bf2"
+      }
+    },
+    {
+      "id": "RES_BALD_CYPRESS",
+      "name": "bald cypress",
+      "display_name": "Bald Cypress",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Wood",
+      "group_slug": "03-wood",
+      "group_order": 3,
+      "item_order": 4,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/03-wood/res_bald_cypress-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "df5ca86f67a8c98b760c29abe92cf2ca329129e3d1401690c9981fdf00f19ff3"
+      },
+      "preview": {
+        "path": "art/icons/resources/03-wood/res_bald_cypress-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "94e932b154c2653435bccbeab8575bc9c851e1adf8123bd316c74c71fef5b7a1"
+      }
+    },
+    {
+      "id": "RES_TEAK",
+      "name": "teak",
+      "display_name": "Teak",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Wood",
+      "group_slug": "03-wood",
+      "group_order": 3,
+      "item_order": 5,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/03-wood/res_teak-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "e8a1ddd6e32f2754e183840373e865cc4d661ef96754618f3885835ac599d93e"
+      },
+      "preview": {
+        "path": "art/icons/resources/03-wood/res_teak-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "639ebdbd80a5e9877dab0f6bead4bd59dd9fe34be3e3dc0d57d1f66fa01016e4"
+      }
+    },
+    {
+      "id": "RES_COCONUT_PALM",
+      "name": "coconut palm",
+      "display_name": "Coconut Palm",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Wood",
+      "group_slug": "03-wood",
+      "group_order": 3,
+      "item_order": 6,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/03-wood/res_coconut_palm-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "efdc020068efa0de56f2bfa90118e6e7c30bc4c31eef356dfd609378abc4edff"
+      },
+      "preview": {
+        "path": "art/icons/resources/03-wood/res_coconut_palm-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "40e9cacc51b413bcf01978802a17fb7808e4bc057d2fd6389c7dc7e8c877f2ce"
+      }
+    },
+    {
+      "id": "RES_RESIN",
+      "name": "resin",
+      "display_name": "Resin",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Resin",
+      "group_slug": "04-resin",
+      "group_order": 4,
+      "item_order": 0,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/04-resin/res_resin-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "eb405e6c47f4457216d0c6112a3652a1365121658ad43fc8dffb42682c29fb82"
+      },
+      "preview": {
+        "path": "art/icons/resources/04-resin/res_resin-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "bd01e2b2da720517afb7b13cde1b5f87a323116b7b089d8c187428ad4e183dad"
+      }
+    },
+    {
+      "id": "RES_PINE_RESIN",
+      "name": "pine resin",
+      "display_name": "Pine Resin",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Resin",
+      "group_slug": "04-resin",
+      "group_order": 4,
+      "item_order": 1,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/04-resin/res_pine_resin-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "466296cc023882d96f8dc5f83cf0716afb05f8e84675f9d866d083c9e767ff46"
+      },
+      "preview": {
+        "path": "art/icons/resources/04-resin/res_pine_resin-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "57a376d75b1b7928f338cb40ba3df29a8f9ba74b9e96efcb306a4f6a1a41fdb1"
+      }
+    },
+    {
+      "id": "RES_COPAL",
+      "name": "copal",
+      "display_name": "Copal",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Resin",
+      "group_slug": "04-resin",
+      "group_order": 4,
+      "item_order": 2,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/04-resin/res_copal-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "6a55ac15735eb3d908f15c22d70e904e12e49d7a048d91a738c3c8110ead8c09"
+      },
+      "preview": {
+        "path": "art/icons/resources/04-resin/res_copal-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "127d05a7cdb21c0bf9601f1f451be6c4d10cbf4d3dadbd08bd5993aa5720dc88"
+      }
+    },
+    {
+      "id": "RES_MASTIC",
+      "name": "mastic",
+      "display_name": "Mastic",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Resin",
+      "group_slug": "04-resin",
+      "group_order": 4,
+      "item_order": 3,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/04-resin/res_mastic-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "464435ef886a776a45d34ab2760531e4cd6449006746f1d53120883fa1e28284"
+      },
+      "preview": {
+        "path": "art/icons/resources/04-resin/res_mastic-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "a90f1d34d0be51672147d1564c7407797946ce8a436a7769236c85a721f0c1c9"
+      }
+    },
+    {
+      "id": "RES_DAMMAR",
+      "name": "dammar",
+      "display_name": "Dammar",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Resin",
+      "group_slug": "04-resin",
+      "group_order": 4,
+      "item_order": 4,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/04-resin/res_dammar-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "f4e9d4403427a00409ee0ef9d492dbbceeccf3ad717e60183b65e2421af6979c"
+      },
+      "preview": {
+        "path": "art/icons/resources/04-resin/res_dammar-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "68c555500fb20a13d1f24ed1180075e1b94cdb5b8f8846dd7254bef6f3bcbe1e"
+      }
+    },
+    {
+      "id": "RES_MYRRH",
+      "name": "myrrh",
+      "display_name": "Myrrh",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Resin",
+      "group_slug": "04-resin",
+      "group_order": 4,
+      "item_order": 5,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/04-resin/res_myrrh-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "fe60f3e1e2302daa14675f49cc39de23be34738b3a5d6122a540932746a7e6e5"
+      },
+      "preview": {
+        "path": "art/icons/resources/04-resin/res_myrrh-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "7d8c07e29bc2eb214b282acda558f26436620e94025c5a589339d4a3d43a4157"
+      }
+    },
+    {
+      "id": "RES_DRAGONS_BLOOD",
+      "name": "dragons blood",
+      "display_name": "Dragons Blood",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Resin",
+      "group_slug": "04-resin",
+      "group_order": 4,
+      "item_order": 6,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/04-resin/res_dragons_blood-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "06eab6bab754eabfc8e6bcaca664484c01b2e5510f2ad1831857f340f9285353"
+      },
+      "preview": {
+        "path": "art/icons/resources/04-resin/res_dragons_blood-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "54723aae8afc95e37e9747011c6e81ebd1fa75a75a4ebf29fc13f93f79801022"
+      }
+    },
+    {
+      "id": "RES_HIDE",
+      "name": "hide",
+      "display_name": "Hide",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Hide",
+      "group_slug": "05-hide",
+      "group_order": 5,
+      "item_order": 0,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/05-hide/res_hide-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "842712f64f1acac6c2ece9589017c1088a440b190da306e26eee345d406763cc"
+      },
+      "preview": {
+        "path": "art/icons/resources/05-hide/res_hide-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "a1c1513425df1e3dd4c4e3606d11f1422dd2545b2580a53bd7fc85fb986c3d6a"
+      }
+    },
+    {
+      "id": "RES_SOFT_HIDE",
+      "name": "soft hide",
+      "display_name": "Soft Hide",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Hide",
+      "group_slug": "05-hide",
+      "group_order": 5,
+      "item_order": 1,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/05-hide/res_soft_hide-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "2b557cb87a75ce16575b7d8ec20c2620814275a7a9f561e595ce2c06bb9e661a"
+      },
+      "preview": {
+        "path": "art/icons/resources/05-hide/res_soft_hide-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "5dc3e6dbd0d752403c242a60f737e56c63d58cbb84388013014ed300421c2c8d"
+      }
+    },
+    {
+      "id": "RES_TOUGH_HIDE",
+      "name": "tough hide",
+      "display_name": "Tough Hide",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Hide",
+      "group_slug": "05-hide",
+      "group_order": 5,
+      "item_order": 2,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/05-hide/res_tough_hide-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "c2b72e82ae1d52589b69b2836bb3e75425b3508717735fc629e674e7700228a2"
+      },
+      "preview": {
+        "path": "art/icons/resources/05-hide/res_tough_hide-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "39c7b7b4b8ac6fbd7095299cb89ffc22bba224b79044cf7287cd92a0da66a98f"
+      }
+    },
+    {
+      "id": "RES_HEAVY_HIDE",
+      "name": "heavy hide",
+      "display_name": "Heavy Hide",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Hide",
+      "group_slug": "05-hide",
+      "group_order": 5,
+      "item_order": 3,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/05-hide/res_heavy_hide-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "858d1e9442a5bccb2fde64cda367db75ba4b0311c7458762047d1521b4bcb1e7"
+      },
+      "preview": {
+        "path": "art/icons/resources/05-hide/res_heavy_hide-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "597a3dcf287c38e6eae990c431d6bba61308fb4da467a17df1a7066783c39b2a"
+      }
+    },
+    {
+      "id": "RES_FUR_PELT",
+      "name": "fur pelt",
+      "display_name": "Fur Pelt",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Hide",
+      "group_slug": "05-hide",
+      "group_order": 5,
+      "item_order": 4,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/05-hide/res_fur_pelt-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "38055c9d1e6d7443881f5dec790c9f385ab6e27e252e28ce1c2fdc183b2a15c3"
+      },
+      "preview": {
+        "path": "art/icons/resources/05-hide/res_fur_pelt-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "4ad4e1659ca4a2ed7b37d7e2ec958de5813bef47636d34fe4a709a96276c9839"
+      }
+    },
+    {
+      "id": "RES_REPTILE_SKIN",
+      "name": "reptile skin",
+      "display_name": "Reptile Skin",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Hide",
+      "group_slug": "05-hide",
+      "group_order": 5,
+      "item_order": 5,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/05-hide/res_reptile_skin-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "8493f698edf07f4efe3ad86b9d02ca4f03cd82a6d39885ff055bf7b656346f24"
+      },
+      "preview": {
+        "path": "art/icons/resources/05-hide/res_reptile_skin-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "472d807b1d8475656477b30ca92f8624b7dad0c52ac8f292ee43d162781ff32a"
+      }
+    },
+    {
+      "id": "RES_MARINE_HIDE",
+      "name": "marine hide",
+      "display_name": "Marine Hide",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Hide",
+      "group_slug": "05-hide",
+      "group_order": 5,
+      "item_order": 6,
+      "version": "v003",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/05-hide/res_marine_hide-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "c03aebeede254422d33a5f83f1c725b0244819ffca4c726ee9e09d350df00a19"
+      },
+      "preview": {
+        "path": "art/icons/resources/05-hide/res_marine_hide-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "2e15625fc23285034f64aaf0205a91976ced73c11b4e616f8ffb254d01691826"
+      }
+    },
+    {
+      "id": "RES_FEATHER",
+      "name": "feather",
+      "display_name": "Feather",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Feather",
+      "group_slug": "06-feather",
+      "group_order": 6,
+      "item_order": 0,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/06-feather/res_feather-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "2637300e6b33cafdacee1d3bf31b45150170cdb249b969e78a713b3b89502e6a"
+      },
+      "preview": {
+        "path": "art/icons/resources/06-feather/res_feather-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "8502932b48748d5ad2b1f48b8c4ba4a613cfed6240fd3d757f517f9625701fc1"
+      }
+    },
+    {
+      "id": "RES_SWAN_FEATHER",
+      "name": "swan feather",
+      "display_name": "Swan Feather",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Feather",
+      "group_slug": "06-feather",
+      "group_order": 6,
+      "item_order": 1,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/06-feather/res_swan_feather-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "28570f0bae5e35fd5943e8f77e058a22ec8f11bc25f2f5b865a42b6856224e22"
+      },
+      "preview": {
+        "path": "art/icons/resources/06-feather/res_swan_feather-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "0574fc4a8c45ffe331d6dac0e130f4c9c281aaa32e800c5ffa22e376a6313af4"
+      }
+    },
+    {
+      "id": "RES_GOOSE_FEATHER",
+      "name": "goose feather",
+      "display_name": "Goose Feather",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Feather",
+      "group_slug": "06-feather",
+      "group_order": 6,
+      "item_order": 2,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/06-feather/res_goose_feather-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "fb31394a86e77e6121116ed17b10a1e321d05b86b573fe811347233bb1a7caa3"
+      },
+      "preview": {
+        "path": "art/icons/resources/06-feather/res_goose_feather-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "35eb62bd81fa71dfa355be3bcc9b95eba277aa1b0294641be89105e1d6a31737"
+      }
+    },
+    {
+      "id": "RES_DUCK_FEATHER",
+      "name": "duck feather",
+      "display_name": "Duck Feather",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Feather",
+      "group_slug": "06-feather",
+      "group_order": 6,
+      "item_order": 3,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/06-feather/res_duck_feather-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "42295d4c4eb279566862f6fd765b8bd7ab9a6a52efb4ceacd68cdc0d80895c24"
+      },
+      "preview": {
+        "path": "art/icons/resources/06-feather/res_duck_feather-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "a7d37860b5278a109d7c8c45d6dfe3bb27ea910d23c41f3843c53d0a0b1c2a89"
+      }
+    },
+    {
+      "id": "RES_PEACOCK_FEATHER",
+      "name": "peacock feather",
+      "display_name": "Peacock Feather",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Feather",
+      "group_slug": "06-feather",
+      "group_order": 6,
+      "item_order": 4,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/06-feather/res_peacock_feather-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "27aecbe3586f9926ce8134abb51eca2a5f9c05a5be86ed8960b3ed3519bb4d83"
+      },
+      "preview": {
+        "path": "art/icons/resources/06-feather/res_peacock_feather-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "64bdcb1523a88a8baa17d7a5c0aefcb419fa629156721bba76196b066924ada8"
+      }
+    },
+    {
+      "id": "RES_TURKEY_FEATHER",
+      "name": "turkey feather",
+      "display_name": "Turkey Feather",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Feather",
+      "group_slug": "06-feather",
+      "group_order": 6,
+      "item_order": 5,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/06-feather/res_turkey_feather-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "ad1ee8c1b8b4fc4df274f4727ca54c90dad9397aecd5f95789d7c5cc64cc10e7"
+      },
+      "preview": {
+        "path": "art/icons/resources/06-feather/res_turkey_feather-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "c0de2cab84465520ebd3a3bd42e327c74fb34af7677c481289398c2e95078796"
+      }
+    },
+    {
+      "id": "RES_RAPTOR_FEATHER",
+      "name": "raptor feather",
+      "display_name": "Raptor Feather",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Feather",
+      "group_slug": "06-feather",
+      "group_order": 6,
+      "item_order": 6,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/06-feather/res_raptor_feather-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "2cec324d1779860d3bd947f65a0a45007044374a0567c8ec03002ba093f689f5"
+      },
+      "preview": {
+        "path": "art/icons/resources/06-feather/res_raptor_feather-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "6088211287d4b3db28aab5bcc168254a7af3f1fb97dbe86e6cece9aedaf4d208"
+      }
+    },
+    {
+      "id": "RES_REMAINS",
+      "name": "remains",
+      "display_name": "Remains",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Remains",
+      "group_slug": "07-remains",
+      "group_order": 7,
+      "item_order": 0,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/07-remains/res_remains-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "bd9f62678e2ba55f959d1ce72cd291560f651bb2015b116a275efc0e6507a5bc"
+      },
+      "preview": {
+        "path": "art/icons/resources/07-remains/res_remains-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "9de3019c6e2871ac92adcfd7ff21c221cfb513b058b3c835000309c614543638"
+      }
+    },
+    {
+      "id": "RES_BONE",
+      "name": "bone",
+      "display_name": "Bone",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Remains",
+      "group_slug": "07-remains",
+      "group_order": 7,
+      "item_order": 1,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/07-remains/res_bone-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "15fbb036acae0edcef7c260097cd6213cae3b278d4c890ae05aef817979a0cc1"
+      },
+      "preview": {
+        "path": "art/icons/resources/07-remains/res_bone-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "14e67e5eda20e9463a54dfcfab4165dc0c7fc31ac87e35f69e1b0afd61eb00fe"
+      }
+    },
+    {
+      "id": "RES_HORN",
+      "name": "horn",
+      "display_name": "Horn",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Remains",
+      "group_slug": "07-remains",
+      "group_order": 7,
+      "item_order": 2,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/07-remains/res_horn-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "5e279f4bd8a6d2c8c156b070629d18bb927e169f66ce9f36058b20907cbade5f"
+      },
+      "preview": {
+        "path": "art/icons/resources/07-remains/res_horn-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "05b568cbb5571551e956f38e64606357288cd42c8bef10e3eb82ba081f29f792"
+      }
+    },
+    {
+      "id": "RES_CHITIN",
+      "name": "chitin",
+      "display_name": "Chitin",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Remains",
+      "group_slug": "07-remains",
+      "group_order": 7,
+      "item_order": 3,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/07-remains/res_chitin-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "a9ec0231d5d97ab9d84980f62cd8b356a99d9af167ac2d15fa57e3df87c252f4"
+      },
+      "preview": {
+        "path": "art/icons/resources/07-remains/res_chitin-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "c8dceca1677710e8e842fbec90651879b8d67c33b9c91d96989ade63bd88c8d8"
+      }
+    },
+    {
+      "id": "RES_CARAPACE",
+      "name": "carapace",
+      "display_name": "Carapace",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Remains",
+      "group_slug": "07-remains",
+      "group_order": 7,
+      "item_order": 4,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/07-remains/res_carapace-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "d035550b80551b458702620ab66917baa5b4f27fe6a5a8e510b25a16e7b97626"
+      },
+      "preview": {
+        "path": "art/icons/resources/07-remains/res_carapace-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "71378240fd1bcd2a1c271c39d3aed5bf6a06151ae7073fe69154e756503afaf5"
+      }
+    },
+    {
+      "id": "RES_SCALE",
+      "name": "scale",
+      "display_name": "Scale",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Remains",
+      "group_slug": "07-remains",
+      "group_order": 7,
+      "item_order": 5,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/07-remains/res_scale-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "bc30d518b1f43c8d119f00d93f1293a78966ce1721d539f9abee1993b1573f0d"
+      },
+      "preview": {
+        "path": "art/icons/resources/07-remains/res_scale-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "63af0d5062f81223d94ff6f691a4a154c8c5da4dd006d4ab6b10ad5fce5d5298"
+      }
+    },
+    {
+      "id": "RES_SHELL",
+      "name": "shell",
+      "display_name": "Shell",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Remains",
+      "group_slug": "07-remains",
+      "group_order": 7,
+      "item_order": 6,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/07-remains/res_shell-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "9cdfe6b500094059789af52a035b162991462f89c71646fb6f859795c7ad59ae"
+      },
+      "preview": {
+        "path": "art/icons/resources/07-remains/res_shell-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "e1a5a3a830a305a62151e7c925ba7d36cdcbb02ed60308146e557ac17234830e"
+      }
+    },
+    {
+      "id": "RES_WAX",
+      "name": "wax",
+      "display_name": "Wax",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Wax",
+      "group_slug": "08-wax",
+      "group_order": 8,
+      "item_order": 0,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/08-wax/res_wax-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "a3c10ef54f0e69ef53b8be3f65816bfc6d7f352ac057a4d33d5bf379816dfc47"
+      },
+      "preview": {
+        "path": "art/icons/resources/08-wax/res_wax-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "d26ad64c3ccbc4166f2818c6a1d8748187baa5ccca4fd46a7b1ec1d46b2fd7e2"
+      }
+    },
+    {
+      "id": "RES_BEESWAX",
+      "name": "beeswax",
+      "display_name": "Beeswax",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Wax",
+      "group_slug": "08-wax",
+      "group_order": 8,
+      "item_order": 1,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/08-wax/res_beeswax-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "e7e2630dac6237ea28818755ae2ab7eae6b822659d822a4a696d082f9a3cde9c"
+      },
+      "preview": {
+        "path": "art/icons/resources/08-wax/res_beeswax-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "5d13d2d1e6039a8a3b295dc148613133d7c2752a9cdc21b4c9df56075603e514"
+      }
+    },
+    {
+      "id": "RES_TALLOW",
+      "name": "tallow",
+      "display_name": "Tallow",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Wax",
+      "group_slug": "08-wax",
+      "group_order": 8,
+      "item_order": 2,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/08-wax/res_tallow-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "8b4f2e521ce4f3a02ed2295ccd00e6d2e30e6bd28140d3cf9a2bce90075843be"
+      },
+      "preview": {
+        "path": "art/icons/resources/08-wax/res_tallow-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "9562f9a60c7761f825f40700c01132d47b8895115b5f21c44c33ff4d6f8da26c"
+      }
+    },
+    {
+      "id": "RES_SPERMACETI",
+      "name": "spermaceti",
+      "display_name": "Spermaceti",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Wax",
+      "group_slug": "08-wax",
+      "group_order": 8,
+      "item_order": 3,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/08-wax/res_spermaceti-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "5516971cdb37742f987f8cf7a49f419a63ecda00e02bf4e1e5db85e8bda3834a"
+      },
+      "preview": {
+        "path": "art/icons/resources/08-wax/res_spermaceti-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "3da3a4af0242e70e42607b5fa3b6af404213e4e1b9b5d2a40c9659a9add968c4"
+      }
+    },
+    {
+      "id": "RES_BAYBERRY_WAX",
+      "name": "bayberry wax",
+      "display_name": "Bayberry Wax",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Wax",
+      "group_slug": "08-wax",
+      "group_order": 8,
+      "item_order": 4,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/08-wax/res_bayberry_wax-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "04af8377ad83b489ff5cc51095aea23b2009e1170e6f5d136a2b00d6eb08056e"
+      },
+      "preview": {
+        "path": "art/icons/resources/08-wax/res_bayberry_wax-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "fd665c3c3e66c2720354b9301988197bee0aa5663a428140d79dae4a8927d275"
+      }
+    },
+    {
+      "id": "RES_SUMAC_WAX",
+      "name": "sumac wax",
+      "display_name": "Sumac Wax",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Wax",
+      "group_slug": "08-wax",
+      "group_order": 8,
+      "item_order": 5,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/08-wax/res_sumac_wax-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "4239c943fcfb51f09e46451c1f90f35aa7d54728745022b536135e5ff93b9a93"
+      },
+      "preview": {
+        "path": "art/icons/resources/08-wax/res_sumac_wax-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "5953ecd229f15253beee6c6d8b3fc448af1095e2a1315b5f912b677d3b491677"
+      }
+    },
+    {
+      "id": "RES_LAC_WAX",
+      "name": "lac wax",
+      "display_name": "Lac Wax",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Wax",
+      "group_slug": "08-wax",
+      "group_order": 8,
+      "item_order": 6,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/08-wax/res_lac_wax-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "a8dc35dccd6d8bb06829fdc84718c7bcbd1c80b1a42ee7d1f910ec15ee0ed9b3"
+      },
+      "preview": {
+        "path": "art/icons/resources/08-wax/res_lac_wax-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "89cf26facd30370d152bd29f33e90862fafb10fb6de372dcf7dbfd9257743742"
+      }
+    },
+    {
+      "id": "RES_OIL",
+      "name": "oil",
+      "display_name": "Oil",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Oil",
+      "group_slug": "09-oil",
+      "group_order": 9,
+      "item_order": 0,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/09-oil/res_oil-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "d2ec5e521bb4a640f128f200279cd4c8c8218b055b37bab338b032dd187c84f7"
+      },
+      "preview": {
+        "path": "art/icons/resources/09-oil/res_oil-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "2ab6a0071d196da4cf568f9fc58b739b83f7f364d05b44bb77d6f5a96976e2e7"
+      }
+    },
+    {
+      "id": "RES_OLIVE_OIL",
+      "name": "olive oil",
+      "display_name": "Olive Oil",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Oil",
+      "group_slug": "09-oil",
+      "group_order": 9,
+      "item_order": 1,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/09-oil/res_olive_oil-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "f7581a17daa08cf277b00fdc740ccf90514a952a27de501c3564c05dd4db94b6"
+      },
+      "preview": {
+        "path": "art/icons/resources/09-oil/res_olive_oil-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "127c1c0385eae3471e500faba60c146886809d0ab17e26dd076d16dd17615f7b"
+      }
+    },
+    {
+      "id": "RES_LINSEED_OIL",
+      "name": "linseed oil",
+      "display_name": "Linseed Oil",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Oil",
+      "group_slug": "09-oil",
+      "group_order": 9,
+      "item_order": 2,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/09-oil/res_linseed_oil-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "63dbc7b44353b96377e00568d06c3631fd0aaf9370e8f65044f7da8a8ca433f8"
+      },
+      "preview": {
+        "path": "art/icons/resources/09-oil/res_linseed_oil-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "e23fa42b974cf2b04fb9ece0d482f8eb9594bf35f86da31dfbf5571a1a2bfa9e"
+      }
+    },
+    {
+      "id": "RES_COCONUT_OIL",
+      "name": "coconut oil",
+      "display_name": "Coconut Oil",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Oil",
+      "group_slug": "09-oil",
+      "group_order": 9,
+      "item_order": 3,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/09-oil/res_coconut_oil-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "2cc5968b8d7ff4755c10671a3c28deb5bfa62abd2dfddcc762403784e487537b"
+      },
+      "preview": {
+        "path": "art/icons/resources/09-oil/res_coconut_oil-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "3c424cc33c3134491fa93c1936df12ec5ea22a1e44aac0b5be3be146ea75aca4"
+      }
+    },
+    {
+      "id": "RES_RAPESEED_OIL",
+      "name": "rapeseed oil",
+      "display_name": "Rapeseed Oil",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Oil",
+      "group_slug": "09-oil",
+      "group_order": 9,
+      "item_order": 4,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/09-oil/res_rapeseed_oil-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "2325e603ceb7ebacb8bff6937c53c10d128cee61a748a0746e3d3cfaaa7ba634"
+      },
+      "preview": {
+        "path": "art/icons/resources/09-oil/res_rapeseed_oil-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "8440badcfbd9ecf0b11d0c4039b815622b372a3c13c79eea94fa32593697ba0c"
+      }
+    },
+    {
+      "id": "RES_FISH_OIL",
+      "name": "fish oil",
+      "display_name": "Fish Oil",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Oil",
+      "group_slug": "09-oil",
+      "group_order": 9,
+      "item_order": 5,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/09-oil/res_fish_oil-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "20135d986ade05b92ef69a9eac911953c46236abaff34aaa949514c25df40a06"
+      },
+      "preview": {
+        "path": "art/icons/resources/09-oil/res_fish_oil-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "3997b366815d96778148523acc22998cf9c3262bcdb04b329d0a89370adf30f3"
+      }
+    },
+    {
+      "id": "RES_WHALE_OIL",
+      "name": "whale oil",
+      "display_name": "Whale Oil",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Oil",
+      "group_slug": "09-oil",
+      "group_order": 9,
+      "item_order": 6,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/09-oil/res_whale_oil-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "aafdee7d6c198c3ebdb002abb181f6f89b69c5a3d896e471b46770d28149c21b"
+      },
+      "preview": {
+        "path": "art/icons/resources/09-oil/res_whale_oil-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "9978f2a9a707115e0c0d9abdfae975f9d4d573edf41e8f0afb6aa94a04753c61"
+      }
+    },
+    {
+      "id": "RES_STONE",
+      "name": "stone",
+      "display_name": "Stone",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Stone",
+      "group_slug": "10-stone",
+      "group_order": 10,
+      "item_order": 0,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/10-stone/res_stone-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "82b97eefa7e58976c369495269838dd04bfe8fb82bf0a4719fdde4bde4664f34"
+      },
+      "preview": {
+        "path": "art/icons/resources/10-stone/res_stone-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "21639fae50624bcb26109da0cd5a796c26c964758544b1f77158c783693fb64b"
+      }
+    },
+    {
+      "id": "RES_LIMESTONE",
+      "name": "limestone",
+      "display_name": "Limestone",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Stone",
+      "group_slug": "10-stone",
+      "group_order": 10,
+      "item_order": 1,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/10-stone/res_limestone-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "4371950981498058acd10e45e265aa9742da1136616328553a31cc54714cf22b"
+      },
+      "preview": {
+        "path": "art/icons/resources/10-stone/res_limestone-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "904805344ec443ecc31171e3d8fc8494242a6fa40a8714e309f31516d262ef67"
+      }
+    },
+    {
+      "id": "RES_SANDSTONE",
+      "name": "sandstone",
+      "display_name": "Sandstone",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Stone",
+      "group_slug": "10-stone",
+      "group_order": 10,
+      "item_order": 2,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/10-stone/res_sandstone-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "66c70430af51f152eff9e276ad7e9b8159538509f2659e74a60ed88b9d4cdf71"
+      },
+      "preview": {
+        "path": "art/icons/resources/10-stone/res_sandstone-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "4e4721b3b99e8113f1dd86084d00542bbbbc5845f8a35f9f97aee7e745f3ba93"
+      }
+    },
+    {
+      "id": "RES_GRANITE",
+      "name": "granite",
+      "display_name": "Granite",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Stone",
+      "group_slug": "10-stone",
+      "group_order": 10,
+      "item_order": 3,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/10-stone/res_granite-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "1dc774002316571d2c95530d655be1dd1159faadb5a5191edd1c687db65efd4a"
+      },
+      "preview": {
+        "path": "art/icons/resources/10-stone/res_granite-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "3815115f90b7303f34e8dfb34ea4d0024f60327c1f0574fa1475ed8f6b2f921f"
+      }
+    },
+    {
+      "id": "RES_BASALT",
+      "name": "basalt",
+      "display_name": "Basalt",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Stone",
+      "group_slug": "10-stone",
+      "group_order": 10,
+      "item_order": 4,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/10-stone/res_basalt-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "b73845e0ab1d1bb2fb29c256bef5c224a5385a64920c6cc939a64df39e8227a0"
+      },
+      "preview": {
+        "path": "art/icons/resources/10-stone/res_basalt-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "d768294b800e64a240d53360c2504cf2de3c45d47b2d00798a706cfdf88f29d6"
+      }
+    },
+    {
+      "id": "RES_TRAVERTINE",
+      "name": "travertine",
+      "display_name": "Travertine",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Stone",
+      "group_slug": "10-stone",
+      "group_order": 10,
+      "item_order": 5,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/10-stone/res_travertine-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "4c9afd6e10aa0d0ebb954d7e683ed05764dbcb03385de5e65fd3cc28366e8680"
+      },
+      "preview": {
+        "path": "art/icons/resources/10-stone/res_travertine-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "14d0523636cf861f53cc68b84ac416eea72248f52173dfeb4b562d8c0124295d"
+      }
+    },
+    {
+      "id": "RES_ONYX",
+      "name": "onyx",
+      "display_name": "Onyx",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Stone",
+      "group_slug": "10-stone",
+      "group_order": 10,
+      "item_order": 6,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/10-stone/res_onyx-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "a939254edfa3f93763c8bb65187c7e318b66b739a482460f98bda0616cfde8a6"
+      },
+      "preview": {
+        "path": "art/icons/resources/10-stone/res_onyx-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "296fb302a6f73467f3782b801aa8d2350dd1ef7c95d03d072be9c98e78e8e2c8"
+      }
+    },
+    {
+      "id": "RES_FLINT",
+      "name": "flint",
+      "display_name": "Flint",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Flint",
+      "group_slug": "11-flint",
+      "group_order": 11,
+      "item_order": 0,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/11-flint/res_flint-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "3ba8f6279af93b5586ffef6168aa11b1ba66f08444fae56c1fb7afb157892068"
+      },
+      "preview": {
+        "path": "art/icons/resources/11-flint/res_flint-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "22f5da5fd8e953b76c4b2ac3aeb2c2a22c4d8b7f518fb1e91ab5e91601b25a99"
+      }
+    },
+    {
+      "id": "RES_BLACK_FLINT",
+      "name": "black flint",
+      "display_name": "Black Flint",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Flint",
+      "group_slug": "11-flint",
+      "group_order": 11,
+      "item_order": 1,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/11-flint/res_black_flint-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "64561f20adc3f6097e145c830c53fc47a383e5c3b77a4e73c9571630b0e97504"
+      },
+      "preview": {
+        "path": "art/icons/resources/11-flint/res_black_flint-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "df123653ca98b920c7ad5c640fd51d01ac0bd064db9269f029423299f2518ea5"
+      }
+    },
+    {
+      "id": "RES_HONEY_FLINT",
+      "name": "honey flint",
+      "display_name": "Honey Flint",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Flint",
+      "group_slug": "11-flint",
+      "group_order": 11,
+      "item_order": 2,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/11-flint/res_honey_flint-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "f404b28851541c70ea6d0486b62896e18c27580707d741b8bce54f80376818af"
+      },
+      "preview": {
+        "path": "art/icons/resources/11-flint/res_honey_flint-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "46e0c3097d286bab78d52f3bd2e0e45f69930d6a1acfffe611015e1ce7a675ff"
+      }
+    },
+    {
+      "id": "RES_CHALK_FLINT",
+      "name": "chalk flint",
+      "display_name": "Chalk Flint",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Flint",
+      "group_slug": "11-flint",
+      "group_order": 11,
+      "item_order": 3,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/11-flint/res_chalk_flint-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "f5154fad4e433114d439ba700ca5618dc78fdad6274d6bb1909a8886cae42bfe"
+      },
+      "preview": {
+        "path": "art/icons/resources/11-flint/res_chalk_flint-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "ddd1494349388ea3b13088e3acf7ddaa082ba7d52cb7350de1b157e1e63d30e9"
+      }
+    },
+    {
+      "id": "RES_NOVACULITE",
+      "name": "novaculite",
+      "display_name": "Novaculite",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Flint",
+      "group_slug": "11-flint",
+      "group_order": 11,
+      "item_order": 4,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/11-flint/res_novaculite-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "8585e71000abe7628689afd4566c362a93fa847766387229563db89290413f9c"
+      },
+      "preview": {
+        "path": "art/icons/resources/11-flint/res_novaculite-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "0f8cc1a4fc0f986b0a85717409aafc8eac3cf3c635a2d856b0beb27955d2ea6e"
+      }
+    },
+    {
+      "id": "RES_EMBER_FLINT",
+      "name": "ember flint",
+      "display_name": "Ember Flint",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Flint",
+      "group_slug": "11-flint",
+      "group_order": 11,
+      "item_order": 5,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/11-flint/res_ember_flint-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "e7231f7d2c99db693890297ccaabcdf456c1f4c32af9e51d25c9613b2d58474d"
+      },
+      "preview": {
+        "path": "art/icons/resources/11-flint/res_ember_flint-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "6bca5944516af44a23602758eaebc1824efd497af713fcf28feb0eaa62310131"
+      }
+    },
+    {
+      "id": "RES_TIDE_FLINT",
+      "name": "tide flint",
+      "display_name": "Tide Flint",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Flint",
+      "group_slug": "11-flint",
+      "group_order": 11,
+      "item_order": 6,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/11-flint/res_tide_flint-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "21c6bf60fffcb32df70e7c6d8bba757b306fa16ed7bdfdc07abe8fb57e66a86a"
+      },
+      "preview": {
+        "path": "art/icons/resources/11-flint/res_tide_flint-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "27664ea4a1756f87d212edf84bfc30f03712c8994d093a94afa142556edd4246"
+      }
+    },
+    {
+      "id": "RES_CLAY",
+      "name": "clay",
+      "display_name": "Clay",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Clay",
+      "group_slug": "12-clay",
+      "group_order": 12,
+      "item_order": 0,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/12-clay/res_clay-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "231c784659703377f89ae6594a9425505abda23bc28370fd529a745f262bb627"
+      },
+      "preview": {
+        "path": "art/icons/resources/12-clay/res_clay-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "99d7e6f107dfa00f5043b5b291fdb3cc079ec295d94548522a57846d509f84e6"
+      }
+    },
+    {
+      "id": "RES_RED_CLAY",
+      "name": "red clay",
+      "display_name": "Red Clay",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Clay",
+      "group_slug": "12-clay",
+      "group_order": 12,
+      "item_order": 1,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/12-clay/res_red_clay-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "f0aee54bd584fc2ebece20797e8ef40edb0a552d9e10944342c431f89ba8ce8d"
+      },
+      "preview": {
+        "path": "art/icons/resources/12-clay/res_red_clay-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "835b7451c671b2891a399d0027f7a81f4394f78c374c89235c077cdb0d15ac6b"
+      }
+    },
+    {
+      "id": "RES_WHITE_CLAY",
+      "name": "white clay",
+      "display_name": "White Clay",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Clay",
+      "group_slug": "12-clay",
+      "group_order": 12,
+      "item_order": 2,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/12-clay/res_white_clay-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "51e186e17cb715bc1febf983f4e46a9501780089f701b212efda9cdf6e481fad"
+      },
+      "preview": {
+        "path": "art/icons/resources/12-clay/res_white_clay-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "22dc965df74dd59774678634b9ed50ec413314fccd65b87261b58212b95b58dd"
+      }
+    },
+    {
+      "id": "RES_FIRE_CLAY",
+      "name": "fire clay",
+      "display_name": "Fire Clay",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Clay",
+      "group_slug": "12-clay",
+      "group_order": 12,
+      "item_order": 3,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/12-clay/res_fire_clay-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "5a8d3ab091d21c9d2e701f62c13ec253a6c1725c9605aae4e3de370ea2ac22bf"
+      },
+      "preview": {
+        "path": "art/icons/resources/12-clay/res_fire_clay-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "7ac9c4b42cffdbaf11a227cdab4355f6a38e7e8d8c4d80142168540a822d8b3d"
+      }
+    },
+    {
+      "id": "RES_BALL_CLAY",
+      "name": "ball clay",
+      "display_name": "Ball Clay",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Clay",
+      "group_slug": "12-clay",
+      "group_order": 12,
+      "item_order": 4,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/12-clay/res_ball_clay-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "45ce0013af1e82cc972799845cb04f046ee8017cf69da845b510fafda3610296"
+      },
+      "preview": {
+        "path": "art/icons/resources/12-clay/res_ball_clay-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "f8d8b3b04a15fa48dec56e71553edef972f0a75c4e04ce7b22bf4e5523b47d45"
+      }
+    },
+    {
+      "id": "RES_STONEWARE_CLAY",
+      "name": "stoneware clay",
+      "display_name": "Stoneware Clay",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Clay",
+      "group_slug": "12-clay",
+      "group_order": 12,
+      "item_order": 5,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/12-clay/res_stoneware_clay-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "d898098adbd9c79acfc71aa53f8ff45aef1800c43c667837ae8483ccc863056f"
+      },
+      "preview": {
+        "path": "art/icons/resources/12-clay/res_stoneware_clay-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "8933964b1bd3087c72248b644a087c61e88712d980c44620c5cd410e3f7302fa"
+      }
+    },
+    {
+      "id": "RES_BENTONITE",
+      "name": "bentonite",
+      "display_name": "Bentonite",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Clay",
+      "group_slug": "12-clay",
+      "group_order": 12,
+      "item_order": 6,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/12-clay/res_bentonite-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "ac552386ce9d45880476081e2264c33e95fe4acde1ceb5b44b2d34817ae7dc42"
+      },
+      "preview": {
+        "path": "art/icons/resources/12-clay/res_bentonite-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "d643d005151312b38c4a6c2b86446bbb01f753d9f2a40a46cc9078878262bf75"
+      }
+    },
+    {
+      "id": "RES_SAND",
+      "name": "sand",
+      "display_name": "Sand",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Sand",
+      "group_slug": "13-sand",
+      "group_order": 13,
+      "item_order": 0,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/13-sand/res_sand-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "2f7f83e6c1e9b912a8af95141888c5310e4eaea03c90db2ff4aabce766b5b333"
+      },
+      "preview": {
+        "path": "art/icons/resources/13-sand/res_sand-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "1e3dc3c4c98b7559dc3aa965e1e6f20d99ea22d5f03d4403556aae03a34ec115"
+      }
+    },
+    {
+      "id": "RES_WHITE_SILICA_SAND",
+      "name": "white silica sand",
+      "display_name": "White Silica Sand",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Sand",
+      "group_slug": "13-sand",
+      "group_order": 13,
+      "item_order": 1,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/13-sand/res_white_silica_sand-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "6782ccd3bebd96cc10674a9cb5707592a320a22d276f0df5a467d725bdaab28c"
+      },
+      "preview": {
+        "path": "art/icons/resources/13-sand/res_white_silica_sand-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "a7a9631ae2e86060a9a78c866e4c3106b70a0ce0c54bc76604c9d603e5f4a491"
+      }
+    },
+    {
+      "id": "RES_IRON_SAND",
+      "name": "iron sand",
+      "display_name": "Iron Sand",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Sand",
+      "group_slug": "13-sand",
+      "group_order": 13,
+      "item_order": 2,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/13-sand/res_iron_sand-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "a48a06cf63e9505423948698fdf718a9924f459c4623bed5032d0a0d5213df32"
+      },
+      "preview": {
+        "path": "art/icons/resources/13-sand/res_iron_sand-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "9261a8917615b231a5ac76d2b559b5e103b39b167b70f44de5c1290901e25bfd"
+      }
+    },
+    {
+      "id": "RES_MANGANESE_SAND",
+      "name": "manganese sand",
+      "display_name": "Manganese Sand",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Sand",
+      "group_slug": "13-sand",
+      "group_order": 13,
+      "item_order": 3,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/13-sand/res_manganese_sand-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "7eae74d0a06d9ba2d8c7f68a2af4d8302e3e662b699b3984d06d96991643e3d3"
+      },
+      "preview": {
+        "path": "art/icons/resources/13-sand/res_manganese_sand-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "b4b20f11a7f5cdd87da590689d222f78934e3b1474e2e7b9cc33722a15017db2"
+      }
+    },
+    {
+      "id": "RES_COPPER_SAND",
+      "name": "copper sand",
+      "display_name": "Copper Sand",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Sand",
+      "group_slug": "13-sand",
+      "group_order": 13,
+      "item_order": 4,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/13-sand/res_copper_sand-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "327d6bcc3a8125e089df10fd43388393ed5e371e8dd5f3b888911a26b0354afe"
+      },
+      "preview": {
+        "path": "art/icons/resources/13-sand/res_copper_sand-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "b8ee0baead70fcbef991aaafc5f6679f74e5225e1bd197b5ae875b2463d5fffe"
+      }
+    },
+    {
+      "id": "RES_SULFUR_SAND",
+      "name": "sulfur sand",
+      "display_name": "Sulfur Sand",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Sand",
+      "group_slug": "13-sand",
+      "group_order": 13,
+      "item_order": 5,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/13-sand/res_sulfur_sand-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "bf857e0c3c9ef687e82cc922616e56f941a58563ab3acef170a26dcdbb7db940"
+      },
+      "preview": {
+        "path": "art/icons/resources/13-sand/res_sulfur_sand-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "3f9d733e2d34322b4947e243096f59ebef4513f7cc13ca6b753cb7e54df6f158"
+      }
+    },
+    {
+      "id": "RES_VOLCANIC_SAND",
+      "name": "volcanic sand",
+      "display_name": "Volcanic Sand",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Sand",
+      "group_slug": "13-sand",
+      "group_order": 13,
+      "item_order": 6,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/13-sand/res_volcanic_sand-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "2e75dac2e5ce7279dabb6e30da48e3f41b3285fe8275e41c91c506288bb0e1f1"
+      },
+      "preview": {
+        "path": "art/icons/resources/13-sand/res_volcanic_sand-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "077ef2b87c5ac7f274402ff90476b11ff87cb33ec2dac526c76d936a5fd6ed12"
+      }
+    },
+    {
+      "id": "RES_COAL",
+      "name": "coal",
+      "display_name": "Coal",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Coal",
+      "group_slug": "14-coal",
+      "group_order": 14,
+      "item_order": 0,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/14-coal/res_coal-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "c9f928e7cc9f844eea72cfd1e02d65dc0fcbc2d0b4880b81972df489e1d2556f"
+      },
+      "preview": {
+        "path": "art/icons/resources/14-coal/res_coal-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "ad08fbe7cf6abd41b2d0d8a60ac32bde7b542a2a984019964f9cdc88a9908c60"
+      }
+    },
+    {
+      "id": "RES_PEAT",
+      "name": "peat",
+      "display_name": "Peat",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Coal",
+      "group_slug": "14-coal",
+      "group_order": 14,
+      "item_order": 1,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/14-coal/res_peat-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "c0aaf8084f919018962664bee85c5605ced7f8fffdf2fcbe48abfaa997be7261"
+      },
+      "preview": {
+        "path": "art/icons/resources/14-coal/res_peat-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "daf20126d9b55f6ae2c5640d063d7b30a6278b107c4c98ec502677359de79add"
+      }
+    },
+    {
+      "id": "RES_BROWN_LIGNITE",
+      "name": "brown lignite",
+      "display_name": "Brown Lignite",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Coal",
+      "group_slug": "14-coal",
+      "group_order": 14,
+      "item_order": 2,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/14-coal/res_brown_lignite-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "6dceadcbf547ae25fc7d2f30a9831542547d98e06ffd1e615bf23b31abf98420"
+      },
+      "preview": {
+        "path": "art/icons/resources/14-coal/res_brown_lignite-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "a0320e6cd03e7d1040676fa7d4fdbe093cac0d48e283b9d9e038e1038def2eed"
+      }
+    },
+    {
+      "id": "RES_BLACK_LIGNITE",
+      "name": "black lignite",
+      "display_name": "Black Lignite",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Coal",
+      "group_slug": "14-coal",
+      "group_order": 14,
+      "item_order": 3,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/14-coal/res_black_lignite-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "76f14086bfd073f47f3588f1138e3fdd96c04c8cd5e40658b8a2e59854c9e225"
+      },
+      "preview": {
+        "path": "art/icons/resources/14-coal/res_black_lignite-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "1a7a413bd83adee3f94518c1b439df913afcd40d52c2284f0a4b3590ab07b3ca"
+      }
+    },
+    {
+      "id": "RES_SOFT_COAL",
+      "name": "soft coal",
+      "display_name": "Soft Coal",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Coal",
+      "group_slug": "14-coal",
+      "group_order": 14,
+      "item_order": 4,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/14-coal/res_soft_coal-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "5e01c8766e000ffc9bbb180d693384b2959c5f448f8e699d34635299ba404691"
+      },
+      "preview": {
+        "path": "art/icons/resources/14-coal/res_soft_coal-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "e2e5c57ca7ddd690bc4470e14087e4f6cfd2332abebb41678b044a4abdd474b7"
+      }
+    },
+    {
+      "id": "RES_ANTHRACITE",
+      "name": "anthracite",
+      "display_name": "Anthracite",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Coal",
+      "group_slug": "14-coal",
+      "group_order": 14,
+      "item_order": 5,
+      "version": "v003",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/14-coal/res_anthracite-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "b524d4045d78d7fbb5be63fe187dd0df5f20bd408e72c6af0628cc4756c46f76"
+      },
+      "preview": {
+        "path": "art/icons/resources/14-coal/res_anthracite-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "9c69527abd3b32ad689734f60a366ad0a888de963d95c29c9b2a058e30d2fe32"
+      }
+    },
+    {
+      "id": "RES_CHARCOAL",
+      "name": "charcoal",
+      "display_name": "Charcoal",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Coal",
+      "group_slug": "14-coal",
+      "group_order": 14,
+      "item_order": 6,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/14-coal/res_charcoal-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "6fdb9a81da484d147a91ec14b5d9123b313dfde79e7495e54e7a9ccedc39c8a5"
+      },
+      "preview": {
+        "path": "art/icons/resources/14-coal/res_charcoal-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "b7ed2096426b5f3e3023412e3f25065f3947910ab3b7b0f911fcfc431d974c93"
+      }
+    },
+    {
+      "id": "RES_METAL",
+      "name": "metal",
+      "display_name": "Metal",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Metal",
+      "group_slug": "15-metal",
+      "group_order": 15,
+      "item_order": 0,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/15-metal/res_metal-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "eba3323f3d6762c1d6bbdc4c9423d817d8a5b605517ef282b00956017aa50dda"
+      },
+      "preview": {
+        "path": "art/icons/resources/15-metal/res_metal-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "82b7a2e5ba97590d9bf4e098eb5640e0b4b64a2b2e459d271cf60bab4e24d32c"
+      }
+    },
+    {
+      "id": "RES_IRON",
+      "name": "iron",
+      "display_name": "Iron",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Metal",
+      "group_slug": "15-metal",
+      "group_order": 15,
+      "item_order": 1,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/15-metal/res_iron-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "c00c0dbc839ae00c9532923a259dd14352826acb8df9fc75c93e0150d2704de2"
+      },
+      "preview": {
+        "path": "art/icons/resources/15-metal/res_iron-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "8b5a6f89ee882beb5755206007545723baf9ebd508bccef62149f25b3ef94b41"
+      }
+    },
+    {
+      "id": "RES_COPPER",
+      "name": "copper",
+      "display_name": "Copper",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Metal",
+      "group_slug": "15-metal",
+      "group_order": 15,
+      "item_order": 2,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/15-metal/res_copper-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "3cb8196b0adb5cabf32129c90d7955dc3fefa860a7f0b62005cbe131649053cf"
+      },
+      "preview": {
+        "path": "art/icons/resources/15-metal/res_copper-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "5e72738fba788ff74c21010118ff95211d7b47642070cdaaec67c3d9554e3f36"
+      }
+    },
+    {
+      "id": "RES_TIN",
+      "name": "tin",
+      "display_name": "Tin",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Metal",
+      "group_slug": "15-metal",
+      "group_order": 15,
+      "item_order": 3,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/15-metal/res_tin-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "eae477e54dca0796bee61bdf109d448e68212d453a81bb4b83974da40c48f846"
+      },
+      "preview": {
+        "path": "art/icons/resources/15-metal/res_tin-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "6d48317051b55c693334966368f31fa731660c3b5e883010f99fecac313a2ecc"
+      }
+    },
+    {
+      "id": "RES_LEAD",
+      "name": "lead",
+      "display_name": "Lead",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Metal",
+      "group_slug": "15-metal",
+      "group_order": 15,
+      "item_order": 4,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/15-metal/res_lead-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "1f0f3292ffc34cbb44f2346de54547f3e60b921ef7f22655ed6a78edf0b2c144"
+      },
+      "preview": {
+        "path": "art/icons/resources/15-metal/res_lead-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "e52bc45d1f5f4b319c32f58f9a17e46b56103ec96723c822bd97124de121aad9"
+      }
+    },
+    {
+      "id": "RES_ZINC",
+      "name": "zinc",
+      "display_name": "Zinc",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Metal",
+      "group_slug": "15-metal",
+      "group_order": 15,
+      "item_order": 5,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/15-metal/res_zinc-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "a745198901e5fbab3f030f931157cfe7b931793193a09b7f23289341c3010d4c"
+      },
+      "preview": {
+        "path": "art/icons/resources/15-metal/res_zinc-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "eebfb62f6c9d8f80adeab950cf1156ee4539be26353f70a019b5215fb53bf66f"
+      }
+    },
+    {
+      "id": "RES_SILVER",
+      "name": "silver",
+      "display_name": "Silver",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Metal",
+      "group_slug": "15-metal",
+      "group_order": 15,
+      "item_order": 6,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/15-metal/res_silver-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "fb556a214b5b75d7347b535c1f340033590f1f026f603adf00e1f31215e3dceb"
+      },
+      "preview": {
+        "path": "art/icons/resources/15-metal/res_silver-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "d1e2724e7295fdfa6dbccb46fcb07739ac02ce9f2211ffbb2788a55c0805b244"
+      }
+    },
+    {
+      "id": "RES_SULFUR",
+      "name": "sulfur",
+      "display_name": "Sulfur",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Sulfur",
+      "group_slug": "16-sulfur",
+      "group_order": 16,
+      "item_order": 0,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/16-sulfur/res_sulfur-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "f90f973faf34aa6e70e42558e9938871eee709bd8ec7bdfa100753bd51c6d96f"
+      },
+      "preview": {
+        "path": "art/icons/resources/16-sulfur/res_sulfur-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "e76d6bbf7d59898688f1b9fb040123bf2072eb8c53bdccb1964a6511957e80f8"
+      }
+    },
+    {
+      "id": "RES_SULFUR_VIVUM",
+      "name": "sulfur vivum",
+      "display_name": "Sulfur Vivum",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Sulfur",
+      "group_slug": "16-sulfur",
+      "group_order": 16,
+      "item_order": 1,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/16-sulfur/res_sulfur_vivum-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "fdf2381a8d4cd8fc952f588e34881e99563f83153cb3519a5eee4b70e20f7e3c"
+      },
+      "preview": {
+        "path": "art/icons/resources/16-sulfur/res_sulfur_vivum-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "570d6313922305a57be4e977171fb844a9752a4c2783c5ae8d3780a055dd7abb"
+      }
+    },
+    {
+      "id": "RES_ROCK_BRIMSTONE",
+      "name": "rock brimstone",
+      "display_name": "Rock Brimstone",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Sulfur",
+      "group_slug": "16-sulfur",
+      "group_order": 16,
+      "item_order": 2,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/16-sulfur/res_rock_brimstone-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "bb52cefe8d95a4db17f9165709da4e376f580cc799efcbe032a2a7d3c98e8264"
+      },
+      "preview": {
+        "path": "art/icons/resources/16-sulfur/res_rock_brimstone-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "cba6eb82e5f693d9a53f36adde91d5e5f3c4e354dcbeb9f41cd5e951730dcb93"
+      }
+    },
+    {
+      "id": "RES_FUMAROLE_CRUST",
+      "name": "fumarole crust",
+      "display_name": "Fumarole Crust",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Sulfur",
+      "group_slug": "16-sulfur",
+      "group_order": 16,
+      "item_order": 3,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/16-sulfur/res_fumarole_crust-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "910666714721f996ef1e352d018773705f5195520dfe754e018f29cf38c5cd37"
+      },
+      "preview": {
+        "path": "art/icons/resources/16-sulfur/res_fumarole_crust-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "1ed52ac65007781d1b9f841fddd2e1cd83f3c8a47d407c2cd74f50603461a426"
+      }
+    },
+    {
+      "id": "RES_SULFUR_ORE",
+      "name": "sulfur ore",
+      "display_name": "Sulfur Ore",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Sulfur",
+      "group_slug": "16-sulfur",
+      "group_order": 16,
+      "item_order": 4,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/16-sulfur/res_sulfur_ore-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "fa07b0319a7ff49ebc0a6e382fccb7e66584b76fe555bf2152c3e9b2ca777eb9"
+      },
+      "preview": {
+        "path": "art/icons/resources/16-sulfur/res_sulfur_ore-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "3eb35d41c431a7b96f499432765a24726790ebb64a9446a70d4a596b02efe3a7"
+      }
+    },
+    {
+      "id": "RES_BLACK_SULFUR_CABALLINUM",
+      "name": "black sulfur (caballinum)",
+      "display_name": "Black Sulfur (Caballinum)",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Sulfur",
+      "group_slug": "16-sulfur",
+      "group_order": 16,
+      "item_order": 5,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/16-sulfur/res_black_sulfur_caballinum-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "6c9bcd1abfbafc13e49a0e9d3e2e09cb1847abc61acd5bb3c77fa52492ef8bc9"
+      },
+      "preview": {
+        "path": "art/icons/resources/16-sulfur/res_black_sulfur_caballinum-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "5e807b55049a6a742589f10b4e174645d15aeb47be3d95a1670a7dc9cccf06aa"
+      }
+    },
+    {
+      "id": "RES_FLOWERS_OF_SULFUR",
+      "name": "flowers of sulfur",
+      "display_name": "Flowers Of Sulfur",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Sulfur",
+      "group_slug": "16-sulfur",
+      "group_order": 16,
+      "item_order": 6,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/16-sulfur/res_flowers_of_sulfur-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "49be6f06a9334a7c9f47f08d5141d51a68114371071deb13c4b046d51fd406ef"
+      },
+      "preview": {
+        "path": "art/icons/resources/16-sulfur/res_flowers_of_sulfur-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "f61247b77064d862925a7d734bc0eac1b942318b70ae2a061b4c8b9431fd948f"
+      }
+    },
+    {
+      "id": "RES_CRYSTAL",
+      "name": "crystal",
+      "display_name": "Crystal",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crystal",
+      "group_slug": "17-crystal",
+      "group_order": 17,
+      "item_order": 0,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/17-crystal/res_crystal-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "33215bc9e4e84f182685e8044ab9b6a1128c0adbbe2d8a40f7fd028b87d48195"
+      },
+      "preview": {
+        "path": "art/icons/resources/17-crystal/res_crystal-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "60f2216930ebdb975dd700ad4669552c95aa11314a448e7489b8ca9b8fce018c"
+      }
+    },
+    {
+      "id": "RES_QUARTZ",
+      "name": "quartz",
+      "display_name": "Quartz",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crystal",
+      "group_slug": "17-crystal",
+      "group_order": 17,
+      "item_order": 1,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/17-crystal/res_quartz-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "5f08d9cb4610cded60b01d74d212cd0153e5d2457b86815f0fbd022d249c5c08"
+      },
+      "preview": {
+        "path": "art/icons/resources/17-crystal/res_quartz-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "8703e6b4cdc68c0663b77bd7de3b8a2dc4d747b45760c49de2bc22d90913eebb"
+      }
+    },
+    {
+      "id": "RES_SELENITE",
+      "name": "selenite",
+      "display_name": "Selenite",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crystal",
+      "group_slug": "17-crystal",
+      "group_order": 17,
+      "item_order": 2,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/17-crystal/res_selenite-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "c3bdbdb23336183487a37befc23c91e308940f1b124f8a08be1b749ffe37f89a"
+      },
+      "preview": {
+        "path": "art/icons/resources/17-crystal/res_selenite-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "c45eea24013c378c04311faeb33171c90be5276f8f4620913d957a07cc8db94b"
+      }
+    },
+    {
+      "id": "RES_FLUORITE",
+      "name": "fluorite",
+      "display_name": "Fluorite",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crystal",
+      "group_slug": "17-crystal",
+      "group_order": 17,
+      "item_order": 3,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/17-crystal/res_fluorite-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "826658298dbef460b1a83bae553705d81b414cc2e96d43615815f90ba86644c4"
+      },
+      "preview": {
+        "path": "art/icons/resources/17-crystal/res_fluorite-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "8b3474f23f969ef07c6820f1c6fe40e0628394f34a629441758cf4dacae82e09"
+      }
+    },
+    {
+      "id": "RES_CALCITE",
+      "name": "calcite",
+      "display_name": "Calcite",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crystal",
+      "group_slug": "17-crystal",
+      "group_order": 17,
+      "item_order": 4,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/17-crystal/res_calcite-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "ce92d54f7c382b4b516d95604f1d20214c13cb295666e3f841e9199f8550bd5e"
+      },
+      "preview": {
+        "path": "art/icons/resources/17-crystal/res_calcite-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "9f97dd06d6d6873db3197074a118c1cbbe0f13ffc98a376fc5d98126768fdf2c"
+      }
+    },
+    {
+      "id": "RES_CELESTITE",
+      "name": "celestite",
+      "display_name": "Celestite",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crystal",
+      "group_slug": "17-crystal",
+      "group_order": 17,
+      "item_order": 5,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/17-crystal/res_celestite-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "4304362ed24ec71c0095d9f7b7143f756557cbd6e84fa4c548e9620054d95f9d"
+      },
+      "preview": {
+        "path": "art/icons/resources/17-crystal/res_celestite-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "e687bf2632e3144b9eee6984dc5f8c94676467965263e5070bf8c2de08344d71"
+      }
+    },
+    {
+      "id": "RES_KYANITE",
+      "name": "kyanite",
+      "display_name": "Kyanite",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crystal",
+      "group_slug": "17-crystal",
+      "group_order": 17,
+      "item_order": 6,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/17-crystal/res_kyanite-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "f153107decc903e7a10e77b1eba78b4a9d32bb15dfde3275d2ed56db892a789d"
+      },
+      "preview": {
+        "path": "art/icons/resources/17-crystal/res_kyanite-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "8d2b365617c7221ec96101dcaabbd02e1dbc26090894ff0652d285b27b6ff133"
+      }
+    },
+    {
+      "id": "RES_GEM",
+      "name": "gem",
+      "display_name": "Gem",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Gem",
+      "group_slug": "18-gem",
+      "group_order": 18,
+      "item_order": 0,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/18-gem/res_gem-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "7ab7408e3be4217a676c83365373acd698d12d06d21f3ece41998245a1db92af"
+      },
+      "preview": {
+        "path": "art/icons/resources/18-gem/res_gem-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "1cd005548318016a7c4ef00420a7390a389a386619a4d9018a556ca0e39f46e8"
+      }
+    },
+    {
+      "id": "RES_AMETHYST",
+      "name": "amethyst",
+      "display_name": "Amethyst",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Gem",
+      "group_slug": "18-gem",
+      "group_order": 18,
+      "item_order": 1,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/18-gem/res_amethyst-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "10f7bb1f5ade6100200a21990839b101ada58437e72797ce1bea0464b8084c52"
+      },
+      "preview": {
+        "path": "art/icons/resources/18-gem/res_amethyst-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "afa011ece2f3f26cd9070b11bc3e2912d9e223860857fde38a5a772b814879ce"
+      }
+    },
+    {
+      "id": "RES_AQUAMARINE",
+      "name": "aquamarine",
+      "display_name": "Aquamarine",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Gem",
+      "group_slug": "18-gem",
+      "group_order": 18,
+      "item_order": 2,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/18-gem/res_aquamarine-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "e1e01afb8d84804b183a06a587085f98ef48a8262d9656eaf91dfd3deb84e614"
+      },
+      "preview": {
+        "path": "art/icons/resources/18-gem/res_aquamarine-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "db0371408fb44470d7fca11e463af1396a937d2c7aa11eeea27056ebb32eb5fa"
+      }
+    },
+    {
+      "id": "RES_CITRINE",
+      "name": "citrine",
+      "display_name": "Citrine",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Gem",
+      "group_slug": "18-gem",
+      "group_order": 18,
+      "item_order": 3,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/18-gem/res_citrine-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "36d83614dbd23743ddf909f003061f6c8bdcbc14a103433d7c35e6ff7e10efe8"
+      },
+      "preview": {
+        "path": "art/icons/resources/18-gem/res_citrine-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "7392f08b91e5943365f6be74a72ffb0c280bb697bd2691061dfabd80c7138b94"
+      }
+    },
+    {
+      "id": "RES_PERIDOT",
+      "name": "peridot",
+      "display_name": "Peridot",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Gem",
+      "group_slug": "18-gem",
+      "group_order": 18,
+      "item_order": 4,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/18-gem/res_peridot-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "303b910a697016ac64b2d88742e7ad8b2db3a54c1789d29e9b3417d8bb0eb485"
+      },
+      "preview": {
+        "path": "art/icons/resources/18-gem/res_peridot-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "6ec7818163fa20651dedcec4efa4a613d7feb13860d25bdd529dc88110b0a7f7"
+      }
+    },
+    {
+      "id": "RES_MOONSTONE",
+      "name": "moonstone",
+      "display_name": "Moonstone",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Gem",
+      "group_slug": "18-gem",
+      "group_order": 18,
+      "item_order": 5,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/18-gem/res_moonstone-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "f7f6e7da7a68c87aa1796f148909c1535855054dd93a3706bae0bc71c1b5cba7"
+      },
+      "preview": {
+        "path": "art/icons/resources/18-gem/res_moonstone-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "ef03e70386a106b60b14bc9878e3f074d0d8c5416848c8cfec6f20dbefb967a3"
+      }
+    },
+    {
+      "id": "RES_BLACK_PEARL",
+      "name": "black pearl",
+      "display_name": "Black Pearl",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Gem",
+      "group_slug": "18-gem",
+      "group_order": 18,
+      "item_order": 6,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/18-gem/res_black_pearl-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "80e522deba48da427fbc41bda805bafe311578314d82870e43ce5b7395a68b76"
+      },
+      "preview": {
+        "path": "art/icons/resources/18-gem/res_black_pearl-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "5c9569c31bcbd7b5cc1cd39510d341f5a0e686e7a28280081d5dff51c6bf87c1"
+      }
+    },
+    {
+      "id": "RES_SWEETENERS",
+      "name": "sweeteners",
+      "display_name": "Sweeteners",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Sweeteners",
+      "group_slug": "19-sweeteners",
+      "group_order": 19,
+      "item_order": 0,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/19-sweeteners/res_sweeteners-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "524dbdf1e98a7c27bee05f3b51cbafa164e61ab962184ed86a5954752bd45991"
+      },
+      "preview": {
+        "path": "art/icons/resources/19-sweeteners/res_sweeteners-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "e2568f056ad35b771885e98318069994e1a9fb5ad3b7457e719c2edcbffce89d"
+      }
+    },
+    {
+      "id": "RES_HONEY",
+      "name": "honey",
+      "display_name": "Honey",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Sweeteners",
+      "group_slug": "19-sweeteners",
+      "group_order": 19,
+      "item_order": 1,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/19-sweeteners/res_honey-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "96d7227ffdb2c5ef7905cd523a2cc653df1578f963115d76b3e51a542e1435c6"
+      },
+      "preview": {
+        "path": "art/icons/resources/19-sweeteners/res_honey-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "e1207ff40418158a2abf5e8309364d944e3cdcbb1c190efa1f9e8fe74a13729f"
+      }
+    },
+    {
+      "id": "RES_SUGARCANE",
+      "name": "sugarcane",
+      "display_name": "Sugarcane",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Sweeteners",
+      "group_slug": "19-sweeteners",
+      "group_order": 19,
+      "item_order": 2,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/19-sweeteners/res_sugarcane-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "c0c17e41deffaab40ab08641cb906b7f7d1d16472c37700bf831720eb1f45846"
+      },
+      "preview": {
+        "path": "art/icons/resources/19-sweeteners/res_sugarcane-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "06457a94f11a81724a140171ed8d5db41305218148ad07723714ebbc00f0cce1"
+      }
+    },
+    {
+      "id": "RES_PALM_SUGAR",
+      "name": "palm sugar",
+      "display_name": "Palm Sugar",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Sweeteners",
+      "group_slug": "19-sweeteners",
+      "group_order": 19,
+      "item_order": 3,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/19-sweeteners/res_palm_sugar-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "40332b7db549d1a5f28b363d94d914f4980c707d95cab872046e9621eb813a09"
+      },
+      "preview": {
+        "path": "art/icons/resources/19-sweeteners/res_palm_sugar-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "2694c128a64cf993a141d6600628214aa6d33201318a4b9b49fbf77ee1fd8342"
+      }
+    },
+    {
+      "id": "RES_MAPLE_SYRUP",
+      "name": "maple syrup",
+      "display_name": "Maple Syrup",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Sweeteners",
+      "group_slug": "19-sweeteners",
+      "group_order": 19,
+      "item_order": 4,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/19-sweeteners/res_maple_syrup-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "b9cb5d93bbecedb9426a39654d5ea5a954f5b0850fcb85852d6b21f6a6cddb7b"
+      },
+      "preview": {
+        "path": "art/icons/resources/19-sweeteners/res_maple_syrup-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "ba8ce0e7267b2e7ffd42e2395ca7298fcb5df59f1a28811b098237c88391a289"
+      }
+    },
+    {
+      "id": "RES_DATE_SYRUP",
+      "name": "date syrup",
+      "display_name": "Date Syrup",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Sweeteners",
+      "group_slug": "19-sweeteners",
+      "group_order": 19,
+      "item_order": 5,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/19-sweeteners/res_date_syrup-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "7c01cc01f5bb036ff1e9d4077367f3a4881d64acfbcef13bc17072038ee040e5"
+      },
+      "preview": {
+        "path": "art/icons/resources/19-sweeteners/res_date_syrup-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "bb93c67daf0ab7b5a31d38190e3b18e21d1da65bae39d5e9fb2c0fda966b1213"
+      }
+    },
+    {
+      "id": "RES_GRAPE_SYRUP",
+      "name": "grape syrup",
+      "display_name": "Grape Syrup",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Sweeteners",
+      "group_slug": "19-sweeteners",
+      "group_order": 19,
+      "item_order": 6,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/19-sweeteners/res_grape_syrup-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "b74d3b18dcaef50f93ae812cb76ab77a106fda9decae9df4d8a9c8a99ae4b476"
+      },
+      "preview": {
+        "path": "art/icons/resources/19-sweeteners/res_grape_syrup-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "d2e48f29fdda708f02c071f02c17d016d63c039fed3bca6bbc3ad7d64c5252df"
+      }
+    },
+    {
+      "id": "RES_SALT",
+      "name": "salt",
+      "display_name": "Salt",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Salt",
+      "group_slug": "20-salt",
+      "group_order": 20,
+      "item_order": 0,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/20-salt/res_salt-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "ae6909767bb64df7af2ad739cb33aede9c7f50458ebdd2534fad3e175505a377"
+      },
+      "preview": {
+        "path": "art/icons/resources/20-salt/res_salt-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "52cf8c84e03874750666d8a2cc4ad72f9550a7ac7f8392e1d27739822aa24f1f"
+      }
+    },
+    {
+      "id": "RES_PINK_SALT",
+      "name": "pink salt",
+      "display_name": "Pink Salt",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Salt",
+      "group_slug": "20-salt",
+      "group_order": 20,
+      "item_order": 1,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/20-salt/res_pink_salt-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "5432e180e333a17d68746cd452a517c56a0ca507464250b4d736939220ea3d06"
+      },
+      "preview": {
+        "path": "art/icons/resources/20-salt/res_pink_salt-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "f3dbb3e6c4e884d49b841ed930fbb083d73fb355ad5b74208a7aec290e631fe4"
+      }
+    },
+    {
+      "id": "RES_FLAKE_SALT",
+      "name": "flake salt",
+      "display_name": "Flake Salt",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Salt",
+      "group_slug": "20-salt",
+      "group_order": 20,
+      "item_order": 2,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/20-salt/res_flake_salt-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "549577c9f0569c7c482c7ee748025bc830d44f6ab60c2a43b6b9a333154bd51a"
+      },
+      "preview": {
+        "path": "art/icons/resources/20-salt/res_flake_salt-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "60368719f47e6cb890034a674f4cdf523a818e9e3396202452a3e9d4440850fc"
+      }
+    },
+    {
+      "id": "RES_SEA_SALT",
+      "name": "sea salt",
+      "display_name": "Sea Salt",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Salt",
+      "group_slug": "20-salt",
+      "group_order": 20,
+      "item_order": 3,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/20-salt/res_sea_salt-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "4cbaf15c448686606725ffd5e47efd3c6077d0b9faee59881c7d5682b3b701b6"
+      },
+      "preview": {
+        "path": "art/icons/resources/20-salt/res_sea_salt-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "5c6064b96b2b5b419428baca4e965d62587b3c9976cb842c67c6daf1ddd4b692"
+      }
+    },
+    {
+      "id": "RES_IODINE",
+      "name": "iodine",
+      "display_name": "Iodine",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Salt",
+      "group_slug": "20-salt",
+      "group_order": 20,
+      "item_order": 4,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/20-salt/res_iodine-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "142cab9fcad1db7ac7168e91610c72d828cbfcaff742e4629de6d91a851deba9"
+      },
+      "preview": {
+        "path": "art/icons/resources/20-salt/res_iodine-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "59ca508092f24edfe7ebff387a84325809c294afd8814d1b6ea95c32f614f536"
+      }
+    },
+    {
+      "id": "RES_ROCK_SALT",
+      "name": "rock salt",
+      "display_name": "Rock Salt",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Salt",
+      "group_slug": "20-salt",
+      "group_order": 20,
+      "item_order": 5,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/20-salt/res_rock_salt-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "2e97971c30c115a009e81549742c6fe410ac7e928ebb72b3b0a1dfd5dd17342a"
+      },
+      "preview": {
+        "path": "art/icons/resources/20-salt/res_rock_salt-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "db022defd580de0c3bd552c7141d16e1cad5a5f18160c0e4f5887b528ff75e5a"
+      }
+    },
+    {
+      "id": "RES_KALA_NAMAK",
+      "name": "kala namak",
+      "display_name": "Kala Namak",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Salt",
+      "group_slug": "20-salt",
+      "group_order": 20,
+      "item_order": 6,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/20-salt/res_kala_namak-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "898071da1a7e3235ac574f48e82adf60350045f6508264b06eafbe41f021bfbd"
+      },
+      "preview": {
+        "path": "art/icons/resources/20-salt/res_kala_namak-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "007f328b41c5f0dfb1b9f5feff03eb49daf25b65d86d69eb47897bbbf9463a9e"
+      }
+    },
+    {
+      "id": "RES_FERTILIZER",
+      "name": "fertilizer",
+      "display_name": "Fertilizer",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Fertilizer",
+      "group_slug": "21-fertilizer",
+      "group_order": 21,
+      "item_order": 0,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/21-fertilizer/res_fertilizer-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "6c273a2d217c66795353fc36481ae15123e4c1d7f1b7796d689ef69a9432c84b"
+      },
+      "preview": {
+        "path": "art/icons/resources/21-fertilizer/res_fertilizer-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "a7c53721c38f2c004ac206c9c66eb1f15bc37e503e8c40aa063ac8611cc7667b"
+      }
+    },
+    {
+      "id": "RES_FOWL_MANURE",
+      "name": "fowl manure",
+      "display_name": "Fowl Manure",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Fertilizer",
+      "group_slug": "21-fertilizer",
+      "group_order": 21,
+      "item_order": 1,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/21-fertilizer/res_fowl_manure-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "eb21a8d629de6caa1e9027538e40e56949491edba52b0e555dc5432d0349e40b"
+      },
+      "preview": {
+        "path": "art/icons/resources/21-fertilizer/res_fowl_manure-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "6f18c2babfc28e8fb9bdb3979f9d3aa1e8800cb63ef26b130eab39171c23353a"
+      }
+    },
+    {
+      "id": "RES_CATTLE_MANURE",
+      "name": "cattle manure",
+      "display_name": "Cattle Manure",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Fertilizer",
+      "group_slug": "21-fertilizer",
+      "group_order": 21,
+      "item_order": 2,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/21-fertilizer/res_cattle_manure-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "a737da02695359ca85e1dd7b5bf43632f837ace55369d43116aee5f8925e786e"
+      },
+      "preview": {
+        "path": "art/icons/resources/21-fertilizer/res_cattle_manure-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "fc50843f1952808bb140ef65c9df3b1ecaedd1afd5d52c9354ecd4a41dc9512b"
+      }
+    },
+    {
+      "id": "RES_HORSE_MANURE",
+      "name": "horse manure",
+      "display_name": "Horse Manure",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Fertilizer",
+      "group_slug": "21-fertilizer",
+      "group_order": 21,
+      "item_order": 3,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/21-fertilizer/res_horse_manure-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "92982dc2d4f60ab0ea894740a43dd4b3097434f2a476a076376beb8cc86f9d7b"
+      },
+      "preview": {
+        "path": "art/icons/resources/21-fertilizer/res_horse_manure-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "4a5dd2f1bac03b376e42125bff5a125e6afb6fa3ae9ba9587d3f9307cc18f712"
+      }
+    },
+    {
+      "id": "RES_SWINE_MANURE",
+      "name": "swine manure",
+      "display_name": "Swine Manure",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Fertilizer",
+      "group_slug": "21-fertilizer",
+      "group_order": 21,
+      "item_order": 4,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/21-fertilizer/res_swine_manure-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "7d3ef530f159f253b3aa04b968ba63eee978fdf05c4d136598919ba558db9868"
+      },
+      "preview": {
+        "path": "art/icons/resources/21-fertilizer/res_swine_manure-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "ce6255cb7edc7eff9da5b56078450520e4dc1d02b0ddb17b647f5aa16222d7df"
+      }
+    },
+    {
+      "id": "RES_BAT_GUANO",
+      "name": "bat guano",
+      "display_name": "Bat Guano",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Fertilizer",
+      "group_slug": "21-fertilizer",
+      "group_order": 21,
+      "item_order": 5,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/21-fertilizer/res_bat_guano-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "0b5c4e59950670b8fb592df5b9626545b9eeeafc74dd260a90a96e2c8b2204cc"
+      },
+      "preview": {
+        "path": "art/icons/resources/21-fertilizer/res_bat_guano-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "95be097123aa1ccfa6e33b1c2a61b0abed3f24d7dc8f721f1bc6c125c39f4a62"
+      }
+    },
+    {
+      "id": "RES_SEABIRD_GUANO",
+      "name": "seabird guano",
+      "display_name": "Seabird Guano",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Fertilizer",
+      "group_slug": "21-fertilizer",
+      "group_order": 21,
+      "item_order": 6,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/21-fertilizer/res_seabird_guano-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "20bad52307c5b70a464e004fa0cad852e412c4fc32727aa8ec3888f8331c39d1"
+      },
+      "preview": {
+        "path": "art/icons/resources/21-fertilizer/res_seabird_guano-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "6d1da6f707a45f3c6f151c8f7c151b28349408e1a782b868c6c6f5c4004a6dc1"
+      }
+    },
+    {
+      "id": "RES_SHARDS",
+      "name": "shards",
+      "display_name": "Shards",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Shards",
+      "group_slug": "22-shards",
+      "group_order": 22,
+      "item_order": 0,
+      "version": "v003",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/22-shards/res_shards-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "60817ee5c69cb246ead966c646187a94de85c0164a69505891461269216f9f10"
+      },
+      "preview": {
+        "path": "art/icons/resources/22-shards/res_shards-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "4bbcd0f53d61517cc1914d659f3d8e040cbaf0d2a87c7d2d4305bd3c27d13202"
+      }
+    },
+    {
+      "id": "RES_GLASS_SHARDS",
+      "name": "glass shards",
+      "display_name": "Glass Shards",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Shards",
+      "group_slug": "22-shards",
+      "group_order": 22,
+      "item_order": 1,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/22-shards/res_glass_shards-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "3b2b8c7e91b44ea3eaccc9c07f9b1f2a94648601eaefee56b545e7eb7cf40be0"
+      },
+      "preview": {
+        "path": "art/icons/resources/22-shards/res_glass_shards-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "72b689a96490fa55b6433f116bd14553bc07af9898f7bca31b3320e735c72b99"
+      }
+    },
+    {
+      "id": "RES_CRUSHED_SHELL",
+      "name": "crushed shell",
+      "display_name": "Crushed Shell",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Shards",
+      "group_slug": "22-shards",
+      "group_order": 22,
+      "item_order": 2,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/22-shards/res_crushed_shell-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "f461922727bd099c02d1e40ab607e41a40938557cd2d8edbb227a4a313f745a5"
+      },
+      "preview": {
+        "path": "art/icons/resources/22-shards/res_crushed_shell-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "ed53459c1c2f5cd2c667f005f2829c805238dbd300638b41552274517604859d"
+      }
+    },
+    {
+      "id": "RES_SHALE_SHARDS",
+      "name": "shale shards",
+      "display_name": "Shale Shards",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Shards",
+      "group_slug": "22-shards",
+      "group_order": 22,
+      "item_order": 3,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/22-shards/res_shale_shards-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "e294c683e0f7c4d6c5e5d2581563f1203f1c10368b904fc833f78ce1d7b9002c"
+      },
+      "preview": {
+        "path": "art/icons/resources/22-shards/res_shale_shards-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "bf0aee37c58b0eb8493822e071d1350f707fbbdf82eca102617fedd04f5c1fff"
+      }
+    },
+    {
+      "id": "RES_CERAMIC_SHERDS",
+      "name": "ceramic sherds",
+      "display_name": "Ceramic Sherds",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Shards",
+      "group_slug": "22-shards",
+      "group_order": 22,
+      "item_order": 4,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/22-shards/res_ceramic_sherds-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "884609ad669c186ae33582a22c8075fd0a59426a9061c866f21c11b4dbf1dfd5"
+      },
+      "preview": {
+        "path": "art/icons/resources/22-shards/res_ceramic_sherds-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "544834e01d654ebaebf7b8760a7596287dc7abc2ce62c41d89e15957fdf852dc"
+      }
+    },
+    {
+      "id": "RES_METAL_FRAGMENTS",
+      "name": "metal fragments",
+      "display_name": "Metal Fragments",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Shards",
+      "group_slug": "22-shards",
+      "group_order": 22,
+      "item_order": 5,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/22-shards/res_metal_fragments-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "c08140f9a76870d344ca8833c8151787bfe0c6ef229bce7715d79c15b937acd6"
+      },
+      "preview": {
+        "path": "art/icons/resources/22-shards/res_metal_fragments-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "2a4bda9e3422f2fa62ba125c4d48fb606d9b6563b506d5b6a25d14abcea4d31b"
+      }
+    },
+    {
+      "id": "RES_MAGIC_SHARDS",
+      "name": "magic shards",
+      "display_name": "Magic Shards",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Shards",
+      "group_slug": "22-shards",
+      "group_order": 22,
+      "item_order": 6,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/22-shards/res_magic_shards-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "e1d1af7b07f953c98b53ab9406d82f2248f7cd98a56c224a2db8a502986f716a"
+      },
+      "preview": {
+        "path": "art/icons/resources/22-shards/res_magic_shards-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "a4aa0ada115694c2cf334f3ece9ead97fbd49edca8e540cc33f05fa964b82f28"
+      }
+    },
+    {
+      "id": "RES_CLOTH",
+      "name": "fabric",
+      "display_name": "Fabric",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Fabric",
+      "group_slug": "23-fabric",
+      "group_order": 23,
+      "item_order": 0,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/23-fabric/res_cloth-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "0461208a2a1081302298aff4cde65abab15c1a1867722d15fcb530d2502669c0"
+      },
+      "preview": {
+        "path": "art/icons/resources/23-fabric/res_cloth-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "3b2c7547079908f3f1a6e5b2cf448e9097aa280fa29c012557f27aed58962506"
+      }
+    },
+    {
+      "id": "RES_LINEN_FABRIC",
+      "name": "linen fabric",
+      "display_name": "Linen Fabric",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Fabric",
+      "group_slug": "23-fabric",
+      "group_order": 23,
+      "item_order": 1,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/23-fabric/res_linen_fabric-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "27101013c541446d729bd2a1c915a119e0660397ee8757635390375483a46649"
+      },
+      "preview": {
+        "path": "art/icons/resources/23-fabric/res_linen_fabric-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "8ce826f05f8745df6141a72422d8c1988a779428e2f1476739706c7d5ec6d34d"
+      }
+    },
+    {
+      "id": "RES_HEMP_LINEN",
+      "name": "hemp linen",
+      "display_name": "Hemp Linen",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Fabric",
+      "group_slug": "23-fabric",
+      "group_order": 23,
+      "item_order": 2,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/23-fabric/res_hemp_linen-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "c4b24512bedf73940385d3e43eaed84229ab47a84036ff41d5691b136a09cc18"
+      },
+      "preview": {
+        "path": "art/icons/resources/23-fabric/res_hemp_linen-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "7afde07d3fd1a87b7e6c57bcff9d2f3a982368f08c99572c14365cf625490090"
+      }
+    },
+    {
+      "id": "RES_COTTON_CALICO",
+      "name": "cotton calico",
+      "display_name": "Cotton Calico",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Fabric",
+      "group_slug": "23-fabric",
+      "group_order": 23,
+      "item_order": 3,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/23-fabric/res_cotton_calico-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "c5300a98f52aca1628ea4b334d342e5e4771aed8fb15cbff46b1249461e7deeb"
+      },
+      "preview": {
+        "path": "art/icons/resources/23-fabric/res_cotton_calico-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "f5b87711212d0e7abd5f069bf9931162f510b060a0111f748b31a6729cf386d3"
+      }
+    },
+    {
+      "id": "RES_COARSE_FABRIC",
+      "name": "coarse fabric",
+      "display_name": "Coarse Fabric",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Fabric",
+      "group_slug": "23-fabric",
+      "group_order": 23,
+      "item_order": 4,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/23-fabric/res_coarse_fabric-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "e4b7d895384c5f0f1840e4df536f0cc5fd41d48c2bf810a7dfdfa1a7da834e4c"
+      },
+      "preview": {
+        "path": "art/icons/resources/23-fabric/res_coarse_fabric-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "ef65325aff1a6a82e4f4d0a4f8aafd86b1af1fe4dc42beec705c53f23a860444"
+      }
+    },
+    {
+      "id": "RES_SISAL_CLOTH",
+      "name": "sisal fabric",
+      "display_name": "Sisal Fabric",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Fabric",
+      "group_slug": "23-fabric",
+      "group_order": 23,
+      "item_order": 5,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/23-fabric/res_sisal_cloth-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "1ff063d207539d22b66b364b5e0de41b6dec7637dc6939847ee0231cc94f4de5"
+      },
+      "preview": {
+        "path": "art/icons/resources/23-fabric/res_sisal_cloth-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "d8b00f0e47dd6bafe70d4382012c622c4c584e3a843460a6dca903456e3f1428"
+      }
+    },
+    {
+      "id": "RES_SILK_FABRIC",
+      "name": "silk fabric",
+      "display_name": "Silk Fabric",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Fabric",
+      "group_slug": "23-fabric",
+      "group_order": 23,
+      "item_order": 6,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/23-fabric/res_silk_fabric-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "769e7a26d6e8f7e828c700c3af0386c72593f7f689da4ec1fea2bc0760123847"
+      },
+      "preview": {
+        "path": "art/icons/resources/23-fabric/res_silk_fabric-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "528270116e7c3980b276202861612d18c550d3c0bae09995dcb777cf329e374f"
+      }
+    },
+    {
+      "id": "RES_LEATHER",
+      "name": "leather",
+      "display_name": "Leather",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Leather",
+      "group_slug": "24-leather",
+      "group_order": 24,
+      "item_order": 0,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/24-leather/res_leather-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "c092663dd8be08c1d62d7b59e3a8cb4f2a091bb03b9cb0dbd87f45f525390ccd"
+      },
+      "preview": {
+        "path": "art/icons/resources/24-leather/res_leather-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "38ffad090ef7a1870406cc7eb290f210c8be5c42efabbf215d9f64a9c6f85458"
+      }
+    },
+    {
+      "id": "RES_COMMON_LEATHER",
+      "name": "common leather",
+      "display_name": "Common Leather",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Leather",
+      "group_slug": "24-leather",
+      "group_order": 24,
+      "item_order": 1,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/24-leather/res_common_leather-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "9c081efdd874d0d0b91384e7ed67f65f04f79cb734455d5e56a6aa23b08d0c62"
+      },
+      "preview": {
+        "path": "art/icons/resources/24-leather/res_common_leather-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "45d3e3dd15389309e2e4e9aa8240685d182d2d8b62c73579d1436c7745b3e5ab"
+      }
+    },
+    {
+      "id": "RES_OIL_LEATHER",
+      "name": "oil leather",
+      "display_name": "Oil Leather",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Leather",
+      "group_slug": "24-leather",
+      "group_order": 24,
+      "item_order": 2,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/24-leather/res_oil_leather-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "d8e1d910c63398ee509254f1dd77851d63a1f950e90a229c2b4bf13ff515f505"
+      },
+      "preview": {
+        "path": "art/icons/resources/24-leather/res_oil_leather-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "0656ccf6f3dd184a0b48b7ad6d88b0917f66153c08f610f1a78ef36f2b9dce62"
+      }
+    },
+    {
+      "id": "RES_SUEDE",
+      "name": "suede",
+      "display_name": "Suede",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Leather",
+      "group_slug": "24-leather",
+      "group_order": 24,
+      "item_order": 3,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/24-leather/res_suede-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "8a011c6fdaffcb0e9105a4815d80f91c3cdc0a487c0041fead5be80c0cd4bec7"
+      },
+      "preview": {
+        "path": "art/icons/resources/24-leather/res_suede-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "638aed456bbad8112e9d8373d0f6686186c568d1a55eaf4c3b7d29a92e2695de"
+      }
+    },
+    {
+      "id": "RES_HARD_LEATHER",
+      "name": "hard leather",
+      "display_name": "Hard Leather",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Leather",
+      "group_slug": "24-leather",
+      "group_order": 24,
+      "item_order": 4,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/24-leather/res_hard_leather-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "498ed80a758e56aa7111fd7036bc177a2276b59b7ee059a274d388e313931c34"
+      },
+      "preview": {
+        "path": "art/icons/resources/24-leather/res_hard_leather-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "a49c49f6e8982cd30e0b9bce5037b9759cd01ebcd0fd9a07d9b1058e9c082690"
+      }
+    },
+    {
+      "id": "RES_MOROCCO_LEATHER",
+      "name": "morocco leather",
+      "display_name": "Morocco Leather",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Leather",
+      "group_slug": "24-leather",
+      "group_order": 24,
+      "item_order": 5,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/24-leather/res_morocco_leather-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "571845442a48416069b5f203427e4fc26bb55b7a42853772de7259e27eabb73a"
+      },
+      "preview": {
+        "path": "art/icons/resources/24-leather/res_morocco_leather-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "ef08e8bc518e6c99703975b3144ab38ebece4f6fb4b039b9a688c1eba80a3c6f"
+      }
+    },
+    {
+      "id": "RES_BARK_TANNED_LEATHER",
+      "name": "bark-tanned leather",
+      "display_name": "Bark-Tanned Leather",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Leather",
+      "group_slug": "24-leather",
+      "group_order": 24,
+      "item_order": 6,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/24-leather/res_bark_tanned_leather-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "4bfddc6d9e2abbb924683b050aa7da2cf1f608d01b729037fcd2781b09bae2ba"
+      },
+      "preview": {
+        "path": "art/icons/resources/24-leather/res_bark_tanned_leather-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "c199d99bed85c48fb98d0277d91e9e9110b55808228548243473e7056828c69a"
+      }
+    },
+    {
+      "id": "RES_GLASS",
+      "name": "glass",
+      "display_name": "Glass",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Glass",
+      "group_slug": "25-glass",
+      "group_order": 25,
+      "item_order": 0,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/25-glass/res_glass-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "5dd26ccbae4634413ac95f1566799054473e828e4d6838263bafda91c8cb6a96"
+      },
+      "preview": {
+        "path": "art/icons/resources/25-glass/res_glass-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "a63b78e527549a4f514ae4169f0c3434b8b2d9bac407d453d335805919cef876"
+      }
+    },
+    {
+      "id": "RES_CLEAR_GLASS",
+      "name": "clear glass",
+      "display_name": "Clear Glass",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Glass",
+      "group_slug": "25-glass",
+      "group_order": 25,
+      "item_order": 1,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/25-glass/res_clear_glass-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "86015e590be509b7ad2ae2510839f5c8502926ac2985ba3ab40cf8ce5193142e"
+      },
+      "preview": {
+        "path": "art/icons/resources/25-glass/res_clear_glass-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "e834f06af7831d6c1d97885df116a9c4c9366dec826f27d075958f52026a4713"
+      }
+    },
+    {
+      "id": "RES_AQUA_GLASS",
+      "name": "aqua glass",
+      "display_name": "Aqua Glass",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Glass",
+      "group_slug": "25-glass",
+      "group_order": 25,
+      "item_order": 2,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/25-glass/res_aqua_glass-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "f17462594be2223ad8f00d4eb6990a642dd08bb7be85b15e7da2d016c9185adc"
+      },
+      "preview": {
+        "path": "art/icons/resources/25-glass/res_aqua_glass-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "d62264bbb5e9dd6315da21300c782a8d1ffbd4b9b62807960beecb726a5e1f51"
+      }
+    },
+    {
+      "id": "RES_AMETHYST_GLASS",
+      "name": "amethyst glass",
+      "display_name": "Amethyst Glass",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Glass",
+      "group_slug": "25-glass",
+      "group_order": 25,
+      "item_order": 3,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/25-glass/res_amethyst_glass-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "df35974f54c57a496117ca52919269abe3e0fd435c6b8b30f57888cdf65c4a94"
+      },
+      "preview": {
+        "path": "art/icons/resources/25-glass/res_amethyst_glass-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "da5e373cd4463d9d5d86b0ff74fef9e0f374d93f35ff80357a8a48521c2badab"
+      }
+    },
+    {
+      "id": "RES_TURQUOISE_GLASS",
+      "name": "turquoise glass",
+      "display_name": "Turquoise Glass",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Glass",
+      "group_slug": "25-glass",
+      "group_order": 25,
+      "item_order": 4,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/25-glass/res_turquoise_glass-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "1423319c69be0fe70ff58dcfe4fd32d7602fbeec4e29e9b0b7594d1e4d9890c5"
+      },
+      "preview": {
+        "path": "art/icons/resources/25-glass/res_turquoise_glass-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "46c4013dce86d757e73839699e86dfba1800dce2345fd8357612830d99992ba6"
+      }
+    },
+    {
+      "id": "RES_AMBER_GLASS",
+      "name": "amber glass",
+      "display_name": "Amber Glass",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Glass",
+      "group_slug": "25-glass",
+      "group_order": 25,
+      "item_order": 5,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/25-glass/res_amber_glass-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "d9d529c6bd004f9946e6fbe2f544ec708ebdd7689b1db95c1059c67b74d37468"
+      },
+      "preview": {
+        "path": "art/icons/resources/25-glass/res_amber_glass-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "04cb5a16ed5e7bb284a72cae1da1f9ce8b00d2e17c99f77e12e1284622b76130"
+      }
+    },
+    {
+      "id": "RES_SMOKE_GLASS",
+      "name": "smoke glass",
+      "display_name": "Smoke Glass",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Glass",
+      "group_slug": "25-glass",
+      "group_order": 25,
+      "item_order": 6,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/25-glass/res_smoke_glass-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "1a125e1d0d7f6f2c81de36212f6e36eefe1fe520d7d37de2f98bc7d495cc21d1"
+      },
+      "preview": {
+        "path": "art/icons/resources/25-glass/res_smoke_glass-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "b1ec4eac50f907b6fae45d87aba07af2a837792230c24bec15c5d06b5adc99c0"
+      }
+    },
+    {
+      "id": "RES_ALLOY",
+      "name": "alloy",
+      "display_name": "Alloy",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Alloy",
+      "group_slug": "26-alloy",
+      "group_order": 26,
+      "item_order": 0,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/26-alloy/res_alloy-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "4e6f82097e64d2d5986d51b056250dca1b0539816ef8fb701432e39f96db4371"
+      },
+      "preview": {
+        "path": "art/icons/resources/26-alloy/res_alloy-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "fd6a90d2bc976c15cf518eda72d83e809fd99926f1af6d40022f473a05b6f32e"
+      }
+    },
+    {
+      "id": "RES_BRONZE",
+      "name": "bronze",
+      "display_name": "Bronze",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Alloy",
+      "group_slug": "26-alloy",
+      "group_order": 26,
+      "item_order": 1,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/26-alloy/res_bronze-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "6bc3aff0bd3e4623ed79f3cd04f0cf4a88c6a76f5035f953e095333dec1fba95"
+      },
+      "preview": {
+        "path": "art/icons/resources/26-alloy/res_bronze-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "549b4473c16f931079b1147fd323ba5b5988ba6707f3a4ec74758fb92ee6eae0"
+      }
+    },
+    {
+      "id": "RES_STEEL",
+      "name": "steel",
+      "display_name": "Steel",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Alloy",
+      "group_slug": "26-alloy",
+      "group_order": 26,
+      "item_order": 2,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/26-alloy/res_steel-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "51916ba3a9b080cf61893e7fe59acc944f65321be4f53d12f330d7dcd6d8553e"
+      },
+      "preview": {
+        "path": "art/icons/resources/26-alloy/res_steel-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "60add49a380e99627a322b84591a2f5c12c95cfc9be8823235be6470d1aade5c"
+      }
+    },
+    {
+      "id": "RES_BRASS",
+      "name": "brass",
+      "display_name": "Brass",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Alloy",
+      "group_slug": "26-alloy",
+      "group_order": 26,
+      "item_order": 3,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/26-alloy/res_brass-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "9626f321db7f65821f7e75901e81fa13135cd83ab49db99bcd8014fb2541c847"
+      },
+      "preview": {
+        "path": "art/icons/resources/26-alloy/res_brass-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "9264a3ff6cb43078ee2addc8d74d42c1d14c0fa8fb26587b94d9903b21f575ab"
+      }
+    },
+    {
+      "id": "RES_PEWTER",
+      "name": "pewter",
+      "display_name": "Pewter",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Alloy",
+      "group_slug": "26-alloy",
+      "group_order": 26,
+      "item_order": 4,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/26-alloy/res_pewter-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "c4ef9af3ea81154cfbbc41e2e53c1a4c23d88e084a456ef15ea463dc054557ef"
+      },
+      "preview": {
+        "path": "art/icons/resources/26-alloy/res_pewter-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "3bf8a49cdff9c0f08db3b82d06076cb125b43cf38fee43c3d9ada74a4e0eeb6d"
+      }
+    },
+    {
+      "id": "RES_BILLON",
+      "name": "billon",
+      "display_name": "Billon",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Alloy",
+      "group_slug": "26-alloy",
+      "group_order": 26,
+      "item_order": 5,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/26-alloy/res_billon-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "67985fae21f7c2fdc2da814882ebefb21fcde59ad01dfb1b9cbcad66033b963f"
+      },
+      "preview": {
+        "path": "art/icons/resources/26-alloy/res_billon-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "e9d727cea0b5f47a903994ba721464114f62278076002e9cdf4dd59474b33a8f"
+      }
+    },
+    {
+      "id": "RES_ELECTRUM",
+      "name": "electrum",
+      "display_name": "Electrum",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Alloy",
+      "group_slug": "26-alloy",
+      "group_order": 26,
+      "item_order": 6,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/26-alloy/res_electrum-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "f2f61c4aa50507cc8b768d2d6dd06c3438825740056c2dadc84382ba964a2e45"
+      },
+      "preview": {
+        "path": "art/icons/resources/26-alloy/res_electrum-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "ac037a4bcaca89042cd0a3dc66b4de979826276faf3d9abf4d18b6fe6e9d74b5"
+      }
+    },
+    {
+      "id": "RES_SOIL_ADDITIVES",
+      "name": "soil additives",
+      "display_name": "Soil Additives",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Soil Additives",
+      "group_slug": "27-soil-additives",
+      "group_order": 27,
+      "item_order": 0,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/27-soil-additives/res_soil_additives-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "dbcf7d5687a72db567ff8fbab0ec1033c02daafef599ad4db5742987b8d66e38"
+      },
+      "preview": {
+        "path": "art/icons/resources/27-soil-additives/res_soil_additives-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "961719ead2e7143bdad2c2d187bd50ebf82014770102efc5cb612bd51d03644d"
+      }
+    },
+    {
+      "id": "RES_WOOD_ASH",
+      "name": "Wood Ash",
+      "display_name": "Wood Ash",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Soil Additives",
+      "group_slug": "27-soil-additives",
+      "group_order": 27,
+      "item_order": 1,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/27-soil-additives/res_wood_ash-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "3c2a48df1dd525a08397735f54bd4332a18840c85663f38a9a6b7a124c14107f"
+      },
+      "preview": {
+        "path": "art/icons/resources/27-soil-additives/res_wood_ash-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "599e9d28b803801c778b21f700fde2752247f11389d2a85041f1693e6b389c9e"
+      }
+    },
+    {
+      "id": "RES_SHELL_MEAL",
+      "name": "Shell Meal",
+      "display_name": "Shell Meal",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Soil Additives",
+      "group_slug": "27-soil-additives",
+      "group_order": 27,
+      "item_order": 2,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/27-soil-additives/res_shell_meal-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "ec2c8df21fa096c49726ffaee2ecde449d007ea306bb1e00f96d77300f36b4ee"
+      },
+      "preview": {
+        "path": "art/icons/resources/27-soil-additives/res_shell_meal-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "f096a980b6e5da3956b4b5412d03f5c682154f7df74e9501c3198f93c86390f3"
+      }
+    },
+    {
+      "id": "RES_CHARCOAL_FINES",
+      "name": "Charcoal Fines",
+      "display_name": "Charcoal Fines",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Soil Additives",
+      "group_slug": "27-soil-additives",
+      "group_order": 27,
+      "item_order": 3,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/27-soil-additives/res_charcoal_fines-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "9c0115b2c7442e8a34f42876634d798a53c686b34e56018074c7cef01f290661"
+      },
+      "preview": {
+        "path": "art/icons/resources/27-soil-additives/res_charcoal_fines-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "1b1e8a6c578dc39bb03df630d7aeae57862fbc7728e2970dc90bedc14e44e09c"
+      }
+    },
+    {
+      "id": "RES_AGRICULTURAL_LIME",
+      "name": "Agricultural Lime",
+      "display_name": "Agricultural Lime",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Soil Additives",
+      "group_slug": "27-soil-additives",
+      "group_order": 27,
+      "item_order": 4,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/27-soil-additives/res_agricultural_lime-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "4bb295d71e2962da7fafd607c3f7524791c6995423034e468d075b21eaf21cab"
+      },
+      "preview": {
+        "path": "art/icons/resources/27-soil-additives/res_agricultural_lime-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "c6c6442d3a5273b7de98888288f5dab725e2947dfe19a70eeb5289a4959443c0"
+      }
+    },
+    {
+      "id": "RES_GYPSUM_MEAL",
+      "name": "Gypsum Meal",
+      "display_name": "Gypsum Meal",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Soil Additives",
+      "group_slug": "27-soil-additives",
+      "group_order": 27,
+      "item_order": 5,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/27-soil-additives/res_gypsum_meal-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "b2e6400aa7ee38b026131f33a04f6c4c1da48039e8e429fbdc6bf625c7100d14"
+      },
+      "preview": {
+        "path": "art/icons/resources/27-soil-additives/res_gypsum_meal-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "d841c25fe87afd80e62ac731499ccaad9743f6aee273e5dcc40f3434e5c418eb"
+      }
+    },
+    {
+      "id": "RES_COMPOST",
+      "name": "Compost",
+      "display_name": "Compost",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Soil Additives",
+      "group_slug": "27-soil-additives",
+      "group_order": 27,
+      "item_order": 6,
+      "version": "v002",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/resources/27-soil-additives/res_compost-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "53524e7918f0fe5994cf8be499967fdeb7025f959b9262dd890725edb7c24664"
+      },
+      "preview": {
+        "path": "art/icons/resources/27-soil-additives/res_compost-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "19fc42bfb70646a874583a15b660a8972141c4ea9930ff931980445a9975d23f"
+      }
+    },
+    {
+      "id": "RES_ROYAL_NOTE",
+      "name": "royal note",
+      "display_name": "Royal Note",
+      "kind": "icon",
+      "category": "currencies",
+      "group": "Royal Currency",
+      "group_slug": "01-royal",
+      "group_order": 28,
+      "item_order": 0,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/currencies/01-royal/res_royal_note-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "2d87506906bf0f1cb0e61b7da4fb43dc534622640b31b99dc521d9a4f058021a"
+      },
+      "preview": {
+        "path": "art/icons/currencies/01-royal/res_royal_note-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "41727108b158e441d3a20d8ba4653b9821e0b8b9f83a0512c2fa693c8b7e7ce1"
+      }
+    },
+    {
+      "id": "RES_COPPER_FARTHING",
+      "name": "Copper Farthing",
+      "display_name": "Copper Farthing",
+      "kind": "icon",
+      "category": "currencies",
+      "group": "Royal Currency",
+      "group_slug": "01-royal",
+      "group_order": 28,
+      "item_order": 1,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/currencies/01-royal/res_copper_farthing-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "72535f3f0d294612bda48ad90b36ef7fff26d247942be71122cfbde608bd384d"
+      },
+      "preview": {
+        "path": "art/icons/currencies/01-royal/res_copper_farthing-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "0a0bc7e31f0fd35542adf9de92e60a83bb811f3213b7ad661ea7310ba5c7fb63"
+      }
+    },
+    {
+      "id": "RES_ROYAL_SHILLING",
+      "name": "Royal Shilling",
+      "display_name": "Royal Shilling",
+      "kind": "icon",
+      "category": "currencies",
+      "group": "Royal Currency",
+      "group_slug": "01-royal",
+      "group_order": 28,
+      "item_order": 2,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/currencies/01-royal/res_royal_shilling-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "99c0c036d7a4f6c1b5e8dc26aefd8c6e278d0bd05f9a2d202363346b9d3fa01e"
+      },
+      "preview": {
+        "path": "art/icons/currencies/01-royal/res_royal_shilling-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "7f4deebfeb1cb8b0c1e7a5283f6f27379e82d9f6438a130a32b45d9c98b91b83"
+      }
+    },
+    {
+      "id": "RES_GOLD_CROWN",
+      "name": "Gold Crown",
+      "display_name": "Gold Crown",
+      "kind": "icon",
+      "category": "currencies",
+      "group": "Royal Currency",
+      "group_slug": "01-royal",
+      "group_order": 28,
+      "item_order": 3,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/currencies/01-royal/res_gold_crown-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "b8b1565ccd65151370015f397ec3a27def3128e3036b97a2da3d93986ae1cfa7"
+      },
+      "preview": {
+        "path": "art/icons/currencies/01-royal/res_gold_crown-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "ab2f126cb04ad7de15a42dc1f5d988f15b4b0785437032e9cc7fac0acb22da52"
+      }
+    },
+    {
+      "id": "RES_PIRATE_BOND",
+      "name": "pirate bond",
+      "display_name": "Pirate Bond",
+      "kind": "icon",
+      "category": "currencies",
+      "group": "Lawless / Pirate Currency",
+      "group_slug": "02-lawless",
+      "group_order": 29,
+      "item_order": 0,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/currencies/02-lawless/res_pirate_bond-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "e4d64be8d4c31dcc92c493f14723ecd116272e9668cf84498456d434c93ecd6a"
+      },
+      "preview": {
+        "path": "art/icons/currencies/02-lawless/res_pirate_bond-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "ff903abaf978b984d68cf668cd9eca666fcf2ee1ed34781ac2d6bd66758eec27"
+      }
+    },
+    {
+      "id": "RES_CUT_BIT",
+      "name": "Cut Bit",
+      "display_name": "Cut Bit",
+      "kind": "icon",
+      "category": "currencies",
+      "group": "Lawless / Pirate Currency",
+      "group_slug": "02-lawless",
+      "group_order": 29,
+      "item_order": 1,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/currencies/02-lawless/res_cut_bit-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "369148a05c58ce0c93b9cfdeef76d696b537f37d86890802decc99832aeaa3b3"
+      },
+      "preview": {
+        "path": "art/icons/currencies/02-lawless/res_cut_bit-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "fb3950925ff321ae2a6ef7bf12d76a471dc04e8ce4be623982b201d40c7d04d6"
+      }
+    },
+    {
+      "id": "RES_PIECES_OF_8",
+      "name": "Pieces of 8",
+      "display_name": "Pieces Of 8",
+      "kind": "icon",
+      "category": "currencies",
+      "group": "Lawless / Pirate Currency",
+      "group_slug": "02-lawless",
+      "group_order": 29,
+      "item_order": 2,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/currencies/02-lawless/res_pieces_of_8-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "267595ae11ae2377ce5f8a896812b57c461e3ddd87d3181aa4c4d894b4a6e970"
+      },
+      "preview": {
+        "path": "art/icons/currencies/02-lawless/res_pieces_of_8-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "3fca742e737a2979d29ce0ec06a44054f47bc067fde0ecdb436cc3e08eacc04b"
+      }
+    },
+    {
+      "id": "RES_DOUBLOONS",
+      "name": "Doubloons",
+      "display_name": "Doubloons",
+      "kind": "icon",
+      "category": "currencies",
+      "group": "Lawless / Pirate Currency",
+      "group_slug": "02-lawless",
+      "group_order": 29,
+      "item_order": 3,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/currencies/02-lawless/res_doubloons-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "d2dbdaea011daa379aa8d747a6804823da3702a8d929e4d5d34d2fe63dffaace"
+      },
+      "preview": {
+        "path": "art/icons/currencies/02-lawless/res_doubloons-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "5b12e25343f569fa01080c18de03448048a76ca45c2fba5903006998ac75734b"
+      }
+    },
+    {
+      "id": "RES_PROMISSORY_NOTE",
+      "name": "promissory note",
+      "display_name": "Promissory Note",
+      "kind": "icon",
+      "category": "currencies",
+      "group": "Faction-Neutral Currency and Valuables",
+      "group_slug": "03-neutral",
+      "group_order": 30,
+      "item_order": 0,
+      "version": "v009",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/currencies/03-neutral/res_promissory_note-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "1d9f15bacaff3ea159b17456887b54a54f1048a7ddc3d7fb3e94fb7a857efc72"
+      },
+      "preview": {
+        "path": "art/icons/currencies/03-neutral/res_promissory_note-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "06a876bdac9757d3fb35a761afffcc5fb13991d75338cb3d7911d6b5b4041a97"
+      }
+    },
+    {
+      "id": "RES_GOLD_NUGGET",
+      "name": "Gold Nugget",
+      "display_name": "Gold Nugget",
+      "kind": "icon",
+      "category": "currencies",
+      "group": "Faction-Neutral Currency and Valuables",
+      "group_slug": "03-neutral",
+      "group_order": 30,
+      "item_order": 1,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/currencies/03-neutral/res_gold_nugget-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "6769de63605e1fbd24c83cd7461ee84f59c8be32cc6f0c63a6a805c776e945d9"
+      },
+      "preview": {
+        "path": "art/icons/currencies/03-neutral/res_gold_nugget-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "a2791d946927f52b10f29eec5377ced74b086b259d547c064b879442b7b522d5"
+      }
+    },
+    {
+      "id": "RES_GOLD_BAR",
+      "name": "Gold Bar",
+      "display_name": "Gold Bar",
+      "kind": "icon",
+      "category": "currencies",
+      "group": "Faction-Neutral Currency and Valuables",
+      "group_slug": "03-neutral",
+      "group_order": 30,
+      "item_order": 2,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/currencies/03-neutral/res_gold_bar-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "7ab60ea97cbde959a536a9513ee303ce9054ab4b3524c3001e03088c3303f31a"
+      },
+      "preview": {
+        "path": "art/icons/currencies/03-neutral/res_gold_bar-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "7ee0886eeec27273cdfafbfdde8147841170072d0bcfa0bdf5803492e6f2cb87"
+      }
+    },
+    {
+      "id": "RES_CUT_DIAMOND",
+      "name": "Cut Diamond",
+      "display_name": "Cut Diamond",
+      "kind": "icon",
+      "category": "currencies",
+      "group": "Faction-Neutral Currency and Valuables",
+      "group_slug": "03-neutral",
+      "group_order": 30,
+      "item_order": 3,
+      "version": "v001",
+      "publication_version": "2026-10-16.1",
+      "thumbnail": {
+        "path": "art/icons/currencies/03-neutral/res_cut_diamond-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "203659b5042f6e393df4c34f83d4189c2a36bc0769428a6cfe50d84e8737ce7a"
+      },
+      "preview": {
+        "path": "art/icons/currencies/03-neutral/res_cut_diamond-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "12248886c0323561fbb281e5501d6c705362e61e118118023ea12b3f0fc5604e"
+      }
+    }
+  ],
+  "retired": [],
+  "latest_release": "2026-10-16.1"
+}

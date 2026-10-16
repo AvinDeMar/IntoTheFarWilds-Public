@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="The official resource and currency artwork collection for Into the Far Wilds by Crow Brain Games.">
+  <title>Into the Far Wilds · Artwork Collection</title>
+  <link rel="stylesheet" href="styles.css?v=__CSS_HASH__">
+  <script src="app.js?v=__JS_HASH__" defer></script>
+</head>
+<body data-catalog="catalog.json?v=__CATALOG_HASH__">
+  <a class="skip" href="#collection">Skip to artwork</a>
+  <header class="masthead">
+    <a class="studio" href="#">CROW BRAIN GAMES<span>ART &amp; MEDIA</span></a>
+    <nav aria-label="Main navigation"><a href="#collection">Collection</a><a href="https://github.com/AvinDeMar/IntoTheFarWilds-Public">GitHub gallery ↗</a><button class="theme-toggle" id="theme-toggle" type="button" aria-label="Switch to light background">Light background</button></nav>
+  </header>
+  <main>
+    <section class="intro" aria-labelledby="project-title">
+      <div class="intro-copy"><p class="eyebrow">THE ART OF A WORLD IN PROGRESS</p><h1 id="project-title">Into the<br><em>Far Wilds</em></h1><p class="lead">An evolving visual identity,<br>one material at a time.</p><p class="intro-note">Resource and currency artwork from the game in development by Crow Brain Games. Explore the materials, shapes and small details that give each icon its character.</p><a class="primary-link" href="#collection">Explore the collection <span aria-hidden="true">↓</span></a></div>
+      <div class="hero-art" id="hero-art" aria-label="A selection from the artwork collection"><span class="hero-caption">RESOURCE &amp; CURRENCY COLLECTION</span></div>
+      <div class="collection-stats" id="stats" aria-live="polite"><span><strong>201</strong>icons</span><span><strong>27</strong>resource families</span><span><strong>3</strong>currency groups</span><span class="stat-note">Selected artwork · transparent previews</span></div>
+    </section>
+    <section id="collection" class="collection" aria-labelledby="collection-title">
+      <div class="collection-top"><div><p class="eyebrow">THE COLLECTION</p><h2 id="collection-title">Materials with character.</h2></div><p id="result-count" role="status">Loading the collection…</p></div>
+      <div class="tools"><label class="search"><span aria-hidden="true">⌕</span><span class="sr-only">Search artwork by name or family</span><input id="search" type="search" placeholder="Search artwork or a family…" autocomplete="off"></label><div class="filters" role="group" aria-label="Artwork category"><button class="active" type="button" data-filter="all" aria-pressed="true">All</button><button type="button" data-filter="resources" aria-pressed="false">Resources</button><button type="button" data-filter="currencies" aria-pressed="false">Currency</button><button type="button" data-filter="artwork" aria-pressed="false" id="other-filter" hidden>Other artwork</button></div></div>
+      <div class="gallery-layout"><aside class="family-nav"><p class="eyebrow">BROWSE BY FAMILY</p><nav id="family-nav" aria-label="Artwork families"></nav></aside><div id="gallery" class="gallery"><p class="loading">Preparing the gallery…</p></div></div>
+      <p id="empty" class="empty" hidden>No artwork matches this search. Try a material name or clear the filter.</p>
+    </section>
+  </main>
+  <footer><div class="footer-brand">Into the Far Wilds<span>BY CROW BRAIN GAMES</span></div><div><p>© Crow Brain Games, LLC. All rights reserved where applicable.</p><p>For viewing only. Public access does not grant reuse rights.</p><a href="LICENSE-ARTWORK.md">Artwork rights</a><span aria-hidden="true"> · </span><a href="https://github.com/AvinDeMar/IntoTheFarWilds-Public">View on GitHub ↗</a></div></footer>
+  <dialog id="art-dialog" aria-labelledby="dialog-title"><form method="dialog"><button class="close" aria-label="Close artwork preview" title="Close preview">×</button></form><div class="dialog-body"><p class="eyebrow" id="dialog-group"></p><h2 id="dialog-title"></h2><div class="preview-canvas" id="preview-canvas"><img id="dialog-image" alt="" width="400" height="320"></div><div class="preview-tools"><span>Inspect background</span><div role="group" aria-label="Preview background"><button type="button" data-background="light" aria-pressed="true">Light</button><button type="button" data-background="dark" aria-pressed="false">Dark</button><button type="button" data-background="checker" aria-pressed="false">Checker</button></div></div><div class="dialog-meta"><span id="dialog-version"></span><a id="open-image" target="_blank" rel="noopener">Open larger PNG ↗</a></div></div></dialog>
+  <noscript><p class="noscript">The interactive gallery needs JavaScript. <a href="https://github.com/AvinDeMar/IntoTheFarWilds-Public/blob/main/docs/ARTWORK_CATALOG.md">Browse all artwork in the GitHub gallery instead.</a></p></noscript>
+</body>
+</html>
