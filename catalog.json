@@ -4,7 +4,8 @@
   "studio": "Crow Brain Games, LLC",
   "releases": [
     "2026-10-16.1",
-    "2026-10-16.2"
+    "2026-10-16.2",
+    "2026-10-16.3"
   ],
   "items": [
     {
@@ -4258,9 +4259,9 @@
       }
     },
     {
-      "id": "RES_AQUA_GLASS",
-      "name": "aqua glass",
-      "display_name": "Aqua Glass",
+      "id": "RES_EMERALD_GLASS",
+      "name": "emerald glass",
+      "display_name": "Emerald Glass",
       "kind": "icon",
       "category": "resources",
       "group": "Glass",
@@ -4268,18 +4269,18 @@
       "group_order": 25,
       "item_order": 2,
       "version": "v001",
-      "publication_version": "2026-10-16.1",
+      "publication_version": "2026-10-16.3",
       "thumbnail": {
-        "path": "art/icons/resources/25-glass/res_aqua_glass-thumbnail.png",
+        "path": "art/icons/resources/25-glass/res_emerald_glass-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "f17462594be2223ad8f00d4eb6990a642dd08bb7be85b15e7da2d016c9185adc"
+        "sha256": "058c4c604de227d7814a22f45ccb16e245ce339cc24bc5930e4d8b7459c8aa3d"
       },
       "preview": {
-        "path": "art/icons/resources/25-glass/res_aqua_glass-preview.png",
+        "path": "art/icons/resources/25-glass/res_emerald_glass-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "d62264bbb5e9dd6315da21300c782a8d1ffbd4b9b62807960beecb726a5e1f51"
+        "sha256": "c205e7f9a63c3034834323c8d9c0117e279748513e483289ddb9bb4cb7db5dae"
       }
     },
     {
@@ -5033,6 +5034,13 @@
       }
     }
   ],
-  "retired": [],
-  "latest_release": "2026-10-16.2"
+  "retired": [
+    {
+      "id": "RES_AQUA_GLASS",
+      "display_name": "Aqua Glass",
+      "version": "v001",
+      "retired_in": "2026-10-16.3"
+    }
+  ],
+  "latest_release": "2026-10-16.3"
 }

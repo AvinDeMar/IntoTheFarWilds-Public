@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "release": "2026-10-16.2",
+  "release": "2026-10-16.3",
   "self": "publication-allowlist.json",
   "files": [
     {
@@ -1488,20 +1488,20 @@
       "sha256": "df35974f54c57a496117ca52919269abe3e0fd435c6b8b30f57888cdf65c4a94"
     },
     {
-      "path": "art/icons/resources/25-glass/res_aqua_glass-preview.png",
-      "sha256": "d62264bbb5e9dd6315da21300c782a8d1ffbd4b9b62807960beecb726a5e1f51"
-    },
-    {
-      "path": "art/icons/resources/25-glass/res_aqua_glass-thumbnail.png",
-      "sha256": "f17462594be2223ad8f00d4eb6990a642dd08bb7be85b15e7da2d016c9185adc"
-    },
-    {
       "path": "art/icons/resources/25-glass/res_clear_glass-preview.png",
       "sha256": "e834f06af7831d6c1d97885df116a9c4c9366dec826f27d075958f52026a4713"
     },
     {
       "path": "art/icons/resources/25-glass/res_clear_glass-thumbnail.png",
       "sha256": "86015e590be509b7ad2ae2510839f5c8502926ac2985ba3ab40cf8ce5193142e"
+    },
+    {
+      "path": "art/icons/resources/25-glass/res_emerald_glass-preview.png",
+      "sha256": "c205e7f9a63c3034834323c8d9c0117e279748513e483289ddb9bb4cb7db5dae"
+    },
+    {
+      "path": "art/icons/resources/25-glass/res_emerald_glass-thumbnail.png",
+      "sha256": "058c4c604de227d7814a22f45ccb16e245ce339cc24bc5930e4d8b7459c8aa3d"
     },
     {
       "path": "art/icons/resources/25-glass/res_glass-preview.png",
@@ -1641,11 +1641,11 @@
     },
     {
       "path": "catalog.json",
-      "sha256": "20db04b39bb3caebaedf1a7f62558477acdc9433e039d6b06bfe1488471cab76"
+      "sha256": "3d008bf252c5dce7de3861e917847053da0099285c0c40255e61e78b94d8f73b"
     },
     {
       "path": "docs/ARTWORK_CATALOG.md",
-      "sha256": "47ef30199fc43f54b972f3860d28034bf59fdca72c712a47db27033d8520b099"
+      "sha256": "158df702ebb1d1a416dbcfcddd43e1094edb12cf3cca944655f401eba2f7736b"
     },
     {
       "path": "docs/PUBLISHING.md",
@@ -1653,7 +1653,7 @@
     },
     {
       "path": "docs/RELEASES.md",
-      "sha256": "b5af1103bb2395d06926aad8b5f00ffa23bdb5952c4df9778dd9920824790ab5"
+      "sha256": "d4dad3255bf8d5212504a61225b8587673ee6be93cb23aacae0b0a90bacb09d9"
     },
     {
       "path": "releases/2026-10-16.1.json",
@@ -1662,6 +1662,10 @@
     {
       "path": "releases/2026-10-16.2.json",
       "sha256": "c681d4e667945e2b9d0fc655c99cee83f1fd6746f2e7fceb29e587b965e244e5"
+    },
+    {
+      "path": "releases/2026-10-16.3.json",
+      "sha256": "afdad39568f94a5831944e961818e13c68ab6265de78f1266baa280103987548"
     },
     {
       "path": "requirements.txt",

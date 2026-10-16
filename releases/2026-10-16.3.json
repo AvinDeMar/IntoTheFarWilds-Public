@@ -1,0 +1,17 @@
+{
+  "release": "2026-10-16.3",
+  "date": "2026-10-16",
+  "operation": "replace-resource",
+  "old_id": "RES_AQUA_GLASS",
+  "id": "RES_EMERALD_GLASS",
+  "display_name": "Emerald Glass",
+  "published_items": 201,
+  "changed_ids": [
+    "RES_EMERALD_GLASS"
+  ],
+  "retired_ids": [
+    "RES_AQUA_GLASS"
+  ],
+  "other_items_unchanged": 200,
+  "source": "Owner-approved Emerald Glass v001; all unrelated artwork unchanged."
+}
