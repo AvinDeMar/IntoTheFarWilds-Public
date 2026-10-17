@@ -87,7 +87,7 @@ async function start() {
     const resources = new Set(state.items.filter(i => i.category === "resources").map(groupAnchor));
     const currencies = new Set(state.items.filter(i => i.category === "currencies").map(groupAnchor));
     $("stats").replaceChildren();
-    for (const [number, label] of [[state.items.length, "artworks"], [resources.size, "resource families"], [currencies.size, "currency groups"]]) {
+    for (const [number, label] of [[state.items.length, "artworks"], [resources.size, "resource / product groups"], [currencies.size, "currency groups"]]) {
       const span = make("span"); span.append(make("strong", "", String(number)), document.createTextNode(label)); $("stats").append(span);
     }
     $("stats").append(make("span", "stat-note", "Selected artwork · transparent previews"));

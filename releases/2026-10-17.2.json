@@ -1,0 +1,124 @@
+{
+  "release": "2026-10-17.2",
+  "date": "2026-10-17",
+  "operation": "reorganize",
+  "changed_ids": [
+    "RES_TIMBER",
+    "RES_LUMBER_PLANK",
+    "RES_FRESH_FIREWOOD",
+    "RES_DRY_FIREWOOD",
+    "RES_WICK",
+    "ITM_CORDAGE",
+    "EQP_ROPE",
+    "RES_NETTING",
+    "RES_CANVAS",
+    "RES_LIGHTWEIGHT_CANOPY",
+    "RES_PAPER",
+    "RES_PARCHMENT",
+    "RES_LEATHER_STRAPS",
+    "RES_LEATHER_PANEL",
+    "RES_FUR_LINING",
+    "RES_GROG",
+    "RES_ANIMAL_FEED",
+    "RES_GRAPE_POMACE",
+    "RES_BINDER",
+    "RES_SEALANT",
+    "RES_SALTPETER",
+    "RES_BLACK_POWDER",
+    "RES_INCENDIARY_PASTE",
+    "RES_TEMPERED_CLAY_MIX",
+    "RES_DAUB_MIX",
+    "RES_BRICK_MIX",
+    "RES_MORTAR",
+    "RES_PAPER_PULP",
+    "RES_INK",
+    "RES_SLAKED_LIME",
+    "RES_CERAMIC_VESSEL",
+    "RES_MUG",
+    "RES_CLAY_JARS",
+    "AMM_EMPTY_VIAL",
+    "RES_GLASS_JARS",
+    "RES_SHELL_LIME",
+    "RES_BRICKS",
+    "RES_QUICKLIME",
+    "RES_CHAIN",
+    "RES_MAGIC_CRYSTAL"
+  ],
+  "published_items": 241,
+  "added_ids": [
+    "RES_LEATHER_STRAPS"
+  ],
+  "groups": [
+    {
+      "name": "Chopper Products",
+      "ids": [
+        "RES_TIMBER",
+        "RES_LUMBER_PLANK",
+        "RES_FRESH_FIREWOOD",
+        "RES_DRY_FIREWOOD"
+      ]
+    },
+    {
+      "name": "Weaved Products",
+      "ids": [
+        "RES_WICK",
+        "ITM_CORDAGE",
+        "EQP_ROPE",
+        "RES_NETTING",
+        "RES_CANVAS",
+        "RES_LIGHTWEIGHT_CANOPY"
+      ]
+    },
+    {
+      "name": "Tanned & Dried Products",
+      "ids": [
+        "RES_PAPER",
+        "RES_PARCHMENT",
+        "RES_LEATHER_STRAPS",
+        "RES_LEATHER_PANEL",
+        "RES_FUR_LINING"
+      ]
+    },
+    {
+      "name": "Milled Products",
+      "ids": [
+        "RES_GROG",
+        "RES_ANIMAL_FEED",
+        "RES_GRAPE_POMACE"
+      ]
+    },
+    {
+      "name": "Mixer Products",
+      "ids": [
+        "RES_BINDER",
+        "RES_SEALANT",
+        "RES_SALTPETER",
+        "RES_BLACK_POWDER",
+        "RES_INCENDIARY_PASTE",
+        "RES_TEMPERED_CLAY_MIX",
+        "RES_DAUB_MIX",
+        "RES_BRICK_MIX",
+        "RES_MORTAR",
+        "RES_PAPER_PULP",
+        "RES_INK",
+        "RES_SLAKED_LIME"
+      ]
+    },
+    {
+      "name": "Kiln & Furnace Products",
+      "ids": [
+        "RES_CERAMIC_VESSEL",
+        "RES_MUG",
+        "RES_CLAY_JARS",
+        "AMM_EMPTY_VIAL",
+        "RES_GLASS_JARS",
+        "RES_SHELL_LIME",
+        "RES_BRICKS",
+        "RES_QUICKLIME",
+        "RES_CHAIN",
+        "RES_MAGIC_CRYSTAL"
+      ]
+    }
+  ],
+  "selection": "Owner-directed display grouping and ordering, plus newly confirmed approved Leather Straps v001. Existing artwork, selected versions and existing image URLs unchanged."
+}

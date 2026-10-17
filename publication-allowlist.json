@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "release": "2026-10-17.1",
+  "release": "2026-10-17.2",
   "self": "publication-allowlist.json",
   "files": [
     {
@@ -29,7 +29,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "4963000a349d1da449a6eeeaf53e1d0432fcda2d683aed2ff80a7deaaa57a843"
+      "sha256": "712ac7511f43bb50f32945ccbb65d06e127f7f63511d4ed1d5e4ed306d4b2efe"
     },
     {
       "path": "art/icons/currencies/01-royal/res_copper_farthing-preview.png",
@@ -1952,12 +1952,20 @@
       "sha256": "8a43a29832a65b2d6f415ce21be25c1977f19316b4b8d0de6533d950f638ab71"
     },
     {
+      "path": "art/icons/resources/33-tanned-dried-products/res_leather_straps-preview.png",
+      "sha256": "4fd820afdba356fe24edf2d721729082d7a807da1951ff968db7babb326b655c"
+    },
+    {
+      "path": "art/icons/resources/33-tanned-dried-products/res_leather_straps-thumbnail.png",
+      "sha256": "4929c1864c4d454cd6b33b834c63dca31f00a84e90cc4564fb4e41dc4a165bd6"
+    },
+    {
       "path": "catalog.json",
-      "sha256": "57969bdbb38b1f7f37897adbe4531a470effb71509ea92d804badbc364e76b3d"
+      "sha256": "3c63e0db7c9c2700a2b890e0bccb3525a8d8a72c9db3d11145a346fb64e5285f"
     },
     {
       "path": "docs/ARTWORK_CATALOG.md",
-      "sha256": "23159cd32d4830b5a45e6c28e876701207bbc07141ae2a10c493d8fa59de3b76"
+      "sha256": "0a202e351cd16b200e799289f16e57158b17fc122a300270b40bb5307a5b2799"
     },
     {
       "path": "docs/PUBLISHING.md",
@@ -1965,7 +1973,7 @@
     },
     {
       "path": "docs/RELEASES.md",
-      "sha256": "c13709f52d11c2fde270b757664d44f3af3b67a47befaaa47522df633edcf380"
+      "sha256": "999f85e09b238efc4af04370d93fd67013b1b85eecfe0dec08d37ed2caf773df"
     },
     {
       "path": "releases/2026-10-16.1.json",
@@ -1984,6 +1992,10 @@
       "sha256": "236038e347d520288b776fb3d0d4dde4dc818071f9e2c73a32fbe8682682d269"
     },
     {
+      "path": "releases/2026-10-17.2.json",
+      "sha256": "44f76e80cbc9bdde250e0b73856d2f4a2cdf50559bdc566922566408017f3862"
+    },
+    {
       "path": "requirements.txt",
       "sha256": "41b54a6fb2918667ca47a61d73b522629d84490f3d78f0f20b21135faba10d35"
     },
@@ -1997,11 +2009,11 @@
     },
     {
       "path": "site/app.js",
-      "sha256": "72f06dd6baae38618fa4bea5fc89e1e27b94335ba6b3773689a4786b47fe9ce7"
+      "sha256": "4851905b9183ed1fca93c93e6748633f5eff6bf081fb8c6f6225c4758f99f197"
     },
     {
       "path": "site/index.html",
-      "sha256": "89458f25f542c51c60b4fdb29cfc1231cea5f519edebf25074d21012d4739118"
+      "sha256": "ea3c1bb7d73e31afc56d628e841abd81e22b4557b9cb57a98fc27261a95f32e5"
     },
     {
       "path": "site/styles.css",
