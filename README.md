@@ -24,8 +24,8 @@ Transparent previews, original family order, and larger images one click away.
 [Sulfur](docs/ARTWORK_CATALOG.md#resources-16-sulfur) · [Crystal](docs/ARTWORK_CATALOG.md#resources-17-crystal) · [Gem](docs/ARTWORK_CATALOG.md#resources-18-gem) · [Sweeteners](docs/ARTWORK_CATALOG.md#resources-19-sweeteners) · [Salt](docs/ARTWORK_CATALOG.md#resources-20-salt)
 [Fertilizer](docs/ARTWORK_CATALOG.md#resources-21-fertilizer) · [Shards](docs/ARTWORK_CATALOG.md#resources-22-shards) · [Fabric](docs/ARTWORK_CATALOG.md#resources-23-fabric) · [Leather](docs/ARTWORK_CATALOG.md#resources-24-leather) · [Glass](docs/ARTWORK_CATALOG.md#resources-25-glass)
 [Alloy](docs/ARTWORK_CATALOG.md#resources-26-alloy) · [Soil Additives](docs/ARTWORK_CATALOG.md#resources-27-soil-additives) · [Royal Currency](docs/ARTWORK_CATALOG.md#currencies-01-royal) · [Lawless / Pirate Currency](docs/ARTWORK_CATALOG.md#currencies-02-lawless) · [Faction-Neutral Currency and Valuables](docs/ARTWORK_CATALOG.md#currencies-03-neutral)
-[Chopper Products](docs/ARTWORK_CATALOG.md#resources-31-chopper-products) · [Weaved Products](docs/ARTWORK_CATALOG.md#resources-32-weaved-products) · [Tanned &amp; Dried Products](docs/ARTWORK_CATALOG.md#resources-33-tanned-dried-products) · [Milled Products](docs/ARTWORK_CATALOG.md#resources-34-milled-products) · [Mixer Products](docs/ARTWORK_CATALOG.md#resources-35-mixer-products)
-[Kiln &amp; Furnace Products](docs/ARTWORK_CATALOG.md#resources-36-kiln-furnace-products)
+[Chopped Products](docs/ARTWORK_CATALOG.md#resources-31-chopper-products) · [Weaved Products](docs/ARTWORK_CATALOG.md#resources-32-weaved-products) · [Tanned &amp; Dried Products](docs/ARTWORK_CATALOG.md#resources-33-tanned-dried-products) · [Milled Products](docs/ARTWORK_CATALOG.md#resources-34-milled-products) · [Mixed Products](docs/ARTWORK_CATALOG.md#resources-35-mixer-products)
+[Heated Products](docs/ARTWORK_CATALOG.md#resources-36-kiln-furnace-products)
 
 ### Artwork rights
 

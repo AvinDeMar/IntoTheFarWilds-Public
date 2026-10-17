@@ -6,7 +6,13 @@ const assetURL = (record) => `${record.path}?v=${record.sha256.slice(0, 12)}`;
 const groupAnchor = (i) => `${i.category}-${i.group_slug}`;
 const familyName = (i) => i.group;
 
+function setPreviewBackground(background) {
+  $("preview-canvas").dataset.background = background;
+  document.querySelectorAll("button[data-background]").forEach(button => button.setAttribute("aria-pressed", String(button.dataset.background === background)));
+}
+
 function openArt(item) {
+  setPreviewBackground(document.documentElement.dataset.theme === "light" ? "light" : "dark");
   $("dialog-title").textContent = item.display_name;
   $("dialog-group").textContent = familyName(item);
   $("dialog-version").textContent = `${item.version} · ${item.preview.width} × ${item.preview.height} PNG`;
@@ -68,12 +74,12 @@ document.querySelectorAll("[data-filter]").forEach(button => button.addEventList
 $("theme-toggle").addEventListener("click", () => {
   const light = document.documentElement.dataset.theme !== "light";
   document.documentElement.dataset.theme = light ? "light" : "dark";
+  setPreviewBackground(light ? "light" : "dark");
   $("theme-toggle").textContent = light ? "Dark background" : "Light background";
   $("theme-toggle").setAttribute("aria-label", light ? "Switch to dark background" : "Switch to light background");
 });
-document.querySelectorAll("[data-background]").forEach(button => button.addEventListener("click", () => {
-  $("preview-canvas").dataset.background = button.dataset.background;
-  document.querySelectorAll("[data-background]").forEach(b => b.setAttribute("aria-pressed", String(b === button)));
+document.querySelectorAll("button[data-background]").forEach(button => button.addEventListener("click", () => {
+  setPreviewBackground(button.dataset.background);
 }));
 $("art-dialog").addEventListener("click", (event) => { if (event.target === $("art-dialog")) { const r = event.target.getBoundingClientRect(); if (event.clientX < r.left || event.clientX > r.right || event.clientY < r.top || event.clientY > r.bottom) event.target.close(); } });
 

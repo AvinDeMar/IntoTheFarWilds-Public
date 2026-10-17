@@ -1,0 +1,108 @@
+{
+  "release": "2026-10-17.3",
+  "date": "2026-10-17",
+  "operation": "presentation-update",
+  "changed_ids": [
+    "RES_TIMBER",
+    "RES_LUMBER_PLANK",
+    "RES_FRESH_FIREWOOD",
+    "RES_DRY_FIREWOOD",
+    "RES_BINDER",
+    "RES_SEALANT",
+    "RES_SALTPETER",
+    "RES_BLACK_POWDER",
+    "RES_INCENDIARY_PASTE",
+    "RES_TEMPERED_CLAY_MIX",
+    "RES_DAUB_MIX",
+    "RES_BRICK_MIX",
+    "RES_MORTAR",
+    "RES_PAPER_PULP",
+    "RES_INK",
+    "RES_SLAKED_LIME",
+    "RES_CERAMIC_VESSEL",
+    "RES_MUG",
+    "RES_CLAY_JARS",
+    "AMM_EMPTY_VIAL",
+    "RES_GLASS_JARS",
+    "RES_SHELL_LIME",
+    "RES_BRICKS",
+    "RES_QUICKLIME",
+    "RES_CHAIN",
+    "RES_MAGIC_CRYSTAL"
+  ],
+  "published_items": 241,
+  "selection": "Owner-authorized category names and theme-aware dark/light icon canvases. All approved PNGs, item order, versions, asset URLs and art are unchanged.",
+  "groups": [
+    {
+      "name": "Chopped Products",
+      "ids": [
+        "RES_TIMBER",
+        "RES_LUMBER_PLANK",
+        "RES_FRESH_FIREWOOD",
+        "RES_DRY_FIREWOOD"
+      ]
+    },
+    {
+      "name": "Weaved Products",
+      "ids": [
+        "RES_WICK",
+        "ITM_CORDAGE",
+        "EQP_ROPE",
+        "RES_NETTING",
+        "RES_CANVAS",
+        "RES_LIGHTWEIGHT_CANOPY"
+      ]
+    },
+    {
+      "name": "Tanned & Dried Products",
+      "ids": [
+        "RES_PAPER",
+        "RES_PARCHMENT",
+        "RES_LEATHER_STRAPS",
+        "RES_LEATHER_PANEL",
+        "RES_FUR_LINING"
+      ]
+    },
+    {
+      "name": "Milled Products",
+      "ids": [
+        "RES_GROG",
+        "RES_ANIMAL_FEED",
+        "RES_GRAPE_POMACE"
+      ]
+    },
+    {
+      "name": "Mixed Products",
+      "ids": [
+        "RES_BINDER",
+        "RES_SEALANT",
+        "RES_SALTPETER",
+        "RES_BLACK_POWDER",
+        "RES_INCENDIARY_PASTE",
+        "RES_TEMPERED_CLAY_MIX",
+        "RES_DAUB_MIX",
+        "RES_BRICK_MIX",
+        "RES_MORTAR",
+        "RES_PAPER_PULP",
+        "RES_INK",
+        "RES_SLAKED_LIME"
+      ]
+    },
+    {
+      "name": "Heated Products",
+      "ids": [
+        "RES_CERAMIC_VESSEL",
+        "RES_MUG",
+        "RES_CLAY_JARS",
+        "AMM_EMPTY_VIAL",
+        "RES_GLASS_JARS",
+        "RES_SHELL_LIME",
+        "RES_BRICKS",
+        "RES_QUICKLIME",
+        "RES_CHAIN",
+        "RES_MAGIC_CRYSTAL"
+      ]
+    }
+  ],
+  "default_background": "dark"
+}

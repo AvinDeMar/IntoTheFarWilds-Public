@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "release": "2026-10-17.2",
+  "release": "2026-10-17.3",
   "self": "publication-allowlist.json",
   "files": [
     {
@@ -29,7 +29,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "712ac7511f43bb50f32945ccbb65d06e127f7f63511d4ed1d5e4ed306d4b2efe"
+      "sha256": "b3e58d137ab4b91d555fb56ebd80c7bb70755b65881b55df1bc6e1914d373be3"
     },
     {
       "path": "art/icons/currencies/01-royal/res_copper_farthing-preview.png",
@@ -1961,11 +1961,11 @@
     },
     {
       "path": "catalog.json",
-      "sha256": "3c63e0db7c9c2700a2b890e0bccb3525a8d8a72c9db3d11145a346fb64e5285f"
+      "sha256": "666bb0e4fb0e486c7f476cf86c05c13194dfe0d130edd752aca126858af2604c"
     },
     {
       "path": "docs/ARTWORK_CATALOG.md",
-      "sha256": "0a202e351cd16b200e799289f16e57158b17fc122a300270b40bb5307a5b2799"
+      "sha256": "a398ea765fd8e57413bf289d11b1276a51efd375526b8774be74e85c6bba9a68"
     },
     {
       "path": "docs/PUBLISHING.md",
@@ -1973,7 +1973,7 @@
     },
     {
       "path": "docs/RELEASES.md",
-      "sha256": "999f85e09b238efc4af04370d93fd67013b1b85eecfe0dec08d37ed2caf773df"
+      "sha256": "8643a5a2ae77ead8573ac71c86976c83f953de123bcffff4a2546e15cdfbb1a9"
     },
     {
       "path": "releases/2026-10-16.1.json",
@@ -1996,6 +1996,10 @@
       "sha256": "44f76e80cbc9bdde250e0b73856d2f4a2cdf50559bdc566922566408017f3862"
     },
     {
+      "path": "releases/2026-10-17.3.json",
+      "sha256": "f7e52baac8ffa5468ff398cb31958e99dfea1b03ea973fdf925f16a81cb8198d"
+    },
+    {
       "path": "requirements.txt",
       "sha256": "41b54a6fb2918667ca47a61d73b522629d84490f3d78f0f20b21135faba10d35"
     },
@@ -2009,15 +2013,15 @@
     },
     {
       "path": "site/app.js",
-      "sha256": "4851905b9183ed1fca93c93e6748633f5eff6bf081fb8c6f6225c4758f99f197"
+      "sha256": "adab66d8c6b57ed61baaf823cb2bd380967eed2343aa968c56971b6654b9793e"
     },
     {
       "path": "site/index.html",
-      "sha256": "ea3c1bb7d73e31afc56d628e841abd81e22b4557b9cb57a98fc27261a95f32e5"
+      "sha256": "9113f8d33158b2bea15a8bc710f13486c67cd83c55c5e90c9e7200c477fb7e32"
     },
     {
       "path": "site/styles.css",
-      "sha256": "9ba516a0af45ca12c06c04be6d2646a65848aab4d1996fc6779f8a783baff5b2"
+      "sha256": "d2c3cd3aef813cf13a91b6f150c9ad6236e70155c08ea46a8a8391a39e5fd49e"
     }
   ]
 }

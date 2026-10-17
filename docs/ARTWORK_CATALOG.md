@@ -14,8 +14,8 @@ By Crow Brain Games. Select an image to open its larger public preview.
 [Sulfur](#resources-16-sulfur) · [Crystal](#resources-17-crystal) · [Gem](#resources-18-gem) · [Sweeteners](#resources-19-sweeteners) · [Salt](#resources-20-salt)
 [Fertilizer](#resources-21-fertilizer) · [Shards](#resources-22-shards) · [Fabric](#resources-23-fabric) · [Leather](#resources-24-leather) · [Glass](#resources-25-glass)
 [Alloy](#resources-26-alloy) · [Soil Additives](#resources-27-soil-additives) · [Royal Currency](#currencies-01-royal) · [Lawless / Pirate Currency](#currencies-02-lawless) · [Faction-Neutral Currency and Valuables](#currencies-03-neutral)
-[Chopper Products](#resources-31-chopper-products) · [Weaved Products](#resources-32-weaved-products) · [Tanned &amp; Dried Products](#resources-33-tanned-dried-products) · [Milled Products](#resources-34-milled-products) · [Mixer Products](#resources-35-mixer-products)
-[Kiln &amp; Furnace Products](#resources-36-kiln-furnace-products)
+[Chopped Products](#resources-31-chopper-products) · [Weaved Products](#resources-32-weaved-products) · [Tanned &amp; Dried Products](#resources-33-tanned-dried-products) · [Milled Products](#resources-34-milled-products) · [Mixed Products](#resources-35-mixer-products)
+[Heated Products](#resources-36-kiln-furnace-products)
 
 <a id="resources-01-fiber"></a>
 ## Fiber
@@ -318,7 +318,7 @@ By Crow Brain Games. Select an image to open its larger public preview.
 [Back to collections](#collections)
 
 <a id="resources-31-chopper-products"></a>
-## Chopper Products
+## Chopped Products
 
 | Timber | Lumber | Fresh Firewood | Dry Firewood |
 |---|---|---|---|
@@ -358,7 +358,7 @@ By Crow Brain Games. Select an image to open its larger public preview.
 [Back to collections](#collections)
 
 <a id="resources-35-mixer-products"></a>
-## Mixer Products
+## Mixed Products
 
 | Binder | Sealant | Saltpeter | Black Powder | Incendiary Paste | Tempered Clay Mix | Daub |
 |---|---|---|---|---|---|---|
@@ -373,7 +373,7 @@ By Crow Brain Games. Select an image to open its larger public preview.
 [Back to collections](#collections)
 
 <a id="resources-36-kiln-furnace-products"></a>
-## Kiln &amp; Furnace Products
+## Heated Products
 
 | Ceramic Vessel | Mug | Clay Jar | Empty Vial | Glass Jar | Shell Lime | Bricks |
 |---|---|---|---|---|---|---|
