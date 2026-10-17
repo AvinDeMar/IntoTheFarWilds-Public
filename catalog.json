@@ -5,7 +5,8 @@
   "releases": [
     "2026-10-16.1",
     "2026-10-16.2",
-    "2026-10-16.3"
+    "2026-10-16.3",
+    "2026-10-17.1"
   ],
   "items": [
     {
@@ -4568,19 +4569,19 @@
       "group_slug": "27-soil-additives",
       "group_order": 27,
       "item_order": 0,
-      "version": "v002",
-      "publication_version": "2026-10-16.1",
+      "version": "v003",
+      "publication_version": "2026-10-17.1",
       "thumbnail": {
         "path": "art/icons/resources/27-soil-additives/res_soil_additives-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "dbcf7d5687a72db567ff8fbab0ec1033c02daafef599ad4db5742987b8d66e38"
+        "sha256": "3eb50d44349cbcb2476ed5286066bcbc7d0d679b6c6a694983ee97f196232c46"
       },
       "preview": {
         "path": "art/icons/resources/27-soil-additives/res_soil_additives-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "961719ead2e7143bdad2c2d187bd50ebf82014770102efc5cb612bd51d03644d"
+        "sha256": "36b09215137830be5416c665e4705d2fa111153018d4e7e04621f75fc95a3310"
       }
     },
     {
@@ -4593,19 +4594,19 @@
       "group_slug": "27-soil-additives",
       "group_order": 27,
       "item_order": 1,
-      "version": "v002",
-      "publication_version": "2026-10-16.1",
+      "version": "v003",
+      "publication_version": "2026-10-17.1",
       "thumbnail": {
         "path": "art/icons/resources/27-soil-additives/res_wood_ash-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "3c2a48df1dd525a08397735f54bd4332a18840c85663f38a9a6b7a124c14107f"
+        "sha256": "8a1788320f2f9044d44675f9e2f3e51aa5f6bcfd63ea3c74f8a9f0b4f044d151"
       },
       "preview": {
         "path": "art/icons/resources/27-soil-additives/res_wood_ash-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "599e9d28b803801c778b21f700fde2752247f11389d2a85041f1693e6b389c9e"
+        "sha256": "7df249356870bed37710313eba2662c2e3b84d752df7ec27ccff94ef893eb11a"
       }
     },
     {
@@ -4618,19 +4619,19 @@
       "group_slug": "27-soil-additives",
       "group_order": 27,
       "item_order": 2,
-      "version": "v001",
-      "publication_version": "2026-10-16.1",
+      "version": "v002",
+      "publication_version": "2026-10-17.1",
       "thumbnail": {
         "path": "art/icons/resources/27-soil-additives/res_shell_meal-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "ec2c8df21fa096c49726ffaee2ecde449d007ea306bb1e00f96d77300f36b4ee"
+        "sha256": "6b202ebe3dfed77be8cb9f64409b0d33a8a0efe78d994c872bf732d5dbd03def"
       },
       "preview": {
         "path": "art/icons/resources/27-soil-additives/res_shell_meal-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "f096a980b6e5da3956b4b5412d03f5c682154f7df74e9501c3198f93c86390f3"
+        "sha256": "388902ef77f99045180d1ca0264b5651678aa8561e2f7df76a4d4a60e106c7bf"
       }
     },
     {
@@ -4643,19 +4644,19 @@
       "group_slug": "27-soil-additives",
       "group_order": 27,
       "item_order": 3,
-      "version": "v002",
-      "publication_version": "2026-10-16.1",
+      "version": "v003",
+      "publication_version": "2026-10-17.1",
       "thumbnail": {
         "path": "art/icons/resources/27-soil-additives/res_charcoal_fines-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "9c0115b2c7442e8a34f42876634d798a53c686b34e56018074c7cef01f290661"
+        "sha256": "895d7a14bc55f93ffb5404931841f067278514a5f8af8e2a0878b801934bfdd5"
       },
       "preview": {
         "path": "art/icons/resources/27-soil-additives/res_charcoal_fines-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "1b1e8a6c578dc39bb03df630d7aeae57862fbc7728e2970dc90bedc14e44e09c"
+        "sha256": "f9011b9b7869f620f362dfdf9350c7dcd1c66263ff5ba649aee86cf2dae7c266"
       }
     },
     {
@@ -4668,19 +4669,19 @@
       "group_slug": "27-soil-additives",
       "group_order": 27,
       "item_order": 4,
-      "version": "v001",
-      "publication_version": "2026-10-16.1",
+      "version": "v003",
+      "publication_version": "2026-10-17.1",
       "thumbnail": {
         "path": "art/icons/resources/27-soil-additives/res_agricultural_lime-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "4bb295d71e2962da7fafd607c3f7524791c6995423034e468d075b21eaf21cab"
+        "sha256": "0b3bf3ee46f337335aee6118d5b4a3c48db254d150c8a0b6f1b489da5815c952"
       },
       "preview": {
         "path": "art/icons/resources/27-soil-additives/res_agricultural_lime-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "c6c6442d3a5273b7de98888288f5dab725e2947dfe19a70eeb5289a4959443c0"
+        "sha256": "e8e0f44ff856211a90b44d4252f503d52c8af53a2da5dd33c6c09ab89c426601"
       }
     },
     {
@@ -4693,19 +4694,19 @@
       "group_slug": "27-soil-additives",
       "group_order": 27,
       "item_order": 5,
-      "version": "v002",
-      "publication_version": "2026-10-16.1",
+      "version": "v003",
+      "publication_version": "2026-10-17.1",
       "thumbnail": {
         "path": "art/icons/resources/27-soil-additives/res_gypsum_meal-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "b2e6400aa7ee38b026131f33a04f6c4c1da48039e8e429fbdc6bf625c7100d14"
+        "sha256": "6a2415d5daeec9f610927e5f23445ab8aac66580f0cb24213db3e0ff70d29177"
       },
       "preview": {
         "path": "art/icons/resources/27-soil-additives/res_gypsum_meal-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "d841c25fe87afd80e62ac731499ccaad9743f6aee273e5dcc40f3434e5c418eb"
+        "sha256": "d0dc18da4d458e5be281c558343a35c237dc62bf3f81fd0194ced6c3b294c92b"
       }
     },
     {
@@ -4718,19 +4719,19 @@
       "group_slug": "27-soil-additives",
       "group_order": 27,
       "item_order": 6,
-      "version": "v002",
-      "publication_version": "2026-10-16.1",
+      "version": "v003",
+      "publication_version": "2026-10-17.1",
       "thumbnail": {
         "path": "art/icons/resources/27-soil-additives/res_compost-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "53524e7918f0fe5994cf8be499967fdeb7025f959b9262dd890725edb7c24664"
+        "sha256": "862cf415f7cbec8671613b9bdd7398bffebf5c5777c4bb1caa8ff8a542567687"
       },
       "preview": {
         "path": "art/icons/resources/27-soil-additives/res_compost-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "19fc42bfb70646a874583a15b660a8972141c4ea9930ff931980445a9975d23f"
+        "sha256": "777f0437060a6ced4583aa9232fe2063a5ff25081034b04b779a3f2c23930a79"
       }
     },
     {
@@ -5032,6 +5033,981 @@
         "height": 320,
         "sha256": "12248886c0323561fbb281e5501d6c705362e61e118118023ea12b3f0fc5604e"
       }
+    },
+    {
+      "id": "RES_TIMBER",
+      "name": "Timber",
+      "display_name": "Timber",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 1,
+      "version": "v002",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_timber-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "b9f512de95bb22c639197f6a24c4720c95044594fea89cb436daefee4d497790"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_timber-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "f9acceb006e32faade1e52b704c8b1803f7866dea8695d03bc79f3bd7adba5f9"
+      }
+    },
+    {
+      "id": "RES_LUMBER_PLANK",
+      "name": "Lumber",
+      "display_name": "Lumber",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 2,
+      "version": "v001",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_lumber_plank-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "e249e4daf12d0a0b9bf53c4003cdf2046a3fff7444cabaa7044cc3fdd28f9682"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_lumber_plank-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "aa71729bd1d24134bef645f3f8fa3fe82c174db93e95141988442cea69b47c79"
+      }
+    },
+    {
+      "id": "RES_FRESH_FIREWOOD",
+      "name": "Fresh Firewood",
+      "display_name": "Fresh Firewood",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 3,
+      "version": "v002",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_fresh_firewood-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "97da017e60967da9a180d99ad9dac08a0662eea80274c7a05b0b7da566e4d4a7"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_fresh_firewood-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "f9fe1f513a8f57a00b4fd62da6e5529123285a21ea7d71cb15bfe88cdfca1307"
+      }
+    },
+    {
+      "id": "RES_DRY_FIREWOOD",
+      "name": "Dry Firewood",
+      "display_name": "Dry Firewood",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 4,
+      "version": "v002",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_dry_firewood-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "d16bc3f0a737c5cc6e06c068f2cc3df68d35c3664321d741a4af89e481ef4ee9"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_dry_firewood-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "26f2174783fba08502f53280aaa72259068790e98a73efd086a771929e7c49e0"
+      }
+    },
+    {
+      "id": "ITM_CORDAGE",
+      "name": "Cordage",
+      "display_name": "Cordage",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 5,
+      "version": "v002",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/itm_cordage-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "b65a26815aa5bc2e64926dae2dae69bf96f8b0972ee7636f21500fcd8fbaa8f0"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/itm_cordage-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "2f851b07524b6676d8def70f9531a49c58c73cd6cb504d80f52c057e164394b2"
+      }
+    },
+    {
+      "id": "RES_CANVAS",
+      "name": "Canvas",
+      "display_name": "Canvas",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 6,
+      "version": "v002",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_canvas-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "880b5dbe18658994c73317b7b88cc2f04832e9c343fae5fc13bc7593785ac944"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_canvas-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "f2e3df4d97ae0d9e0ed0fd5df57c6c947aff4e21344232024014e2837bf5bab1"
+      }
+    },
+    {
+      "id": "RES_NETTING",
+      "name": "Netting",
+      "display_name": "Netting",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 7,
+      "version": "v001",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_netting-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "ddb6587a13a5ac25a35a7bdfc9ef8ffd1bd3cd5723de4c57f73536504bc66c46"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_netting-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "1605bfa3afce1cfa9e9cd0a99070429f2f33e3f7f897a273e5ed6320e235ab3c"
+      }
+    },
+    {
+      "id": "RES_LIGHTWEIGHT_CANOPY",
+      "name": "Lightweight Canopy",
+      "display_name": "Lightweight Canopy",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 8,
+      "version": "v002",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_lightweight_canopy-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "0f4874621eccdaf06674b3f9e3ce1a7e1cfefdda40361b8c39bd9022b1ccf46d"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_lightweight_canopy-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "e2b9f9deefcd6f1591f02629d07fab1ab44f5245446542f466320f7f13ba3ad6"
+      }
+    },
+    {
+      "id": "RES_WICK",
+      "name": "Wick",
+      "display_name": "Wick",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 9,
+      "version": "v001",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_wick-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "8a43a29832a65b2d6f415ce21be25c1977f19316b4b8d0de6533d950f638ab71"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_wick-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "68189713d71297c4c816dce0d42cb5c886c284513af605999be691067425bdcf"
+      }
+    },
+    {
+      "id": "RES_BINDER",
+      "name": "Binder",
+      "display_name": "Binder",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 10,
+      "version": "v001",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_binder-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "2049dda0c22d7e68ef22389a07f7839426dda9525e6748657f553e87019c523e"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_binder-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "1cf741cb9f2b310e96f104b0b4bf371a9c5458cc3d725491c091ddef8845d41a"
+      }
+    },
+    {
+      "id": "RES_SEALANT",
+      "name": "Sealant",
+      "display_name": "Sealant",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 11,
+      "version": "v001",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_sealant-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "407505ff6797c1c81a0d920caf1f4db392106fed4e78208a7a79e35280f7e108"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_sealant-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "6be3c4baa64405affb6490aee7bea8f82f1cb9ea4ec6d15c60eb5bde9a17ac10"
+      }
+    },
+    {
+      "id": "RES_PAPER_PULP",
+      "name": "Paper pulp",
+      "display_name": "Paper Pulp",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 12,
+      "version": "v001",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_paper_pulp-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "211192d135d5211a21163732ee6d2272a6a6b5b825b7c3a84ccd240bddbebcb8"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_paper_pulp-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "13ecb7c726229ede9c2ef84e78fcdfc403bc19171acfe88acff947b1e59d1812"
+      }
+    },
+    {
+      "id": "RES_PAPER",
+      "name": "Paper",
+      "display_name": "Paper",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 13,
+      "version": "v002",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_paper-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "294fb50d5ac6587ad1421d9010807679e2574462edf327cfb32ec1104ac8cbd3"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_paper-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "55874f629f4c2ce9fd8bc3182f7a772f5d7558f7f9c5d0deabe2b845604d6c8b"
+      }
+    },
+    {
+      "id": "RES_INK",
+      "name": "Ink",
+      "display_name": "Ink",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 14,
+      "version": "v001",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_ink-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "6a2dfd7dc4f822717d04e3e956b2c3106f831f4326c351079bd3aa23f1282b97"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_ink-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "f632d1bacc9bf81c20e6d78c4359ace8200a7a19c219cc52534432b3628c42ba"
+      }
+    },
+    {
+      "id": "RES_BRICK_MIX",
+      "name": "Brick Mix",
+      "display_name": "Brick Mix",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 15,
+      "version": "v003",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_brick_mix-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "9dc169b73b9e16df717b8894be96b40c9da8b23eb74829559ada72119a2c165b"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_brick_mix-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "78f25270e271da585b2ebadaedb68ed1210c7d5874cb0052ecd734b20fa1009a"
+      }
+    },
+    {
+      "id": "RES_BRICKS",
+      "name": "Bricks",
+      "display_name": "Bricks",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 16,
+      "version": "v002",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_bricks-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "bc7adb039e3ed2c94be5562b4b0e326c9922fe35125e425202562a1f936dcf63"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_bricks-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "470b61c30a987a8a07d8121a175ca9edc1e1dcbc37a833bcd5abb93de8a38e50"
+      }
+    },
+    {
+      "id": "RES_TEMPERED_CLAY_MIX",
+      "name": "Tempered clay mix",
+      "display_name": "Tempered Clay Mix",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 17,
+      "version": "v003",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_tempered_clay_mix-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "271c6e37cfdfa54c6ebcf0e58a3ecc581058d7c7c42acb22d820f685e9381475"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_tempered_clay_mix-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "9e44ae48326aa2e0baa6df06f035fd0a0ef6592b43da6aff8d29a27c7848ecdf"
+      }
+    },
+    {
+      "id": "RES_DAUB_MIX",
+      "name": "Daub",
+      "display_name": "Daub",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 18,
+      "version": "v002",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_daub_mix-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "60d597cf1e760ab75375909eec1a3804f3c4615ee9c1dd716d4444702a9bf76c"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_daub_mix-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "eff184b7a406655884fdaf13ddbe20e9d41a0f408487f10a22c6366c78965126"
+      }
+    },
+    {
+      "id": "RES_MORTAR",
+      "name": "Mortar",
+      "display_name": "Mortar",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 19,
+      "version": "v001",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_mortar-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "6ed05060e0a20293bb04da03856ff03f347e5ce4990714a8532d0f290fabf485"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_mortar-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "6b27b22e6a479923498e545d8acd43dc39219b59e3f52f6afbe8c87f1e2db427"
+      }
+    },
+    {
+      "id": "RES_QUICKLIME",
+      "name": "Quicklime",
+      "display_name": "Quicklime",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 20,
+      "version": "v003",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_quicklime-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "77dbbdc8ac4b1eea28d73c20a197b963c8246f5071ac8c6aa59f4d2868a8d8ad"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_quicklime-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "b4d3c318d6a706c4b079e8eab659b9369424dc84a2382f6f5cba09c2ca0c8328"
+      }
+    },
+    {
+      "id": "RES_SHELL_LIME",
+      "name": "Shell Lime",
+      "display_name": "Shell Lime",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 21,
+      "version": "v002",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_shell_lime-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "5318e9b1e142f9241984cff00c6e0acaba99c3d4e5c148add3755e7b4f146797"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_shell_lime-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "5bbbe5cdf31f600737f8a6c6a704b7f76fb53ba55b25b368da47427c6c25a3ae"
+      }
+    },
+    {
+      "id": "RES_SLAKED_LIME",
+      "name": "Slaked Lime",
+      "display_name": "Slaked Lime",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 22,
+      "version": "v001",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_slaked_lime-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "7febe978421631ad958fde56547bf028fffa3e0c1ac4790d8364b2c5607e071f"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_slaked_lime-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "b9ccc4439924e4ddd8865adcabb63e6f557a6b7fc2c9de2c419e39f305786f6d"
+      }
+    },
+    {
+      "id": "RES_GROG",
+      "name": "Grog",
+      "display_name": "Grog",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 23,
+      "version": "v001",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_grog-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "c120e71e77d4e899a937c26f75b0c14a89d4351eb6d4ec86496c3d8292b2fbf7"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_grog-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "795b63290b085fe9a7e046ffb0b7dad6ccb942a06ea5fcd6f59e90f1e4ef2647"
+      }
+    },
+    {
+      "id": "RES_CERAMIC_VESSEL",
+      "name": "Ceramic Vessel",
+      "display_name": "Ceramic Vessel",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 24,
+      "version": "v001",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_ceramic_vessel-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "a30d5b51440895015a3fe4fd5fe4295e2c1eba6a88ec6c5cba61a19e701c05e9"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_ceramic_vessel-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "c5402ba9d35979118dff9b5fc7b191dd57dfb67370fddbbd373cd1176b3c87f8"
+      }
+    },
+    {
+      "id": "RES_CLAY_JARS",
+      "name": "Clay jar",
+      "display_name": "Clay Jar",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 25,
+      "version": "v001",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_clay_jars-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "fbe680ae8f3302acfc3f2364d043268be79c15554b75ad52cd1cc6f83e9dff6e"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_clay_jars-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "371e34af9825aa2ed1c0fcab2475ffb40aa16505094bee3714afef1f011b77d5"
+      }
+    },
+    {
+      "id": "RES_MUG",
+      "name": "Mug",
+      "display_name": "Mug",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 26,
+      "version": "v001",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_mug-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "2cc233b0e2bfacef56685e46b8114551656c09330ebe73cd2b07d8246d7d1ebc"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_mug-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "2f2bb3945aed4500bb4e3e8f077b0e20bb2f61614c9eeec6bc9889f8bb0c1bbf"
+      }
+    },
+    {
+      "id": "RES_GLASS_JARS",
+      "name": "Glass Jar",
+      "display_name": "Glass Jar",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 27,
+      "version": "v002",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_glass_jars-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "e0a40d183df00e7c9d46ba912ddfd1c8a1bf4923f64aec941dd7702134a5e688"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_glass_jars-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "ab824dedc7feb9894ab7391ac0da9a4f79c3961fed244d7f47766d7f2291b1f2"
+      }
+    },
+    {
+      "id": "AMM_EMPTY_VIAL",
+      "name": "Empty Vial",
+      "display_name": "Empty Vial",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 28,
+      "version": "v002",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/amm_empty_vial-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "6130a526c0f32ce7a7d09d1e6db6c5ecb39ff65b19cdf8eaa7856f2ea9ef7dd3"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/amm_empty_vial-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "a09cf2ddbeb090644b90ed1d24755dea9cb151b115e984814312a86b00817087"
+      }
+    },
+    {
+      "id": "RES_FUR_LINING",
+      "name": "Fur Lining",
+      "display_name": "Fur Lining",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 29,
+      "version": "v001",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_fur_lining-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "1e9f3a319bcef943202e0b148ed33b5143cd6d6674a3f4f9a968614699191f58"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_fur_lining-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "5caf0b3b49616027d972b8ba3030a7f0e857995e7397e1774e12c5b8287376e0"
+      }
+    },
+    {
+      "id": "RES_LEATHER_PANEL",
+      "name": "Leather Panel",
+      "display_name": "Leather Panel",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 30,
+      "version": "v002",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_leather_panel-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "809f7a1b360933e8281f9ccf25b79e569a4be54e5f3f9626e327e87fb82fa555"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_leather_panel-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "85e878160c27a2fea6739f42230b0bba88e9b0d7d4741145b06e746ea231fd47"
+      }
+    },
+    {
+      "id": "RES_PARCHMENT",
+      "name": "Parchment",
+      "display_name": "Parchment",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 31,
+      "version": "v003",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_parchment-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "4ef840ef38867cf66063ffd39fc5a54d4677e83a7194bc59044fbe54d61ae2b9"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_parchment-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "843ee4c9de07971b380a4a98105a0310e925054253fb1d9b6be0cffd67f2035d"
+      }
+    },
+    {
+      "id": "RES_INCENDIARY_PASTE",
+      "name": "Incendiary Paste",
+      "display_name": "Incendiary Paste",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 32,
+      "version": "v001",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_incendiary_paste-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "eef9306aabbd65a20791ee09d2429b00600069ce4d37ceca8def638ed28d8e08"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_incendiary_paste-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "196c40d89fec6861466d875a5e6e45da337efe4eb9586addd7eb2a47761c1f64"
+      }
+    },
+    {
+      "id": "RES_CHAIN",
+      "name": "Chain",
+      "display_name": "Chain",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 33,
+      "version": "v001",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_chain-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "88cc9d8d69f545e64758a7a98055de8de26eb55b6c263c7cdb838d64ebb0b6ba"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_chain-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "247378d72c32d3c301994ccbd87562aea25d5c116b43eab69da84b5619970877"
+      }
+    },
+    {
+      "id": "RES_BLACK_POWDER",
+      "name": "Black powder",
+      "display_name": "Black Powder",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 34,
+      "version": "v001",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_black_powder-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "fdba2d170cc87906c599938d2cc2ca6ac924e473b82e6f53de19c102328c5901"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_black_powder-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "271bf8fa03f4262b6d07094f971c1013b5f094e9d15e1bd049fd931b41dab806"
+      }
+    },
+    {
+      "id": "RES_SALTPETER",
+      "name": "Saltpeter",
+      "display_name": "Saltpeter",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 35,
+      "version": "v003",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_saltpeter-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "1d00bde2a068c53e8d68d7b1d99f8527eb13111ada0e2a35250d7702ee1a75ab"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_saltpeter-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "c412f42428754e85d14b9163924b54383c88815ec4c9bf2e9cd1962739611a46"
+      }
+    },
+    {
+      "id": "RES_MAGIC_CRYSTAL",
+      "name": "Magic crystal",
+      "display_name": "Magic Crystal",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 36,
+      "version": "v002",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_magic_crystal-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "27aa35ea11250f1fd63d4b7b8ead9f6b2f7845e2a8a58dcaf9b6bd57b9aa3772"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_magic_crystal-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "4aad247f91eb7a57aaabb8fa7a4eb033a50f20a792305352f1a56f88afa2e66c"
+      }
+    },
+    {
+      "id": "RES_ANIMAL_FEED",
+      "name": "Animal feed",
+      "display_name": "Animal Feed",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 37,
+      "version": "v001",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_animal_feed-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "d28ad765b18629a1b395ee19e24fe5430343a2395fe3cdddea88f52cb330248a"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_animal_feed-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "b16afe07c86c4b6612b61099502021482b28193de3af1342b65eabfbe4841745"
+      }
+    },
+    {
+      "id": "RES_GRAPE_POMACE",
+      "name": "Grape Pomace",
+      "display_name": "Grape Pomace",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 38,
+      "version": "v001",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_grape_pomace-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "284a5b77a3b72f0052d86e87c4f0203834e561997a5fd9da033197b0b4c119e1"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_grape_pomace-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "c8d01f4a0c52e470d0248242880d6884883bd1e047e2c3d44f3fd04f44ad6f5f"
+      }
+    },
+    {
+      "id": "EQP_ROPE",
+      "name": "Rope",
+      "display_name": "Rope",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Crafted Materials and Utility",
+      "group_slug": "31-crafted-utility",
+      "group_order": 31,
+      "item_order": 39,
+      "version": "v001",
+      "publication_version": "2026-10-17.1",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/eqp_rope-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "8ceb54161783ab01f07f886e639b6b11c97ab8186f0cbe6fb5398c22dc0d68ff"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/eqp_rope-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "18f8fdd0569c236a88e7eba388e01e6e7c9de502f249bf15c32e5995c59d171f"
+      }
     }
   ],
   "retired": [
@@ -5042,5 +6018,5 @@
       "retired_in": "2026-10-16.3"
     }
   ],
-  "latest_release": "2026-10-16.3"
+  "latest_release": "2026-10-17.1"
 }

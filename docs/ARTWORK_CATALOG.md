@@ -1,6 +1,6 @@
 # Into the Far Wilds — artwork catalog
 
-**201 published artworks** · 189 resource icons · 12 currency icons
+**240 published artworks** · 228 resource icons · 12 currency icons
 
 By Crow Brain Games. Select an image to open its larger public preview.
 
@@ -14,6 +14,7 @@ By Crow Brain Games. Select an image to open its larger public preview.
 [Sulfur](#resources-16-sulfur) · [Crystal](#resources-17-crystal) · [Gem](#resources-18-gem) · [Sweeteners](#resources-19-sweeteners) · [Salt](#resources-20-salt)
 [Fertilizer](#resources-21-fertilizer) · [Shards](#resources-22-shards) · [Fabric](#resources-23-fabric) · [Leather](#resources-24-leather) · [Glass](#resources-25-glass)
 [Alloy](#resources-26-alloy) · [Soil Additives](#resources-27-soil-additives) · [Royal Currency](#currencies-01-royal) · [Lawless / Pirate Currency](#currencies-02-lawless) · [Faction-Neutral Currency and Valuables](#currencies-03-neutral)
+[Crafted Materials and Utility](#resources-31-crafted-utility)
 
 <a id="resources-01-fiber"></a>
 ## Fiber
@@ -280,8 +281,8 @@ By Crow Brain Games. Select an image to open its larger public preview.
 
 | Soil Additives | Wood Ash | Shell Meal | Charcoal Fines | Agricultural Lime | Gypsum Meal | Compost |
 |---|---|---|---|---|---|---|
-| [![Soil Additives](../art/icons/resources/27-soil-additives/res_soil_additives-thumbnail.png?v=dbcf7d5687a7)](../art/icons/resources/27-soil-additives/res_soil_additives-preview.png?v=961719ead2e7) | [![Wood Ash](../art/icons/resources/27-soil-additives/res_wood_ash-thumbnail.png?v=3c2a48df1dd5)](../art/icons/resources/27-soil-additives/res_wood_ash-preview.png?v=599e9d28b803) | [![Shell Meal](../art/icons/resources/27-soil-additives/res_shell_meal-thumbnail.png?v=ec2c8df21fa0)](../art/icons/resources/27-soil-additives/res_shell_meal-preview.png?v=f096a980b6e5) | [![Charcoal Fines](../art/icons/resources/27-soil-additives/res_charcoal_fines-thumbnail.png?v=9c0115b2c744)](../art/icons/resources/27-soil-additives/res_charcoal_fines-preview.png?v=1b1e8a6c578d) | [![Agricultural Lime](../art/icons/resources/27-soil-additives/res_agricultural_lime-thumbnail.png?v=4bb295d71e29)](../art/icons/resources/27-soil-additives/res_agricultural_lime-preview.png?v=c6c6442d3a52) | [![Gypsum Meal](../art/icons/resources/27-soil-additives/res_gypsum_meal-thumbnail.png?v=b2e6400aa7ee)](../art/icons/resources/27-soil-additives/res_gypsum_meal-preview.png?v=d841c25fe87a) | [![Compost](../art/icons/resources/27-soil-additives/res_compost-thumbnail.png?v=53524e7918f0)](../art/icons/resources/27-soil-additives/res_compost-preview.png?v=19fc42bfb706) |
-| Parent · v002 | v002 | v001 | v002 | v001 | v002 | v002 |
+| [![Soil Additives](../art/icons/resources/27-soil-additives/res_soil_additives-thumbnail.png?v=3eb50d44349c)](../art/icons/resources/27-soil-additives/res_soil_additives-preview.png?v=36b092151378) | [![Wood Ash](../art/icons/resources/27-soil-additives/res_wood_ash-thumbnail.png?v=8a1788320f2f)](../art/icons/resources/27-soil-additives/res_wood_ash-preview.png?v=7df249356870) | [![Shell Meal](../art/icons/resources/27-soil-additives/res_shell_meal-thumbnail.png?v=6b202ebe3dfe)](../art/icons/resources/27-soil-additives/res_shell_meal-preview.png?v=388902ef77f9) | [![Charcoal Fines](../art/icons/resources/27-soil-additives/res_charcoal_fines-thumbnail.png?v=895d7a14bc55)](../art/icons/resources/27-soil-additives/res_charcoal_fines-preview.png?v=f9011b9b7869) | [![Agricultural Lime](../art/icons/resources/27-soil-additives/res_agricultural_lime-thumbnail.png?v=0b3bf3ee46f3)](../art/icons/resources/27-soil-additives/res_agricultural_lime-preview.png?v=e8e0f44ff856) | [![Gypsum Meal](../art/icons/resources/27-soil-additives/res_gypsum_meal-thumbnail.png?v=6a2415d5daee)](../art/icons/resources/27-soil-additives/res_gypsum_meal-preview.png?v=d0dc18da4d45) | [![Compost](../art/icons/resources/27-soil-additives/res_compost-thumbnail.png?v=862cf415f7cb)](../art/icons/resources/27-soil-additives/res_compost-preview.png?v=777f0437060a) |
+| Parent · v003 | v003 | v002 | v003 | v003 | v003 | v003 |
 
 [Back to collections](#collections)
 
@@ -312,6 +313,41 @@ By Crow Brain Games. Select an image to open its larger public preview.
 |---|---|---|---|
 | [![Promissory Note](../art/icons/currencies/03-neutral/res_promissory_note-thumbnail.png?v=1d9f15bacaff)](../art/icons/currencies/03-neutral/res_promissory_note-preview.png?v=06a876bdac97) | [![Gold Nugget](../art/icons/currencies/03-neutral/res_gold_nugget-thumbnail.png?v=6769de63605e)](../art/icons/currencies/03-neutral/res_gold_nugget-preview.png?v=a2791d946927) | [![Gold Bar](../art/icons/currencies/03-neutral/res_gold_bar-thumbnail.png?v=7ab60ea97cbd)](../art/icons/currencies/03-neutral/res_gold_bar-preview.png?v=7ee0886eeec2) | [![Cut Diamond](../art/icons/currencies/03-neutral/res_cut_diamond-thumbnail.png?v=203659b5042f)](../art/icons/currencies/03-neutral/res_cut_diamond-preview.png?v=12248886c032) |
 | v009 | v001 | v001 | v001 |
+
+[Back to collections](#collections)
+
+<a id="resources-31-crafted-utility"></a>
+## Crafted Materials and Utility
+
+| Timber | Lumber | Fresh Firewood | Dry Firewood | Cordage | Canvas | Netting |
+|---|---|---|---|---|---|---|
+| [![Timber](../art/icons/resources/31-crafted-utility/res_timber-thumbnail.png?v=b9f512de95bb)](../art/icons/resources/31-crafted-utility/res_timber-preview.png?v=f9acceb006e3) | [![Lumber](../art/icons/resources/31-crafted-utility/res_lumber_plank-thumbnail.png?v=e249e4daf12d)](../art/icons/resources/31-crafted-utility/res_lumber_plank-preview.png?v=aa71729bd1d2) | [![Fresh Firewood](../art/icons/resources/31-crafted-utility/res_fresh_firewood-thumbnail.png?v=97da017e6096)](../art/icons/resources/31-crafted-utility/res_fresh_firewood-preview.png?v=f9fe1f513a8f) | [![Dry Firewood](../art/icons/resources/31-crafted-utility/res_dry_firewood-thumbnail.png?v=d16bc3f0a737)](../art/icons/resources/31-crafted-utility/res_dry_firewood-preview.png?v=26f2174783fb) | [![Cordage](../art/icons/resources/31-crafted-utility/itm_cordage-thumbnail.png?v=b65a26815aa5)](../art/icons/resources/31-crafted-utility/itm_cordage-preview.png?v=2f851b07524b) | [![Canvas](../art/icons/resources/31-crafted-utility/res_canvas-thumbnail.png?v=880b5dbe1865)](../art/icons/resources/31-crafted-utility/res_canvas-preview.png?v=f2e3df4d97ae) | [![Netting](../art/icons/resources/31-crafted-utility/res_netting-thumbnail.png?v=ddb6587a13a5)](../art/icons/resources/31-crafted-utility/res_netting-preview.png?v=1605bfa3afce) |
+| v002 | v001 | v002 | v002 | v002 | v002 | v001 |
+
+| Lightweight Canopy | Wick | Binder | Sealant | Paper Pulp | Paper | Ink |
+|---|---|---|---|---|---|---|
+| [![Lightweight Canopy](../art/icons/resources/31-crafted-utility/res_lightweight_canopy-thumbnail.png?v=0f4874621ecc)](../art/icons/resources/31-crafted-utility/res_lightweight_canopy-preview.png?v=e2b9f9deefcd) | [![Wick](../art/icons/resources/31-crafted-utility/res_wick-thumbnail.png?v=8a43a29832a6)](../art/icons/resources/31-crafted-utility/res_wick-preview.png?v=68189713d712) | [![Binder](../art/icons/resources/31-crafted-utility/res_binder-thumbnail.png?v=2049dda0c22d)](../art/icons/resources/31-crafted-utility/res_binder-preview.png?v=1cf741cb9f2b) | [![Sealant](../art/icons/resources/31-crafted-utility/res_sealant-thumbnail.png?v=407505ff6797)](../art/icons/resources/31-crafted-utility/res_sealant-preview.png?v=6be3c4baa644) | [![Paper Pulp](../art/icons/resources/31-crafted-utility/res_paper_pulp-thumbnail.png?v=211192d135d5)](../art/icons/resources/31-crafted-utility/res_paper_pulp-preview.png?v=13ecb7c72622) | [![Paper](../art/icons/resources/31-crafted-utility/res_paper-thumbnail.png?v=294fb50d5ac6)](../art/icons/resources/31-crafted-utility/res_paper-preview.png?v=55874f629f4c) | [![Ink](../art/icons/resources/31-crafted-utility/res_ink-thumbnail.png?v=6a2dfd7dc4f8)](../art/icons/resources/31-crafted-utility/res_ink-preview.png?v=f632d1bacc9b) |
+| v002 | v001 | v001 | v001 | v001 | v002 | v001 |
+
+| Brick Mix | Bricks | Tempered Clay Mix | Daub | Mortar | Quicklime | Shell Lime |
+|---|---|---|---|---|---|---|
+| [![Brick Mix](../art/icons/resources/31-crafted-utility/res_brick_mix-thumbnail.png?v=9dc169b73b9e)](../art/icons/resources/31-crafted-utility/res_brick_mix-preview.png?v=78f25270e271) | [![Bricks](../art/icons/resources/31-crafted-utility/res_bricks-thumbnail.png?v=bc7adb039e3e)](../art/icons/resources/31-crafted-utility/res_bricks-preview.png?v=470b61c30a98) | [![Tempered Clay Mix](../art/icons/resources/31-crafted-utility/res_tempered_clay_mix-thumbnail.png?v=271c6e37cfdf)](../art/icons/resources/31-crafted-utility/res_tempered_clay_mix-preview.png?v=9e44ae48326a) | [![Daub](../art/icons/resources/31-crafted-utility/res_daub_mix-thumbnail.png?v=60d597cf1e76)](../art/icons/resources/31-crafted-utility/res_daub_mix-preview.png?v=eff184b7a406) | [![Mortar](../art/icons/resources/31-crafted-utility/res_mortar-thumbnail.png?v=6ed05060e0a2)](../art/icons/resources/31-crafted-utility/res_mortar-preview.png?v=6b27b22e6a47) | [![Quicklime](../art/icons/resources/31-crafted-utility/res_quicklime-thumbnail.png?v=77dbbdc8ac4b)](../art/icons/resources/31-crafted-utility/res_quicklime-preview.png?v=b4d3c318d6a7) | [![Shell Lime](../art/icons/resources/31-crafted-utility/res_shell_lime-thumbnail.png?v=5318e9b1e142)](../art/icons/resources/31-crafted-utility/res_shell_lime-preview.png?v=5bbbe5cdf31f) |
+| v003 | v002 | v003 | v002 | v001 | v003 | v002 |
+
+| Slaked Lime | Grog | Ceramic Vessel | Clay Jar | Mug | Glass Jar | Empty Vial |
+|---|---|---|---|---|---|---|
+| [![Slaked Lime](../art/icons/resources/31-crafted-utility/res_slaked_lime-thumbnail.png?v=7febe9784216)](../art/icons/resources/31-crafted-utility/res_slaked_lime-preview.png?v=b9ccc4439924) | [![Grog](../art/icons/resources/31-crafted-utility/res_grog-thumbnail.png?v=c120e71e77d4)](../art/icons/resources/31-crafted-utility/res_grog-preview.png?v=795b63290b08) | [![Ceramic Vessel](../art/icons/resources/31-crafted-utility/res_ceramic_vessel-thumbnail.png?v=a30d5b514408)](../art/icons/resources/31-crafted-utility/res_ceramic_vessel-preview.png?v=c5402ba9d359) | [![Clay Jar](../art/icons/resources/31-crafted-utility/res_clay_jars-thumbnail.png?v=fbe680ae8f33)](../art/icons/resources/31-crafted-utility/res_clay_jars-preview.png?v=371e34af9825) | [![Mug](../art/icons/resources/31-crafted-utility/res_mug-thumbnail.png?v=2cc233b0e2bf)](../art/icons/resources/31-crafted-utility/res_mug-preview.png?v=2f2bb3945aed) | [![Glass Jar](../art/icons/resources/31-crafted-utility/res_glass_jars-thumbnail.png?v=e0a40d183df0)](../art/icons/resources/31-crafted-utility/res_glass_jars-preview.png?v=ab824dedc7fe) | [![Empty Vial](../art/icons/resources/31-crafted-utility/amm_empty_vial-thumbnail.png?v=6130a526c0f3)](../art/icons/resources/31-crafted-utility/amm_empty_vial-preview.png?v=a09cf2ddbeb0) |
+| v001 | v001 | v001 | v001 | v001 | v002 | v002 |
+
+| Fur Lining | Leather Panel | Parchment | Incendiary Paste | Chain | Black Powder | Saltpeter |
+|---|---|---|---|---|---|---|
+| [![Fur Lining](../art/icons/resources/31-crafted-utility/res_fur_lining-thumbnail.png?v=1e9f3a319bce)](../art/icons/resources/31-crafted-utility/res_fur_lining-preview.png?v=5caf0b3b4961) | [![Leather Panel](../art/icons/resources/31-crafted-utility/res_leather_panel-thumbnail.png?v=809f7a1b3609)](../art/icons/resources/31-crafted-utility/res_leather_panel-preview.png?v=85e878160c27) | [![Parchment](../art/icons/resources/31-crafted-utility/res_parchment-thumbnail.png?v=4ef840ef3886)](../art/icons/resources/31-crafted-utility/res_parchment-preview.png?v=843ee4c9de07) | [![Incendiary Paste](../art/icons/resources/31-crafted-utility/res_incendiary_paste-thumbnail.png?v=eef9306aabbd)](../art/icons/resources/31-crafted-utility/res_incendiary_paste-preview.png?v=196c40d89fec) | [![Chain](../art/icons/resources/31-crafted-utility/res_chain-thumbnail.png?v=88cc9d8d69f5)](../art/icons/resources/31-crafted-utility/res_chain-preview.png?v=247378d72c32) | [![Black Powder](../art/icons/resources/31-crafted-utility/res_black_powder-thumbnail.png?v=fdba2d170cc8)](../art/icons/resources/31-crafted-utility/res_black_powder-preview.png?v=271bf8fa03f4) | [![Saltpeter](../art/icons/resources/31-crafted-utility/res_saltpeter-thumbnail.png?v=1d00bde2a068)](../art/icons/resources/31-crafted-utility/res_saltpeter-preview.png?v=c412f4242875) |
+| v001 | v002 | v003 | v001 | v001 | v001 | v003 |
+
+| Magic Crystal | Animal Feed | Grape Pomace | Rope |
+|---|---|---|---|
+| [![Magic Crystal](../art/icons/resources/31-crafted-utility/res_magic_crystal-thumbnail.png?v=27aa35ea1125)](../art/icons/resources/31-crafted-utility/res_magic_crystal-preview.png?v=4aad247f91eb) | [![Animal Feed](../art/icons/resources/31-crafted-utility/res_animal_feed-thumbnail.png?v=d28ad765b186)](../art/icons/resources/31-crafted-utility/res_animal_feed-preview.png?v=b16afe07c86c) | [![Grape Pomace](../art/icons/resources/31-crafted-utility/res_grape_pomace-thumbnail.png?v=284a5b77a3b7)](../art/icons/resources/31-crafted-utility/res_grape_pomace-preview.png?v=c8d01f4a0c52) | [![Rope](../art/icons/resources/31-crafted-utility/eqp_rope-thumbnail.png?v=8ceb54161783)](../art/icons/resources/31-crafted-utility/eqp_rope-preview.png?v=18f8fdd0569c) |
+| v002 | v001 | v001 | v001 |
 
 [Back to collections](#collections)
 

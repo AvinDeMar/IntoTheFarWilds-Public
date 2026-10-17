@@ -6,7 +6,7 @@ An evolving visual identity, one material at a time.
 
 A curated collection of artwork for **Into the Far Wilds**, in development by **Crow Brain Games**. This showcase begins with resource and currency icons and can grow to include owner-selected concept art, environments, characters and screenshots.
 
-**201 published artworks** · 189 resource icons · 12 currency and portable-valuable icons
+**240 published artworks** · 228 resource icons · 12 currency and portable-valuable icons
 
 **[Browse the complete labeled gallery](docs/ARTWORK_CATALOG.md)** · **[Open the interactive showcase](https://avindemar.github.io/IntoTheFarWilds-Public/)**
 
@@ -24,6 +24,7 @@ Transparent previews, original family order, and larger images one click away.
 [Sulfur](docs/ARTWORK_CATALOG.md#resources-16-sulfur) · [Crystal](docs/ARTWORK_CATALOG.md#resources-17-crystal) · [Gem](docs/ARTWORK_CATALOG.md#resources-18-gem) · [Sweeteners](docs/ARTWORK_CATALOG.md#resources-19-sweeteners) · [Salt](docs/ARTWORK_CATALOG.md#resources-20-salt)
 [Fertilizer](docs/ARTWORK_CATALOG.md#resources-21-fertilizer) · [Shards](docs/ARTWORK_CATALOG.md#resources-22-shards) · [Fabric](docs/ARTWORK_CATALOG.md#resources-23-fabric) · [Leather](docs/ARTWORK_CATALOG.md#resources-24-leather) · [Glass](docs/ARTWORK_CATALOG.md#resources-25-glass)
 [Alloy](docs/ARTWORK_CATALOG.md#resources-26-alloy) · [Soil Additives](docs/ARTWORK_CATALOG.md#resources-27-soil-additives) · [Royal Currency](docs/ARTWORK_CATALOG.md#currencies-01-royal) · [Lawless / Pirate Currency](docs/ARTWORK_CATALOG.md#currencies-02-lawless) · [Faction-Neutral Currency and Valuables](docs/ARTWORK_CATALOG.md#currencies-03-neutral)
+[Crafted Materials and Utility](docs/ARTWORK_CATALOG.md#resources-31-crafted-utility)
 
 ### Artwork rights
 
