@@ -1,6 +1,6 @@
 # Into the Far Wilds — artwork catalog
 
-**241 published artworks** · 229 resource icons · 12 currency icons
+**243 published artworks** · 231 resource icons · 12 currency icons
 
 By Crow Brain Games. Select an image to open its larger public preview.
 
@@ -380,10 +380,10 @@ By Crow Brain Games. Select an image to open its larger public preview.
 | [![Ceramic Vessel](../art/icons/resources/31-crafted-utility/res_ceramic_vessel-thumbnail.png?v=a30d5b514408)](../art/icons/resources/31-crafted-utility/res_ceramic_vessel-preview.png?v=c5402ba9d359) | [![Mug](../art/icons/resources/31-crafted-utility/res_mug-thumbnail.png?v=2cc233b0e2bf)](../art/icons/resources/31-crafted-utility/res_mug-preview.png?v=2f2bb3945aed) | [![Clay Jar](../art/icons/resources/31-crafted-utility/res_clay_jars-thumbnail.png?v=fbe680ae8f33)](../art/icons/resources/31-crafted-utility/res_clay_jars-preview.png?v=371e34af9825) | [![Empty Vial](../art/icons/resources/31-crafted-utility/amm_empty_vial-thumbnail.png?v=6130a526c0f3)](../art/icons/resources/31-crafted-utility/amm_empty_vial-preview.png?v=a09cf2ddbeb0) | [![Glass Jar](../art/icons/resources/31-crafted-utility/res_glass_jars-thumbnail.png?v=e0a40d183df0)](../art/icons/resources/31-crafted-utility/res_glass_jars-preview.png?v=ab824dedc7fe) | [![Shell Lime](../art/icons/resources/31-crafted-utility/res_shell_lime-thumbnail.png?v=5318e9b1e142)](../art/icons/resources/31-crafted-utility/res_shell_lime-preview.png?v=5bbbe5cdf31f) | [![Bricks](../art/icons/resources/31-crafted-utility/res_bricks-thumbnail.png?v=bc7adb039e3e)](../art/icons/resources/31-crafted-utility/res_bricks-preview.png?v=470b61c30a98) |
 | v001 | v001 | v001 | v002 | v002 | v002 | v002 |
 
-| Quicklime | Chain | Magic Crystal |
-|---|---|---|
-| [![Quicklime](../art/icons/resources/31-crafted-utility/res_quicklime-thumbnail.png?v=77dbbdc8ac4b)](../art/icons/resources/31-crafted-utility/res_quicklime-preview.png?v=b4d3c318d6a7) | [![Chain](../art/icons/resources/31-crafted-utility/res_chain-thumbnail.png?v=88cc9d8d69f5)](../art/icons/resources/31-crafted-utility/res_chain-preview.png?v=247378d72c32) | [![Magic Crystal](../art/icons/resources/31-crafted-utility/res_magic_crystal-thumbnail.png?v=27aa35ea1125)](../art/icons/resources/31-crafted-utility/res_magic_crystal-preview.png?v=4aad247f91eb) |
-| v003 | v001 | v002 |
+| Quicklime | Chain | Magic Crystal | Glass Bottle | Clay Jug |
+|---|---|---|---|---|
+| [![Quicklime](../art/icons/resources/31-crafted-utility/res_quicklime-thumbnail.png?v=77dbbdc8ac4b)](../art/icons/resources/31-crafted-utility/res_quicklime-preview.png?v=b4d3c318d6a7) | [![Chain](../art/icons/resources/31-crafted-utility/res_chain-thumbnail.png?v=88cc9d8d69f5)](../art/icons/resources/31-crafted-utility/res_chain-preview.png?v=247378d72c32) | [![Magic Crystal](../art/icons/resources/31-crafted-utility/res_magic_crystal-thumbnail.png?v=27aa35ea1125)](../art/icons/resources/31-crafted-utility/res_magic_crystal-preview.png?v=4aad247f91eb) | [![Glass Bottle](../art/icons/resources/36-kiln-furnace-products/res_glass_bottle-thumbnail.png?v=f955ac4d8559)](../art/icons/resources/36-kiln-furnace-products/res_glass_bottle-preview.png?v=f9ab3ce38460) | [![Clay Jug](../art/icons/resources/36-kiln-furnace-products/res_clay_jug-thumbnail.png?v=9aa3c4933e4c)](../art/icons/resources/36-kiln-furnace-products/res_clay_jug-preview.png?v=81bbcc2977ef) |
+| v003 | v001 | v002 | v001 | v001 |
 
 [Back to collections](#collections)
 

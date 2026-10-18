@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "release": "2026-10-17.3",
+  "release": "2026-10-17.4",
   "self": "publication-allowlist.json",
   "files": [
     {
@@ -29,7 +29,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "b3e58d137ab4b91d555fb56ebd80c7bb70755b65881b55df1bc6e1914d373be3"
+      "sha256": "70b719e8e31d9ef138decc471c867d94b5a8ebae57475f5a122055f203f20b9c"
     },
     {
       "path": "art/icons/currencies/01-royal/res_copper_farthing-preview.png",
@@ -1960,12 +1960,28 @@
       "sha256": "4929c1864c4d454cd6b33b834c63dca31f00a84e90cc4564fb4e41dc4a165bd6"
     },
     {
+      "path": "art/icons/resources/36-kiln-furnace-products/res_clay_jug-preview.png",
+      "sha256": "81bbcc2977ef5cd3872bacd3854b53079319b3e33dc61da0e87edbae6fa29db3"
+    },
+    {
+      "path": "art/icons/resources/36-kiln-furnace-products/res_clay_jug-thumbnail.png",
+      "sha256": "9aa3c4933e4cafb0bd948b1359ef9e9a3f4ea5f16974a873402d5c23a1a141e6"
+    },
+    {
+      "path": "art/icons/resources/36-kiln-furnace-products/res_glass_bottle-preview.png",
+      "sha256": "f9ab3ce3846077cb412e89e0dbb52b7cb2ddbaeb08703ce76897410ff24ba625"
+    },
+    {
+      "path": "art/icons/resources/36-kiln-furnace-products/res_glass_bottle-thumbnail.png",
+      "sha256": "f955ac4d85597c3e1f1864da9a1638090eacb9259f3a14a1e9d3e19878c392ee"
+    },
+    {
       "path": "catalog.json",
-      "sha256": "666bb0e4fb0e486c7f476cf86c05c13194dfe0d130edd752aca126858af2604c"
+      "sha256": "7b55406e120d62d30bda189951c17bbba03f76b80399ccf1c619ff9be3cae4dc"
     },
     {
       "path": "docs/ARTWORK_CATALOG.md",
-      "sha256": "a398ea765fd8e57413bf289d11b1276a51efd375526b8774be74e85c6bba9a68"
+      "sha256": "a5e9389d5bf5f5c1c797e91edc75213fb7b2760e75344d968456661c21ba3b90"
     },
     {
       "path": "docs/PUBLISHING.md",
@@ -1973,7 +1989,7 @@
     },
     {
       "path": "docs/RELEASES.md",
-      "sha256": "8643a5a2ae77ead8573ac71c86976c83f953de123bcffff4a2546e15cdfbb1a9"
+      "sha256": "9552c9c6352b17062b51f31eb1aae0ba799870054cfb7489fc0fef178dee0f86"
     },
     {
       "path": "releases/2026-10-16.1.json",
@@ -1998,6 +2014,10 @@
     {
       "path": "releases/2026-10-17.3.json",
       "sha256": "f7e52baac8ffa5468ff398cb31958e99dfea1b03ea973fdf925f16a81cb8198d"
+    },
+    {
+      "path": "releases/2026-10-17.4.json",
+      "sha256": "9442a0450c21b0b26d1a35c7f1967f6181e5c368bb41549b7ea105017079375f"
     },
     {
       "path": "requirements.txt",

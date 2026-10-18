@@ -6,7 +6,7 @@ An evolving visual identity, one material at a time.
 
 A curated collection of artwork for **Into the Far Wilds**, in development by **Crow Brain Games**. This showcase begins with resource and currency icons and can grow to include owner-selected concept art, environments, characters and screenshots.
 
-**241 published artworks** · 229 resource icons · 12 currency and portable-valuable icons
+**243 published artworks** · 231 resource icons · 12 currency and portable-valuable icons
 
 **[Browse the complete labeled gallery](docs/ARTWORK_CATALOG.md)** · **[Open the interactive showcase](https://avindemar.github.io/IntoTheFarWilds-Public/)**
 

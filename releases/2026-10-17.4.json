@@ -1,0 +1,11 @@
+{
+  "release": "2026-10-17.4",
+  "date": "2026-10-17",
+  "operation": "add-or-update",
+  "changed_ids": [
+    "RES_GLASS_BOTTLE",
+    "RES_CLAY_JUG"
+  ],
+  "published_items": 243,
+  "selection": "Explicitly owner-authorized approved artwork; no automatic source synchronization"
+}
