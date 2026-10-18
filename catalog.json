@@ -9,7 +9,8 @@
     "2026-10-17.1",
     "2026-10-17.2",
     "2026-10-17.3",
-    "2026-10-17.4"
+    "2026-10-17.4",
+    "2026-10-18.1"
   ],
   "items": [
     {
@@ -5863,6 +5864,31 @@
       }
     },
     {
+      "id": "RES_CLAY_JUG",
+      "name": "Clay Jug",
+      "display_name": "Clay Jug",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Heated Products",
+      "group_slug": "36-kiln-furnace-products",
+      "group_order": 36,
+      "item_order": 4,
+      "version": "v001",
+      "publication_version": "2026-10-17.4",
+      "thumbnail": {
+        "path": "art/icons/resources/36-kiln-furnace-products/res_clay_jug-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "9aa3c4933e4cafb0bd948b1359ef9e9a3f4ea5f16974a873402d5c23a1a141e6"
+      },
+      "preview": {
+        "path": "art/icons/resources/36-kiln-furnace-products/res_clay_jug-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "81bbcc2977ef5cd3872bacd3854b53079319b3e33dc61da0e87edbae6fa29db3"
+      }
+    },
+    {
       "id": "AMM_EMPTY_VIAL",
       "name": "Empty Vial",
       "display_name": "Empty Vial",
@@ -5871,7 +5897,7 @@
       "group": "Heated Products",
       "group_slug": "36-kiln-furnace-products",
       "group_order": 36,
-      "item_order": 4,
+      "item_order": 5,
       "version": "v002",
       "publication_version": "2026-10-17.1",
       "thumbnail": {
@@ -5888,6 +5914,31 @@
       }
     },
     {
+      "id": "RES_GLASS_BOTTLE",
+      "name": "Glass Bottle",
+      "display_name": "Glass Bottle",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Heated Products",
+      "group_slug": "36-kiln-furnace-products",
+      "group_order": 36,
+      "item_order": 6,
+      "version": "v001",
+      "publication_version": "2026-10-17.4",
+      "thumbnail": {
+        "path": "art/icons/resources/36-kiln-furnace-products/res_glass_bottle-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "f955ac4d85597c3e1f1864da9a1638090eacb9259f3a14a1e9d3e19878c392ee"
+      },
+      "preview": {
+        "path": "art/icons/resources/36-kiln-furnace-products/res_glass_bottle-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "f9ab3ce3846077cb412e89e0dbb52b7cb2ddbaeb08703ce76897410ff24ba625"
+      }
+    },
+    {
       "id": "RES_GLASS_JARS",
       "name": "Glass Jar",
       "display_name": "Glass Jar",
@@ -5896,7 +5947,7 @@
       "group": "Heated Products",
       "group_slug": "36-kiln-furnace-products",
       "group_order": 36,
-      "item_order": 5,
+      "item_order": 7,
       "version": "v002",
       "publication_version": "2026-10-17.1",
       "thumbnail": {
@@ -5921,7 +5972,7 @@
       "group": "Heated Products",
       "group_slug": "36-kiln-furnace-products",
       "group_order": 36,
-      "item_order": 6,
+      "item_order": 8,
       "version": "v002",
       "publication_version": "2026-10-17.1",
       "thumbnail": {
@@ -5946,7 +5997,7 @@
       "group": "Heated Products",
       "group_slug": "36-kiln-furnace-products",
       "group_order": 36,
-      "item_order": 7,
+      "item_order": 9,
       "version": "v002",
       "publication_version": "2026-10-17.1",
       "thumbnail": {
@@ -5971,7 +6022,7 @@
       "group": "Heated Products",
       "group_slug": "36-kiln-furnace-products",
       "group_order": 36,
-      "item_order": 8,
+      "item_order": 10,
       "version": "v003",
       "publication_version": "2026-10-17.1",
       "thumbnail": {
@@ -5996,7 +6047,7 @@
       "group": "Heated Products",
       "group_slug": "36-kiln-furnace-products",
       "group_order": 36,
-      "item_order": 9,
+      "item_order": 11,
       "version": "v001",
       "publication_version": "2026-10-17.1",
       "thumbnail": {
@@ -6021,7 +6072,7 @@
       "group": "Heated Products",
       "group_slug": "36-kiln-furnace-products",
       "group_order": 36,
-      "item_order": 10,
+      "item_order": 12,
       "version": "v002",
       "publication_version": "2026-10-17.1",
       "thumbnail": {
@@ -6036,56 +6087,6 @@
         "height": 320,
         "sha256": "4aad247f91eb7a57aaabb8fa7a4eb033a50f20a792305352f1a56f88afa2e66c"
       }
-    },
-    {
-      "id": "RES_GLASS_BOTTLE",
-      "name": "Glass Bottle",
-      "display_name": "Glass Bottle",
-      "kind": "icon",
-      "category": "resources",
-      "group": "Heated Products",
-      "group_slug": "36-kiln-furnace-products",
-      "group_order": 36,
-      "item_order": 11,
-      "version": "v001",
-      "publication_version": "2026-10-17.4",
-      "thumbnail": {
-        "path": "art/icons/resources/36-kiln-furnace-products/res_glass_bottle-thumbnail.png",
-        "width": 100,
-        "height": 80,
-        "sha256": "f955ac4d85597c3e1f1864da9a1638090eacb9259f3a14a1e9d3e19878c392ee"
-      },
-      "preview": {
-        "path": "art/icons/resources/36-kiln-furnace-products/res_glass_bottle-preview.png",
-        "width": 400,
-        "height": 320,
-        "sha256": "f9ab3ce3846077cb412e89e0dbb52b7cb2ddbaeb08703ce76897410ff24ba625"
-      }
-    },
-    {
-      "id": "RES_CLAY_JUG",
-      "name": "Clay Jug",
-      "display_name": "Clay Jug",
-      "kind": "icon",
-      "category": "resources",
-      "group": "Heated Products",
-      "group_slug": "36-kiln-furnace-products",
-      "group_order": 36,
-      "item_order": 12,
-      "version": "v001",
-      "publication_version": "2026-10-17.4",
-      "thumbnail": {
-        "path": "art/icons/resources/36-kiln-furnace-products/res_clay_jug-thumbnail.png",
-        "width": 100,
-        "height": 80,
-        "sha256": "9aa3c4933e4cafb0bd948b1359ef9e9a3f4ea5f16974a873402d5c23a1a141e6"
-      },
-      "preview": {
-        "path": "art/icons/resources/36-kiln-furnace-products/res_clay_jug-preview.png",
-        "width": 400,
-        "height": 320,
-        "sha256": "81bbcc2977ef5cd3872bacd3854b53079319b3e33dc61da0e87edbae6fa29db3"
-      }
     }
   ],
   "retired": [
@@ -6096,5 +6097,5 @@
       "retired_in": "2026-10-16.3"
     }
   ],
-  "latest_release": "2026-10-17.4"
+  "latest_release": "2026-10-18.1"
 }

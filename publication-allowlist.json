@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "release": "2026-10-17.4",
+  "release": "2026-10-18.1",
   "self": "publication-allowlist.json",
   "files": [
     {
@@ -1977,11 +1977,11 @@
     },
     {
       "path": "catalog.json",
-      "sha256": "7b55406e120d62d30bda189951c17bbba03f76b80399ccf1c619ff9be3cae4dc"
+      "sha256": "42432cfd7b8a70e1e507efa0bfe0c6259380bc71ea93cc97a11685b15a53ae93"
     },
     {
       "path": "docs/ARTWORK_CATALOG.md",
-      "sha256": "a5e9389d5bf5f5c1c797e91edc75213fb7b2760e75344d968456661c21ba3b90"
+      "sha256": "bf80eb6b03c4e7d467a30117e7865eaa257dad5e0563fdc5180af3369e939e84"
     },
     {
       "path": "docs/PUBLISHING.md",
@@ -1989,7 +1989,7 @@
     },
     {
       "path": "docs/RELEASES.md",
-      "sha256": "9552c9c6352b17062b51f31eb1aae0ba799870054cfb7489fc0fef178dee0f86"
+      "sha256": "00b2d53f98b67eee77f40b1aa4ac40e8b77120b4704777dbcdc5112e8abce7f8"
     },
     {
       "path": "releases/2026-10-16.1.json",
@@ -2018,6 +2018,10 @@
     {
       "path": "releases/2026-10-17.4.json",
       "sha256": "9442a0450c21b0b26d1a35c7f1967f6181e5c368bb41549b7ea105017079375f"
+    },
+    {
+      "path": "releases/2026-10-18.1.json",
+      "sha256": "88afc87ced3a1264d09d94f040c03429918ee21cd35bd93c38c07801755f1e17"
     },
     {
       "path": "requirements.txt",

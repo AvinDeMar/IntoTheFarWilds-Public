@@ -1,0 +1,33 @@
+{
+  "release": "2026-10-18.1",
+  "date": "2026-10-18",
+  "operation": "reorder",
+  "changed_ids": [
+    "RES_CLAY_JUG",
+    "AMM_EMPTY_VIAL",
+    "RES_GLASS_BOTTLE",
+    "RES_GLASS_JARS",
+    "RES_SHELL_LIME",
+    "RES_BRICKS",
+    "RES_QUICKLIME",
+    "RES_CHAIN",
+    "RES_MAGIC_CRYSTAL"
+  ],
+  "published_items": 243,
+  "group": "Heated Products",
+  "item_order": [
+    "RES_CERAMIC_VESSEL",
+    "RES_MUG",
+    "RES_CLAY_JARS",
+    "RES_CLAY_JUG",
+    "AMM_EMPTY_VIAL",
+    "RES_GLASS_BOTTLE",
+    "RES_GLASS_JARS",
+    "RES_SHELL_LIME",
+    "RES_BRICKS",
+    "RES_QUICKLIME",
+    "RES_CHAIN",
+    "RES_MAGIC_CRYSTAL"
+  ],
+  "selection": "Owner-directed presentation correction: Clay Jug follows Clay Jar; Glass Bottle follows Empty Vial and precedes Glass Jar. All artwork, versions, image URLs and existing published derivatives remain unchanged."
+}
