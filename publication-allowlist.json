@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "release": "2026-11-23.1",
+  "release": "2026-11-23.2",
   "self": "publication-allowlist.json",
   "files": [
     {
@@ -29,375 +29,375 @@
     },
     {
       "path": "README.md",
-      "sha256": "9124f5fea813ae27b5aa72a653e1edb06bafd045d53bfd155613c6e7ab2829ce"
+      "sha256": "27b0135bf5610fde245cc49fcf9304ee3d800121bc01ae6942fbf6c5c11f438d"
     },
     {
       "path": "art/icons/ammunition/any/amm_improvised_shot-preview.png",
-      "sha256": "731b554ed4c3a4491f77e0a96f83da776f3b66d818a3bc6508fa8261187fdbef"
+      "sha256": "8f55133c78770d706ad5855787ef9b0499086ee2eac984def55c41648ed4d64d"
     },
     {
       "path": "art/icons/ammunition/any/amm_improvised_shot-thumbnail.png",
-      "sha256": "24c6ee038dc6b79b440b618d15a1d18f4c6779d2797c3ccc4874eaac79bf63e8"
+      "sha256": "9e862778f53cb79015fe6f9aff3167bab5ef369113450f66414cfc72badc9e1a"
     },
     {
       "path": "art/icons/ammunition/ballista/amm_alloy_ballista_bolts-preview.png",
-      "sha256": "555b22a54c548a10bf1b09b62c78875facf29fad211209a63fe25a82aa991f8b"
+      "sha256": "3124e6016ce363f847c4f5f56d5aa9eebbb55b79f4ebdd1424282a4f3846735d"
     },
     {
       "path": "art/icons/ammunition/ballista/amm_alloy_ballista_bolts-thumbnail.png",
-      "sha256": "44824cf3f926d5584af7a5fe1da44f26dc9e1f0c9b145b8da98357910a60fefd"
+      "sha256": "64501ea90dc601085b2a4883f5260206e663e78a64be2fb4d33a2fa4d5d273fe"
     },
     {
       "path": "art/icons/ammunition/ballista/amm_alloy_ballista_bolts_fire-preview.png",
-      "sha256": "e81500bd71198612b048ca1db99ae627a8d175e51aaab47af46781cec6d05005"
+      "sha256": "02712f834a34c4d8e33815f3fd5c1c869fbeb6d427ff73b7ca2df565ad259345"
     },
     {
       "path": "art/icons/ammunition/ballista/amm_alloy_ballista_bolts_fire-thumbnail.png",
-      "sha256": "cbf56b6b85b6ef4ad1c240ef372feb4a4a38f9d5f1bd2e3e1723d07562554e33"
+      "sha256": "c433e38fd2cca6c8e454d07108e699b42fe7fd0feee66c6c0d7543e96b1de009"
     },
     {
       "path": "art/icons/ammunition/ballista/amm_alloy_ballista_bolts_harpoon-preview.png",
-      "sha256": "dfcd81ed90c36d85e13cfd7c2534e8b03fe5661080e4bb9e40892962ddd7f8a0"
+      "sha256": "8af88595d22a7595d26fa751edcbf40f0b15fcfcf550bde01626f2b5384a9901"
     },
     {
       "path": "art/icons/ammunition/ballista/amm_alloy_ballista_bolts_harpoon-thumbnail.png",
-      "sha256": "f71a5cb892f64ed2ad315bdc5ecd90090b8c08b9f0de6dedf46851893787719a"
+      "sha256": "5de039293900bbe44cdeb2a045c8ad2f52e7cce9e5490dc6a0a24a2deaa1ccd6"
     },
     {
       "path": "art/icons/ammunition/ballista/amm_alloy_ballista_bolts_poison-preview.png",
-      "sha256": "d6248111ab2c88256045603206290bd498ab3578ab2976f1cd857ed0984806e3"
+      "sha256": "50516db3793cca08c7f5a321be25c149fb77fe5a9ea55d8b221fd681dd77fafc"
     },
     {
       "path": "art/icons/ammunition/ballista/amm_alloy_ballista_bolts_poison-thumbnail.png",
-      "sha256": "30c8aa6e4df23598844730313121ef728487541345936090649b347b11c63e43"
+      "sha256": "209c9cabe0b11c1ad3c8972501a1be8db7cb891cbda8375d06032598a96bd408"
     },
     {
       "path": "art/icons/ammunition/ballista/amm_crude_ballista_bolts-preview.png",
-      "sha256": "6940b96fb05f8a536498a6b158b61b1b60f78c8efb731ec9461890805edbea69"
+      "sha256": "e54a928706b4dc53aa42e025124e1c9dc38c1675878703bbd3345f5de09ad627"
     },
     {
       "path": "art/icons/ammunition/ballista/amm_crude_ballista_bolts-thumbnail.png",
-      "sha256": "1010034c9be8ab0c7a344f02387c74cb4edac3a46d2cead6a5a66f23951d32c1"
+      "sha256": "2e4840d3aa0590c741c5ad8a5ebb09257ea1c9084664c15a7a27043e456890c1"
     },
     {
       "path": "art/icons/ammunition/ballista/amm_crude_ballista_bolts_fire-preview.png",
-      "sha256": "e11fc0c2239a3445cd2ab6fa0f06fea8cd6cbf4fb096d609373a89a428779d00"
+      "sha256": "8bb683c2384b1a0d6f3c4d1711c7ed2ea2abdac9edef52444bb0819a3789d30d"
     },
     {
       "path": "art/icons/ammunition/ballista/amm_crude_ballista_bolts_fire-thumbnail.png",
-      "sha256": "df422a995ac214b515f4641b50905a73debeb172ca4c811a73b29cf9f2bf36da"
+      "sha256": "ba7e65805473b95490ab9ce2683d8153ce396c10b2431848c961cbc2a4aea550"
     },
     {
       "path": "art/icons/ammunition/ballista/amm_crude_ballista_bolts_harpoon-preview.png",
-      "sha256": "c2c9552f1fc91637d7160912d2f5b2fb5b92302a2bce8bbc364e33b80b9a052f"
+      "sha256": "3bc6f323467e2c79829ba1e95a4957cbf4dbe58b03c0423b4fbbbc1a563f16d2"
     },
     {
       "path": "art/icons/ammunition/ballista/amm_crude_ballista_bolts_harpoon-thumbnail.png",
-      "sha256": "954477ecd8910a087ebec57f373e14f90f007e106ae979beb5b640bd8f9049e1"
+      "sha256": "4917b70426ccc516ea71fd63f3e7e55136ded6d2478675cd5017fefacc3840d7"
     },
     {
       "path": "art/icons/ammunition/ballista/amm_crude_ballista_bolts_poison-preview.png",
-      "sha256": "673a2c75f60399b2efc489a654bf601dad9046a50dce32df70b11e4c2f9d5c43"
+      "sha256": "5302d50d9bd58d4699592cac8f6c85efa6fb031c7c5df8c11e9004d4fa6932fe"
     },
     {
       "path": "art/icons/ammunition/ballista/amm_crude_ballista_bolts_poison-thumbnail.png",
-      "sha256": "2ddc83dc626634e7ae4c54c366563383ff5baf33b46a47bc19057649a3012b3d"
+      "sha256": "9477c3960bb210282123f62c38716ff4fd71e72e55f74b96113a0639eaf99a36"
     },
     {
       "path": "art/icons/ammunition/ballista/amm_metal_ballista_bolts-preview.png",
-      "sha256": "ae75ae19d9eb95bf962e2f0c58fce4aa58ced71481898852d53518497e5d05fc"
+      "sha256": "0c2541fb8537963c1cbf9a155a082518ccfd15edb578ad86ba89fa2f4c75c696"
     },
     {
       "path": "art/icons/ammunition/ballista/amm_metal_ballista_bolts-thumbnail.png",
-      "sha256": "0f24eae366b59c605de38bec6bf8cae1b26da79f80e77492f39eb6a64202823d"
+      "sha256": "72ae01132f32d92f65d1f6296916ecf4f518935af34c09903bc0c34b6f611df6"
     },
     {
       "path": "art/icons/ammunition/ballista/amm_metal_ballista_bolts_fire-preview.png",
-      "sha256": "d9a88db44683324eb6f35e64b5c4238d537cdccac355b7942c60decbc7ef5095"
+      "sha256": "0f3f3e847fa91c568831b4721af2acccba4b994c4ccf91d0a7fb1c9c38c35e00"
     },
     {
       "path": "art/icons/ammunition/ballista/amm_metal_ballista_bolts_fire-thumbnail.png",
-      "sha256": "05a2e760163b7b4e0a5eb9459d4965ede8b8370f6cc6367faf08a3263837604a"
+      "sha256": "dccacec9dd05463cdf4e0dfdb3d8ea69bde3b9db5474bacf0156b0c17b5fddec"
     },
     {
       "path": "art/icons/ammunition/ballista/amm_metal_ballista_bolts_harpoon-preview.png",
-      "sha256": "5519e80f8a6bfadc1de06a2ca7b56b393d69cf2bc9a2c6afd4c5c4e5c6cceb3c"
+      "sha256": "eff1a2d17296bc46da2275ab6406c5804a1acadc334031dd56ff0547217608d4"
     },
     {
       "path": "art/icons/ammunition/ballista/amm_metal_ballista_bolts_harpoon-thumbnail.png",
-      "sha256": "dbfdc69e5ab1f3b8fcc02d638fe9c4e988fde59d82c0237759ea7e31863e78de"
+      "sha256": "cd6d392e4966fb1043a46fa32dac436050c84643195dc3e770b1b1fb3f7b116f"
     },
     {
       "path": "art/icons/ammunition/ballista/amm_metal_ballista_bolts_poison-preview.png",
-      "sha256": "f47e8d9065ed71b743bbf027687d78cdeaba0dd1ca9b1db46f5159be026719f1"
+      "sha256": "61e5b13f61d109ee9c2476806b87619c9c0e187670b94bd3a8e0671fecb635f1"
     },
     {
       "path": "art/icons/ammunition/ballista/amm_metal_ballista_bolts_poison-thumbnail.png",
-      "sha256": "5015a8e6c2541c9d0d3d5259565c9ba84982968365a49578b6548a75e084c5cd"
+      "sha256": "b9dadd0dab206633c41eead67a3f31b3a84fa8b6d92d1811e9697a091182312a"
     },
     {
       "path": "art/icons/ammunition/bow/amm_alloy_arrow-preview.png",
-      "sha256": "2da1fb32183fbee41eb403c512aad7a3873a16c915b58d78014476c764194f9a"
+      "sha256": "c77b19f0709ffdd69cc650c8f6860d27e42a63f2aa0567ca9818c59b669e4faa"
     },
     {
       "path": "art/icons/ammunition/bow/amm_alloy_arrow-thumbnail.png",
-      "sha256": "4a6e7217801f7145da321e0fc226fb376b5da52b824a3f4abb05afda2335ce9b"
+      "sha256": "3cf0ac8a36cf1690f7ed53bd91a803c9c2c536babeeca285e39768b71d08754f"
     },
     {
       "path": "art/icons/ammunition/bow/amm_alloy_arrow_fire-preview.png",
-      "sha256": "20e9f0f67369a30faddcd86882762673720dd9f4b506e3b9d12f5beebc34d4b4"
+      "sha256": "df85fabda8b24d7f1ed09c856a2dbd2d8a5b5ccbce8ed3f64bd6d36e1899da57"
     },
     {
       "path": "art/icons/ammunition/bow/amm_alloy_arrow_fire-thumbnail.png",
-      "sha256": "69c95d166e5b0cbd571d7145bf0a265e1c324715276b954b691ee6a1edff26a6"
+      "sha256": "588f29122e3f88e4082b064c1ca78889ac8c5f4dcb912bf8d57a61d15a38a473"
     },
     {
       "path": "art/icons/ammunition/bow/amm_alloy_arrow_poison-preview.png",
-      "sha256": "c46fa40288bfd50b4eb82a9a58c8f2502f26417f2d39cc94fdaee50f8f11f634"
+      "sha256": "35893a3c91b81b17f5c1bb0c1ecf9929c33d89b20c586ce0646208dc8c251ee4"
     },
     {
       "path": "art/icons/ammunition/bow/amm_alloy_arrow_poison-thumbnail.png",
-      "sha256": "80a970925503492cf08b8bd7bb51c4a03a42f944d755854bc19fee06e6659b2b"
+      "sha256": "6b369f24f5fde2abf5b9c93ffe659a65dfdf5b8e1918ceb6a3064caa7afcf30c"
     },
     {
       "path": "art/icons/ammunition/bow/amm_feathered_arrow-preview.png",
-      "sha256": "358a0e437aa660abed1b86196f7aef2cc17da8c20902d71fe85859262dcca354"
+      "sha256": "94a3fd44636f5868ccd0fc723364793b985089ed8b9f364c236de5cba7a6f0b0"
     },
     {
       "path": "art/icons/ammunition/bow/amm_feathered_arrow-thumbnail.png",
-      "sha256": "d08696656d8254ecc54efa5b79fd15c03f3bca0a9d4711a5213d4c52fee60466"
+      "sha256": "d0c47595c9eb3c8c2bcf3d80c884586e5ccd59a5d6b5d938876fd3a04133be48"
     },
     {
       "path": "art/icons/ammunition/bow/amm_feathered_arrow_fire-preview.png",
-      "sha256": "1ff3d4fe4099c8b9fff12a918e872a7129312f892f3eca552368f44206351495"
+      "sha256": "2fef4f41141d8a80fddbeac8ab95869815af7c7c57a0448fb101913b95123112"
     },
     {
       "path": "art/icons/ammunition/bow/amm_feathered_arrow_fire-thumbnail.png",
-      "sha256": "e0afde15fb700aefad109c16e54c2cda6c4f7e86c973d1cd792d6f126da7ebd2"
+      "sha256": "f9a5f7459c8574134009fe314bd222fa003b36f6288af2eeedb0cdd95bcbdb3d"
     },
     {
       "path": "art/icons/ammunition/bow/amm_feathered_arrow_poison-preview.png",
-      "sha256": "66e92f72f19134b87795295f487255a0e0f95d16aa27c165a4ca6b40ac201961"
+      "sha256": "0b2100f26a43778638713fae935a29672d03046b3b95056318e37125973eeff5"
     },
     {
       "path": "art/icons/ammunition/bow/amm_feathered_arrow_poison-thumbnail.png",
-      "sha256": "4afbcfb6a77eaa2d3265676822faade508ed6d456eee82f95fdb05e418d305c5"
+      "sha256": "ed0f21502e2efad08cab18e2600a090b7476932e463e818a1e170965f4535e90"
     },
     {
       "path": "art/icons/ammunition/bow/amm_metal_arrow-preview.png",
-      "sha256": "87fac912ac62edbc9e3ca1f2b4c84b1f2a440e32492a33ac06626f055c329fb9"
+      "sha256": "1833184dc45f8f3506ca86f22957386356ede5cb9eff5f18817470b667de861b"
     },
     {
       "path": "art/icons/ammunition/bow/amm_metal_arrow-thumbnail.png",
-      "sha256": "2426783e652d4baeeaa0132dac919a7ac396af05ca404c188b98e1d7dbd7b47e"
+      "sha256": "edf4d0cf5bea7e2d62bf44454c59141a1ea7852cd0cd9d45f8a3132b442cb7c5"
     },
     {
       "path": "art/icons/ammunition/bow/amm_metal_arrow_fire-preview.png",
-      "sha256": "f65c2ff349e269e690fc82419cc725f28bcb2b542af128e7480de0a8e9078c19"
+      "sha256": "79c3507d8e1f12c8810698024ff6cb515fad443d23d735f301bd121327e864fd"
     },
     {
       "path": "art/icons/ammunition/bow/amm_metal_arrow_fire-thumbnail.png",
-      "sha256": "03aca5f1c7565c2fdf92f327df9d4ed03931ced7793cc61b2e341c4cba2d90b5"
+      "sha256": "367c82a75c83ff830fbcfb7bb3d90798ac70636fe465c3af01541425c8e3afd8"
     },
     {
       "path": "art/icons/ammunition/bow/amm_metal_arrow_poison-preview.png",
-      "sha256": "30253f3f1a7cc695b2be457d2d8df2626c3db2f40ecc811addebf0e3b7cd1d79"
+      "sha256": "3771cac5699972c0d285df84135610370c0e3fdf92c3fd7abb3988fa92aded0c"
     },
     {
       "path": "art/icons/ammunition/bow/amm_metal_arrow_poison-thumbnail.png",
-      "sha256": "8684f5fe142dbb690ccc874af6ffd16dd3006faea439a95375cb6d2c07732974"
+      "sha256": "57c02797bb631cc4de72dfaca1b0f3127b19db29b9fa5a4647fb7a8bd8f98e2b"
     },
     {
       "path": "art/icons/ammunition/bow/amm_simple_arrow-preview.png",
-      "sha256": "723f91ac28abb19686f1ed1847c128d8a25d0e5df6be02ed6312f1148b544ee5"
+      "sha256": "b0b753b5f7c86b4ff268b151e6a38af7622773a60b24304dc81753b29073bc17"
     },
     {
       "path": "art/icons/ammunition/bow/amm_simple_arrow-thumbnail.png",
-      "sha256": "7eabe17a66ffa2f0843522a7fdf5bb4fa908e9c7341e4e13951ca064076ab546"
+      "sha256": "bfa1ec5f2a456854a10ef94ec6d0571489aec61b3ff09f736660d85b14534bed"
     },
     {
       "path": "art/icons/ammunition/bow/amm_simple_arrow_fire-preview.png",
-      "sha256": "6e92ff72f6cbd440e3f43fe1d2d5842568d52c376b2951120f23b11758f00d9b"
+      "sha256": "ed780047b94e9375724c17c78844638606c23fd046029c186c839ee54ce55118"
     },
     {
       "path": "art/icons/ammunition/bow/amm_simple_arrow_fire-thumbnail.png",
-      "sha256": "854bfb2fe6dc5f4d4ce5498a162c579af7d353bd1cb8ac6084b55f92bf120b6f"
+      "sha256": "729e2ba92a4b04c52f1a0a7f2c556703321aa80ce4a80a878641879e80b9b8a2"
     },
     {
       "path": "art/icons/ammunition/bow/amm_simple_arrow_poison-preview.png",
-      "sha256": "b4d3222298c68608baf8c849d414db71bec9da23e909bd16c8366cb0f6afc0a9"
+      "sha256": "44fe3f7822fb3bfa2453419594ca87d954eee6f18c2ca1cb4580317841389833"
     },
     {
       "path": "art/icons/ammunition/bow/amm_simple_arrow_poison-thumbnail.png",
-      "sha256": "7b14c67ba5cadee7b6f9a23009104dda32729ff73c2a902ef1e5a208105c4aac"
+      "sha256": "e2f63abf3d7d1713d109ea87136ba5f58e7e5fd3a84d89bd10a55d9abc29b43d"
     },
     {
       "path": "art/icons/ammunition/crossbow/amm_alloy_bolts-preview.png",
-      "sha256": "7cfdfe16b3591cef97bdb769a352a20d2d391745281c78cb2570d6a3460c4b84"
+      "sha256": "f0ba4a344703ef7705aea7bc4fb6080558d1de0659183b85bda867aff3073d2f"
     },
     {
       "path": "art/icons/ammunition/crossbow/amm_alloy_bolts-thumbnail.png",
-      "sha256": "6aa97887b4318060dca0dbc5c012b52c4ad7dda61f358c6b9669923b5865846d"
+      "sha256": "ac18bc56fbc8e6efb34b3980ae16a3c7a98ce63a24dfa94a9ca114cc38781b69"
     },
     {
       "path": "art/icons/ammunition/crossbow/amm_alloy_bolts_fire-preview.png",
-      "sha256": "bee0c92fccdb5e839e4be471f4b10d0739b00d124c07ddfdf732d1334749223c"
+      "sha256": "59f2387d697fe55c9234c598f411500690cd3929e90e5ce70456fd17fad8c3dd"
     },
     {
       "path": "art/icons/ammunition/crossbow/amm_alloy_bolts_fire-thumbnail.png",
-      "sha256": "477d31a1b988e471d7165ebbb38193a4a8d0eb2042f51424b9a931ea71c1e6e8"
+      "sha256": "d1ac4be860cbb5dfaa855d79fb7560035c7b167a9dd9cd40a7b072aa66a1eb17"
     },
     {
       "path": "art/icons/ammunition/crossbow/amm_alloy_bolts_poison-preview.png",
-      "sha256": "671d87c9f877ae2f22eac61ac06c6d47a9ddca2994e1f6dafa3ba8660ed86465"
+      "sha256": "f6751211b37c88a4dfd50a6161b606e7a557fa916b6d91752e942223ad3e2f08"
     },
     {
       "path": "art/icons/ammunition/crossbow/amm_alloy_bolts_poison-thumbnail.png",
-      "sha256": "09d5f292bbb052abc0bac47ac94cad59dcbb4e65770f81f301defc293927f7ec"
+      "sha256": "0871aec0dcd785088d011511bd2b73d47325d4d92025069b85cf63e0b86129d9"
     },
     {
       "path": "art/icons/ammunition/crossbow/amm_metal_bolts-preview.png",
-      "sha256": "747ccc81a88553c9e6c87ca99a4fad1d7815cdce7b314fde27c3e27374b93bfc"
+      "sha256": "303096abe23b482df89e9376bd77e3612f94521503fdb547a0d61b1e14aa2cbe"
     },
     {
       "path": "art/icons/ammunition/crossbow/amm_metal_bolts-thumbnail.png",
-      "sha256": "f458e30c79c33fb2467b810a7ec93b3b25ebbc0c1656ded24c6798492f3fd9ce"
+      "sha256": "6be9bf3c554746904c610310dd09e6a46e76b9b79793afe903de1e811c4251c3"
     },
     {
       "path": "art/icons/ammunition/crossbow/amm_metal_bolts_fire-preview.png",
-      "sha256": "3d8c52b1642219969f27d18d7701194815f141a127dd92e185ee2ae4f81f1f53"
+      "sha256": "b12a6f04333be0001ad6262e3a85fe711dd53eb357289918d307bd812fe98a1e"
     },
     {
       "path": "art/icons/ammunition/crossbow/amm_metal_bolts_fire-thumbnail.png",
-      "sha256": "a922c35504fbdfd997bb787f01b33188f1b3b81448ec1272998b4f04593bdb25"
+      "sha256": "533fc6b831888f62a8a05dad725c624f9470851da4d71498c08df6826311f1d0"
     },
     {
       "path": "art/icons/ammunition/crossbow/amm_metal_bolts_poison-preview.png",
-      "sha256": "4631981af679389b0a119b5404cdbbd70270a6ecd0462a38b69a0d80c4188ab1"
+      "sha256": "6046ccd823ee421c09adfa0055dc360c43c0d80597f8a07541110d66d353d75f"
     },
     {
       "path": "art/icons/ammunition/crossbow/amm_metal_bolts_poison-thumbnail.png",
-      "sha256": "a5d753d2ca98d1707d990508b34b3ac90e486d2030855898d97721b363005603"
+      "sha256": "ac4c7e16d286478b41cdb35dc063c7a052881b2b92b247efaaec94d95e0dea3d"
     },
     {
       "path": "art/icons/ammunition/crossbow/amm_simple_bolts-preview.png",
-      "sha256": "e1664e5e0b33d7d0cf328ad74c67b189ae1284828dc9003504cea2510f4ab24e"
+      "sha256": "1ab1906f3cb254046e01374d2351e926eaac93a313687cb681c42c3255832dd8"
     },
     {
       "path": "art/icons/ammunition/crossbow/amm_simple_bolts-thumbnail.png",
-      "sha256": "674022b816756011cbaa55e83bf5814b3d52d32f5ffe08aef5caa50ed9570dfa"
+      "sha256": "04de6207c6fc81a92e1974377e56b9d1846eed7feec1de862f178a6ebfcaa001"
     },
     {
       "path": "art/icons/ammunition/crossbow/amm_simple_bolts_fire-preview.png",
-      "sha256": "a0eb79b870e75ef7f5dc02ab35cd7d4e2e9fef82e7e7dca55695906b4d0932a3"
+      "sha256": "e5764abac193b704143227ad874c03935f902e82d361e8e84c5a8c3b98314e54"
     },
     {
       "path": "art/icons/ammunition/crossbow/amm_simple_bolts_fire-thumbnail.png",
-      "sha256": "a41367c277991124160a1e33ad9b43f5637af1e32a71c439a2afc7a34085e7f1"
+      "sha256": "930fbaed60c440d15e076f6b29ae842f28a6b8426f96dc05221463a37c01881d"
     },
     {
       "path": "art/icons/ammunition/crossbow/amm_simple_bolts_poison-preview.png",
-      "sha256": "a7133ce4a0efcbd9549a572d07efed05bd62734b2fa7730d2ddcc60ca4b10299"
+      "sha256": "5176a2a1d43b1d918811c4abba13f0cc1867fc431908763ac8fc92fefce6659b"
     },
     {
       "path": "art/icons/ammunition/crossbow/amm_simple_bolts_poison-thumbnail.png",
-      "sha256": "9f07a65a450fa0980b31426172fa34de0d766084cf6b8862912d5712c379eb52"
+      "sha256": "43779defab046be866abb9e1a4f3bbffda3b9f50f52d6f559c153fad3de43b0f"
     },
     {
       "path": "art/icons/ammunition/gatling/amm_paper_cartridge-preview.png",
-      "sha256": "9c354a8c89e2b3da196fdd8b8da75859c8c0d15f30db7013a999954c98422f6e"
+      "sha256": "f2d998e6f30217fc867047d6ccd1dfa40729aee42fc8c5e080e76d9a9859c927"
     },
     {
       "path": "art/icons/ammunition/gatling/amm_paper_cartridge-thumbnail.png",
-      "sha256": "055614f06ee2922221a96f1f15338b3d75a85c0735ad97a95c9dc3de78949581"
+      "sha256": "41e27a1a0f74fd4cbd45258fdeb180e58e0ac14fdf376951d4f8a1e4eb6baf3a"
     },
     {
       "path": "art/icons/ammunition/large-artillery/amm_hollow_shot-preview.png",
-      "sha256": "714b807f1f05e3b933d6e8e066868709c8e99c66e522f68821fcb78a2086bf2d"
+      "sha256": "a0b58741f5754c600b58d33da77d098aaf8e5106eab0fe7b04a61927308e2343"
     },
     {
       "path": "art/icons/ammunition/large-artillery/amm_hollow_shot-thumbnail.png",
-      "sha256": "e73ee0eb30bbf67fbf79ba61db7135be685ba49de11828bae006b1673e7eb305"
+      "sha256": "64fba49ec0e7d3295da8e272fd933290147156859571536ea61afdcfa62e544d"
     },
     {
       "path": "art/icons/ammunition/large-artillery/amm_large_cannonball-preview.png",
-      "sha256": "9ae52238d4175b9b68b801fee18ff9f8c5d039f2ff89022715f2baf3d586e4e7"
+      "sha256": "0899300490f40259c56cda39c1eb837b872c1febe680685d55be86f7c16affa2"
     },
     {
       "path": "art/icons/ammunition/large-artillery/amm_large_cannonball-thumbnail.png",
-      "sha256": "25fde64e0061a17bed7273297f3ab88d18841ff2dcd07f15933c6e94249e2be1"
+      "sha256": "b4ce9d8b1cabfe62ba471786fb35f34c621a6b6d1895fdc750fcfd09e4fd9d03"
     },
     {
       "path": "art/icons/ammunition/medium-artillery/amm_case_shot-preview.png",
-      "sha256": "1ab19aeb15e92880431f74fce8bc61db25e707d2c05f6cda9f407a344c02d3d5"
+      "sha256": "536ab33331a8ee6157a45e0daf306858886ae3ddb1df3c4cb560584d374d6c01"
     },
     {
       "path": "art/icons/ammunition/medium-artillery/amm_case_shot-thumbnail.png",
-      "sha256": "944044e866cef258354550d385aa2d00a12fc4530db0021e61a09a710c9cb6ed"
+      "sha256": "a284ca7cde034200c4255ab7fc79154c41acea791ce2688f8759153152b946c1"
     },
     {
       "path": "art/icons/ammunition/medium-artillery/amm_chain_shot-preview.png",
-      "sha256": "6109650787bced344528c063b59546d49da34acc87765670f2e59e2e93c9ad05"
+      "sha256": "9892fb2165792d80c2d32748bc539dd49cd73ecf1a3d2293eca0003368cb80a1"
     },
     {
       "path": "art/icons/ammunition/medium-artillery/amm_chain_shot-thumbnail.png",
-      "sha256": "e2ae79dba9a0d4684af057acfbb5bb19267773df392b06824537c0d2def48589"
+      "sha256": "bc0c1e3840f7453a32742baf59e41c17b1bd7a8642db95a80dfc74d165c44185"
     },
     {
       "path": "art/icons/ammunition/medium-artillery/amm_medium_cannonball-preview.png",
-      "sha256": "263dfbb4f417c3e3e6f205b8e25be59b89cdfdc99d838ad2ff93e8316d0dd2f1"
+      "sha256": "4dd6ee6780ebf06f605b3b177161afb0541eb64ee87baa0d08fe7a180bc91f74"
     },
     {
       "path": "art/icons/ammunition/medium-artillery/amm_medium_cannonball-thumbnail.png",
-      "sha256": "837c0470999d9422d1b00a4022161ae72e7d393af0198af82795800b78641e09"
+      "sha256": "1aa034b33d406b9d1eda06b7d5bfa14ec6e67be2398bddffddc24864cca2df0a"
     },
     {
       "path": "art/icons/ammunition/pistol/amm_ball_shot-preview.png",
-      "sha256": "f881e14987ead7985d33f07d188931ec28ba993a61698b71a9268f73faa969c9"
+      "sha256": "141edf33bd145c1a78f60f9dc038e1ffdee4c4a7daec60b683f7b66c8a95d2e9"
     },
     {
       "path": "art/icons/ammunition/pistol/amm_ball_shot-thumbnail.png",
-      "sha256": "7a341b9751fe54fa5cbc8417e0def285a7efc7ae9d4a637aca582ecdbfcd8bbc"
+      "sha256": "92d9352c6b30a188b6e929bbffc0ccb21bac3c033a5cfe74929d300a1c0ee6a0"
     },
     {
       "path": "art/icons/ammunition/rifle/amm_buck_and_ball-preview.png",
-      "sha256": "1795b74ce3b32ac43558bc2e0c1d859d758c36d873aa13107f9ca4c5b17f88e5"
+      "sha256": "3f437c4ee9c1dfda0494989a3e0d2fedd7980d71f0e686697230525172150d08"
     },
     {
       "path": "art/icons/ammunition/rifle/amm_buck_and_ball-thumbnail.png",
-      "sha256": "7d4a3ba7e38075e916d85f0bb900ba9cb8deeae2c4e87478eff969558c76d54c"
+      "sha256": "0947a791d26bd7d8926a8c655324dd6360b6ad57f15e45b84d299d90f2256eac"
     },
     {
       "path": "art/icons/ammunition/rifle/amm_buckshot-preview.png",
-      "sha256": "d6f52a4a8a97f9fb0cb4acf1f42e2b35aa4e03af926b462e7ba3c7e746de690a"
+      "sha256": "2a10229bb1ce2ebc2f6616ca2123d6a05b8b06a6a2e55bff6a47f5715beabe85"
     },
     {
       "path": "art/icons/ammunition/rifle/amm_buckshot-thumbnail.png",
-      "sha256": "78a1fa812eec81b29d844c658a3d23975f371ceb1dc952c1b805e8dc568b44d0"
+      "sha256": "5b915c1edd1e765f60b728b1594ad6dfdb683600ce3d304ddeadf070386c7d3c"
     },
     {
       "path": "art/icons/ammunition/rifle/amm_musket_shot-preview.png",
-      "sha256": "b0305a76eb0ed714ace85cc3120c8ad1cbae020c9e953ec96c97e528bc01bd2b"
+      "sha256": "f21ae2d92cde448e00e7612673880157e30728ed28216ca313acccb30f1d0561"
     },
     {
       "path": "art/icons/ammunition/rifle/amm_musket_shot-thumbnail.png",
-      "sha256": "696e0531ff7f738a949c97e28f53e3545c336956075e5bacb11bb179be441901"
+      "sha256": "92771ada155f09e51f4fa1812698e222fb4835c0b1b9e4fc63510d5cd08344b3"
     },
     {
       "path": "art/icons/ammunition/small-artillery/amm_grapeshot-preview.png",
-      "sha256": "7b922a2f1c74f51469770d6d25483871b5604bb3f070d77e74186fa9cab70928"
+      "sha256": "534937d336979e9c89a283b00adce9105d3270dac705e4f476b06c0a6e4eb72f"
     },
     {
       "path": "art/icons/ammunition/small-artillery/amm_grapeshot-thumbnail.png",
-      "sha256": "2e1632c91a69cb6a907fd8ad453438f6841e0fcce7a9647a594c741d5b1e12ef"
+      "sha256": "b43f93bce718e11f7604be8ca11e75f02e5c6a57d3a1e1bc8dda8005e572f5fb"
     },
     {
       "path": "art/icons/ammunition/small-artillery/amm_small_cannonball-preview.png",
-      "sha256": "1506736bf1818869b28ff8d6b923dde1e17adb2d1dfac51836f7e8e5062b079f"
+      "sha256": "dd407ecf73acdb085b1b9fa1ae68ee34d0b314661158c2236ad734755a11f7ec"
     },
     {
       "path": "art/icons/ammunition/small-artillery/amm_small_cannonball-thumbnail.png",
-      "sha256": "972ced1fcf98d89938bcbba4425a9295403640d88330f82f8dc79955f9d3d917"
+      "sha256": "9c1e04bf34164960f98bd156817179427a1e0f77c6b9c6ee79db6a8e2f9e25e3"
     },
     {
       "path": "art/icons/currencies/01-royal/res_copper_farthing-preview.png",
@@ -2345,11 +2345,11 @@
     },
     {
       "path": "catalog.json",
-      "sha256": "a3b4edde1d32123d45cb119c903a7a18d8b3a8a626668ffb43c6e216c4af8c66"
+      "sha256": "702c6400ef49768984ae47a25f1ceb768349da5af4fad9cdedb76b7a84dca58e"
     },
     {
       "path": "docs/ARTWORK_CATALOG.md",
-      "sha256": "0af1f13c2275f3b63c01ee2f14be48d16fd86de768cd6768eac8cc13761a3f00"
+      "sha256": "dd68aa37fa0c2710b5616a02d51b527bcb38f56b82b70810d8c07a6a06f29643"
     },
     {
       "path": "docs/PUBLISHING.md",
@@ -2357,7 +2357,7 @@
     },
     {
       "path": "docs/RELEASES.md",
-      "sha256": "6121072ba79a694cabf971e92bdb7d6f0586b7757f5c95f3ad6bb8d2a0ac00db"
+      "sha256": "1e2f8740d8f6712ec327414fddc0bf3bfc46c4a0a7adaeadab823939f988097e"
     },
     {
       "path": "releases/2026-10-16.1.json",
@@ -2394,6 +2394,10 @@
     {
       "path": "releases/2026-11-23.1.json",
       "sha256": "06b8566e6e2d6d2c32ea5ae48745621b623c8a659a37f462491a64054db6ff4a"
+    },
+    {
+      "path": "releases/2026-11-23.2.json",
+      "sha256": "51952f976aea3d9498d87e133171c1f500c8e47e8b231c2df6fd3e333a7e9211"
     },
     {
       "path": "requirements.txt",

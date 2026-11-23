@@ -15,8 +15,8 @@ By Crow Brain Games. Select an image to open its larger public preview.
 [Fertilizer](#resources-21-fertilizer) · [Shards](#resources-22-shards) · [Fabric](#resources-23-fabric) · [Leather](#resources-24-leather) · [Glass](#resources-25-glass)
 [Alloy](#resources-26-alloy) · [Soil Additives](#resources-27-soil-additives) · [Royal Currency](#currencies-01-royal) · [Lawless / Pirate Currency](#currencies-02-lawless) · [Faction-Neutral Currency and Valuables](#currencies-03-neutral)
 [Chopped Products](#resources-31-chopper-products) · [Weaved Products](#resources-32-weaved-products) · [Tanned &amp; Dried Products](#resources-33-tanned-dried-products) · [Milled Products](#resources-34-milled-products) · [Mixed Products](#resources-35-mixer-products)
-[Heated Products](#resources-36-kiln-furnace-products) · [Ammunition - Bow](#ammunition-bow) · [Ammunition - Crossbow](#ammunition-crossbow) · [Ammunition - Ballista](#ammunition-ballista) · [Ammunition - Any](#ammunition-any)
-[Ammunition - Pistol](#ammunition-pistol) · [Ammunition - Rifle](#ammunition-rifle) · [Ammunition - Gatling](#ammunition-gatling) · [Ammunition - Small Artillery](#ammunition-small-artillery) · [Ammunition - Medium Artillery](#ammunition-medium-artillery)
+[Heated Products](#resources-36-kiln-furnace-products) · [Ammunition - Bow](#ammunition-bow) · [Ammunition - Crossbow](#ammunition-crossbow) · [Ammunition - Ballista](#ammunition-ballista) · [Ammunition - Firearms (Any)](#ammunition-any)
+[Ammunition - Small](#ammunition-pistol) · [Ammunition - Firearms (Large)](#ammunition-rifle) · [Ammunition - Gatling](#ammunition-gatling) · [Ammunition - Small Artillery](#ammunition-small-artillery) · [Ammunition - Medium Artillery](#ammunition-medium-artillery)
 [Ammunition - Large Artillery](#ammunition-large-artillery)
 
 <a id="resources-01-fiber"></a>
@@ -394,13 +394,13 @@ By Crow Brain Games. Select an image to open its larger public preview.
 
 | Simple Arrow | Simple Arrow (Fire) | Simple Arrow (Poison) | Feathered Arrow | Feathered Arrow (Fire) | Feathered Arrow (Poison) | Metal Arrow |
 |---|---|---|---|---|---|---|
-| [![Simple Arrow](../art/icons/ammunition/bow/amm_simple_arrow-thumbnail.png?v=7eabe17a66ff)](../art/icons/ammunition/bow/amm_simple_arrow-preview.png?v=723f91ac28ab) | [![Simple Arrow (Fire)](../art/icons/ammunition/bow/amm_simple_arrow_fire-thumbnail.png?v=854bfb2fe6dc)](../art/icons/ammunition/bow/amm_simple_arrow_fire-preview.png?v=6e92ff72f6cb) | [![Simple Arrow (Poison)](../art/icons/ammunition/bow/amm_simple_arrow_poison-thumbnail.png?v=7b14c67ba5ca)](../art/icons/ammunition/bow/amm_simple_arrow_poison-preview.png?v=b4d3222298c6) | [![Feathered Arrow](../art/icons/ammunition/bow/amm_feathered_arrow-thumbnail.png?v=d08696656d82)](../art/icons/ammunition/bow/amm_feathered_arrow-preview.png?v=358a0e437aa6) | [![Feathered Arrow (Fire)](../art/icons/ammunition/bow/amm_feathered_arrow_fire-thumbnail.png?v=e0afde15fb70)](../art/icons/ammunition/bow/amm_feathered_arrow_fire-preview.png?v=1ff3d4fe4099) | [![Feathered Arrow (Poison)](../art/icons/ammunition/bow/amm_feathered_arrow_poison-thumbnail.png?v=4afbcfb6a77e)](../art/icons/ammunition/bow/amm_feathered_arrow_poison-preview.png?v=66e92f72f191) | [![Metal Arrow](../art/icons/ammunition/bow/amm_metal_arrow-thumbnail.png?v=2426783e652d)](../art/icons/ammunition/bow/amm_metal_arrow-preview.png?v=87fac912ac62) |
-| v003 | v003 | v003 | v005 | v004 | v004 | v003 |
+| [![Simple Arrow](../art/icons/ammunition/bow/amm_simple_arrow-thumbnail.png?v=bfa1ec5f2a45)](../art/icons/ammunition/bow/amm_simple_arrow-preview.png?v=b0b753b5f7c8) | [![Simple Arrow (Fire)](../art/icons/ammunition/bow/amm_simple_arrow_fire-thumbnail.png?v=729e2ba92a4b)](../art/icons/ammunition/bow/amm_simple_arrow_fire-preview.png?v=ed780047b94e) | [![Simple Arrow (Poison)](../art/icons/ammunition/bow/amm_simple_arrow_poison-thumbnail.png?v=e2f63abf3d7d)](../art/icons/ammunition/bow/amm_simple_arrow_poison-preview.png?v=44fe3f7822fb) | [![Feathered Arrow](../art/icons/ammunition/bow/amm_feathered_arrow-thumbnail.png?v=d0c47595c9eb)](../art/icons/ammunition/bow/amm_feathered_arrow-preview.png?v=94a3fd44636f) | [![Feathered Arrow (Fire)](../art/icons/ammunition/bow/amm_feathered_arrow_fire-thumbnail.png?v=f9a5f7459c85)](../art/icons/ammunition/bow/amm_feathered_arrow_fire-preview.png?v=2fef4f41141d) | [![Feathered Arrow (Poison)](../art/icons/ammunition/bow/amm_feathered_arrow_poison-thumbnail.png?v=ed0f21502e2e)](../art/icons/ammunition/bow/amm_feathered_arrow_poison-preview.png?v=0b2100f26a43) | [![Metal Arrow](../art/icons/ammunition/bow/amm_metal_arrow-thumbnail.png?v=edf4d0cf5bea)](../art/icons/ammunition/bow/amm_metal_arrow-preview.png?v=1833184dc45f) |
+| v004 | v004 | v004 | v006 | v005 | v005 | v004 |
 
 | Metal Arrow (Fire) | Metal Arrow (Poison) | Alloy Arrow | Alloy Arrow (Fire) | Alloy Arrow (Poison) |
 |---|---|---|---|---|
-| [![Metal Arrow (Fire)](../art/icons/ammunition/bow/amm_metal_arrow_fire-thumbnail.png?v=03aca5f1c756)](../art/icons/ammunition/bow/amm_metal_arrow_fire-preview.png?v=f65c2ff349e2) | [![Metal Arrow (Poison)](../art/icons/ammunition/bow/amm_metal_arrow_poison-thumbnail.png?v=8684f5fe142d)](../art/icons/ammunition/bow/amm_metal_arrow_poison-preview.png?v=30253f3f1a7c) | [![Alloy Arrow](../art/icons/ammunition/bow/amm_alloy_arrow-thumbnail.png?v=4a6e7217801f)](../art/icons/ammunition/bow/amm_alloy_arrow-preview.png?v=2da1fb32183f) | [![Alloy Arrow (Fire)](../art/icons/ammunition/bow/amm_alloy_arrow_fire-thumbnail.png?v=69c95d166e5b)](../art/icons/ammunition/bow/amm_alloy_arrow_fire-preview.png?v=20e9f0f67369) | [![Alloy Arrow (Poison)](../art/icons/ammunition/bow/amm_alloy_arrow_poison-thumbnail.png?v=80a970925503)](../art/icons/ammunition/bow/amm_alloy_arrow_poison-preview.png?v=c46fa40288bf) |
-| v005 | v003 | v003 | v003 | v002 |
+| [![Metal Arrow (Fire)](../art/icons/ammunition/bow/amm_metal_arrow_fire-thumbnail.png?v=367c82a75c83)](../art/icons/ammunition/bow/amm_metal_arrow_fire-preview.png?v=79c3507d8e1f) | [![Metal Arrow (Poison)](../art/icons/ammunition/bow/amm_metal_arrow_poison-thumbnail.png?v=57c02797bb63)](../art/icons/ammunition/bow/amm_metal_arrow_poison-preview.png?v=3771cac56999) | [![Alloy Arrow](../art/icons/ammunition/bow/amm_alloy_arrow-thumbnail.png?v=3cf0ac8a36cf)](../art/icons/ammunition/bow/amm_alloy_arrow-preview.png?v=c77b19f0709f) | [![Alloy Arrow (Fire)](../art/icons/ammunition/bow/amm_alloy_arrow_fire-thumbnail.png?v=588f29122e3f)](../art/icons/ammunition/bow/amm_alloy_arrow_fire-preview.png?v=df85fabda8b2) | [![Alloy Arrow (Poison)](../art/icons/ammunition/bow/amm_alloy_arrow_poison-thumbnail.png?v=6b369f24f5fd)](../art/icons/ammunition/bow/amm_alloy_arrow_poison-preview.png?v=35893a3c91b8) |
+| v006 | v004 | v004 | v004 | v003 |
 
 [Back to collections](#collections)
 
@@ -409,13 +409,13 @@ By Crow Brain Games. Select an image to open its larger public preview.
 
 | Simple Bolts | Simple Bolts (Fire) | Simple Bolts (Poison) | Metal Bolts | Metal Bolts (Fire) | Metal Bolts (Poison) | Alloy Bolts |
 |---|---|---|---|---|---|---|
-| [![Simple Bolts](../art/icons/ammunition/crossbow/amm_simple_bolts-thumbnail.png?v=674022b81675)](../art/icons/ammunition/crossbow/amm_simple_bolts-preview.png?v=e1664e5e0b33) | [![Simple Bolts (Fire)](../art/icons/ammunition/crossbow/amm_simple_bolts_fire-thumbnail.png?v=a41367c27799)](../art/icons/ammunition/crossbow/amm_simple_bolts_fire-preview.png?v=a0eb79b870e7) | [![Simple Bolts (Poison)](../art/icons/ammunition/crossbow/amm_simple_bolts_poison-thumbnail.png?v=9f07a65a450f)](../art/icons/ammunition/crossbow/amm_simple_bolts_poison-preview.png?v=a7133ce4a0ef) | [![Metal Bolts](../art/icons/ammunition/crossbow/amm_metal_bolts-thumbnail.png?v=f458e30c79c3)](../art/icons/ammunition/crossbow/amm_metal_bolts-preview.png?v=747ccc81a885) | [![Metal Bolts (Fire)](../art/icons/ammunition/crossbow/amm_metal_bolts_fire-thumbnail.png?v=a922c35504fb)](../art/icons/ammunition/crossbow/amm_metal_bolts_fire-preview.png?v=3d8c52b16422) | [![Metal Bolts (Poison)](../art/icons/ammunition/crossbow/amm_metal_bolts_poison-thumbnail.png?v=a5d753d2ca98)](../art/icons/ammunition/crossbow/amm_metal_bolts_poison-preview.png?v=4631981af679) | [![Alloy Bolts](../art/icons/ammunition/crossbow/amm_alloy_bolts-thumbnail.png?v=6aa97887b431)](../art/icons/ammunition/crossbow/amm_alloy_bolts-preview.png?v=7cfdfe16b359) |
-| v005 | v003 | v004 | v004 | v004 | v005 | v006 |
+| [![Simple Bolts](../art/icons/ammunition/crossbow/amm_simple_bolts-thumbnail.png?v=04de6207c6fc)](../art/icons/ammunition/crossbow/amm_simple_bolts-preview.png?v=1ab1906f3cb2) | [![Simple Bolts (Fire)](../art/icons/ammunition/crossbow/amm_simple_bolts_fire-thumbnail.png?v=930fbaed60c4)](../art/icons/ammunition/crossbow/amm_simple_bolts_fire-preview.png?v=e5764abac193) | [![Simple Bolts (Poison)](../art/icons/ammunition/crossbow/amm_simple_bolts_poison-thumbnail.png?v=43779defab04)](../art/icons/ammunition/crossbow/amm_simple_bolts_poison-preview.png?v=5176a2a1d43b) | [![Metal Bolts](../art/icons/ammunition/crossbow/amm_metal_bolts-thumbnail.png?v=6be9bf3c5547)](../art/icons/ammunition/crossbow/amm_metal_bolts-preview.png?v=303096abe23b) | [![Metal Bolts (Fire)](../art/icons/ammunition/crossbow/amm_metal_bolts_fire-thumbnail.png?v=533fc6b83188)](../art/icons/ammunition/crossbow/amm_metal_bolts_fire-preview.png?v=b12a6f04333b) | [![Metal Bolts (Poison)](../art/icons/ammunition/crossbow/amm_metal_bolts_poison-thumbnail.png?v=ac4c7e16d286)](../art/icons/ammunition/crossbow/amm_metal_bolts_poison-preview.png?v=6046ccd823ee) | [![Alloy Bolts](../art/icons/ammunition/crossbow/amm_alloy_bolts-thumbnail.png?v=ac18bc56fbc8)](../art/icons/ammunition/crossbow/amm_alloy_bolts-preview.png?v=f0ba4a344703) |
+| v006 | v004 | v005 | v005 | v005 | v006 | v007 |
 
 | Alloy Bolts (Fire) | Alloy Bolts (Poison) |
 |---|---|
-| [![Alloy Bolts (Fire)](../art/icons/ammunition/crossbow/amm_alloy_bolts_fire-thumbnail.png?v=477d31a1b988)](../art/icons/ammunition/crossbow/amm_alloy_bolts_fire-preview.png?v=bee0c92fccdb) | [![Alloy Bolts (Poison)](../art/icons/ammunition/crossbow/amm_alloy_bolts_poison-thumbnail.png?v=09d5f292bbb0)](../art/icons/ammunition/crossbow/amm_alloy_bolts_poison-preview.png?v=671d87c9f877) |
-| v005 | v006 |
+| [![Alloy Bolts (Fire)](../art/icons/ammunition/crossbow/amm_alloy_bolts_fire-thumbnail.png?v=d1ac4be860cb)](../art/icons/ammunition/crossbow/amm_alloy_bolts_fire-preview.png?v=59f2387d697f) | [![Alloy Bolts (Poison)](../art/icons/ammunition/crossbow/amm_alloy_bolts_poison-thumbnail.png?v=0871aec0dcd7)](../art/icons/ammunition/crossbow/amm_alloy_bolts_poison-preview.png?v=f6751211b37c) |
+| v006 | v007 |
 
 [Back to collections](#collections)
 
@@ -424,43 +424,43 @@ By Crow Brain Games. Select an image to open its larger public preview.
 
 | Crude Ballista Bolts | Crude Ballista Bolts (Fire) | Crude Ballista Bolts (Poison) | Crude Ballista Bolts (Harpoon) | Metal Ballista Bolts | Metal Ballista Bolts (Fire) | Metal Ballista Bolts (Poison) |
 |---|---|---|---|---|---|---|
-| [![Crude Ballista Bolts](../art/icons/ammunition/ballista/amm_crude_ballista_bolts-thumbnail.png?v=1010034c9be8)](../art/icons/ammunition/ballista/amm_crude_ballista_bolts-preview.png?v=6940b96fb05f) | [![Crude Ballista Bolts (Fire)](../art/icons/ammunition/ballista/amm_crude_ballista_bolts_fire-thumbnail.png?v=df422a995ac2)](../art/icons/ammunition/ballista/amm_crude_ballista_bolts_fire-preview.png?v=e11fc0c2239a) | [![Crude Ballista Bolts (Poison)](../art/icons/ammunition/ballista/amm_crude_ballista_bolts_poison-thumbnail.png?v=2ddc83dc6266)](../art/icons/ammunition/ballista/amm_crude_ballista_bolts_poison-preview.png?v=673a2c75f603) | [![Crude Ballista Bolts (Harpoon)](../art/icons/ammunition/ballista/amm_crude_ballista_bolts_harpoon-thumbnail.png?v=954477ecd891)](../art/icons/ammunition/ballista/amm_crude_ballista_bolts_harpoon-preview.png?v=c2c9552f1fc9) | [![Metal Ballista Bolts](../art/icons/ammunition/ballista/amm_metal_ballista_bolts-thumbnail.png?v=0f24eae366b5)](../art/icons/ammunition/ballista/amm_metal_ballista_bolts-preview.png?v=ae75ae19d9eb) | [![Metal Ballista Bolts (Fire)](../art/icons/ammunition/ballista/amm_metal_ballista_bolts_fire-thumbnail.png?v=05a2e760163b)](../art/icons/ammunition/ballista/amm_metal_ballista_bolts_fire-preview.png?v=d9a88db44683) | [![Metal Ballista Bolts (Poison)](../art/icons/ammunition/ballista/amm_metal_ballista_bolts_poison-thumbnail.png?v=5015a8e6c254)](../art/icons/ammunition/ballista/amm_metal_ballista_bolts_poison-preview.png?v=f47e8d9065ed) |
-| v001 | v001 | v001 | v001 | v001 | v001 | v001 |
+| [![Crude Ballista Bolts](../art/icons/ammunition/ballista/amm_crude_ballista_bolts-thumbnail.png?v=2e4840d3aa05)](../art/icons/ammunition/ballista/amm_crude_ballista_bolts-preview.png?v=e54a928706b4) | [![Crude Ballista Bolts (Fire)](../art/icons/ammunition/ballista/amm_crude_ballista_bolts_fire-thumbnail.png?v=ba7e65805473)](../art/icons/ammunition/ballista/amm_crude_ballista_bolts_fire-preview.png?v=8bb683c2384b) | [![Crude Ballista Bolts (Poison)](../art/icons/ammunition/ballista/amm_crude_ballista_bolts_poison-thumbnail.png?v=9477c3960bb2)](../art/icons/ammunition/ballista/amm_crude_ballista_bolts_poison-preview.png?v=5302d50d9bd5) | [![Crude Ballista Bolts (Harpoon)](../art/icons/ammunition/ballista/amm_crude_ballista_bolts_harpoon-thumbnail.png?v=4917b70426cc)](../art/icons/ammunition/ballista/amm_crude_ballista_bolts_harpoon-preview.png?v=3bc6f323467e) | [![Metal Ballista Bolts](../art/icons/ammunition/ballista/amm_metal_ballista_bolts-thumbnail.png?v=72ae01132f32)](../art/icons/ammunition/ballista/amm_metal_ballista_bolts-preview.png?v=0c2541fb8537) | [![Metal Ballista Bolts (Fire)](../art/icons/ammunition/ballista/amm_metal_ballista_bolts_fire-thumbnail.png?v=dccacec9dd05)](../art/icons/ammunition/ballista/amm_metal_ballista_bolts_fire-preview.png?v=0f3f3e847fa9) | [![Metal Ballista Bolts (Poison)](../art/icons/ammunition/ballista/amm_metal_ballista_bolts_poison-thumbnail.png?v=b9dadd0dab20)](../art/icons/ammunition/ballista/amm_metal_ballista_bolts_poison-preview.png?v=61e5b13f61d1) |
+| v002 | v002 | v002 | v002 | v002 | v002 | v002 |
 
 | Metal Ballista Bolts (Harpoon) | Alloy Ballista Bolts | Alloy Ballista Bolts (Fire) | Alloy Ballista Bolts (Poison) | Alloy Ballista Bolts (Harpoon) |
 |---|---|---|---|---|
-| [![Metal Ballista Bolts (Harpoon)](../art/icons/ammunition/ballista/amm_metal_ballista_bolts_harpoon-thumbnail.png?v=dbfdc69e5ab1)](../art/icons/ammunition/ballista/amm_metal_ballista_bolts_harpoon-preview.png?v=5519e80f8a6b) | [![Alloy Ballista Bolts](../art/icons/ammunition/ballista/amm_alloy_ballista_bolts-thumbnail.png?v=44824cf3f926)](../art/icons/ammunition/ballista/amm_alloy_ballista_bolts-preview.png?v=555b22a54c54) | [![Alloy Ballista Bolts (Fire)](../art/icons/ammunition/ballista/amm_alloy_ballista_bolts_fire-thumbnail.png?v=cbf56b6b85b6)](../art/icons/ammunition/ballista/amm_alloy_ballista_bolts_fire-preview.png?v=e81500bd7119) | [![Alloy Ballista Bolts (Poison)](../art/icons/ammunition/ballista/amm_alloy_ballista_bolts_poison-thumbnail.png?v=30c8aa6e4df2)](../art/icons/ammunition/ballista/amm_alloy_ballista_bolts_poison-preview.png?v=d6248111ab2c) | [![Alloy Ballista Bolts (Harpoon)](../art/icons/ammunition/ballista/amm_alloy_ballista_bolts_harpoon-thumbnail.png?v=f71a5cb892f6)](../art/icons/ammunition/ballista/amm_alloy_ballista_bolts_harpoon-preview.png?v=dfcd81ed90c3) |
-| v001 | v001 | v001 | v001 | v001 |
+| [![Metal Ballista Bolts (Harpoon)](../art/icons/ammunition/ballista/amm_metal_ballista_bolts_harpoon-thumbnail.png?v=cd6d392e4966)](../art/icons/ammunition/ballista/amm_metal_ballista_bolts_harpoon-preview.png?v=eff1a2d17296) | [![Alloy Ballista Bolts](../art/icons/ammunition/ballista/amm_alloy_ballista_bolts-thumbnail.png?v=64501ea90dc6)](../art/icons/ammunition/ballista/amm_alloy_ballista_bolts-preview.png?v=3124e6016ce3) | [![Alloy Ballista Bolts (Fire)](../art/icons/ammunition/ballista/amm_alloy_ballista_bolts_fire-thumbnail.png?v=c433e38fd2cc)](../art/icons/ammunition/ballista/amm_alloy_ballista_bolts_fire-preview.png?v=02712f834a34) | [![Alloy Ballista Bolts (Poison)](../art/icons/ammunition/ballista/amm_alloy_ballista_bolts_poison-thumbnail.png?v=209c9cabe0b1)](../art/icons/ammunition/ballista/amm_alloy_ballista_bolts_poison-preview.png?v=50516db3793c) | [![Alloy Ballista Bolts (Harpoon)](../art/icons/ammunition/ballista/amm_alloy_ballista_bolts_harpoon-thumbnail.png?v=5de039293900)](../art/icons/ammunition/ballista/amm_alloy_ballista_bolts_harpoon-preview.png?v=8af88595d22a) |
+| v002 | v002 | v002 | v002 | v002 |
 
 [Back to collections](#collections)
 
 <a id="ammunition-any"></a>
-## Ammunition - Any
+## Ammunition - Firearms (Any)
 
 | Improvised Shot |
 |---|
-| [![Improvised Shot](../art/icons/ammunition/any/amm_improvised_shot-thumbnail.png?v=24c6ee038dc6)](../art/icons/ammunition/any/amm_improvised_shot-preview.png?v=731b554ed4c3) |
-| v004 |
+| [![Improvised Shot](../art/icons/ammunition/any/amm_improvised_shot-thumbnail.png?v=9e862778f53c)](../art/icons/ammunition/any/amm_improvised_shot-preview.png?v=8f55133c7877) |
+| v005 |
 
 [Back to collections](#collections)
 
 <a id="ammunition-pistol"></a>
-## Ammunition - Pistol
+## Ammunition - Small
 
 | Ball Shot |
 |---|
-| [![Ball Shot](../art/icons/ammunition/pistol/amm_ball_shot-thumbnail.png?v=7a341b9751fe)](../art/icons/ammunition/pistol/amm_ball_shot-preview.png?v=f881e14987ea) |
-| v003 |
+| [![Ball Shot](../art/icons/ammunition/pistol/amm_ball_shot-thumbnail.png?v=92d9352c6b30)](../art/icons/ammunition/pistol/amm_ball_shot-preview.png?v=141edf33bd14) |
+| v004 |
 
 [Back to collections](#collections)
 
 <a id="ammunition-rifle"></a>
-## Ammunition - Rifle
+## Ammunition - Firearms (Large)
 
 | Musket Shot | Buckshot | Buck &amp; Ball |
 |---|---|---|
-| [![Musket Shot](../art/icons/ammunition/rifle/amm_musket_shot-thumbnail.png?v=696e0531ff7f)](../art/icons/ammunition/rifle/amm_musket_shot-preview.png?v=b0305a76eb0e) | [![Buckshot](../art/icons/ammunition/rifle/amm_buckshot-thumbnail.png?v=78a1fa812eec)](../art/icons/ammunition/rifle/amm_buckshot-preview.png?v=d6f52a4a8a97) | [![Buck &amp; Ball](../art/icons/ammunition/rifle/amm_buck_and_ball-thumbnail.png?v=7d4a3ba7e380)](../art/icons/ammunition/rifle/amm_buck_and_ball-preview.png?v=1795b74ce3b3) |
-| v003 | v003 | v003 |
+| [![Musket Shot](../art/icons/ammunition/rifle/amm_musket_shot-thumbnail.png?v=92771ada155f)](../art/icons/ammunition/rifle/amm_musket_shot-preview.png?v=f21ae2d92cde) | [![Buckshot](../art/icons/ammunition/rifle/amm_buckshot-thumbnail.png?v=5b915c1edd1e)](../art/icons/ammunition/rifle/amm_buckshot-preview.png?v=2a10229bb1ce) | [![Buck &amp; Ball](../art/icons/ammunition/rifle/amm_buck_and_ball-thumbnail.png?v=0947a791d26b)](../art/icons/ammunition/rifle/amm_buck_and_ball-preview.png?v=3f437c4ee9c1) |
+| v004 | v004 | v004 |
 
 [Back to collections](#collections)
 
@@ -469,8 +469,8 @@ By Crow Brain Games. Select an image to open its larger public preview.
 
 | Paper Cartridge |
 |---|
-| [![Paper Cartridge](../art/icons/ammunition/gatling/amm_paper_cartridge-thumbnail.png?v=055614f06ee2)](../art/icons/ammunition/gatling/amm_paper_cartridge-preview.png?v=9c354a8c89e2) |
-| v001 |
+| [![Paper Cartridge](../art/icons/ammunition/gatling/amm_paper_cartridge-thumbnail.png?v=41e27a1a0f74)](../art/icons/ammunition/gatling/amm_paper_cartridge-preview.png?v=f2d998e6f302) |
+| v002 |
 
 [Back to collections](#collections)
 
@@ -479,8 +479,8 @@ By Crow Brain Games. Select an image to open its larger public preview.
 
 | Grapeshot | Small Cannonball |
 |---|---|
-| [![Grapeshot](../art/icons/ammunition/small-artillery/amm_grapeshot-thumbnail.png?v=2e1632c91a69)](../art/icons/ammunition/small-artillery/amm_grapeshot-preview.png?v=7b922a2f1c74) | [![Small Cannonball](../art/icons/ammunition/small-artillery/amm_small_cannonball-thumbnail.png?v=972ced1fcf98)](../art/icons/ammunition/small-artillery/amm_small_cannonball-preview.png?v=1506736bf181) |
-| v001 | v001 |
+| [![Grapeshot](../art/icons/ammunition/small-artillery/amm_grapeshot-thumbnail.png?v=b43f93bce718)](../art/icons/ammunition/small-artillery/amm_grapeshot-preview.png?v=534937d33697) | [![Small Cannonball](../art/icons/ammunition/small-artillery/amm_small_cannonball-thumbnail.png?v=9c1e04bf3416)](../art/icons/ammunition/small-artillery/amm_small_cannonball-preview.png?v=dd407ecf73ac) |
+| v002 | v002 |
 
 [Back to collections](#collections)
 
@@ -489,8 +489,8 @@ By Crow Brain Games. Select an image to open its larger public preview.
 
 | Case Shot | Chain Shot | Medium Cannonball |
 |---|---|---|
-| [![Case Shot](../art/icons/ammunition/medium-artillery/amm_case_shot-thumbnail.png?v=944044e866ce)](../art/icons/ammunition/medium-artillery/amm_case_shot-preview.png?v=1ab19aeb15e9) | [![Chain Shot](../art/icons/ammunition/medium-artillery/amm_chain_shot-thumbnail.png?v=e2ae79dba9a0)](../art/icons/ammunition/medium-artillery/amm_chain_shot-preview.png?v=6109650787bc) | [![Medium Cannonball](../art/icons/ammunition/medium-artillery/amm_medium_cannonball-thumbnail.png?v=837c0470999d)](../art/icons/ammunition/medium-artillery/amm_medium_cannonball-preview.png?v=263dfbb4f417) |
-| v001 | v001 | v001 |
+| [![Case Shot](../art/icons/ammunition/medium-artillery/amm_case_shot-thumbnail.png?v=a284ca7cde03)](../art/icons/ammunition/medium-artillery/amm_case_shot-preview.png?v=536ab33331a8) | [![Chain Shot](../art/icons/ammunition/medium-artillery/amm_chain_shot-thumbnail.png?v=bc0c1e3840f7)](../art/icons/ammunition/medium-artillery/amm_chain_shot-preview.png?v=9892fb216579) | [![Medium Cannonball](../art/icons/ammunition/medium-artillery/amm_medium_cannonball-thumbnail.png?v=1aa034b33d40)](../art/icons/ammunition/medium-artillery/amm_medium_cannonball-preview.png?v=4dd6ee6780eb) |
+| v002 | v002 | v002 |
 
 [Back to collections](#collections)
 
@@ -499,8 +499,8 @@ By Crow Brain Games. Select an image to open its larger public preview.
 
 | Case Shot | Chain Shot | Large Cannonball | Hollow Shot |
 |---|---|---|---|
-| [![Case Shot](../art/icons/ammunition/medium-artillery/amm_case_shot-thumbnail.png?v=944044e866ce)](../art/icons/ammunition/medium-artillery/amm_case_shot-preview.png?v=1ab19aeb15e9) | [![Chain Shot](../art/icons/ammunition/medium-artillery/amm_chain_shot-thumbnail.png?v=e2ae79dba9a0)](../art/icons/ammunition/medium-artillery/amm_chain_shot-preview.png?v=6109650787bc) | [![Large Cannonball](../art/icons/ammunition/large-artillery/amm_large_cannonball-thumbnail.png?v=25fde64e0061)](../art/icons/ammunition/large-artillery/amm_large_cannonball-preview.png?v=9ae52238d417) | [![Hollow Shot](../art/icons/ammunition/large-artillery/amm_hollow_shot-thumbnail.png?v=e73ee0eb30bb)](../art/icons/ammunition/large-artillery/amm_hollow_shot-preview.png?v=714b807f1f05) |
-| v001 | v001 | v001 | v001 |
+| [![Case Shot](../art/icons/ammunition/medium-artillery/amm_case_shot-thumbnail.png?v=a284ca7cde03)](../art/icons/ammunition/medium-artillery/amm_case_shot-preview.png?v=536ab33331a8) | [![Chain Shot](../art/icons/ammunition/medium-artillery/amm_chain_shot-thumbnail.png?v=bc0c1e3840f7)](../art/icons/ammunition/medium-artillery/amm_chain_shot-preview.png?v=9892fb216579) | [![Large Cannonball](../art/icons/ammunition/large-artillery/amm_large_cannonball-thumbnail.png?v=b4ce9d8b1cab)](../art/icons/ammunition/large-artillery/amm_large_cannonball-preview.png?v=0899300490f4) | [![Hollow Shot](../art/icons/ammunition/large-artillery/amm_hollow_shot-thumbnail.png?v=64fba49ec0e7)](../art/icons/ammunition/large-artillery/amm_hollow_shot-preview.png?v=a0b58741f575) |
+| v002 | v002 | v002 | v002 |
 
 [Back to collections](#collections)
 
