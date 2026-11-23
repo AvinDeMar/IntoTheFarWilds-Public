@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "release": "2026-11-23.2",
+  "release": "2026-11-23.3",
   "self": "publication-allowlist.json",
   "files": [
     {
@@ -29,7 +29,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "27b0135bf5610fde245cc49fcf9304ee3d800121bc01ae6942fbf6c5c11f438d"
+      "sha256": "029471d496b05c0d53971a9d36842f99418c07dea19b2a45a6e57ade00f5c7fe"
     },
     {
       "path": "art/icons/ammunition/any/amm_improvised_shot-preview.png",
@@ -2345,11 +2345,11 @@
     },
     {
       "path": "catalog.json",
-      "sha256": "702c6400ef49768984ae47a25f1ceb768349da5af4fad9cdedb76b7a84dca58e"
+      "sha256": "c27c6f8fa834c753f6d5561a515d583fd975f126dfe2cc5213776eab20ada125"
     },
     {
       "path": "docs/ARTWORK_CATALOG.md",
-      "sha256": "dd68aa37fa0c2710b5616a02d51b527bcb38f56b82b70810d8c07a6a06f29643"
+      "sha256": "1d98a52936b5febd9779283da9d91224f003246442ef2468a037a3b58588a2b0"
     },
     {
       "path": "docs/PUBLISHING.md",
@@ -2357,7 +2357,7 @@
     },
     {
       "path": "docs/RELEASES.md",
-      "sha256": "1e2f8740d8f6712ec327414fddc0bf3bfc46c4a0a7adaeadab823939f988097e"
+      "sha256": "9f68c193a7a111a35578885a0fd118e4d6d8ecde3f47ffed5c0c60d6b18546f4"
     },
     {
       "path": "releases/2026-10-16.1.json",
@@ -2400,16 +2400,20 @@
       "sha256": "51952f976aea3d9498d87e133171c1f500c8e47e8b231c2df6fd3e333a7e9211"
     },
     {
+      "path": "releases/2026-11-23.3.json",
+      "sha256": "95588da0b893838ae7f5499376d96686c883577263661e98e8c3625fdf23514c"
+    },
+    {
       "path": "requirements.txt",
       "sha256": "41b54a6fb2918667ca47a61d73b522629d84490f3d78f0f20b21135faba10d35"
     },
     {
       "path": "scripts/publish_art.py",
-      "sha256": "3ea6dad2a83743d0f87a4d21ff910eff6a75413db225fd1ca462737717f96238"
+      "sha256": "286bf8193f7e4c4733067e9d45c38894e1e8af651ff61a9eff8cc2bd26437e6d"
     },
     {
       "path": "scripts/test_publishing.py",
-      "sha256": "94bd41c2f4319d78f1b1de31de6aca19ad798a4918c1d2fdaa1f99c956de9d5d"
+      "sha256": "e90dc7a3dd2a032ce18ccdefa398d5de04bca084b25eb7e269b871c29ec06676"
     },
     {
       "path": "site/app.js",

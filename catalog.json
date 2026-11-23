@@ -12,7 +12,8 @@
     "2026-10-17.4",
     "2026-10-18.1",
     "2026-11-23.1",
-    "2026-11-23.2"
+    "2026-11-23.2",
+    "2026-11-23.3"
   ],
   "items": [
     {
@@ -6921,12 +6922,20 @@
       "display_name": "Improvised Shot",
       "kind": "icon",
       "category": "ammunition",
-      "group": "Ammunition - Firearms (Any)",
-      "group_slug": "any",
-      "group_order": 40,
+      "group": "Ammunition - Firearms (Small)",
+      "group_slug": "pistol",
+      "group_order": 41,
       "item_order": 33,
       "version": "v005",
-      "publication_version": "2026-11-23.2",
+      "additional_groups": [
+        {
+          "group": "Ammunition - Firearms (Large)",
+          "group_slug": "rifle",
+          "group_order": 42,
+          "item_order": 33
+        }
+      ],
+      "publication_version": "2026-11-23.3",
       "thumbnail": {
         "path": "art/icons/ammunition/any/amm_improvised_shot-thumbnail.png",
         "width": 100,
@@ -6946,12 +6955,12 @@
       "display_name": "Ball Shot",
       "kind": "icon",
       "category": "ammunition",
-      "group": "Ammunition - Small",
+      "group": "Ammunition - Firearms (Small)",
       "group_slug": "pistol",
       "group_order": 41,
       "item_order": 34,
       "version": "v004",
-      "publication_version": "2026-11-23.2",
+      "publication_version": "2026-11-23.3",
       "thumbnail": {
         "path": "art/icons/ammunition/pistol/amm_ball_shot-thumbnail.png",
         "width": 100,
@@ -7265,5 +7274,5 @@
       "retired_in": "2026-10-16.3"
     }
   ],
-  "latest_release": "2026-11-23.2"
+  "latest_release": "2026-11-23.3"
 }

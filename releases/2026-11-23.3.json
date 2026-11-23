@@ -1,0 +1,11 @@
+{
+  "release": "2026-11-23.3",
+  "date": "2026-11-23",
+  "operation": "add-or-update",
+  "changed_ids": [
+    "AMM_IMPROVISED_SHOT",
+    "AMM_BALL_SHOT"
+  ],
+  "published_items": 289,
+  "selection": "Explicitly owner-authorized approved artwork; no automatic source synchronization"
+}

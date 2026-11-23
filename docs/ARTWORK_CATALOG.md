@@ -15,9 +15,8 @@ By Crow Brain Games. Select an image to open its larger public preview.
 [Fertilizer](#resources-21-fertilizer) · [Shards](#resources-22-shards) · [Fabric](#resources-23-fabric) · [Leather](#resources-24-leather) · [Glass](#resources-25-glass)
 [Alloy](#resources-26-alloy) · [Soil Additives](#resources-27-soil-additives) · [Royal Currency](#currencies-01-royal) · [Lawless / Pirate Currency](#currencies-02-lawless) · [Faction-Neutral Currency and Valuables](#currencies-03-neutral)
 [Chopped Products](#resources-31-chopper-products) · [Weaved Products](#resources-32-weaved-products) · [Tanned &amp; Dried Products](#resources-33-tanned-dried-products) · [Milled Products](#resources-34-milled-products) · [Mixed Products](#resources-35-mixer-products)
-[Heated Products](#resources-36-kiln-furnace-products) · [Ammunition - Bow](#ammunition-bow) · [Ammunition - Crossbow](#ammunition-crossbow) · [Ammunition - Ballista](#ammunition-ballista) · [Ammunition - Firearms (Any)](#ammunition-any)
-[Ammunition - Small](#ammunition-pistol) · [Ammunition - Firearms (Large)](#ammunition-rifle) · [Ammunition - Gatling](#ammunition-gatling) · [Ammunition - Small Artillery](#ammunition-small-artillery) · [Ammunition - Medium Artillery](#ammunition-medium-artillery)
-[Ammunition - Large Artillery](#ammunition-large-artillery)
+[Heated Products](#resources-36-kiln-furnace-products) · [Ammunition - Bow](#ammunition-bow) · [Ammunition - Crossbow](#ammunition-crossbow) · [Ammunition - Ballista](#ammunition-ballista) · [Ammunition - Firearms (Small)](#ammunition-pistol)
+[Ammunition - Firearms (Large)](#ammunition-rifle) · [Ammunition - Gatling](#ammunition-gatling) · [Ammunition - Small Artillery](#ammunition-small-artillery) · [Ammunition - Medium Artillery](#ammunition-medium-artillery) · [Ammunition - Large Artillery](#ammunition-large-artillery)
 
 <a id="resources-01-fiber"></a>
 ## Fiber
@@ -434,33 +433,23 @@ By Crow Brain Games. Select an image to open its larger public preview.
 
 [Back to collections](#collections)
 
-<a id="ammunition-any"></a>
-## Ammunition - Firearms (Any)
-
-| Improvised Shot |
-|---|
-| [![Improvised Shot](../art/icons/ammunition/any/amm_improvised_shot-thumbnail.png?v=9e862778f53c)](../art/icons/ammunition/any/amm_improvised_shot-preview.png?v=8f55133c7877) |
-| v005 |
-
-[Back to collections](#collections)
-
 <a id="ammunition-pistol"></a>
-## Ammunition - Small
+## Ammunition - Firearms (Small)
 
-| Ball Shot |
-|---|
-| [![Ball Shot](../art/icons/ammunition/pistol/amm_ball_shot-thumbnail.png?v=92d9352c6b30)](../art/icons/ammunition/pistol/amm_ball_shot-preview.png?v=141edf33bd14) |
-| v004 |
+| Improvised Shot | Ball Shot |
+|---|---|
+| [![Improvised Shot](../art/icons/ammunition/any/amm_improvised_shot-thumbnail.png?v=9e862778f53c)](../art/icons/ammunition/any/amm_improvised_shot-preview.png?v=8f55133c7877) | [![Ball Shot](../art/icons/ammunition/pistol/amm_ball_shot-thumbnail.png?v=92d9352c6b30)](../art/icons/ammunition/pistol/amm_ball_shot-preview.png?v=141edf33bd14) |
+| v005 | v004 |
 
 [Back to collections](#collections)
 
 <a id="ammunition-rifle"></a>
 ## Ammunition - Firearms (Large)
 
-| Musket Shot | Buckshot | Buck &amp; Ball |
-|---|---|---|
-| [![Musket Shot](../art/icons/ammunition/rifle/amm_musket_shot-thumbnail.png?v=92771ada155f)](../art/icons/ammunition/rifle/amm_musket_shot-preview.png?v=f21ae2d92cde) | [![Buckshot](../art/icons/ammunition/rifle/amm_buckshot-thumbnail.png?v=5b915c1edd1e)](../art/icons/ammunition/rifle/amm_buckshot-preview.png?v=2a10229bb1ce) | [![Buck &amp; Ball](../art/icons/ammunition/rifle/amm_buck_and_ball-thumbnail.png?v=0947a791d26b)](../art/icons/ammunition/rifle/amm_buck_and_ball-preview.png?v=3f437c4ee9c1) |
-| v004 | v004 | v004 |
+| Improvised Shot | Musket Shot | Buckshot | Buck &amp; Ball |
+|---|---|---|---|
+| [![Improvised Shot](../art/icons/ammunition/any/amm_improvised_shot-thumbnail.png?v=9e862778f53c)](../art/icons/ammunition/any/amm_improvised_shot-preview.png?v=8f55133c7877) | [![Musket Shot](../art/icons/ammunition/rifle/amm_musket_shot-thumbnail.png?v=92771ada155f)](../art/icons/ammunition/rifle/amm_musket_shot-preview.png?v=f21ae2d92cde) | [![Buckshot](../art/icons/ammunition/rifle/amm_buckshot-thumbnail.png?v=5b915c1edd1e)](../art/icons/ammunition/rifle/amm_buckshot-preview.png?v=2a10229bb1ce) | [![Buck &amp; Ball](../art/icons/ammunition/rifle/amm_buck_and_ball-thumbnail.png?v=0947a791d26b)](../art/icons/ammunition/rifle/amm_buck_and_ball-preview.png?v=3f437c4ee9c1) |
+| v005 | v004 | v004 | v004 |
 
 [Back to collections](#collections)
 

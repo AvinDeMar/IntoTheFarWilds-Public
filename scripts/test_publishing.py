@@ -126,6 +126,42 @@ class PublishingTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             p.validate_order([shared, dict(large, item_order=0)])
 
+    def test_moving_to_two_groups_keeps_the_published_image_urls(self):
+        original = dict(self.items[0], category="ammunition", group="Any", group_slug="any")
+        large = dict(self.items[1], category="ammunition", group="Large", group_slug="large", group_order=2)
+        self.prepare([original, large])
+        before = p.read_catalog()["items"][0]
+        moved = dict(original, group="Small", group_slug="small", additional_groups=[
+            dict(group="Large", group_slug="large", group_order=2, item_order=0)
+        ])
+        self.prepare([moved], release="test.2")
+        self.complete()
+        catalog = p.read_catalog()
+        groups = {members[0]["group"]: members for _, members in p.groups(catalog)}
+        self.assertEqual(set(groups), {"Small", "Large"})
+        self.assertEqual([i["id"] for i in groups["Small"]], [original["id"]])
+        self.assertEqual([i["id"] for i in groups["Large"]], [original["id"], large["id"]])
+        for label in ("thumbnail", "preview"):
+            self.assertEqual(groups["Small"][0][label], before[label])
+            self.assertEqual(groups["Large"][0][label], before[label])
+        self.prepare([dict(moved, version="v002")], release="test.3")
+        self.assertEqual(p.read_catalog()["items"][0]["preview"], before["preview"])
+
+    def test_updated_artwork_keeps_urls_recorded_before_an_id_rename(self):
+        self.prepare()
+        catalog = p.read_catalog()
+        renamed = catalog["items"][0]
+        old_paths = {label: renamed[label]["path"] for label in ("thumbnail", "preview")}
+        renamed["id"] = "RES_RENAMED"
+        p.write_changed(self.public / p.CATALOG, p.encoded(catalog))
+        self.prepare([dict(self.items[0], id=renamed["id"], version="v002")], release="test.2")
+        self.complete()
+        updated = p.read_catalog()["items"][0]
+        self.assertEqual(updated["id"], renamed["id"])
+        self.assertEqual(updated["version"], "v002")
+        for label, path in old_paths.items():
+            self.assertEqual(updated[label]["path"], path)
+
     def test_group_collision_writes_nothing(self):
         with self.assertRaises(ValueError):
             self.prepare([self.items[0], dict(self.items[1], group_slug="02-different")])

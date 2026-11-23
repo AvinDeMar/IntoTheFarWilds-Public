@@ -169,13 +169,18 @@ def derivatives(source, kind):
         return output
 
 
-def image_path(item, suffix):
-    kind = item["kind"]
-    if kind == "icon":
-        base = f"art/icons/{item['category']}/{item['group_slug']}"
-    else:
-        base = f"art/{item['category']}/{item['group_slug']}"
-    return f"{base}/{item['id'].lower()}-{suffix}.png"
+def image_path(item, suffix, previous=None):
+    category = item["category"]
+    directory = f"art/icons/{category}" if item["kind"] == "icon" else f"art/{category}"
+    filename = f"{item['id'].lower()}-{suffix}.png"
+    if previous and (previous["kind"], previous["category"]) == (item["kind"], category):
+        # URLs already in the catalog may predate a group move or canonical ID rename.
+        path = previous[suffix]["path"]
+        pattern = rf"{re.escape(directory)}/[a-z0-9][a-z0-9-]*/[a-z][a-z0-9_]{{1,95}}-{re.escape(suffix)}[.]png"
+        if not re.fullmatch(pattern, path):
+            fail("Invalid existing derivative path for this item")
+        return path
+    return f"{directory}/{item['group_slug']}/{filename}"
 
 
 def validate_selection_item(item):
@@ -239,7 +244,7 @@ def prepare(args):
             public["additional_groups"] = item["additional_groups"]
         public["publication_version"] = args.release
         for label, (data, size) in zip(("thumbnail", "preview"), outputs):
-            path = image_path(public, label)
+            path = image_path(public, label, old)
             safe_path(ROOT, path)
             public[label] = {"path": path, "width": size[0], "height": size[1], "sha256": sha(data)}
             files[path] = data
