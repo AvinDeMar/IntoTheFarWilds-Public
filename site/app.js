@@ -44,12 +44,23 @@ function imageButton(item, hero = false) {
 
 function render() {
   const query = state.search.trim().toLocaleLowerCase();
-  const items = state.items.filter(i => (state.filter === "all" || (state.filter === "artwork" ? i.kind !== "icon" : i.category === state.filter)) && (!query || `${i.name} ${i.display_name} ${i.group}`.toLocaleLowerCase().includes(query)));
   const groups = new Map();
-  for (const i of items) { const key = groupAnchor(i); if (!groups.has(key)) groups.set(key, []); groups.get(key).push(i); }
+  const matched = new Set();
+  for (const item of state.items) {
+    if (state.filter !== "all" && (state.filter === "artwork" ? item.kind === "icon" : item.category !== state.filter)) continue;
+    const memberships = [item, ...(item.additional_groups || []).map(group => ({...item, ...group}))];
+    for (const member of memberships) {
+      if (query && !`${member.name} ${member.display_name} ${member.group}`.toLocaleLowerCase().includes(query)) continue;
+      const key = groupAnchor(member);
+      if (!groups.has(key)) groups.set(key, []);
+      groups.get(key).push(member);
+      matched.add(item.id);
+    }
+  }
   const gallery = document.createDocumentFragment();
   const nav = document.createDocumentFragment();
-  for (const [key, members] of groups) {
+  for (const [key, members] of [...groups].sort((a, b) => a[1][0].group_order - b[1][0].group_order)) {
+    members.sort((a, b) => a.item_order - b.item_order);
     const first = members[0];
     const section = make("section", "family-section"); section.id = key;
     const heading = make("div", "family-heading");
@@ -61,8 +72,8 @@ function render() {
     const link = make("a"); link.href = `#${key}`; link.append(make("span", "number", String(first.group_order).padStart(2, "0")), document.createTextNode(familyName(first))); nav.append(link);
   }
   $("gallery").replaceChildren(gallery); $("family-nav").replaceChildren(nav);
-  $("empty").hidden = items.length !== 0;
-  $("result-count").textContent = `${items.length} of ${state.items.length} artworks · ${groups.size} collections`;
+  $("empty").hidden = matched.size !== 0;
+  $("result-count").textContent = `${matched.size} of ${state.items.length} artworks · ${groups.size} collections`;
 }
 
 $("search").addEventListener("input", (event) => { state.search = event.target.value; render(); });
@@ -93,7 +104,7 @@ async function start() {
     const resources = new Set(state.items.filter(i => i.category === "resources").map(groupAnchor));
     const currencies = new Set(state.items.filter(i => i.category === "currencies").map(groupAnchor));
     $("stats").replaceChildren();
-    for (const [number, label] of [[state.items.length, "artworks"], [resources.size, "resource / product groups"], [currencies.size, "currency groups"]]) {
+    for (const [number, label] of [[state.items.length, "artworks"], [resources.size, "resource / product groups"], [currencies.size, "currency groups"], [state.items.filter(i => i.category === "ammunition").length, "ammunition icons"]]) {
       const span = make("span"); span.append(make("strong", "", String(number)), document.createTextNode(label)); $("stats").append(span);
     }
     $("stats").append(make("span", "stat-note", "Selected artwork · transparent previews"));

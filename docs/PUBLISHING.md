@@ -30,8 +30,9 @@ The external selection file contains `items`. Each item requires:
 
 - `id`, `name`, `display_name`, `version`: canonical identity and approved selection.
 - `kind`: `icon` or `artwork`.
-- `category`: icons use `resources`/`currencies`; other work uses `concepts`, `characters`, `creatures`, `environments`, `screenshots`, or `illustrations`.
+- `category`: icons use `resources`, `currencies`, or `ammunition`; other work uses `concepts`, `characters`, `creatures`, `environments`, `screenshots`, or `illustrations`.
 - `group`, `group_slug`, `group_order`, `item_order`: explicit presentation order and stable filesystem grouping. Initial icon groups use resource families 1–27, then currency groups 28–30; members retain their original source order. New groups need unused order values.
+- Optional `additional_groups` lists further display memberships with the same four group/order fields. Each membership links to the same canonical artwork.
 - `source_path`, `source_sha256`: a private staged source and its verified hash.
 - `approval_status: "Approved"` and `rights_status: "cleared"`: record these only after source approval and provenance/publication checks.
 

@@ -84,11 +84,31 @@ def validate_release(release):
         fail("Unsafe release identifier")
 
 
-def validate_order(items):
-    positions, orders, identities = set(), {}, {}
+def gallery_memberships(items):
+    """Expand display memberships while retaining each artwork's one canonical record and URLs."""
     for item in items:
+        yield item
+        seen = {item["group_slug"]}
+        for group in item.get("additional_groups", []):
+            if set(group) != {"group", "group_slug", "group_order", "item_order"}:
+                fail("Incomplete additional gallery group")
+            if (not isinstance(group["group"], str) or not group["group"].strip()
+                    or len(group["group"]) > 180 or "\n" in group["group"]
+                    or not re.fullmatch(r"[a-z0-9][a-z0-9-]*", group["group_slug"])
+                    or group["group_slug"] in seen
+                    or not all(type(group[k]) is int and group[k] >= 0 for k in ("group_order", "item_order"))):
+                fail("Invalid or repeated additional gallery group")
+            seen.add(group["group_slug"])
+            yield {**item, **group}
+
+
+def validate_order(items):
+    positions, orders, identities, labels = set(), {}, {}, {}
+    for item in gallery_memberships(items):
         identity = (item["category"], item["group_slug"])
         order = item["group_order"]
+        if labels.setdefault(identity, item["group"]) != item["group"]:
+            fail("Conflicting gallery group labels")
         if orders.setdefault(order, identity) != identity or identities.setdefault(identity, order) != order:
             fail("Collection order must identify exactly one stable group")
         position = (order, item["item_order"])
@@ -170,7 +190,7 @@ def validate_selection_item(item):
         fail("Use a stable canonical ID")
     if item["kind"] not in {"icon", "artwork"}:
         fail("Artwork kind must be icon or artwork")
-    allowed = {"resources", "currencies"} if item["kind"] == "icon" else {
+    allowed = {"resources", "currencies", "ammunition"} if item["kind"] == "icon" else {
         "concepts", "characters", "creatures", "environments", "screenshots", "illustrations"}
     if item["category"] not in allowed or not re.fullmatch(r"[a-z0-9][a-z0-9-]*", item["group_slug"]):
         fail("Unsupported category or unsafe public slug")
@@ -215,6 +235,8 @@ def prepare(args):
         outputs = derivatives(source, item["kind"])
         public = {k: item[k] for k in ("id", "name", "display_name", "kind", "category", "group",
                                       "group_slug", "group_order", "item_order", "version")}
+        if item.get("additional_groups"):
+            public["additional_groups"] = item["additional_groups"]
         public["publication_version"] = args.release
         for label, (data, size) in zip(("thumbnail", "preview"), outputs):
             path = image_path(public, label)
@@ -267,7 +289,7 @@ def md_label(value):
 
 def groups(catalog):
     result = []
-    for item in sorted(catalog["items"], key=sort_key):
+    for item in sorted(gallery_memberships(catalog["items"]), key=sort_key):
         if not result or result[-1][0] != item["group_order"]:
             result.append((item["group_order"], []))
         result[-1][1].append(item)
@@ -282,9 +304,11 @@ def render(catalog):
     buckets = groups(catalog)
     resource_count = sum(i["category"] == "resources" for i in catalog["items"])
     currency_count = sum(i["category"] == "currencies" for i in catalog["items"])
+    ammo_count = sum(i["category"] == "ammunition" for i in catalog["items"])
+    ammo_summary = f" · {ammo_count} ammunition icons" if ammo_count else ""
     nav = [f"[{md_label(items[0]['group'])}](#{anchor(items[0])})" for _, items in buckets]
     md = ["# Into the Far Wilds — artwork catalog", "",
-          f"**{len(catalog['items'])} published artworks** · {resource_count} resource icons · {currency_count} currency icons", "",
+          f"**{len(catalog['items'])} published artworks** · {resource_count} resource icons · {currency_count} currency icons{ammo_summary}", "",
           "By Crow Brain Games. Select an image to open its larger public preview.", "",
           "[Project introduction](../README.md) · [Artwork rights](../LICENSE-ARTWORK.md)", "", "## Collections", ""]
     md.extend(" · ".join(nav[i:i + 5]) for i in range(0, len(nav), 5))
@@ -304,11 +328,13 @@ def render(catalog):
     write_changed(ROOT / "docs/ARTWORK_CATALOG.md", "\n".join(md).encode())
     count = len(catalog["items"])
     title = "Resource & Currency Artwork Collection" if all(i["kind"] == "icon" for i in catalog["items"]) else "Artwork & Media Collection"
+    if ammo_count:
+        title = "Item Icon Artwork Collection"
     featured = [items[0] for _, items in buckets[:6]]
     readme = ["# Into the Far Wilds", "", f"## {title}", "",
               "An evolving visual identity, one material at a time.", "",
               "A curated collection of artwork for **Into the Far Wilds**, in development by **Crow Brain Games**. This showcase begins with resource and currency icons and can grow to include owner-selected concept art, environments, characters and screenshots.", "",
-              f"**{count} published artworks** · {resource_count} resource icons · {currency_count} currency and portable-valuable icons", "",
+              f"**{count} published artworks** · {resource_count} resource icons · {currency_count} currency and portable-valuable icons{ammo_summary}", "",
               "**[Browse the complete labeled gallery](docs/ARTWORK_CATALOG.md)** · **[Open the interactive showcase](https://avindemar.github.io/IntoTheFarWilds-Public/)**", "",
               "Transparent previews, original family order, and larger images one click away.", "",
               "| " + " | ".join(md_label(i["display_name"]) for i in featured) + " |",

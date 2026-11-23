@@ -1,12 +1,12 @@
 # Into the Far Wilds
 
-## Resource & Currency Artwork Collection
+## Item Icon Artwork Collection
 
 An evolving visual identity, one material at a time.
 
 A curated collection of artwork for **Into the Far Wilds**, in development by **Crow Brain Games**. This showcase begins with resource and currency icons and can grow to include owner-selected concept art, environments, characters and screenshots.
 
-**243 published artworks** · 231 resource icons · 12 currency and portable-valuable icons
+**289 published artworks** · 231 resource icons · 12 currency and portable-valuable icons · 46 ammunition icons
 
 **[Browse the complete labeled gallery](docs/ARTWORK_CATALOG.md)** · **[Open the interactive showcase](https://avindemar.github.io/IntoTheFarWilds-Public/)**
 
@@ -25,7 +25,9 @@ Transparent previews, original family order, and larger images one click away.
 [Fertilizer](docs/ARTWORK_CATALOG.md#resources-21-fertilizer) · [Shards](docs/ARTWORK_CATALOG.md#resources-22-shards) · [Fabric](docs/ARTWORK_CATALOG.md#resources-23-fabric) · [Leather](docs/ARTWORK_CATALOG.md#resources-24-leather) · [Glass](docs/ARTWORK_CATALOG.md#resources-25-glass)
 [Alloy](docs/ARTWORK_CATALOG.md#resources-26-alloy) · [Soil Additives](docs/ARTWORK_CATALOG.md#resources-27-soil-additives) · [Royal Currency](docs/ARTWORK_CATALOG.md#currencies-01-royal) · [Lawless / Pirate Currency](docs/ARTWORK_CATALOG.md#currencies-02-lawless) · [Faction-Neutral Currency and Valuables](docs/ARTWORK_CATALOG.md#currencies-03-neutral)
 [Chopped Products](docs/ARTWORK_CATALOG.md#resources-31-chopper-products) · [Weaved Products](docs/ARTWORK_CATALOG.md#resources-32-weaved-products) · [Tanned &amp; Dried Products](docs/ARTWORK_CATALOG.md#resources-33-tanned-dried-products) · [Milled Products](docs/ARTWORK_CATALOG.md#resources-34-milled-products) · [Mixed Products](docs/ARTWORK_CATALOG.md#resources-35-mixer-products)
-[Heated Products](docs/ARTWORK_CATALOG.md#resources-36-kiln-furnace-products)
+[Heated Products](docs/ARTWORK_CATALOG.md#resources-36-kiln-furnace-products) · [Ammunition - Bow](docs/ARTWORK_CATALOG.md#ammunition-bow) · [Ammunition - Crossbow](docs/ARTWORK_CATALOG.md#ammunition-crossbow) · [Ammunition - Ballista](docs/ARTWORK_CATALOG.md#ammunition-ballista) · [Ammunition - Any](docs/ARTWORK_CATALOG.md#ammunition-any)
+[Ammunition - Pistol](docs/ARTWORK_CATALOG.md#ammunition-pistol) · [Ammunition - Rifle](docs/ARTWORK_CATALOG.md#ammunition-rifle) · [Ammunition - Gatling](docs/ARTWORK_CATALOG.md#ammunition-gatling) · [Ammunition - Small Artillery](docs/ARTWORK_CATALOG.md#ammunition-small-artillery) · [Ammunition - Medium Artillery](docs/ARTWORK_CATALOG.md#ammunition-medium-artillery)
+[Ammunition - Large Artillery](docs/ARTWORK_CATALOG.md#ammunition-large-artillery)
 
 ### Artwork rights
 

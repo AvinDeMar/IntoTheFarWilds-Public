@@ -10,7 +10,8 @@
     "2026-10-17.2",
     "2026-10-17.3",
     "2026-10-17.4",
-    "2026-10-18.1"
+    "2026-10-18.1",
+    "2026-11-23.1"
   ],
   "items": [
     {
@@ -6087,6 +6088,1172 @@
         "height": 320,
         "sha256": "4aad247f91eb7a57aaabb8fa7a4eb033a50f20a792305352f1a56f88afa2e66c"
       }
+    },
+    {
+      "id": "AMM_SIMPLE_ARROW",
+      "name": "simple arrow",
+      "display_name": "Simple Arrow",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Bow",
+      "group_slug": "bow",
+      "group_order": 37,
+      "item_order": 0,
+      "version": "v003",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/bow/amm_simple_arrow-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "7eabe17a66ffa2f0843522a7fdf5bb4fa908e9c7341e4e13951ca064076ab546"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/bow/amm_simple_arrow-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "723f91ac28abb19686f1ed1847c128d8a25d0e5df6be02ed6312f1148b544ee5"
+      }
+    },
+    {
+      "id": "AMM_SIMPLE_ARROW_FIRE",
+      "name": "simple arrow (fire)",
+      "display_name": "Simple Arrow (Fire)",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Bow",
+      "group_slug": "bow",
+      "group_order": 37,
+      "item_order": 1,
+      "version": "v003",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/bow/amm_simple_arrow_fire-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "854bfb2fe6dc5f4d4ce5498a162c579af7d353bd1cb8ac6084b55f92bf120b6f"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/bow/amm_simple_arrow_fire-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "6e92ff72f6cbd440e3f43fe1d2d5842568d52c376b2951120f23b11758f00d9b"
+      }
+    },
+    {
+      "id": "AMM_SIMPLE_ARROW_POISON",
+      "name": "simple arrow (poison)",
+      "display_name": "Simple Arrow (Poison)",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Bow",
+      "group_slug": "bow",
+      "group_order": 37,
+      "item_order": 2,
+      "version": "v003",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/bow/amm_simple_arrow_poison-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "7b14c67ba5cadee7b6f9a23009104dda32729ff73c2a902ef1e5a208105c4aac"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/bow/amm_simple_arrow_poison-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "b4d3222298c68608baf8c849d414db71bec9da23e909bd16c8366cb0f6afc0a9"
+      }
+    },
+    {
+      "id": "AMM_FEATHERED_ARROW",
+      "name": "feathered arrow",
+      "display_name": "Feathered Arrow",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Bow",
+      "group_slug": "bow",
+      "group_order": 37,
+      "item_order": 3,
+      "version": "v005",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/bow/amm_feathered_arrow-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "d08696656d8254ecc54efa5b79fd15c03f3bca0a9d4711a5213d4c52fee60466"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/bow/amm_feathered_arrow-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "358a0e437aa660abed1b86196f7aef2cc17da8c20902d71fe85859262dcca354"
+      }
+    },
+    {
+      "id": "AMM_FEATHERED_ARROW_FIRE",
+      "name": "feathered arrow (fire)",
+      "display_name": "Feathered Arrow (Fire)",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Bow",
+      "group_slug": "bow",
+      "group_order": 37,
+      "item_order": 4,
+      "version": "v004",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/bow/amm_feathered_arrow_fire-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "e0afde15fb700aefad109c16e54c2cda6c4f7e86c973d1cd792d6f126da7ebd2"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/bow/amm_feathered_arrow_fire-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "1ff3d4fe4099c8b9fff12a918e872a7129312f892f3eca552368f44206351495"
+      }
+    },
+    {
+      "id": "AMM_FEATHERED_ARROW_POISON",
+      "name": "feathered arrow (poison)",
+      "display_name": "Feathered Arrow (Poison)",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Bow",
+      "group_slug": "bow",
+      "group_order": 37,
+      "item_order": 5,
+      "version": "v004",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/bow/amm_feathered_arrow_poison-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "4afbcfb6a77eaa2d3265676822faade508ed6d456eee82f95fdb05e418d305c5"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/bow/amm_feathered_arrow_poison-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "66e92f72f19134b87795295f487255a0e0f95d16aa27c165a4ca6b40ac201961"
+      }
+    },
+    {
+      "id": "AMM_METAL_ARROW",
+      "name": "metal arrow",
+      "display_name": "Metal Arrow",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Bow",
+      "group_slug": "bow",
+      "group_order": 37,
+      "item_order": 6,
+      "version": "v003",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/bow/amm_metal_arrow-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "2426783e652d4baeeaa0132dac919a7ac396af05ca404c188b98e1d7dbd7b47e"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/bow/amm_metal_arrow-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "87fac912ac62edbc9e3ca1f2b4c84b1f2a440e32492a33ac06626f055c329fb9"
+      }
+    },
+    {
+      "id": "AMM_METAL_ARROW_FIRE",
+      "name": "metal arrow (fire)",
+      "display_name": "Metal Arrow (Fire)",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Bow",
+      "group_slug": "bow",
+      "group_order": 37,
+      "item_order": 7,
+      "version": "v005",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/bow/amm_metal_arrow_fire-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "03aca5f1c7565c2fdf92f327df9d4ed03931ced7793cc61b2e341c4cba2d90b5"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/bow/amm_metal_arrow_fire-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "f65c2ff349e269e690fc82419cc725f28bcb2b542af128e7480de0a8e9078c19"
+      }
+    },
+    {
+      "id": "AMM_METAL_ARROW_POISON",
+      "name": "metal arrow (poison)",
+      "display_name": "Metal Arrow (Poison)",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Bow",
+      "group_slug": "bow",
+      "group_order": 37,
+      "item_order": 8,
+      "version": "v003",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/bow/amm_metal_arrow_poison-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "8684f5fe142dbb690ccc874af6ffd16dd3006faea439a95375cb6d2c07732974"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/bow/amm_metal_arrow_poison-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "30253f3f1a7cc695b2be457d2d8df2626c3db2f40ecc811addebf0e3b7cd1d79"
+      }
+    },
+    {
+      "id": "AMM_ALLOY_ARROW",
+      "name": "alloy arrow",
+      "display_name": "Alloy Arrow",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Bow",
+      "group_slug": "bow",
+      "group_order": 37,
+      "item_order": 9,
+      "version": "v003",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/bow/amm_alloy_arrow-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "4a6e7217801f7145da321e0fc226fb376b5da52b824a3f4abb05afda2335ce9b"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/bow/amm_alloy_arrow-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "2da1fb32183fbee41eb403c512aad7a3873a16c915b58d78014476c764194f9a"
+      }
+    },
+    {
+      "id": "AMM_ALLOY_ARROW_FIRE",
+      "name": "alloy arrow (fire)",
+      "display_name": "Alloy Arrow (Fire)",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Bow",
+      "group_slug": "bow",
+      "group_order": 37,
+      "item_order": 10,
+      "version": "v003",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/bow/amm_alloy_arrow_fire-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "69c95d166e5b0cbd571d7145bf0a265e1c324715276b954b691ee6a1edff26a6"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/bow/amm_alloy_arrow_fire-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "20e9f0f67369a30faddcd86882762673720dd9f4b506e3b9d12f5beebc34d4b4"
+      }
+    },
+    {
+      "id": "AMM_ALLOY_ARROW_POISON",
+      "name": "alloy arrow (poison)",
+      "display_name": "Alloy Arrow (Poison)",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Bow",
+      "group_slug": "bow",
+      "group_order": 37,
+      "item_order": 11,
+      "version": "v002",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/bow/amm_alloy_arrow_poison-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "80a970925503492cf08b8bd7bb51c4a03a42f944d755854bc19fee06e6659b2b"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/bow/amm_alloy_arrow_poison-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "c46fa40288bfd50b4eb82a9a58c8f2502f26417f2d39cc94fdaee50f8f11f634"
+      }
+    },
+    {
+      "id": "AMM_SIMPLE_BOLTS",
+      "name": "simple bolts",
+      "display_name": "Simple Bolts",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Crossbow",
+      "group_slug": "crossbow",
+      "group_order": 38,
+      "item_order": 12,
+      "version": "v005",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/crossbow/amm_simple_bolts-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "674022b816756011cbaa55e83bf5814b3d52d32f5ffe08aef5caa50ed9570dfa"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/crossbow/amm_simple_bolts-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "e1664e5e0b33d7d0cf328ad74c67b189ae1284828dc9003504cea2510f4ab24e"
+      }
+    },
+    {
+      "id": "AMM_SIMPLE_BOLTS_FIRE",
+      "name": "simple bolts (fire)",
+      "display_name": "Simple Bolts (Fire)",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Crossbow",
+      "group_slug": "crossbow",
+      "group_order": 38,
+      "item_order": 13,
+      "version": "v003",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/crossbow/amm_simple_bolts_fire-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "a41367c277991124160a1e33ad9b43f5637af1e32a71c439a2afc7a34085e7f1"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/crossbow/amm_simple_bolts_fire-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "a0eb79b870e75ef7f5dc02ab35cd7d4e2e9fef82e7e7dca55695906b4d0932a3"
+      }
+    },
+    {
+      "id": "AMM_SIMPLE_BOLTS_POISON",
+      "name": "simple bolts (poison)",
+      "display_name": "Simple Bolts (Poison)",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Crossbow",
+      "group_slug": "crossbow",
+      "group_order": 38,
+      "item_order": 14,
+      "version": "v004",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/crossbow/amm_simple_bolts_poison-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "9f07a65a450fa0980b31426172fa34de0d766084cf6b8862912d5712c379eb52"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/crossbow/amm_simple_bolts_poison-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "a7133ce4a0efcbd9549a572d07efed05bd62734b2fa7730d2ddcc60ca4b10299"
+      }
+    },
+    {
+      "id": "AMM_METAL_BOLTS",
+      "name": "metal bolts",
+      "display_name": "Metal Bolts",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Crossbow",
+      "group_slug": "crossbow",
+      "group_order": 38,
+      "item_order": 15,
+      "version": "v004",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/crossbow/amm_metal_bolts-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "f458e30c79c33fb2467b810a7ec93b3b25ebbc0c1656ded24c6798492f3fd9ce"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/crossbow/amm_metal_bolts-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "747ccc81a88553c9e6c87ca99a4fad1d7815cdce7b314fde27c3e27374b93bfc"
+      }
+    },
+    {
+      "id": "AMM_METAL_BOLTS_FIRE",
+      "name": "metal bolts (fire)",
+      "display_name": "Metal Bolts (Fire)",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Crossbow",
+      "group_slug": "crossbow",
+      "group_order": 38,
+      "item_order": 16,
+      "version": "v004",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/crossbow/amm_metal_bolts_fire-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "a922c35504fbdfd997bb787f01b33188f1b3b81448ec1272998b4f04593bdb25"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/crossbow/amm_metal_bolts_fire-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "3d8c52b1642219969f27d18d7701194815f141a127dd92e185ee2ae4f81f1f53"
+      }
+    },
+    {
+      "id": "AMM_METAL_BOLTS_POISON",
+      "name": "metal bolts (poison)",
+      "display_name": "Metal Bolts (Poison)",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Crossbow",
+      "group_slug": "crossbow",
+      "group_order": 38,
+      "item_order": 17,
+      "version": "v005",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/crossbow/amm_metal_bolts_poison-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "a5d753d2ca98d1707d990508b34b3ac90e486d2030855898d97721b363005603"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/crossbow/amm_metal_bolts_poison-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "4631981af679389b0a119b5404cdbbd70270a6ecd0462a38b69a0d80c4188ab1"
+      }
+    },
+    {
+      "id": "AMM_ALLOY_BOLTS",
+      "name": "alloy bolts",
+      "display_name": "Alloy Bolts",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Crossbow",
+      "group_slug": "crossbow",
+      "group_order": 38,
+      "item_order": 18,
+      "version": "v006",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/crossbow/amm_alloy_bolts-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "6aa97887b4318060dca0dbc5c012b52c4ad7dda61f358c6b9669923b5865846d"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/crossbow/amm_alloy_bolts-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "7cfdfe16b3591cef97bdb769a352a20d2d391745281c78cb2570d6a3460c4b84"
+      }
+    },
+    {
+      "id": "AMM_ALLOY_BOLTS_FIRE",
+      "name": "alloy bolts (fire)",
+      "display_name": "Alloy Bolts (Fire)",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Crossbow",
+      "group_slug": "crossbow",
+      "group_order": 38,
+      "item_order": 19,
+      "version": "v005",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/crossbow/amm_alloy_bolts_fire-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "477d31a1b988e471d7165ebbb38193a4a8d0eb2042f51424b9a931ea71c1e6e8"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/crossbow/amm_alloy_bolts_fire-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "bee0c92fccdb5e839e4be471f4b10d0739b00d124c07ddfdf732d1334749223c"
+      }
+    },
+    {
+      "id": "AMM_ALLOY_BOLTS_POISON",
+      "name": "alloy bolts (poison)",
+      "display_name": "Alloy Bolts (Poison)",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Crossbow",
+      "group_slug": "crossbow",
+      "group_order": 38,
+      "item_order": 20,
+      "version": "v006",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/crossbow/amm_alloy_bolts_poison-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "09d5f292bbb052abc0bac47ac94cad59dcbb4e65770f81f301defc293927f7ec"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/crossbow/amm_alloy_bolts_poison-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "671d87c9f877ae2f22eac61ac06c6d47a9ddca2994e1f6dafa3ba8660ed86465"
+      }
+    },
+    {
+      "id": "AMM_CRUDE_BALLISTA_BOLTS",
+      "name": "crude ballista bolts",
+      "display_name": "Crude Ballista Bolts",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Ballista",
+      "group_slug": "ballista",
+      "group_order": 39,
+      "item_order": 21,
+      "version": "v001",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/ballista/amm_crude_ballista_bolts-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "1010034c9be8ab0c7a344f02387c74cb4edac3a46d2cead6a5a66f23951d32c1"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/ballista/amm_crude_ballista_bolts-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "6940b96fb05f8a536498a6b158b61b1b60f78c8efb731ec9461890805edbea69"
+      }
+    },
+    {
+      "id": "AMM_CRUDE_BALLISTA_BOLTS_FIRE",
+      "name": "crude ballista bolts (fire)",
+      "display_name": "Crude Ballista Bolts (Fire)",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Ballista",
+      "group_slug": "ballista",
+      "group_order": 39,
+      "item_order": 22,
+      "version": "v001",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/ballista/amm_crude_ballista_bolts_fire-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "df422a995ac214b515f4641b50905a73debeb172ca4c811a73b29cf9f2bf36da"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/ballista/amm_crude_ballista_bolts_fire-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "e11fc0c2239a3445cd2ab6fa0f06fea8cd6cbf4fb096d609373a89a428779d00"
+      }
+    },
+    {
+      "id": "AMM_CRUDE_BALLISTA_BOLTS_POISON",
+      "name": "crude ballista bolts (poison)",
+      "display_name": "Crude Ballista Bolts (Poison)",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Ballista",
+      "group_slug": "ballista",
+      "group_order": 39,
+      "item_order": 23,
+      "version": "v001",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/ballista/amm_crude_ballista_bolts_poison-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "2ddc83dc626634e7ae4c54c366563383ff5baf33b46a47bc19057649a3012b3d"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/ballista/amm_crude_ballista_bolts_poison-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "673a2c75f60399b2efc489a654bf601dad9046a50dce32df70b11e4c2f9d5c43"
+      }
+    },
+    {
+      "id": "AMM_CRUDE_BALLISTA_BOLTS_HARPOON",
+      "name": "crude ballista bolts (harpoon)",
+      "display_name": "Crude Ballista Bolts (Harpoon)",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Ballista",
+      "group_slug": "ballista",
+      "group_order": 39,
+      "item_order": 24,
+      "version": "v001",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/ballista/amm_crude_ballista_bolts_harpoon-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "954477ecd8910a087ebec57f373e14f90f007e106ae979beb5b640bd8f9049e1"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/ballista/amm_crude_ballista_bolts_harpoon-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "c2c9552f1fc91637d7160912d2f5b2fb5b92302a2bce8bbc364e33b80b9a052f"
+      }
+    },
+    {
+      "id": "AMM_METAL_BALLISTA_BOLTS",
+      "name": "metal ballista bolts",
+      "display_name": "Metal Ballista Bolts",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Ballista",
+      "group_slug": "ballista",
+      "group_order": 39,
+      "item_order": 25,
+      "version": "v001",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/ballista/amm_metal_ballista_bolts-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "0f24eae366b59c605de38bec6bf8cae1b26da79f80e77492f39eb6a64202823d"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/ballista/amm_metal_ballista_bolts-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "ae75ae19d9eb95bf962e2f0c58fce4aa58ced71481898852d53518497e5d05fc"
+      }
+    },
+    {
+      "id": "AMM_METAL_BALLISTA_BOLTS_FIRE",
+      "name": "metal ballista bolts (fire)",
+      "display_name": "Metal Ballista Bolts (Fire)",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Ballista",
+      "group_slug": "ballista",
+      "group_order": 39,
+      "item_order": 26,
+      "version": "v001",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/ballista/amm_metal_ballista_bolts_fire-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "05a2e760163b7b4e0a5eb9459d4965ede8b8370f6cc6367faf08a3263837604a"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/ballista/amm_metal_ballista_bolts_fire-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "d9a88db44683324eb6f35e64b5c4238d537cdccac355b7942c60decbc7ef5095"
+      }
+    },
+    {
+      "id": "AMM_METAL_BALLISTA_BOLTS_POISON",
+      "name": "metal ballista bolts (poison)",
+      "display_name": "Metal Ballista Bolts (Poison)",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Ballista",
+      "group_slug": "ballista",
+      "group_order": 39,
+      "item_order": 27,
+      "version": "v001",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/ballista/amm_metal_ballista_bolts_poison-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "5015a8e6c2541c9d0d3d5259565c9ba84982968365a49578b6548a75e084c5cd"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/ballista/amm_metal_ballista_bolts_poison-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "f47e8d9065ed71b743bbf027687d78cdeaba0dd1ca9b1db46f5159be026719f1"
+      }
+    },
+    {
+      "id": "AMM_METAL_BALLISTA_BOLTS_HARPOON",
+      "name": "metal ballista bolts (harpoon)",
+      "display_name": "Metal Ballista Bolts (Harpoon)",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Ballista",
+      "group_slug": "ballista",
+      "group_order": 39,
+      "item_order": 28,
+      "version": "v001",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/ballista/amm_metal_ballista_bolts_harpoon-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "dbfdc69e5ab1f3b8fcc02d638fe9c4e988fde59d82c0237759ea7e31863e78de"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/ballista/amm_metal_ballista_bolts_harpoon-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "5519e80f8a6bfadc1de06a2ca7b56b393d69cf2bc9a2c6afd4c5c4e5c6cceb3c"
+      }
+    },
+    {
+      "id": "AMM_ALLOY_BALLISTA_BOLTS",
+      "name": "alloy ballista bolts",
+      "display_name": "Alloy Ballista Bolts",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Ballista",
+      "group_slug": "ballista",
+      "group_order": 39,
+      "item_order": 29,
+      "version": "v001",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/ballista/amm_alloy_ballista_bolts-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "44824cf3f926d5584af7a5fe1da44f26dc9e1f0c9b145b8da98357910a60fefd"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/ballista/amm_alloy_ballista_bolts-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "555b22a54c548a10bf1b09b62c78875facf29fad211209a63fe25a82aa991f8b"
+      }
+    },
+    {
+      "id": "AMM_ALLOY_BALLISTA_BOLTS_FIRE",
+      "name": "alloy ballista bolts (fire)",
+      "display_name": "Alloy Ballista Bolts (Fire)",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Ballista",
+      "group_slug": "ballista",
+      "group_order": 39,
+      "item_order": 30,
+      "version": "v001",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/ballista/amm_alloy_ballista_bolts_fire-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "cbf56b6b85b6ef4ad1c240ef372feb4a4a38f9d5f1bd2e3e1723d07562554e33"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/ballista/amm_alloy_ballista_bolts_fire-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "e81500bd71198612b048ca1db99ae627a8d175e51aaab47af46781cec6d05005"
+      }
+    },
+    {
+      "id": "AMM_ALLOY_BALLISTA_BOLTS_POISON",
+      "name": "alloy ballista bolts (poison)",
+      "display_name": "Alloy Ballista Bolts (Poison)",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Ballista",
+      "group_slug": "ballista",
+      "group_order": 39,
+      "item_order": 31,
+      "version": "v001",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/ballista/amm_alloy_ballista_bolts_poison-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "30c8aa6e4df23598844730313121ef728487541345936090649b347b11c63e43"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/ballista/amm_alloy_ballista_bolts_poison-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "d6248111ab2c88256045603206290bd498ab3578ab2976f1cd857ed0984806e3"
+      }
+    },
+    {
+      "id": "AMM_ALLOY_BALLISTA_BOLTS_HARPOON",
+      "name": "alloy ballista bolts (harpoon)",
+      "display_name": "Alloy Ballista Bolts (Harpoon)",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Ballista",
+      "group_slug": "ballista",
+      "group_order": 39,
+      "item_order": 32,
+      "version": "v001",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/ballista/amm_alloy_ballista_bolts_harpoon-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "f71a5cb892f64ed2ad315bdc5ecd90090b8c08b9f0de6dedf46851893787719a"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/ballista/amm_alloy_ballista_bolts_harpoon-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "dfcd81ed90c36d85e13cfd7c2534e8b03fe5661080e4bb9e40892962ddd7f8a0"
+      }
+    },
+    {
+      "id": "AMM_IMPROVISED_SHOT",
+      "name": "improvised shot",
+      "display_name": "Improvised Shot",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Any",
+      "group_slug": "any",
+      "group_order": 40,
+      "item_order": 33,
+      "version": "v004",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/any/amm_improvised_shot-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "24c6ee038dc6b79b440b618d15a1d18f4c6779d2797c3ccc4874eaac79bf63e8"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/any/amm_improvised_shot-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "731b554ed4c3a4491f77e0a96f83da776f3b66d818a3bc6508fa8261187fdbef"
+      }
+    },
+    {
+      "id": "AMM_BALL_SHOT",
+      "name": "ball shot",
+      "display_name": "Ball Shot",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Pistol",
+      "group_slug": "pistol",
+      "group_order": 41,
+      "item_order": 34,
+      "version": "v003",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/pistol/amm_ball_shot-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "7a341b9751fe54fa5cbc8417e0def285a7efc7ae9d4a637aca582ecdbfcd8bbc"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/pistol/amm_ball_shot-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "f881e14987ead7985d33f07d188931ec28ba993a61698b71a9268f73faa969c9"
+      }
+    },
+    {
+      "id": "AMM_MUSKET_SHOT",
+      "name": "musket shot",
+      "display_name": "Musket Shot",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Rifle",
+      "group_slug": "rifle",
+      "group_order": 42,
+      "item_order": 35,
+      "version": "v003",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/rifle/amm_musket_shot-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "696e0531ff7f738a949c97e28f53e3545c336956075e5bacb11bb179be441901"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/rifle/amm_musket_shot-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "b0305a76eb0ed714ace85cc3120c8ad1cbae020c9e953ec96c97e528bc01bd2b"
+      }
+    },
+    {
+      "id": "AMM_BUCKSHOT",
+      "name": "buckshot",
+      "display_name": "Buckshot",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Rifle",
+      "group_slug": "rifle",
+      "group_order": 42,
+      "item_order": 36,
+      "version": "v003",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/rifle/amm_buckshot-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "78a1fa812eec81b29d844c658a3d23975f371ceb1dc952c1b805e8dc568b44d0"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/rifle/amm_buckshot-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "d6f52a4a8a97f9fb0cb4acf1f42e2b35aa4e03af926b462e7ba3c7e746de690a"
+      }
+    },
+    {
+      "id": "AMM_BUCK_AND_BALL",
+      "name": "buck & ball",
+      "display_name": "Buck & Ball",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Rifle",
+      "group_slug": "rifle",
+      "group_order": 42,
+      "item_order": 37,
+      "version": "v003",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/rifle/amm_buck_and_ball-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "7d4a3ba7e38075e916d85f0bb900ba9cb8deeae2c4e87478eff969558c76d54c"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/rifle/amm_buck_and_ball-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "1795b74ce3b32ac43558bc2e0c1d859d758c36d873aa13107f9ca4c5b17f88e5"
+      }
+    },
+    {
+      "id": "AMM_PAPER_CARTRIDGE",
+      "name": "paper cartridge",
+      "display_name": "Paper Cartridge",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Gatling",
+      "group_slug": "gatling",
+      "group_order": 43,
+      "item_order": 38,
+      "version": "v001",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/gatling/amm_paper_cartridge-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "055614f06ee2922221a96f1f15338b3d75a85c0735ad97a95c9dc3de78949581"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/gatling/amm_paper_cartridge-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "9c354a8c89e2b3da196fdd8b8da75859c8c0d15f30db7013a999954c98422f6e"
+      }
+    },
+    {
+      "id": "AMM_GRAPESHOT",
+      "name": "grapeshot",
+      "display_name": "Grapeshot",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Small Artillery",
+      "group_slug": "small-artillery",
+      "group_order": 44,
+      "item_order": 39,
+      "version": "v001",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/small-artillery/amm_grapeshot-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "2e1632c91a69cb6a907fd8ad453438f6841e0fcce7a9647a594c741d5b1e12ef"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/small-artillery/amm_grapeshot-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "7b922a2f1c74f51469770d6d25483871b5604bb3f070d77e74186fa9cab70928"
+      }
+    },
+    {
+      "id": "AMM_SMALL_CANNONBALL",
+      "name": "small cannonball",
+      "display_name": "Small Cannonball",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Small Artillery",
+      "group_slug": "small-artillery",
+      "group_order": 44,
+      "item_order": 42,
+      "version": "v001",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/small-artillery/amm_small_cannonball-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "972ced1fcf98d89938bcbba4425a9295403640d88330f82f8dc79955f9d3d917"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/small-artillery/amm_small_cannonball-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "1506736bf1818869b28ff8d6b923dde1e17adb2d1dfac51836f7e8e5062b079f"
+      }
+    },
+    {
+      "id": "AMM_CASE_SHOT",
+      "name": "case shot",
+      "display_name": "Case Shot",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Medium Artillery",
+      "group_slug": "medium-artillery",
+      "group_order": 45,
+      "item_order": 40,
+      "version": "v001",
+      "additional_groups": [
+        {
+          "group": "Ammunition - Large Artillery",
+          "group_order": 46,
+          "group_slug": "large-artillery",
+          "item_order": 40
+        }
+      ],
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/medium-artillery/amm_case_shot-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "944044e866cef258354550d385aa2d00a12fc4530db0021e61a09a710c9cb6ed"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/medium-artillery/amm_case_shot-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "1ab19aeb15e92880431f74fce8bc61db25e707d2c05f6cda9f407a344c02d3d5"
+      }
+    },
+    {
+      "id": "AMM_CHAIN_SHOT",
+      "name": "chain shot",
+      "display_name": "Chain Shot",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Medium Artillery",
+      "group_slug": "medium-artillery",
+      "group_order": 45,
+      "item_order": 41,
+      "version": "v001",
+      "additional_groups": [
+        {
+          "group": "Ammunition - Large Artillery",
+          "group_order": 46,
+          "group_slug": "large-artillery",
+          "item_order": 41
+        }
+      ],
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/medium-artillery/amm_chain_shot-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "e2ae79dba9a0d4684af057acfbb5bb19267773df392b06824537c0d2def48589"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/medium-artillery/amm_chain_shot-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "6109650787bced344528c063b59546d49da34acc87765670f2e59e2e93c9ad05"
+      }
+    },
+    {
+      "id": "AMM_MEDIUM_CANNONBALL",
+      "name": "medium cannonball",
+      "display_name": "Medium Cannonball",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Medium Artillery",
+      "group_slug": "medium-artillery",
+      "group_order": 45,
+      "item_order": 43,
+      "version": "v001",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/medium-artillery/amm_medium_cannonball-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "837c0470999d9422d1b00a4022161ae72e7d393af0198af82795800b78641e09"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/medium-artillery/amm_medium_cannonball-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "263dfbb4f417c3e3e6f205b8e25be59b89cdfdc99d838ad2ff93e8316d0dd2f1"
+      }
+    },
+    {
+      "id": "AMM_LARGE_CANNONBALL",
+      "name": "large cannonball",
+      "display_name": "Large Cannonball",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Large Artillery",
+      "group_slug": "large-artillery",
+      "group_order": 46,
+      "item_order": 44,
+      "version": "v001",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/large-artillery/amm_large_cannonball-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "25fde64e0061a17bed7273297f3ab88d18841ff2dcd07f15933c6e94249e2be1"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/large-artillery/amm_large_cannonball-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "9ae52238d4175b9b68b801fee18ff9f8c5d039f2ff89022715f2baf3d586e4e7"
+      }
+    },
+    {
+      "id": "AMM_HOLLOW_SHOT",
+      "name": "hollow shot",
+      "display_name": "Hollow Shot",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Large Artillery",
+      "group_slug": "large-artillery",
+      "group_order": 46,
+      "item_order": 45,
+      "version": "v001",
+      "publication_version": "2026-11-23.1",
+      "thumbnail": {
+        "path": "art/icons/ammunition/large-artillery/amm_hollow_shot-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "e73ee0eb30bbf67fbf79ba61db7135be685ba49de11828bae006b1673e7eb305"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/large-artillery/amm_hollow_shot-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "714b807f1f05e3b933d6e8e066868709c8e99c66e522f68821fcb78a2086bf2d"
+      }
     }
   ],
   "retired": [
@@ -6097,5 +7264,5 @@
       "retired_in": "2026-10-16.3"
     }
   ],
-  "latest_release": "2026-10-18.1"
+  "latest_release": "2026-11-23.1"
 }

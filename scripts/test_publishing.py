@@ -112,6 +112,20 @@ class PublishingTests(unittest.TestCase):
         self.assertEqual(path.read_bytes(), original)
         self.assertEqual(p.read_catalog()["releases"], ["test.1"])
 
+    def test_shared_ammunition_uses_one_image_pair(self):
+        shared = dict(self.items[0], category="ammunition", group="Medium", group_slug="medium",
+                      additional_groups=[dict(group="Large", group_slug="large", group_order=2, item_order=0)])
+        large = dict(self.items[1], category="ammunition", group="Large", group_slug="large", group_order=2)
+        self.prepare([shared, large])
+        self.complete()
+        catalog = p.read_catalog()
+        self.assertEqual(len(catalog["items"]), 2)
+        medium, large_group = p.groups(catalog)
+        self.assertEqual([i["id"] for i in large_group[1]], [shared["id"], large["id"]])
+        self.assertEqual(medium[1][0]["preview"], large_group[1][0]["preview"])
+        with self.assertRaises(ValueError):
+            p.validate_order([shared, dict(large, item_order=0)])
+
     def test_group_collision_writes_nothing(self):
         with self.assertRaises(ValueError):
             self.prepare([self.items[0], dict(self.items[1], group_slug="02-different")])
