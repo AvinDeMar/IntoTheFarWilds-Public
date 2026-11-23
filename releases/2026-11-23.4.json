@@ -1,0 +1,11 @@
+{
+  "release": "2026-11-23.4",
+  "date": "2026-11-23",
+  "operation": "add-or-update",
+  "changed_ids": [
+    "AMM_METAL_BOLTS_FIRE",
+    "AMM_INCENDIARY_SHELL"
+  ],
+  "published_items": 290,
+  "selection": "Explicitly owner-authorized approved artwork; no automatic source synchronization"
+}

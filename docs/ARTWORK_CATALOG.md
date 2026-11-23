@@ -1,6 +1,6 @@
 # Into the Far Wilds — artwork catalog
 
-**289 published artworks** · 231 resource icons · 12 currency icons · 46 ammunition icons
+**290 published artworks** · 231 resource icons · 12 currency icons · 47 ammunition icons
 
 By Crow Brain Games. Select an image to open its larger public preview.
 
@@ -408,8 +408,8 @@ By Crow Brain Games. Select an image to open its larger public preview.
 
 | Simple Bolts | Simple Bolts (Fire) | Simple Bolts (Poison) | Metal Bolts | Metal Bolts (Fire) | Metal Bolts (Poison) | Alloy Bolts |
 |---|---|---|---|---|---|---|
-| [![Simple Bolts](../art/icons/ammunition/crossbow/amm_simple_bolts-thumbnail.png?v=04de6207c6fc)](../art/icons/ammunition/crossbow/amm_simple_bolts-preview.png?v=1ab1906f3cb2) | [![Simple Bolts (Fire)](../art/icons/ammunition/crossbow/amm_simple_bolts_fire-thumbnail.png?v=930fbaed60c4)](../art/icons/ammunition/crossbow/amm_simple_bolts_fire-preview.png?v=e5764abac193) | [![Simple Bolts (Poison)](../art/icons/ammunition/crossbow/amm_simple_bolts_poison-thumbnail.png?v=43779defab04)](../art/icons/ammunition/crossbow/amm_simple_bolts_poison-preview.png?v=5176a2a1d43b) | [![Metal Bolts](../art/icons/ammunition/crossbow/amm_metal_bolts-thumbnail.png?v=6be9bf3c5547)](../art/icons/ammunition/crossbow/amm_metal_bolts-preview.png?v=303096abe23b) | [![Metal Bolts (Fire)](../art/icons/ammunition/crossbow/amm_metal_bolts_fire-thumbnail.png?v=533fc6b83188)](../art/icons/ammunition/crossbow/amm_metal_bolts_fire-preview.png?v=b12a6f04333b) | [![Metal Bolts (Poison)](../art/icons/ammunition/crossbow/amm_metal_bolts_poison-thumbnail.png?v=ac4c7e16d286)](../art/icons/ammunition/crossbow/amm_metal_bolts_poison-preview.png?v=6046ccd823ee) | [![Alloy Bolts](../art/icons/ammunition/crossbow/amm_alloy_bolts-thumbnail.png?v=ac18bc56fbc8)](../art/icons/ammunition/crossbow/amm_alloy_bolts-preview.png?v=f0ba4a344703) |
-| v006 | v004 | v005 | v005 | v005 | v006 | v007 |
+| [![Simple Bolts](../art/icons/ammunition/crossbow/amm_simple_bolts-thumbnail.png?v=04de6207c6fc)](../art/icons/ammunition/crossbow/amm_simple_bolts-preview.png?v=1ab1906f3cb2) | [![Simple Bolts (Fire)](../art/icons/ammunition/crossbow/amm_simple_bolts_fire-thumbnail.png?v=930fbaed60c4)](../art/icons/ammunition/crossbow/amm_simple_bolts_fire-preview.png?v=e5764abac193) | [![Simple Bolts (Poison)](../art/icons/ammunition/crossbow/amm_simple_bolts_poison-thumbnail.png?v=43779defab04)](../art/icons/ammunition/crossbow/amm_simple_bolts_poison-preview.png?v=5176a2a1d43b) | [![Metal Bolts](../art/icons/ammunition/crossbow/amm_metal_bolts-thumbnail.png?v=6be9bf3c5547)](../art/icons/ammunition/crossbow/amm_metal_bolts-preview.png?v=303096abe23b) | [![Metal Bolts (Fire)](../art/icons/ammunition/crossbow/amm_metal_bolts_fire-thumbnail.png?v=71c594595dc8)](../art/icons/ammunition/crossbow/amm_metal_bolts_fire-preview.png?v=ee2fa086b38e) | [![Metal Bolts (Poison)](../art/icons/ammunition/crossbow/amm_metal_bolts_poison-thumbnail.png?v=ac4c7e16d286)](../art/icons/ammunition/crossbow/amm_metal_bolts_poison-preview.png?v=6046ccd823ee) | [![Alloy Bolts](../art/icons/ammunition/crossbow/amm_alloy_bolts-thumbnail.png?v=ac18bc56fbc8)](../art/icons/ammunition/crossbow/amm_alloy_bolts-preview.png?v=f0ba4a344703) |
+| v006 | v004 | v005 | v005 | v006 | v006 | v007 |
 
 | Alloy Bolts (Fire) | Alloy Bolts (Poison) |
 |---|---|
@@ -466,10 +466,10 @@ By Crow Brain Games. Select an image to open its larger public preview.
 <a id="ammunition-small-artillery"></a>
 ## Ammunition - Small Artillery
 
-| Grapeshot | Small Cannonball |
-|---|---|
-| [![Grapeshot](../art/icons/ammunition/small-artillery/amm_grapeshot-thumbnail.png?v=b43f93bce718)](../art/icons/ammunition/small-artillery/amm_grapeshot-preview.png?v=534937d33697) | [![Small Cannonball](../art/icons/ammunition/small-artillery/amm_small_cannonball-thumbnail.png?v=9c1e04bf3416)](../art/icons/ammunition/small-artillery/amm_small_cannonball-preview.png?v=dd407ecf73ac) |
-| v002 | v002 |
+| Grapeshot | Incendiary Shell | Small Cannonball |
+|---|---|---|
+| [![Grapeshot](../art/icons/ammunition/small-artillery/amm_grapeshot-thumbnail.png?v=b43f93bce718)](../art/icons/ammunition/small-artillery/amm_grapeshot-preview.png?v=534937d33697) | [![Incendiary Shell](../art/icons/ammunition/small-artillery/amm_incendiary_shell-thumbnail.png?v=365bea90d7e4)](../art/icons/ammunition/small-artillery/amm_incendiary_shell-preview.png?v=9acf9bfbf176) | [![Small Cannonball](../art/icons/ammunition/small-artillery/amm_small_cannonball-thumbnail.png?v=9c1e04bf3416)](../art/icons/ammunition/small-artillery/amm_small_cannonball-preview.png?v=dd407ecf73ac) |
+| v002 | v003 | v002 |
 
 [Back to collections](#collections)
 

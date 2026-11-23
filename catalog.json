@@ -13,7 +13,8 @@
     "2026-10-18.1",
     "2026-11-23.1",
     "2026-11-23.2",
-    "2026-11-23.3"
+    "2026-11-23.3",
+    "2026-11-23.4"
   ],
   "items": [
     {
@@ -6501,19 +6502,19 @@
       "group_slug": "crossbow",
       "group_order": 38,
       "item_order": 16,
-      "version": "v005",
-      "publication_version": "2026-11-23.2",
+      "version": "v006",
+      "publication_version": "2026-11-23.4",
       "thumbnail": {
         "path": "art/icons/ammunition/crossbow/amm_metal_bolts_fire-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "533fc6b831888f62a8a05dad725c624f9470851da4d71498c08df6826311f1d0"
+        "sha256": "71c594595dc879c7db22847ec5a7378b92e2b905835f46d702e3ab9f73796c68"
       },
       "preview": {
         "path": "art/icons/ammunition/crossbow/amm_metal_bolts_fire-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "b12a6f04333be0001ad6262e3a85fe711dd53eb357289918d307bd812fe98a1e"
+        "sha256": "ee2fa086b38eb3ff710981686d163d38c0eab790aaed7182c03506ed806e3fae"
       }
     },
     {
@@ -7100,6 +7101,31 @@
       }
     },
     {
+      "id": "AMM_INCENDIARY_SHELL",
+      "name": "Incendiary Shell",
+      "display_name": "Incendiary Shell",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Small Artillery",
+      "group_slug": "small-artillery",
+      "group_order": 44,
+      "item_order": 40,
+      "version": "v003",
+      "publication_version": "2026-11-23.4",
+      "thumbnail": {
+        "path": "art/icons/ammunition/small-artillery/amm_incendiary_shell-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "365bea90d7e4f1d2a706320ec95046060eee8e7a57c04f0ad0c28e3165d7776a"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/small-artillery/amm_incendiary_shell-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "9acf9bfbf1765d019513bf8ac237b7ac4b384663105abaeec71ee376dd946717"
+      }
+    },
+    {
       "id": "AMM_SMALL_CANNONBALL",
       "name": "small cannonball",
       "display_name": "Small Cannonball",
@@ -7274,5 +7300,5 @@
       "retired_in": "2026-10-16.3"
     }
   ],
-  "latest_release": "2026-11-23.3"
+  "latest_release": "2026-11-23.4"
 }

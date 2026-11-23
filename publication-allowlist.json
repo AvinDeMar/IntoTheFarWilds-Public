@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "release": "2026-11-23.3",
+  "release": "2026-11-23.4",
   "self": "publication-allowlist.json",
   "files": [
     {
@@ -29,7 +29,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "029471d496b05c0d53971a9d36842f99418c07dea19b2a45a6e57ade00f5c7fe"
+      "sha256": "11a951a77d5e2913e318dba0e1f5d810996645d54fb5884a328ccc94bbbd0805"
     },
     {
       "path": "art/icons/ammunition/any/amm_improvised_shot-preview.png",
@@ -265,11 +265,11 @@
     },
     {
       "path": "art/icons/ammunition/crossbow/amm_metal_bolts_fire-preview.png",
-      "sha256": "b12a6f04333be0001ad6262e3a85fe711dd53eb357289918d307bd812fe98a1e"
+      "sha256": "ee2fa086b38eb3ff710981686d163d38c0eab790aaed7182c03506ed806e3fae"
     },
     {
       "path": "art/icons/ammunition/crossbow/amm_metal_bolts_fire-thumbnail.png",
-      "sha256": "533fc6b831888f62a8a05dad725c624f9470851da4d71498c08df6826311f1d0"
+      "sha256": "71c594595dc879c7db22847ec5a7378b92e2b905835f46d702e3ab9f73796c68"
     },
     {
       "path": "art/icons/ammunition/crossbow/amm_metal_bolts_poison-preview.png",
@@ -390,6 +390,14 @@
     {
       "path": "art/icons/ammunition/small-artillery/amm_grapeshot-thumbnail.png",
       "sha256": "b43f93bce718e11f7604be8ca11e75f02e5c6a57d3a1e1bc8dda8005e572f5fb"
+    },
+    {
+      "path": "art/icons/ammunition/small-artillery/amm_incendiary_shell-preview.png",
+      "sha256": "9acf9bfbf1765d019513bf8ac237b7ac4b384663105abaeec71ee376dd946717"
+    },
+    {
+      "path": "art/icons/ammunition/small-artillery/amm_incendiary_shell-thumbnail.png",
+      "sha256": "365bea90d7e4f1d2a706320ec95046060eee8e7a57c04f0ad0c28e3165d7776a"
     },
     {
       "path": "art/icons/ammunition/small-artillery/amm_small_cannonball-preview.png",
@@ -2345,11 +2353,11 @@
     },
     {
       "path": "catalog.json",
-      "sha256": "c27c6f8fa834c753f6d5561a515d583fd975f126dfe2cc5213776eab20ada125"
+      "sha256": "fcc8ebf935e3f7b29ba7abbad1a1f957132c412f7d9b11db2bf16e474bcbf5e0"
     },
     {
       "path": "docs/ARTWORK_CATALOG.md",
-      "sha256": "1d98a52936b5febd9779283da9d91224f003246442ef2468a037a3b58588a2b0"
+      "sha256": "a4689a5f0a5b4924be0351dcf751e1b490775a2a915c17bba922e4a8576bb934"
     },
     {
       "path": "docs/PUBLISHING.md",
@@ -2357,7 +2365,7 @@
     },
     {
       "path": "docs/RELEASES.md",
-      "sha256": "9f68c193a7a111a35578885a0fd118e4d6d8ecde3f47ffed5c0c60d6b18546f4"
+      "sha256": "0001d3a3cc6a04c8c1c29340e379474a0bf175df1479c30820be3b80cee20b1f"
     },
     {
       "path": "releases/2026-10-16.1.json",
@@ -2402,6 +2410,10 @@
     {
       "path": "releases/2026-11-23.3.json",
       "sha256": "95588da0b893838ae7f5499376d96686c883577263661e98e8c3625fdf23514c"
+    },
+    {
+      "path": "releases/2026-11-23.4.json",
+      "sha256": "e1cb3763df039266c93bb7e0134e1d0d54d7e82d3c3785c420d0392ef888ca4d"
     },
     {
       "path": "requirements.txt",
