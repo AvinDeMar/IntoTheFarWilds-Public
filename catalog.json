@@ -14,7 +14,8 @@
     "2026-11-23.1",
     "2026-11-23.2",
     "2026-11-23.3",
-    "2026-11-23.4"
+    "2026-11-23.4",
+    "2026-11-23.5"
   ],
   "items": [
     {
@@ -5143,6 +5144,306 @@
       }
     },
     {
+      "id": "RES_WHITE_OAK_TIMBER",
+      "name": "White Oak Timber",
+      "display_name": "White Oak Timber",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Chopped Products",
+      "group_slug": "31-chopper-products",
+      "group_order": 31,
+      "item_order": 5,
+      "version": "v001",
+      "publication_version": "2026-11-23.5",
+      "thumbnail": {
+        "path": "art/icons/resources/31-chopper-products/res_white_oak_timber-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "f6944770187dc8f2e1aa4a8300ed817f50b7b832aa94a3589d84589b5b5adb6b"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-chopper-products/res_white_oak_timber-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "7fbecf813b26abe95915c2ff3c3dc4df6c2f07e3f158abc2aa75eae4d68cce1f"
+      }
+    },
+    {
+      "id": "RES_RED_CEDAR_TIMBER",
+      "name": "Red Cedar Timber",
+      "display_name": "Red Cedar Timber",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Chopped Products",
+      "group_slug": "31-chopper-products",
+      "group_order": 31,
+      "item_order": 6,
+      "version": "v001",
+      "publication_version": "2026-11-23.5",
+      "thumbnail": {
+        "path": "art/icons/resources/31-chopper-products/res_red_cedar_timber-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "d6377d0dfeb7d93e775c8e0d8a8d4ce8335dccb6ac08a64227c8c1f7728226af"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-chopper-products/res_red_cedar_timber-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "b055e26bc63eea86765b2cbafb622d6e2824d42b32bdbe07f6cacfebe9532f2b"
+      }
+    },
+    {
+      "id": "RES_PITCH_PINE_TIMBER",
+      "name": "Pitch Pine Timber",
+      "display_name": "Pitch Pine Timber",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Chopped Products",
+      "group_slug": "31-chopper-products",
+      "group_order": 31,
+      "item_order": 7,
+      "version": "v001",
+      "publication_version": "2026-11-23.5",
+      "thumbnail": {
+        "path": "art/icons/resources/31-chopper-products/res_pitch_pine_timber-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "b16bd0cfaf985ced4e1ac58c67b206f914da63e74aa98a42d8ca29ba3353e5c7"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-chopper-products/res_pitch_pine_timber-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "77efa60ebf259bf72767782ef3e3ba3ef553bd3d0253f768a8a7f47862fd9aa5"
+      }
+    },
+    {
+      "id": "RES_BALD_CYPRESS_TIMBER",
+      "name": "Bald Cypress Timber",
+      "display_name": "Bald Cypress Timber",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Chopped Products",
+      "group_slug": "31-chopper-products",
+      "group_order": 31,
+      "item_order": 8,
+      "version": "v001",
+      "publication_version": "2026-11-23.5",
+      "thumbnail": {
+        "path": "art/icons/resources/31-chopper-products/res_bald_cypress_timber-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "d814e69e4e2950398d9aea5a1068c1b64a347f5212cba9c71a572c96fbd44811"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-chopper-products/res_bald_cypress_timber-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "8f95e7d0022d6582d118d7d9e0feadc70afbddac813c04650a1a8c25027fab91"
+      }
+    },
+    {
+      "id": "RES_TEAK_TIMBER",
+      "name": "Teak Timber",
+      "display_name": "Teak Timber",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Chopped Products",
+      "group_slug": "31-chopper-products",
+      "group_order": 31,
+      "item_order": 9,
+      "version": "v001",
+      "publication_version": "2026-11-23.5",
+      "thumbnail": {
+        "path": "art/icons/resources/31-chopper-products/res_teak_timber-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "16f464aafbf7dd6074fd4434d4cee91c72d38b7911a67bff6151ed304022b698"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-chopper-products/res_teak_timber-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "d7426c6e3114cc4b1739c7f0a7ab978a9ba34eb46f067d2fa43ebf94033f4ab2"
+      }
+    },
+    {
+      "id": "RES_COCONUT_PALM_TIMBER",
+      "name": "Coconut Palm Timber",
+      "display_name": "Coconut Palm Timber",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Chopped Products",
+      "group_slug": "31-chopper-products",
+      "group_order": 31,
+      "item_order": 10,
+      "version": "v001",
+      "publication_version": "2026-11-23.5",
+      "thumbnail": {
+        "path": "art/icons/resources/31-chopper-products/res_coconut_palm_timber-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "63d6389ec551d18efeafbfec43b586ca6431e0ae8be6c9b48a2471010a4cbbf1"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-chopper-products/res_coconut_palm_timber-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "266086cdd03be368fc7dfd4c931989810e4588c1e94b68f9fc4dfad2a5a482c3"
+      }
+    },
+    {
+      "id": "RES_WHITE_OAK_LUMBER",
+      "name": "White Oak Lumber",
+      "display_name": "White Oak Lumber",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Chopped Products",
+      "group_slug": "31-chopper-products",
+      "group_order": 31,
+      "item_order": 11,
+      "version": "v001",
+      "publication_version": "2026-11-23.5",
+      "thumbnail": {
+        "path": "art/icons/resources/31-chopper-products/res_white_oak_lumber-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "f2e0c31919a4d3a37a9b745ac8ecb58ef40c2c25b4e3a28408e199b0bf986e33"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-chopper-products/res_white_oak_lumber-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "a221b2a6917ab89b0dae34568d53ad3a505e25e7a7b0108df4ecca0a8b3bafee"
+      }
+    },
+    {
+      "id": "RES_RED_CEDAR_LUMBER",
+      "name": "Red Cedar Lumber",
+      "display_name": "Red Cedar Lumber",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Chopped Products",
+      "group_slug": "31-chopper-products",
+      "group_order": 31,
+      "item_order": 12,
+      "version": "v001",
+      "publication_version": "2026-11-23.5",
+      "thumbnail": {
+        "path": "art/icons/resources/31-chopper-products/res_red_cedar_lumber-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "dda62895ed7aed558827726ec7f3d0bbf97aa733aed612d25f142eba2971a943"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-chopper-products/res_red_cedar_lumber-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "864607839ef7140c989707ef31308f9ee00416b508227afb9c29a816bd073f06"
+      }
+    },
+    {
+      "id": "RES_PITCH_PINE_LUMBER",
+      "name": "Pitch Pine Lumber",
+      "display_name": "Pitch Pine Lumber",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Chopped Products",
+      "group_slug": "31-chopper-products",
+      "group_order": 31,
+      "item_order": 13,
+      "version": "v001",
+      "publication_version": "2026-11-23.5",
+      "thumbnail": {
+        "path": "art/icons/resources/31-chopper-products/res_pitch_pine_lumber-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "e5e20de8294e0169be335e77ce3b91258b1ea4d2593ed3a766b37b6bda654623"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-chopper-products/res_pitch_pine_lumber-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "c032c094ab129453006e2a3f69d8ab4941694b860d30e15442d5c1142f4aa246"
+      }
+    },
+    {
+      "id": "RES_BALD_CYPRESS_LUMBER",
+      "name": "Bald Cypress Lumber",
+      "display_name": "Bald Cypress Lumber",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Chopped Products",
+      "group_slug": "31-chopper-products",
+      "group_order": 31,
+      "item_order": 14,
+      "version": "v001",
+      "publication_version": "2026-11-23.5",
+      "thumbnail": {
+        "path": "art/icons/resources/31-chopper-products/res_bald_cypress_lumber-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "c285596e4e43e0361c613f2ad72c1b50cab43ceeb779a8fad78851899f3b2505"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-chopper-products/res_bald_cypress_lumber-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "7a5d48a049dc74c99605317a18a5697f0d624b66470813c584f58e889291a519"
+      }
+    },
+    {
+      "id": "RES_TEAK_LUMBER",
+      "name": "Teak Lumber",
+      "display_name": "Teak Lumber",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Chopped Products",
+      "group_slug": "31-chopper-products",
+      "group_order": 31,
+      "item_order": 15,
+      "version": "v001",
+      "publication_version": "2026-11-23.5",
+      "thumbnail": {
+        "path": "art/icons/resources/31-chopper-products/res_teak_lumber-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "aac4f76e9a37e1ff8393977c78dcb07382ece4f6f2836a62b6769502a6803720"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-chopper-products/res_teak_lumber-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "0c633cf777e6b5154f6e40cd3fb176ce08009f2cdb6aa3ce3a7b743f76ea762a"
+      }
+    },
+    {
+      "id": "RES_COCONUT_PALM_LUMBER",
+      "name": "Coconut Palm Lumber",
+      "display_name": "Coconut Palm Lumber",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Chopped Products",
+      "group_slug": "31-chopper-products",
+      "group_order": 31,
+      "item_order": 16,
+      "version": "v001",
+      "publication_version": "2026-11-23.5",
+      "thumbnail": {
+        "path": "art/icons/resources/31-chopper-products/res_coconut_palm_lumber-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "5f9961e1f91b6f69e34f6c09790184f2aa284466f95e89b9f73779785e5fe096"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-chopper-products/res_coconut_palm_lumber-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "5a63c8abe30bcf5a9111665183fcd0b640063fe77fcaf1f15954248febc978bb"
+      }
+    },
+    {
       "id": "RES_WICK",
       "name": "Wick",
       "display_name": "Wick",
@@ -5493,6 +5794,31 @@
       }
     },
     {
+      "id": "RES_BONE_MEAL",
+      "name": "Bone Meal",
+      "display_name": "Bone Meal",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Milled Products",
+      "group_slug": "34-milled-products",
+      "group_order": 34,
+      "item_order": 4,
+      "version": "v001",
+      "publication_version": "2026-11-23.5",
+      "thumbnail": {
+        "path": "art/icons/resources/34-milled-products/res_bone_meal-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "8ce2d82dd55d948c14b08c1fa965deff0a0db6bbf964226a7dd104ebdfc4c6de"
+      },
+      "preview": {
+        "path": "art/icons/resources/34-milled-products/res_bone_meal-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "e73bb72ae39072432c0da4c1a95f75dec6836cfd002d98cac9b5dc81369d8743"
+      }
+    },
+    {
       "id": "RES_BINDER",
       "name": "Binder",
       "display_name": "Binder",
@@ -5790,6 +6116,31 @@
         "width": 400,
         "height": 320,
         "sha256": "b9ccc4439924e4ddd8865adcabb63e6f557a6b7fc2c9de2c419e39f305786f6d"
+      }
+    },
+    {
+      "id": "RES_SEEDLING_SOIL_MIX",
+      "name": "Seedling Soil Mix",
+      "display_name": "Seedling Soil Mix",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Mixed Products",
+      "group_slug": "35-mixer-products",
+      "group_order": 35,
+      "item_order": 13,
+      "version": "v001",
+      "publication_version": "2026-11-23.5",
+      "thumbnail": {
+        "path": "art/icons/resources/35-mixer-products/res_seedling_soil_mix-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "dd97a48fee2624da777ffdf3fd28781bc45f28703a62055575ed509298d52ba1"
+      },
+      "preview": {
+        "path": "art/icons/resources/35-mixer-products/res_seedling_soil_mix-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "980670626480b163a19146dcb6b79f871322e255a8399cd610a21197e6a7ac63"
       }
     },
     {
@@ -7300,5 +7651,5 @@
       "retired_in": "2026-10-16.3"
     }
   ],
-  "latest_release": "2026-11-23.4"
+  "latest_release": "2026-11-23.5"
 }

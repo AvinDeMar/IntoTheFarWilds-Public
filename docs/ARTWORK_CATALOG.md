@@ -1,6 +1,6 @@
 # Into the Far Wilds — artwork catalog
 
-**290 published artworks** · 231 resource icons · 12 currency icons · 47 ammunition icons
+**304 published artworks** · 245 resource icons · 12 currency icons · 47 ammunition icons
 
 By Crow Brain Games. Select an image to open its larger public preview.
 
@@ -321,10 +321,20 @@ By Crow Brain Games. Select an image to open its larger public preview.
 <a id="resources-31-chopper-products"></a>
 ## Chopped Products
 
-| Timber | Lumber | Fresh Firewood | Dry Firewood |
-|---|---|---|---|
-| [![Timber](../art/icons/resources/31-crafted-utility/res_timber-thumbnail.png?v=b9f512de95bb)](../art/icons/resources/31-crafted-utility/res_timber-preview.png?v=f9acceb006e3) | [![Lumber](../art/icons/resources/31-crafted-utility/res_lumber_plank-thumbnail.png?v=e249e4daf12d)](../art/icons/resources/31-crafted-utility/res_lumber_plank-preview.png?v=aa71729bd1d2) | [![Fresh Firewood](../art/icons/resources/31-crafted-utility/res_fresh_firewood-thumbnail.png?v=97da017e6096)](../art/icons/resources/31-crafted-utility/res_fresh_firewood-preview.png?v=f9fe1f513a8f) | [![Dry Firewood](../art/icons/resources/31-crafted-utility/res_dry_firewood-thumbnail.png?v=d16bc3f0a737)](../art/icons/resources/31-crafted-utility/res_dry_firewood-preview.png?v=26f2174783fb) |
-| v002 | v001 | v002 | v002 |
+| Timber | Lumber | Fresh Firewood | Dry Firewood | White Oak Timber | Red Cedar Timber | Pitch Pine Timber |
+|---|---|---|---|---|---|---|
+| [![Timber](../art/icons/resources/31-crafted-utility/res_timber-thumbnail.png?v=b9f512de95bb)](../art/icons/resources/31-crafted-utility/res_timber-preview.png?v=f9acceb006e3) | [![Lumber](../art/icons/resources/31-crafted-utility/res_lumber_plank-thumbnail.png?v=e249e4daf12d)](../art/icons/resources/31-crafted-utility/res_lumber_plank-preview.png?v=aa71729bd1d2) | [![Fresh Firewood](../art/icons/resources/31-crafted-utility/res_fresh_firewood-thumbnail.png?v=97da017e6096)](../art/icons/resources/31-crafted-utility/res_fresh_firewood-preview.png?v=f9fe1f513a8f) | [![Dry Firewood](../art/icons/resources/31-crafted-utility/res_dry_firewood-thumbnail.png?v=d16bc3f0a737)](../art/icons/resources/31-crafted-utility/res_dry_firewood-preview.png?v=26f2174783fb) | [![White Oak Timber](../art/icons/resources/31-chopper-products/res_white_oak_timber-thumbnail.png?v=f6944770187d)](../art/icons/resources/31-chopper-products/res_white_oak_timber-preview.png?v=7fbecf813b26) | [![Red Cedar Timber](../art/icons/resources/31-chopper-products/res_red_cedar_timber-thumbnail.png?v=d6377d0dfeb7)](../art/icons/resources/31-chopper-products/res_red_cedar_timber-preview.png?v=b055e26bc63e) | [![Pitch Pine Timber](../art/icons/resources/31-chopper-products/res_pitch_pine_timber-thumbnail.png?v=b16bd0cfaf98)](../art/icons/resources/31-chopper-products/res_pitch_pine_timber-preview.png?v=77efa60ebf25) |
+| v002 | v001 | v002 | v002 | v001 | v001 | v001 |
+
+| Bald Cypress Timber | Teak Timber | Coconut Palm Timber | White Oak Lumber | Red Cedar Lumber | Pitch Pine Lumber | Bald Cypress Lumber |
+|---|---|---|---|---|---|---|
+| [![Bald Cypress Timber](../art/icons/resources/31-chopper-products/res_bald_cypress_timber-thumbnail.png?v=d814e69e4e29)](../art/icons/resources/31-chopper-products/res_bald_cypress_timber-preview.png?v=8f95e7d0022d) | [![Teak Timber](../art/icons/resources/31-chopper-products/res_teak_timber-thumbnail.png?v=16f464aafbf7)](../art/icons/resources/31-chopper-products/res_teak_timber-preview.png?v=d7426c6e3114) | [![Coconut Palm Timber](../art/icons/resources/31-chopper-products/res_coconut_palm_timber-thumbnail.png?v=63d6389ec551)](../art/icons/resources/31-chopper-products/res_coconut_palm_timber-preview.png?v=266086cdd03b) | [![White Oak Lumber](../art/icons/resources/31-chopper-products/res_white_oak_lumber-thumbnail.png?v=f2e0c31919a4)](../art/icons/resources/31-chopper-products/res_white_oak_lumber-preview.png?v=a221b2a6917a) | [![Red Cedar Lumber](../art/icons/resources/31-chopper-products/res_red_cedar_lumber-thumbnail.png?v=dda62895ed7a)](../art/icons/resources/31-chopper-products/res_red_cedar_lumber-preview.png?v=864607839ef7) | [![Pitch Pine Lumber](../art/icons/resources/31-chopper-products/res_pitch_pine_lumber-thumbnail.png?v=e5e20de8294e)](../art/icons/resources/31-chopper-products/res_pitch_pine_lumber-preview.png?v=c032c094ab12) | [![Bald Cypress Lumber](../art/icons/resources/31-chopper-products/res_bald_cypress_lumber-thumbnail.png?v=c285596e4e43)](../art/icons/resources/31-chopper-products/res_bald_cypress_lumber-preview.png?v=7a5d48a049dc) |
+| v001 | v001 | v001 | v001 | v001 | v001 | v001 |
+
+| Teak Lumber | Coconut Palm Lumber |
+|---|---|
+| [![Teak Lumber](../art/icons/resources/31-chopper-products/res_teak_lumber-thumbnail.png?v=aac4f76e9a37)](../art/icons/resources/31-chopper-products/res_teak_lumber-preview.png?v=0c633cf777e6) | [![Coconut Palm Lumber](../art/icons/resources/31-chopper-products/res_coconut_palm_lumber-thumbnail.png?v=5f9961e1f91b)](../art/icons/resources/31-chopper-products/res_coconut_palm_lumber-preview.png?v=5a63c8abe30b) |
+| v001 | v001 |
 
 [Back to collections](#collections)
 
@@ -351,10 +361,10 @@ By Crow Brain Games. Select an image to open its larger public preview.
 <a id="resources-34-milled-products"></a>
 ## Milled Products
 
-| Grog | Animal Feed | Grape Pomace |
-|---|---|---|
-| [![Grog](../art/icons/resources/31-crafted-utility/res_grog-thumbnail.png?v=c120e71e77d4)](../art/icons/resources/31-crafted-utility/res_grog-preview.png?v=795b63290b08) | [![Animal Feed](../art/icons/resources/31-crafted-utility/res_animal_feed-thumbnail.png?v=d28ad765b186)](../art/icons/resources/31-crafted-utility/res_animal_feed-preview.png?v=b16afe07c86c) | [![Grape Pomace](../art/icons/resources/31-crafted-utility/res_grape_pomace-thumbnail.png?v=284a5b77a3b7)](../art/icons/resources/31-crafted-utility/res_grape_pomace-preview.png?v=c8d01f4a0c52) |
-| v001 | v001 | v001 |
+| Grog | Animal Feed | Grape Pomace | Bone Meal |
+|---|---|---|---|
+| [![Grog](../art/icons/resources/31-crafted-utility/res_grog-thumbnail.png?v=c120e71e77d4)](../art/icons/resources/31-crafted-utility/res_grog-preview.png?v=795b63290b08) | [![Animal Feed](../art/icons/resources/31-crafted-utility/res_animal_feed-thumbnail.png?v=d28ad765b186)](../art/icons/resources/31-crafted-utility/res_animal_feed-preview.png?v=b16afe07c86c) | [![Grape Pomace](../art/icons/resources/31-crafted-utility/res_grape_pomace-thumbnail.png?v=284a5b77a3b7)](../art/icons/resources/31-crafted-utility/res_grape_pomace-preview.png?v=c8d01f4a0c52) | [![Bone Meal](../art/icons/resources/34-milled-products/res_bone_meal-thumbnail.png?v=8ce2d82dd55d)](../art/icons/resources/34-milled-products/res_bone_meal-preview.png?v=e73bb72ae390) |
+| v001 | v001 | v001 | v001 |
 
 [Back to collections](#collections)
 
@@ -366,10 +376,10 @@ By Crow Brain Games. Select an image to open its larger public preview.
 | [![Binder](../art/icons/resources/31-crafted-utility/res_binder-thumbnail.png?v=2049dda0c22d)](../art/icons/resources/31-crafted-utility/res_binder-preview.png?v=1cf741cb9f2b) | [![Sealant](../art/icons/resources/31-crafted-utility/res_sealant-thumbnail.png?v=407505ff6797)](../art/icons/resources/31-crafted-utility/res_sealant-preview.png?v=6be3c4baa644) | [![Saltpeter](../art/icons/resources/31-crafted-utility/res_saltpeter-thumbnail.png?v=1d00bde2a068)](../art/icons/resources/31-crafted-utility/res_saltpeter-preview.png?v=c412f4242875) | [![Black Powder](../art/icons/resources/31-crafted-utility/res_black_powder-thumbnail.png?v=fdba2d170cc8)](../art/icons/resources/31-crafted-utility/res_black_powder-preview.png?v=271bf8fa03f4) | [![Incendiary Paste](../art/icons/resources/31-crafted-utility/res_incendiary_paste-thumbnail.png?v=eef9306aabbd)](../art/icons/resources/31-crafted-utility/res_incendiary_paste-preview.png?v=196c40d89fec) | [![Tempered Clay Mix](../art/icons/resources/31-crafted-utility/res_tempered_clay_mix-thumbnail.png?v=271c6e37cfdf)](../art/icons/resources/31-crafted-utility/res_tempered_clay_mix-preview.png?v=9e44ae48326a) | [![Daub](../art/icons/resources/31-crafted-utility/res_daub_mix-thumbnail.png?v=60d597cf1e76)](../art/icons/resources/31-crafted-utility/res_daub_mix-preview.png?v=eff184b7a406) |
 | v001 | v001 | v003 | v001 | v001 | v003 | v002 |
 
-| Brick Mix | Mortar | Paper Pulp | Ink | Slaked Lime |
-|---|---|---|---|---|
-| [![Brick Mix](../art/icons/resources/31-crafted-utility/res_brick_mix-thumbnail.png?v=9dc169b73b9e)](../art/icons/resources/31-crafted-utility/res_brick_mix-preview.png?v=78f25270e271) | [![Mortar](../art/icons/resources/31-crafted-utility/res_mortar-thumbnail.png?v=6ed05060e0a2)](../art/icons/resources/31-crafted-utility/res_mortar-preview.png?v=6b27b22e6a47) | [![Paper Pulp](../art/icons/resources/31-crafted-utility/res_paper_pulp-thumbnail.png?v=211192d135d5)](../art/icons/resources/31-crafted-utility/res_paper_pulp-preview.png?v=13ecb7c72622) | [![Ink](../art/icons/resources/31-crafted-utility/res_ink-thumbnail.png?v=6a2dfd7dc4f8)](../art/icons/resources/31-crafted-utility/res_ink-preview.png?v=f632d1bacc9b) | [![Slaked Lime](../art/icons/resources/31-crafted-utility/res_slaked_lime-thumbnail.png?v=7febe9784216)](../art/icons/resources/31-crafted-utility/res_slaked_lime-preview.png?v=b9ccc4439924) |
-| v003 | v001 | v001 | v001 | v001 |
+| Brick Mix | Mortar | Paper Pulp | Ink | Slaked Lime | Seedling Soil Mix |
+|---|---|---|---|---|---|
+| [![Brick Mix](../art/icons/resources/31-crafted-utility/res_brick_mix-thumbnail.png?v=9dc169b73b9e)](../art/icons/resources/31-crafted-utility/res_brick_mix-preview.png?v=78f25270e271) | [![Mortar](../art/icons/resources/31-crafted-utility/res_mortar-thumbnail.png?v=6ed05060e0a2)](../art/icons/resources/31-crafted-utility/res_mortar-preview.png?v=6b27b22e6a47) | [![Paper Pulp](../art/icons/resources/31-crafted-utility/res_paper_pulp-thumbnail.png?v=211192d135d5)](../art/icons/resources/31-crafted-utility/res_paper_pulp-preview.png?v=13ecb7c72622) | [![Ink](../art/icons/resources/31-crafted-utility/res_ink-thumbnail.png?v=6a2dfd7dc4f8)](../art/icons/resources/31-crafted-utility/res_ink-preview.png?v=f632d1bacc9b) | [![Slaked Lime](../art/icons/resources/31-crafted-utility/res_slaked_lime-thumbnail.png?v=7febe9784216)](../art/icons/resources/31-crafted-utility/res_slaked_lime-preview.png?v=b9ccc4439924) | [![Seedling Soil Mix](../art/icons/resources/35-mixer-products/res_seedling_soil_mix-thumbnail.png?v=dd97a48fee26)](../art/icons/resources/35-mixer-products/res_seedling_soil_mix-preview.png?v=980670626480) |
+| v003 | v001 | v001 | v001 | v001 | v001 |
 
 [Back to collections](#collections)
 

@@ -1,0 +1,23 @@
+{
+  "release": "2026-11-23.5",
+  "date": "2026-11-23",
+  "operation": "add-or-update",
+  "changed_ids": [
+    "RES_BONE_MEAL",
+    "RES_WHITE_OAK_TIMBER",
+    "RES_RED_CEDAR_TIMBER",
+    "RES_PITCH_PINE_TIMBER",
+    "RES_BALD_CYPRESS_TIMBER",
+    "RES_TEAK_TIMBER",
+    "RES_COCONUT_PALM_TIMBER",
+    "RES_WHITE_OAK_LUMBER",
+    "RES_RED_CEDAR_LUMBER",
+    "RES_PITCH_PINE_LUMBER",
+    "RES_BALD_CYPRESS_LUMBER",
+    "RES_TEAK_LUMBER",
+    "RES_COCONUT_PALM_LUMBER",
+    "RES_SEEDLING_SOIL_MIX"
+  ],
+  "published_items": 304,
+  "selection": "Explicitly owner-authorized approved artwork; no automatic source synchronization"
+}

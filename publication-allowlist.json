@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "release": "2026-11-23.4",
+  "release": "2026-11-23.5",
   "self": "publication-allowlist.json",
   "files": [
     {
@@ -29,7 +29,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "11a951a77d5e2913e318dba0e1f5d810996645d54fb5884a328ccc94bbbd0805"
+      "sha256": "6f44931a93eaf86bb4fe9b802221dbffd09ce1b5840fb95c40e5c6d29a60a6d3"
     },
     {
       "path": "art/icons/ammunition/any/amm_improvised_shot-preview.png",
@@ -2016,6 +2016,102 @@
       "sha256": "8a1788320f2f9044d44675f9e2f3e51aa5f6bcfd63ea3c74f8a9f0b4f044d151"
     },
     {
+      "path": "art/icons/resources/31-chopper-products/res_bald_cypress_lumber-preview.png",
+      "sha256": "7a5d48a049dc74c99605317a18a5697f0d624b66470813c584f58e889291a519"
+    },
+    {
+      "path": "art/icons/resources/31-chopper-products/res_bald_cypress_lumber-thumbnail.png",
+      "sha256": "c285596e4e43e0361c613f2ad72c1b50cab43ceeb779a8fad78851899f3b2505"
+    },
+    {
+      "path": "art/icons/resources/31-chopper-products/res_bald_cypress_timber-preview.png",
+      "sha256": "8f95e7d0022d6582d118d7d9e0feadc70afbddac813c04650a1a8c25027fab91"
+    },
+    {
+      "path": "art/icons/resources/31-chopper-products/res_bald_cypress_timber-thumbnail.png",
+      "sha256": "d814e69e4e2950398d9aea5a1068c1b64a347f5212cba9c71a572c96fbd44811"
+    },
+    {
+      "path": "art/icons/resources/31-chopper-products/res_coconut_palm_lumber-preview.png",
+      "sha256": "5a63c8abe30bcf5a9111665183fcd0b640063fe77fcaf1f15954248febc978bb"
+    },
+    {
+      "path": "art/icons/resources/31-chopper-products/res_coconut_palm_lumber-thumbnail.png",
+      "sha256": "5f9961e1f91b6f69e34f6c09790184f2aa284466f95e89b9f73779785e5fe096"
+    },
+    {
+      "path": "art/icons/resources/31-chopper-products/res_coconut_palm_timber-preview.png",
+      "sha256": "266086cdd03be368fc7dfd4c931989810e4588c1e94b68f9fc4dfad2a5a482c3"
+    },
+    {
+      "path": "art/icons/resources/31-chopper-products/res_coconut_palm_timber-thumbnail.png",
+      "sha256": "63d6389ec551d18efeafbfec43b586ca6431e0ae8be6c9b48a2471010a4cbbf1"
+    },
+    {
+      "path": "art/icons/resources/31-chopper-products/res_pitch_pine_lumber-preview.png",
+      "sha256": "c032c094ab129453006e2a3f69d8ab4941694b860d30e15442d5c1142f4aa246"
+    },
+    {
+      "path": "art/icons/resources/31-chopper-products/res_pitch_pine_lumber-thumbnail.png",
+      "sha256": "e5e20de8294e0169be335e77ce3b91258b1ea4d2593ed3a766b37b6bda654623"
+    },
+    {
+      "path": "art/icons/resources/31-chopper-products/res_pitch_pine_timber-preview.png",
+      "sha256": "77efa60ebf259bf72767782ef3e3ba3ef553bd3d0253f768a8a7f47862fd9aa5"
+    },
+    {
+      "path": "art/icons/resources/31-chopper-products/res_pitch_pine_timber-thumbnail.png",
+      "sha256": "b16bd0cfaf985ced4e1ac58c67b206f914da63e74aa98a42d8ca29ba3353e5c7"
+    },
+    {
+      "path": "art/icons/resources/31-chopper-products/res_red_cedar_lumber-preview.png",
+      "sha256": "864607839ef7140c989707ef31308f9ee00416b508227afb9c29a816bd073f06"
+    },
+    {
+      "path": "art/icons/resources/31-chopper-products/res_red_cedar_lumber-thumbnail.png",
+      "sha256": "dda62895ed7aed558827726ec7f3d0bbf97aa733aed612d25f142eba2971a943"
+    },
+    {
+      "path": "art/icons/resources/31-chopper-products/res_red_cedar_timber-preview.png",
+      "sha256": "b055e26bc63eea86765b2cbafb622d6e2824d42b32bdbe07f6cacfebe9532f2b"
+    },
+    {
+      "path": "art/icons/resources/31-chopper-products/res_red_cedar_timber-thumbnail.png",
+      "sha256": "d6377d0dfeb7d93e775c8e0d8a8d4ce8335dccb6ac08a64227c8c1f7728226af"
+    },
+    {
+      "path": "art/icons/resources/31-chopper-products/res_teak_lumber-preview.png",
+      "sha256": "0c633cf777e6b5154f6e40cd3fb176ce08009f2cdb6aa3ce3a7b743f76ea762a"
+    },
+    {
+      "path": "art/icons/resources/31-chopper-products/res_teak_lumber-thumbnail.png",
+      "sha256": "aac4f76e9a37e1ff8393977c78dcb07382ece4f6f2836a62b6769502a6803720"
+    },
+    {
+      "path": "art/icons/resources/31-chopper-products/res_teak_timber-preview.png",
+      "sha256": "d7426c6e3114cc4b1739c7f0a7ab978a9ba34eb46f067d2fa43ebf94033f4ab2"
+    },
+    {
+      "path": "art/icons/resources/31-chopper-products/res_teak_timber-thumbnail.png",
+      "sha256": "16f464aafbf7dd6074fd4434d4cee91c72d38b7911a67bff6151ed304022b698"
+    },
+    {
+      "path": "art/icons/resources/31-chopper-products/res_white_oak_lumber-preview.png",
+      "sha256": "a221b2a6917ab89b0dae34568d53ad3a505e25e7a7b0108df4ecca0a8b3bafee"
+    },
+    {
+      "path": "art/icons/resources/31-chopper-products/res_white_oak_lumber-thumbnail.png",
+      "sha256": "f2e0c31919a4d3a37a9b745ac8ecb58ef40c2c25b4e3a28408e199b0bf986e33"
+    },
+    {
+      "path": "art/icons/resources/31-chopper-products/res_white_oak_timber-preview.png",
+      "sha256": "7fbecf813b26abe95915c2ff3c3dc4df6c2f07e3f158abc2aa75eae4d68cce1f"
+    },
+    {
+      "path": "art/icons/resources/31-chopper-products/res_white_oak_timber-thumbnail.png",
+      "sha256": "f6944770187dc8f2e1aa4a8300ed817f50b7b832aa94a3589d84589b5b5adb6b"
+    },
+    {
       "path": "art/icons/resources/31-crafted-utility/amm_empty_vial-preview.png",
       "sha256": "a09cf2ddbeb090644b90ed1d24755dea9cb151b115e984814312a86b00817087"
     },
@@ -2336,6 +2432,22 @@
       "sha256": "4929c1864c4d454cd6b33b834c63dca31f00a84e90cc4564fb4e41dc4a165bd6"
     },
     {
+      "path": "art/icons/resources/34-milled-products/res_bone_meal-preview.png",
+      "sha256": "e73bb72ae39072432c0da4c1a95f75dec6836cfd002d98cac9b5dc81369d8743"
+    },
+    {
+      "path": "art/icons/resources/34-milled-products/res_bone_meal-thumbnail.png",
+      "sha256": "8ce2d82dd55d948c14b08c1fa965deff0a0db6bbf964226a7dd104ebdfc4c6de"
+    },
+    {
+      "path": "art/icons/resources/35-mixer-products/res_seedling_soil_mix-preview.png",
+      "sha256": "980670626480b163a19146dcb6b79f871322e255a8399cd610a21197e6a7ac63"
+    },
+    {
+      "path": "art/icons/resources/35-mixer-products/res_seedling_soil_mix-thumbnail.png",
+      "sha256": "dd97a48fee2624da777ffdf3fd28781bc45f28703a62055575ed509298d52ba1"
+    },
+    {
       "path": "art/icons/resources/36-kiln-furnace-products/res_clay_jug-preview.png",
       "sha256": "81bbcc2977ef5cd3872bacd3854b53079319b3e33dc61da0e87edbae6fa29db3"
     },
@@ -2353,11 +2465,11 @@
     },
     {
       "path": "catalog.json",
-      "sha256": "fcc8ebf935e3f7b29ba7abbad1a1f957132c412f7d9b11db2bf16e474bcbf5e0"
+      "sha256": "f626589078c55b1c4a6818bb0575c73dc8fe8c32bd45328fd0a368d0f56de873"
     },
     {
       "path": "docs/ARTWORK_CATALOG.md",
-      "sha256": "a4689a5f0a5b4924be0351dcf751e1b490775a2a915c17bba922e4a8576bb934"
+      "sha256": "cdcb4316d74fd9bb0e9b19500031cb3dcde30b9d6e4bf3590cd411701146852a"
     },
     {
       "path": "docs/PUBLISHING.md",
@@ -2365,7 +2477,7 @@
     },
     {
       "path": "docs/RELEASES.md",
-      "sha256": "0001d3a3cc6a04c8c1c29340e379474a0bf175df1479c30820be3b80cee20b1f"
+      "sha256": "fdce8d2c398fb1c5eafb12f67ada7f1ffdf6fed4d773faa2c318bad633fb4007"
     },
     {
       "path": "releases/2026-10-16.1.json",
@@ -2414,6 +2526,10 @@
     {
       "path": "releases/2026-11-23.4.json",
       "sha256": "e1cb3763df039266c93bb7e0134e1d0d54d7e82d3c3785c420d0392ef888ca4d"
+    },
+    {
+      "path": "releases/2026-11-23.5.json",
+      "sha256": "2d4461fdf30c433542187fa310dab30828e3f6b58dd9d639bb4a14a8853ed812"
     },
     {
       "path": "requirements.txt",
