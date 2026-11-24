@@ -135,8 +135,27 @@ def png_bytes(image):
     return stream.getvalue()
 
 
-def derivatives(source, kind):
-    from PIL import Image, ImageCms
+def validate_presentation(presentation, kind):
+    if (kind != "icon" or not isinstance(presentation, dict) or not presentation
+            or presentation.keys() - {"crop_xyxy_exclusive", "mirror_x"}):
+        fail("Presentation overrides require a supported icon crop or horizontal mirror")
+    if "mirror_x" in presentation and type(presentation["mirror_x"]) is not bool:
+        fail("Horizontal mirroring must be a boolean")
+    if "crop_xyxy_exclusive" in presentation:
+        box = presentation["crop_xyxy_exclusive"]
+        if not isinstance(box, list) or len(box) != 4 or any(type(v) is not int for v in box):
+            fail("Icon crop requires four integer bounds")
+        x0, y0, x1, y1 = box
+        if not (0 <= x0 < x1 <= 1024 and 0 <= y0 < y1 <= 1024
+                and 4 * (x1 - x0) == 5 * (y1 - y0)):
+            fail("Icon crop must be a 5:4 rectangle within the master")
+
+
+def derivatives(source, kind, presentation=None):
+    from PIL import Image, ImageCms, ImageOps
+    if presentation is not None:
+        validate_presentation(presentation, kind)
+    presentation = presentation or {}
     with Image.open(source) as original:
         if original.format not in {"PNG", "JPEG", "WEBP"}:
             fail("Unsupported artwork image format")
@@ -146,7 +165,13 @@ def derivatives(source, kind):
             bbox = original.getchannel("A").getbbox()
             if not bbox or bbox[0] < LIVE[0] or bbox[1] < LIVE[1] or bbox[2] > LIVE[2] or bbox[3] > LIVE[3]:
                 fail("Icon subject extends outside the approved live area")
-            image = original.crop(LIVE)
+            crop = presentation.get("crop_xyxy_exclusive", LIVE)
+            if crop != LIVE:
+                retained = original.getchannel("A").point(lambda v: 255 if v >= 2 else 0).getbbox()
+                if not retained or any(a < b for a, b in zip(retained[:2], crop[:2])) or any(
+                        a > b for a, b in zip(retained[2:], crop[2:])):
+                    fail("Icon crop clips retained subject pixels")
+            image = original.crop(crop)
             sizes = [(100, 80), (400, 320)]
         else:
             image = original.convert("RGBA" if "A" in original.getbands() else "RGB")
@@ -165,6 +190,8 @@ def derivatives(source, kind):
         for size in sizes:
             # Pillow's RGBA LANCZOS path resamples premultiplied alpha internally.
             result = image.resize(size, Image.Resampling.LANCZOS)
+            if presentation.get("mirror_x"):
+                result = ImageOps.mirror(result)
             output.append((png_bytes(result), list(size)))
         return output
 
@@ -195,6 +222,8 @@ def validate_selection_item(item):
         fail("Use a stable canonical ID")
     if item["kind"] not in {"icon", "artwork"}:
         fail("Artwork kind must be icon or artwork")
+    if "presentation" in item:
+        validate_presentation(item["presentation"], item["kind"])
     allowed = {"resources", "currencies", "ammunition"} if item["kind"] == "icon" else {
         "concepts", "characters", "creatures", "environments", "screenshots", "illustrations"}
     if item["category"] not in allowed or not re.fullmatch(r"[a-z0-9][a-z0-9-]*", item["group_slug"]):
@@ -229,19 +258,28 @@ def prepare(args):
         source = private_path(item["source_path"])
         if source.is_symlink() or not source.is_file() or sha(source.read_bytes()) != item["source_sha256"]:
             fail(f"Source hash mismatch or missing source: {item['id']}")
-        key = sha(encoded({k: item[k] for k in sorted(item) if k != "source_path"}) + pipeline.encode())
         old = previous.get(item["id"])
+        # Carry accepted framing through an order-only update of the same master version.
+        presentation = item.get("presentation")
+        if "presentation" not in item and old and old["version"] == item["version"]:
+            presentation = old.get("presentation")
+        fingerprint = {k: v for k, v in item.items() if k not in ("source_path", "presentation")}
+        if presentation is not None:
+            fingerprint["presentation"] = dict(sorted(presentation.items()))
+        key = sha(encoded(dict(sorted(fingerprint.items()))) + pipeline.encode())
         if old and state.get(item["id"], {}).get("key") == key and all(
             safe_path(ROOT, old[k]["path"]).is_file() and
             sha(safe_path(ROOT, old[k]["path"]).read_bytes()) == old[k]["sha256"]
             for k in ("thumbnail", "preview")
         ):
             continue
-        outputs = derivatives(source, item["kind"])
+        outputs = derivatives(source, item["kind"], presentation)
         public = {k: item[k] for k in ("id", "name", "display_name", "kind", "category", "group",
                                       "group_slug", "group_order", "item_order", "version")}
         if item.get("additional_groups"):
             public["additional_groups"] = item["additional_groups"]
+        if presentation:
+            public["presentation"] = presentation
         public["publication_version"] = args.release
         for label, (data, size) in zip(("thumbnail", "preview"), outputs):
             path = image_path(public, label, old)
@@ -451,6 +489,8 @@ def verify(args):
     if len(set(output_paths)) != len(output_paths):
         fail("Duplicate image paths")
     for item in items:
+        if "presentation" in item:
+            validate_presentation(item["presentation"], item["kind"])
         for label in ("thumbnail", "preview"):
             r = item[label]
             p = safe_path(ROOT, r["path"])

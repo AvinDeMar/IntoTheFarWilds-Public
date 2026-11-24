@@ -15,5 +15,6 @@ Only explicitly authorized artwork releases are published.
 - [2026-11-23.3](../releases/2026-11-23.3.json)
 - [2026-11-23.4](../releases/2026-11-23.4.json)
 - [2026-11-23.5](../releases/2026-11-23.5.json)
+- [2026-11-23.6](../releases/2026-11-23.6.json)
 
 The catalog records the selected artwork version and both derivative hashes for each active item. Earlier public revisions remain in Git history.

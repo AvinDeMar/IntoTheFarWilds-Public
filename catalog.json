@@ -15,7 +15,8 @@
     "2026-11-23.2",
     "2026-11-23.3",
     "2026-11-23.4",
-    "2026-11-23.5"
+    "2026-11-23.5",
+    "2026-11-23.6"
   ],
   "items": [
     {
@@ -5044,56 +5045,6 @@
       }
     },
     {
-      "id": "RES_TIMBER",
-      "name": "Timber",
-      "display_name": "Timber",
-      "kind": "icon",
-      "category": "resources",
-      "group": "Chopped Products",
-      "group_slug": "31-chopper-products",
-      "group_order": 31,
-      "item_order": 1,
-      "version": "v002",
-      "publication_version": "2026-10-17.1",
-      "thumbnail": {
-        "path": "art/icons/resources/31-crafted-utility/res_timber-thumbnail.png",
-        "width": 100,
-        "height": 80,
-        "sha256": "b9f512de95bb22c639197f6a24c4720c95044594fea89cb436daefee4d497790"
-      },
-      "preview": {
-        "path": "art/icons/resources/31-crafted-utility/res_timber-preview.png",
-        "width": 400,
-        "height": 320,
-        "sha256": "f9acceb006e32faade1e52b704c8b1803f7866dea8695d03bc79f3bd7adba5f9"
-      }
-    },
-    {
-      "id": "RES_LUMBER_PLANK",
-      "name": "Lumber",
-      "display_name": "Lumber",
-      "kind": "icon",
-      "category": "resources",
-      "group": "Chopped Products",
-      "group_slug": "31-chopper-products",
-      "group_order": 31,
-      "item_order": 2,
-      "version": "v001",
-      "publication_version": "2026-10-17.1",
-      "thumbnail": {
-        "path": "art/icons/resources/31-crafted-utility/res_lumber_plank-thumbnail.png",
-        "width": 100,
-        "height": 80,
-        "sha256": "e249e4daf12d0a0b9bf53c4003cdf2046a3fff7444cabaa7044cc3fdd28f9682"
-      },
-      "preview": {
-        "path": "art/icons/resources/31-crafted-utility/res_lumber_plank-preview.png",
-        "width": 400,
-        "height": 320,
-        "sha256": "aa71729bd1d24134bef645f3f8fa3fe82c174db93e95141988442cea69b47c79"
-      }
-    },
-    {
       "id": "RES_FRESH_FIREWOOD",
       "name": "Fresh Firewood",
       "display_name": "Fresh Firewood",
@@ -5102,9 +5053,9 @@
       "group": "Chopped Products",
       "group_slug": "31-chopper-products",
       "group_order": 31,
-      "item_order": 3,
+      "item_order": 1,
       "version": "v002",
-      "publication_version": "2026-10-17.1",
+      "publication_version": "2026-11-23.6",
       "thumbnail": {
         "path": "art/icons/resources/31-crafted-utility/res_fresh_firewood-thumbnail.png",
         "width": 100,
@@ -5127,9 +5078,9 @@
       "group": "Chopped Products",
       "group_slug": "31-chopper-products",
       "group_order": 31,
-      "item_order": 4,
+      "item_order": 2,
       "version": "v002",
-      "publication_version": "2026-10-17.1",
+      "publication_version": "2026-11-23.6",
       "thumbnail": {
         "path": "art/icons/resources/31-crafted-utility/res_dry_firewood-thumbnail.png",
         "width": 100,
@@ -5144,6 +5095,31 @@
       }
     },
     {
+      "id": "RES_TIMBER",
+      "name": "Timber",
+      "display_name": "Timber",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Chopped Products",
+      "group_slug": "31-chopper-products",
+      "group_order": 31,
+      "item_order": 3,
+      "version": "v002",
+      "publication_version": "2026-11-23.6",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_timber-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "b9f512de95bb22c639197f6a24c4720c95044594fea89cb436daefee4d497790"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_timber-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "f9acceb006e32faade1e52b704c8b1803f7866dea8695d03bc79f3bd7adba5f9"
+      }
+    },
+    {
       "id": "RES_WHITE_OAK_TIMBER",
       "name": "White Oak Timber",
       "display_name": "White Oak Timber",
@@ -5152,20 +5128,28 @@
       "group": "Chopped Products",
       "group_slug": "31-chopper-products",
       "group_order": 31,
-      "item_order": 5,
+      "item_order": 4,
       "version": "v001",
-      "publication_version": "2026-11-23.5",
+      "presentation": {
+        "crop_xyxy_exclusive": [
+          128,
+          225,
+          898,
+          841
+        ]
+      },
+      "publication_version": "2026-11-23.6",
       "thumbnail": {
         "path": "art/icons/resources/31-chopper-products/res_white_oak_timber-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "f6944770187dc8f2e1aa4a8300ed817f50b7b832aa94a3589d84589b5b5adb6b"
+        "sha256": "96f78da137a82f7156aa91f6ed62868f143e273ae5d64eec687d7040ce73b268"
       },
       "preview": {
         "path": "art/icons/resources/31-chopper-products/res_white_oak_timber-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "7fbecf813b26abe95915c2ff3c3dc4df6c2f07e3f158abc2aa75eae4d68cce1f"
+        "sha256": "fa4d078cbbaba34c55160a9bc86a75b60d030390d6caec63b70dfb458ee4abd0"
       }
     },
     {
@@ -5177,20 +5161,28 @@
       "group": "Chopped Products",
       "group_slug": "31-chopper-products",
       "group_order": 31,
-      "item_order": 6,
+      "item_order": 5,
       "version": "v001",
-      "publication_version": "2026-11-23.5",
+      "presentation": {
+        "crop_xyxy_exclusive": [
+          133,
+          228,
+          903,
+          844
+        ]
+      },
+      "publication_version": "2026-11-23.6",
       "thumbnail": {
         "path": "art/icons/resources/31-chopper-products/res_red_cedar_timber-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "d6377d0dfeb7d93e775c8e0d8a8d4ce8335dccb6ac08a64227c8c1f7728226af"
+        "sha256": "bc1bd0922c3750cd77c0009daa610312800bf620c08b3fea0bf4de18d73ae344"
       },
       "preview": {
         "path": "art/icons/resources/31-chopper-products/res_red_cedar_timber-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "b055e26bc63eea86765b2cbafb622d6e2824d42b32bdbe07f6cacfebe9532f2b"
+        "sha256": "888ff740f3d1eae84c8a788b364656a8555cc0f0f05a95ba09eca3c259cb9bd3"
       }
     },
     {
@@ -5202,20 +5194,28 @@
       "group": "Chopped Products",
       "group_slug": "31-chopper-products",
       "group_order": 31,
-      "item_order": 7,
+      "item_order": 6,
       "version": "v001",
-      "publication_version": "2026-11-23.5",
+      "presentation": {
+        "crop_xyxy_exclusive": [
+          132,
+          217,
+          902,
+          833
+        ]
+      },
+      "publication_version": "2026-11-23.6",
       "thumbnail": {
         "path": "art/icons/resources/31-chopper-products/res_pitch_pine_timber-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "b16bd0cfaf985ced4e1ac58c67b206f914da63e74aa98a42d8ca29ba3353e5c7"
+        "sha256": "a02b0cb71339ca9eef477531823f08b52d747607f875e023ad9a4256cf9cfcac"
       },
       "preview": {
         "path": "art/icons/resources/31-chopper-products/res_pitch_pine_timber-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "77efa60ebf259bf72767782ef3e3ba3ef553bd3d0253f768a8a7f47862fd9aa5"
+        "sha256": "2b23ca8dcfa7d46ebe7cc9f5b6a717fa6fc4090bf9d1e395b838639eb5d62cca"
       }
     },
     {
@@ -5227,20 +5227,28 @@
       "group": "Chopped Products",
       "group_slug": "31-chopper-products",
       "group_order": 31,
-      "item_order": 8,
+      "item_order": 7,
       "version": "v001",
-      "publication_version": "2026-11-23.5",
+      "presentation": {
+        "crop_xyxy_exclusive": [
+          128,
+          205,
+          898,
+          821
+        ]
+      },
+      "publication_version": "2026-11-23.6",
       "thumbnail": {
         "path": "art/icons/resources/31-chopper-products/res_bald_cypress_timber-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "d814e69e4e2950398d9aea5a1068c1b64a347f5212cba9c71a572c96fbd44811"
+        "sha256": "951bea14413879e60c9c81a8e6012f7b0ed38cfaae569206413c71608baf0307"
       },
       "preview": {
         "path": "art/icons/resources/31-chopper-products/res_bald_cypress_timber-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "8f95e7d0022d6582d118d7d9e0feadc70afbddac813c04650a1a8c25027fab91"
+        "sha256": "226c4b6f382c3492680a04e0904da39e5a1697761b67f8000ef71f8fc66ccff5"
       }
     },
     {
@@ -5252,20 +5260,28 @@
       "group": "Chopped Products",
       "group_slug": "31-chopper-products",
       "group_order": 31,
-      "item_order": 9,
+      "item_order": 8,
       "version": "v001",
-      "publication_version": "2026-11-23.5",
+      "presentation": {
+        "crop_xyxy_exclusive": [
+          128,
+          220,
+          898,
+          836
+        ]
+      },
+      "publication_version": "2026-11-23.6",
       "thumbnail": {
         "path": "art/icons/resources/31-chopper-products/res_teak_timber-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "16f464aafbf7dd6074fd4434d4cee91c72d38b7911a67bff6151ed304022b698"
+        "sha256": "de04f05037c7fccebdf0d9c07966d591730d52cbb8b2dbb5e9100c3f5b010d11"
       },
       "preview": {
         "path": "art/icons/resources/31-chopper-products/res_teak_timber-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "d7426c6e3114cc4b1739c7f0a7ab978a9ba34eb46f067d2fa43ebf94033f4ab2"
+        "sha256": "260778471427dc783eaa963c598e9ea1d3777e3282be77ccadc019af29a073c1"
       }
     },
     {
@@ -5277,20 +5293,53 @@
       "group": "Chopped Products",
       "group_slug": "31-chopper-products",
       "group_order": 31,
-      "item_order": 10,
+      "item_order": 9,
       "version": "v001",
-      "publication_version": "2026-11-23.5",
+      "presentation": {
+        "crop_xyxy_exclusive": [
+          129,
+          210,
+          899,
+          826
+        ]
+      },
+      "publication_version": "2026-11-23.6",
       "thumbnail": {
         "path": "art/icons/resources/31-chopper-products/res_coconut_palm_timber-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "63d6389ec551d18efeafbfec43b586ca6431e0ae8be6c9b48a2471010a4cbbf1"
+        "sha256": "6381c5dcd4118b2d36eda6dbaca8f3fa07d23deac6c01df93679b2cf063d3383"
       },
       "preview": {
         "path": "art/icons/resources/31-chopper-products/res_coconut_palm_timber-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "266086cdd03be368fc7dfd4c931989810e4588c1e94b68f9fc4dfad2a5a482c3"
+        "sha256": "5531b03536e07405a09f0963ed510bf87611d2a05ca9590808906d357db3f60a"
+      }
+    },
+    {
+      "id": "RES_LUMBER_PLANK",
+      "name": "Lumber",
+      "display_name": "Lumber",
+      "kind": "icon",
+      "category": "resources",
+      "group": "Chopped Products",
+      "group_slug": "31-chopper-products",
+      "group_order": 31,
+      "item_order": 10,
+      "version": "v001",
+      "publication_version": "2026-11-23.6",
+      "thumbnail": {
+        "path": "art/icons/resources/31-crafted-utility/res_lumber_plank-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "e249e4daf12d0a0b9bf53c4003cdf2046a3fff7444cabaa7044cc3fdd28f9682"
+      },
+      "preview": {
+        "path": "art/icons/resources/31-crafted-utility/res_lumber_plank-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "aa71729bd1d24134bef645f3f8fa3fe82c174db93e95141988442cea69b47c79"
       }
     },
     {
@@ -5304,18 +5353,26 @@
       "group_order": 31,
       "item_order": 11,
       "version": "v001",
-      "publication_version": "2026-11-23.5",
+      "presentation": {
+        "crop_xyxy_exclusive": [
+          121,
+          201,
+          901,
+          825
+        ]
+      },
+      "publication_version": "2026-11-23.6",
       "thumbnail": {
         "path": "art/icons/resources/31-chopper-products/res_white_oak_lumber-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "f2e0c31919a4d3a37a9b745ac8ecb58ef40c2c25b4e3a28408e199b0bf986e33"
+        "sha256": "5b9390e0c2c1bcc07d4a151ba337cf5d119b63a8a54c5807301a06073b2d7870"
       },
       "preview": {
         "path": "art/icons/resources/31-chopper-products/res_white_oak_lumber-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "a221b2a6917ab89b0dae34568d53ad3a505e25e7a7b0108df4ecca0a8b3bafee"
+        "sha256": "ae70c2a41c5782f6a517da6c2d165a3abac4e55e3cb1bc36cd6117d50064f911"
       }
     },
     {
@@ -5329,18 +5386,26 @@
       "group_order": 31,
       "item_order": 12,
       "version": "v001",
-      "publication_version": "2026-11-23.5",
+      "presentation": {
+        "crop_xyxy_exclusive": [
+          125,
+          203,
+          905,
+          827
+        ]
+      },
+      "publication_version": "2026-11-23.6",
       "thumbnail": {
         "path": "art/icons/resources/31-chopper-products/res_red_cedar_lumber-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "dda62895ed7aed558827726ec7f3d0bbf97aa733aed612d25f142eba2971a943"
+        "sha256": "f4c6bf4eee259ea2aebeed0187d0650ea1675dbf0457b7954846daa9af4fab14"
       },
       "preview": {
         "path": "art/icons/resources/31-chopper-products/res_red_cedar_lumber-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "864607839ef7140c989707ef31308f9ee00416b508227afb9c29a816bd073f06"
+        "sha256": "a8b0a09d5e3c1754f29fd17c0489ba942a5897998de664f6022dc049fb0ea19c"
       }
     },
     {
@@ -5354,18 +5419,26 @@
       "group_order": 31,
       "item_order": 13,
       "version": "v001",
-      "publication_version": "2026-11-23.5",
+      "presentation": {
+        "crop_xyxy_exclusive": [
+          125,
+          207,
+          905,
+          831
+        ]
+      },
+      "publication_version": "2026-11-23.6",
       "thumbnail": {
         "path": "art/icons/resources/31-chopper-products/res_pitch_pine_lumber-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "e5e20de8294e0169be335e77ce3b91258b1ea4d2593ed3a766b37b6bda654623"
+        "sha256": "38f6a3c00e7ec6d28a65dbd05a55cd04525ffed79697e74621aaf50a5cf08568"
       },
       "preview": {
         "path": "art/icons/resources/31-chopper-products/res_pitch_pine_lumber-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "c032c094ab129453006e2a3f69d8ab4941694b860d30e15442d5c1142f4aa246"
+        "sha256": "8b16fecd2be80a119fbf09f4db47b4fdd4b9d5cac0ce951fde5b88387975aec0"
       }
     },
     {
@@ -5379,18 +5452,26 @@
       "group_order": 31,
       "item_order": 14,
       "version": "v001",
-      "publication_version": "2026-11-23.5",
+      "presentation": {
+        "crop_xyxy_exclusive": [
+          125,
+          218,
+          905,
+          842
+        ]
+      },
+      "publication_version": "2026-11-23.6",
       "thumbnail": {
         "path": "art/icons/resources/31-chopper-products/res_bald_cypress_lumber-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "c285596e4e43e0361c613f2ad72c1b50cab43ceeb779a8fad78851899f3b2505"
+        "sha256": "3f7bcf2f27ba5932c0a4caff58b8e51316c51e14d59641b7ba06303deb3137c3"
       },
       "preview": {
         "path": "art/icons/resources/31-chopper-products/res_bald_cypress_lumber-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "7a5d48a049dc74c99605317a18a5697f0d624b66470813c584f58e889291a519"
+        "sha256": "4f77431a4ca8c62a1d791c3212da192c9f1a356c77ab082bfabb2b91958d12f8"
       }
     },
     {
@@ -5404,18 +5485,26 @@
       "group_order": 31,
       "item_order": 15,
       "version": "v001",
-      "publication_version": "2026-11-23.5",
+      "presentation": {
+        "crop_xyxy_exclusive": [
+          123,
+          221,
+          903,
+          845
+        ]
+      },
+      "publication_version": "2026-11-23.6",
       "thumbnail": {
         "path": "art/icons/resources/31-chopper-products/res_teak_lumber-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "aac4f76e9a37e1ff8393977c78dcb07382ece4f6f2836a62b6769502a6803720"
+        "sha256": "f0896e04c31b366bf24c7b08cfb253ca6bac71393ae9e34e23fe9d9205227607"
       },
       "preview": {
         "path": "art/icons/resources/31-chopper-products/res_teak_lumber-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "0c633cf777e6b5154f6e40cd3fb176ce08009f2cdb6aa3ce3a7b743f76ea762a"
+        "sha256": "e1e84ca83f441cbdb62302b2aaa1e56661223f482238615045e07a694e40bc5a"
       }
     },
     {
@@ -5429,18 +5518,26 @@
       "group_order": 31,
       "item_order": 16,
       "version": "v001",
-      "publication_version": "2026-11-23.5",
+      "presentation": {
+        "crop_xyxy_exclusive": [
+          125,
+          209,
+          905,
+          833
+        ]
+      },
+      "publication_version": "2026-11-23.6",
       "thumbnail": {
         "path": "art/icons/resources/31-chopper-products/res_coconut_palm_lumber-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "5f9961e1f91b6f69e34f6c09790184f2aa284466f95e89b9f73779785e5fe096"
+        "sha256": "98d76733c7ba34e4229f1a1691ddcb44385c088fe1d3fde182465e17b1e12cc1"
       },
       "preview": {
         "path": "art/icons/resources/31-chopper-products/res_coconut_palm_lumber-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "5a63c8abe30bcf5a9111665183fcd0b640063fe77fcaf1f15954248febc978bb"
+        "sha256": "72e3bc1f9b230d3a0a6af1bbb398d70affded1b72d78a50c4264bc5efecb84b6"
       }
     },
     {
@@ -5804,18 +5901,26 @@
       "group_order": 34,
       "item_order": 4,
       "version": "v001",
-      "publication_version": "2026-11-23.5",
+      "presentation": {
+        "crop_xyxy_exclusive": [
+          145,
+          223,
+          885,
+          815
+        ]
+      },
+      "publication_version": "2026-11-23.6",
       "thumbnail": {
         "path": "art/icons/resources/34-milled-products/res_bone_meal-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "8ce2d82dd55d948c14b08c1fa965deff0a0db6bbf964226a7dd104ebdfc4c6de"
+        "sha256": "0bd0d05afd7de1235d232f5b6923be2253500eaa10da7061a50b99adc61efa9a"
       },
       "preview": {
         "path": "art/icons/resources/34-milled-products/res_bone_meal-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "e73bb72ae39072432c0da4c1a95f75dec6836cfd002d98cac9b5dc81369d8743"
+        "sha256": "208db06fc03101e5fce52f4e1498429f30808558a546e195829c89100a72ea67"
       }
     },
     {
@@ -6129,18 +6234,26 @@
       "group_order": 35,
       "item_order": 13,
       "version": "v001",
-      "publication_version": "2026-11-23.5",
+      "presentation": {
+        "crop_xyxy_exclusive": [
+          156,
+          239,
+          866,
+          807
+        ]
+      },
+      "publication_version": "2026-11-23.6",
       "thumbnail": {
         "path": "art/icons/resources/35-mixer-products/res_seedling_soil_mix-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "dd97a48fee2624da777ffdf3fd28781bc45f28703a62055575ed509298d52ba1"
+        "sha256": "74487750af72c00c140f4d6253e72b366de53778fc5d46844aba91c1729fceca"
       },
       "preview": {
         "path": "art/icons/resources/35-mixer-products/res_seedling_soil_mix-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "980670626480b163a19146dcb6b79f871322e255a8399cd610a21197e6a7ac63"
+        "sha256": "8576bda89a9fa415e4ae48764ff4150a3654394b0ed9f1fd3f08acb752fd0c1b"
       }
     },
     {
@@ -6754,18 +6867,21 @@
       "group_order": 38,
       "item_order": 12,
       "version": "v006",
-      "publication_version": "2026-11-23.2",
+      "presentation": {
+        "mirror_x": true
+      },
+      "publication_version": "2026-11-23.6",
       "thumbnail": {
         "path": "art/icons/ammunition/crossbow/amm_simple_bolts-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "04de6207c6fc81a92e1974377e56b9d1846eed7feec1de862f178a6ebfcaa001"
+        "sha256": "e9b79af4608edde5fb7c660dbe63ed66c319a64e72bbae050fb3af77d5dfb325"
       },
       "preview": {
         "path": "art/icons/ammunition/crossbow/amm_simple_bolts-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "1ab1906f3cb254046e01374d2351e926eaac93a313687cb681c42c3255832dd8"
+        "sha256": "19289920d78bca5b63725658c5db5f7302adcdd60fbb4e26b59e7b5558bcd542"
       }
     },
     {
@@ -6779,18 +6895,21 @@
       "group_order": 38,
       "item_order": 13,
       "version": "v004",
-      "publication_version": "2026-11-23.2",
+      "presentation": {
+        "mirror_x": true
+      },
+      "publication_version": "2026-11-23.6",
       "thumbnail": {
         "path": "art/icons/ammunition/crossbow/amm_simple_bolts_fire-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "930fbaed60c440d15e076f6b29ae842f28a6b8426f96dc05221463a37c01881d"
+        "sha256": "d3fb3281e23dfa9a43fbe56b4a84d73f795aeb2e69ae522af3e1a3822d76733c"
       },
       "preview": {
         "path": "art/icons/ammunition/crossbow/amm_simple_bolts_fire-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "e5764abac193b704143227ad874c03935f902e82d361e8e84c5a8c3b98314e54"
+        "sha256": "1a91e61b92d43a19d017b65558ffbee73f2d27c357c7b6448cc794015c523513"
       }
     },
     {
@@ -6804,18 +6923,21 @@
       "group_order": 38,
       "item_order": 14,
       "version": "v005",
-      "publication_version": "2026-11-23.2",
+      "presentation": {
+        "mirror_x": true
+      },
+      "publication_version": "2026-11-23.6",
       "thumbnail": {
         "path": "art/icons/ammunition/crossbow/amm_simple_bolts_poison-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "43779defab046be866abb9e1a4f3bbffda3b9f50f52d6f559c153fad3de43b0f"
+        "sha256": "668b0e0c6e60d4e5793d839bc131494ba37fc93733c5c5979773441f218c5db8"
       },
       "preview": {
         "path": "art/icons/ammunition/crossbow/amm_simple_bolts_poison-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "5176a2a1d43b1d918811c4abba13f0cc1867fc431908763ac8fc92fefce6659b"
+        "sha256": "a1844684f532e62b2ff5b696971310c1ea315dc2375a419f5168858a4907c33a"
       }
     },
     {
@@ -6829,18 +6951,21 @@
       "group_order": 38,
       "item_order": 15,
       "version": "v005",
-      "publication_version": "2026-11-23.2",
+      "presentation": {
+        "mirror_x": true
+      },
+      "publication_version": "2026-11-23.6",
       "thumbnail": {
         "path": "art/icons/ammunition/crossbow/amm_metal_bolts-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "6be9bf3c554746904c610310dd09e6a46e76b9b79793afe903de1e811c4251c3"
+        "sha256": "368da0052846f873b938431226220b8536aa77edfde2ae74618d0d759a71aab7"
       },
       "preview": {
         "path": "art/icons/ammunition/crossbow/amm_metal_bolts-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "303096abe23b482df89e9376bd77e3612f94521503fdb547a0d61b1e14aa2cbe"
+        "sha256": "6c7192fad01af0fafe9a300abe930b62ea18d8da2ebda77a8466400464140ebf"
       }
     },
     {
@@ -6854,18 +6979,21 @@
       "group_order": 38,
       "item_order": 16,
       "version": "v006",
-      "publication_version": "2026-11-23.4",
+      "presentation": {
+        "mirror_x": true
+      },
+      "publication_version": "2026-11-23.6",
       "thumbnail": {
         "path": "art/icons/ammunition/crossbow/amm_metal_bolts_fire-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "71c594595dc879c7db22847ec5a7378b92e2b905835f46d702e3ab9f73796c68"
+        "sha256": "c4962fc6df904f4023481c577128fff9e5aca5378b60c9d41eab559417232785"
       },
       "preview": {
         "path": "art/icons/ammunition/crossbow/amm_metal_bolts_fire-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "ee2fa086b38eb3ff710981686d163d38c0eab790aaed7182c03506ed806e3fae"
+        "sha256": "43a45ee897722e2b26434418d59cc89f5b3f93f7d0ab58f1d22f09c2667702a8"
       }
     },
     {
@@ -6879,18 +7007,21 @@
       "group_order": 38,
       "item_order": 17,
       "version": "v006",
-      "publication_version": "2026-11-23.2",
+      "presentation": {
+        "mirror_x": true
+      },
+      "publication_version": "2026-11-23.6",
       "thumbnail": {
         "path": "art/icons/ammunition/crossbow/amm_metal_bolts_poison-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "ac4c7e16d286478b41cdb35dc063c7a052881b2b92b247efaaec94d95e0dea3d"
+        "sha256": "c727aba02ed89baf2556dfadd619c88a2a5b63b7a52166f9b5d1bc03a1130a1f"
       },
       "preview": {
         "path": "art/icons/ammunition/crossbow/amm_metal_bolts_poison-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "6046ccd823ee421c09adfa0055dc360c43c0d80597f8a07541110d66d353d75f"
+        "sha256": "96fef4ac146561b9ad6af179a9af8284162efd5ac2ec231694df688529ef8890"
       }
     },
     {
@@ -6904,18 +7035,21 @@
       "group_order": 38,
       "item_order": 18,
       "version": "v007",
-      "publication_version": "2026-11-23.2",
+      "presentation": {
+        "mirror_x": true
+      },
+      "publication_version": "2026-11-23.6",
       "thumbnail": {
         "path": "art/icons/ammunition/crossbow/amm_alloy_bolts-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "ac18bc56fbc8e6efb34b3980ae16a3c7a98ce63a24dfa94a9ca114cc38781b69"
+        "sha256": "3f8219cf6aca6321eb1acead628e9c7acff246b3511644fcbb72fb82c634cdd4"
       },
       "preview": {
         "path": "art/icons/ammunition/crossbow/amm_alloy_bolts-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "f0ba4a344703ef7705aea7bc4fb6080558d1de0659183b85bda867aff3073d2f"
+        "sha256": "874ebdad790d78b32383301568873c37b758e6ca3262525a4971d9d2b97be3e0"
       }
     },
     {
@@ -6929,18 +7063,21 @@
       "group_order": 38,
       "item_order": 19,
       "version": "v006",
-      "publication_version": "2026-11-23.2",
+      "presentation": {
+        "mirror_x": true
+      },
+      "publication_version": "2026-11-23.6",
       "thumbnail": {
         "path": "art/icons/ammunition/crossbow/amm_alloy_bolts_fire-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "d1ac4be860cbb5dfaa855d79fb7560035c7b167a9dd9cd40a7b072aa66a1eb17"
+        "sha256": "ecf25d5fdae9c087f1a893c854f3ecefe208ecf8a51cf160f3be979a5af72769"
       },
       "preview": {
         "path": "art/icons/ammunition/crossbow/amm_alloy_bolts_fire-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "59f2387d697fe55c9234c598f411500690cd3929e90e5ce70456fd17fad8c3dd"
+        "sha256": "544c85194d85eec76776fcde42a3a2addbb4047527eae1b6d2253218d7b7ffd3"
       }
     },
     {
@@ -6954,18 +7091,21 @@
       "group_order": 38,
       "item_order": 20,
       "version": "v007",
-      "publication_version": "2026-11-23.2",
+      "presentation": {
+        "mirror_x": true
+      },
+      "publication_version": "2026-11-23.6",
       "thumbnail": {
         "path": "art/icons/ammunition/crossbow/amm_alloy_bolts_poison-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "0871aec0dcd785088d011511bd2b73d47325d4d92025069b85cf63e0b86129d9"
+        "sha256": "471c617396e50d99e554fb88f09576cc5d03f7237c7264c4218a7f32a6c91340"
       },
       "preview": {
         "path": "art/icons/ammunition/crossbow/amm_alloy_bolts_poison-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "f6751211b37c88a4dfd50a6161b606e7a557fa916b6d91752e942223ad3e2f08"
+        "sha256": "44fb3c51b4bab9105a3a75b3d64bc29bf78d77e738c6e309488617e43a686e4f"
       }
     },
     {
@@ -7287,18 +7427,26 @@
           "item_order": 33
         }
       ],
-      "publication_version": "2026-11-23.3",
+      "presentation": {
+        "crop_xyxy_exclusive": [
+          98,
+          150,
+          903,
+          794
+        ]
+      },
+      "publication_version": "2026-11-23.6",
       "thumbnail": {
         "path": "art/icons/ammunition/any/amm_improvised_shot-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "9e862778f53cb79015fe6f9aff3167bab5ef369113450f66414cfc72badc9e1a"
+        "sha256": "20593b02db3a4f34fc7a6e27773c27577e73991bd2c3047f8aa9eebdefa8b0a2"
       },
       "preview": {
         "path": "art/icons/ammunition/any/amm_improvised_shot-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "8f55133c78770d706ad5855787ef9b0499086ee2eac984def55c41648ed4d64d"
+        "sha256": "0beb12cb7ba21a30ef4e9e5b456786bcb641f38ee5b38e5297550fd913bd7b7a"
       }
     },
     {
@@ -7312,18 +7460,26 @@
       "group_order": 41,
       "item_order": 34,
       "version": "v004",
-      "publication_version": "2026-11-23.3",
+      "presentation": {
+        "crop_xyxy_exclusive": [
+          83,
+          160,
+          888,
+          804
+        ]
+      },
+      "publication_version": "2026-11-23.6",
       "thumbnail": {
         "path": "art/icons/ammunition/pistol/amm_ball_shot-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "92d9352c6b30a188b6e929bbffc0ccb21bac3c033a5cfe74929d300a1c0ee6a0"
+        "sha256": "2ece5ba4c29c8a797975b758b3d6d7de5d57d1a928cce3683faedc9b5a16b69b"
       },
       "preview": {
         "path": "art/icons/ammunition/pistol/amm_ball_shot-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "141edf33bd145c1a78f60f9dc038e1ffdee4c4a7daec60b683f7b66c8a95d2e9"
+        "sha256": "e7456c79c642c41d8dfb402dc17d95cd6208de9091546d982731ea756f319527"
       }
     },
     {
@@ -7337,18 +7493,26 @@
       "group_order": 42,
       "item_order": 35,
       "version": "v004",
-      "publication_version": "2026-11-23.2",
+      "presentation": {
+        "crop_xyxy_exclusive": [
+          78,
+          183,
+          883,
+          827
+        ]
+      },
+      "publication_version": "2026-11-23.6",
       "thumbnail": {
         "path": "art/icons/ammunition/rifle/amm_musket_shot-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "92771ada155f09e51f4fa1812698e222fb4835c0b1b9e4fc63510d5cd08344b3"
+        "sha256": "737b445cbe11c782b3d894fd8d3153d1109bf4198acf0c4506911a5c49bc81e1"
       },
       "preview": {
         "path": "art/icons/ammunition/rifle/amm_musket_shot-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "f21ae2d92cde448e00e7612673880157e30728ed28216ca313acccb30f1d0561"
+        "sha256": "7c5064fd68eb79bd87e76a0ed5081375c576f776bbced5182bdb151e2f415676"
       }
     },
     {
@@ -7362,18 +7526,26 @@
       "group_order": 42,
       "item_order": 36,
       "version": "v004",
-      "publication_version": "2026-11-23.2",
+      "presentation": {
+        "crop_xyxy_exclusive": [
+          85,
+          145,
+          890,
+          789
+        ]
+      },
+      "publication_version": "2026-11-23.6",
       "thumbnail": {
         "path": "art/icons/ammunition/rifle/amm_buckshot-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "5b915c1edd1e765f60b728b1594ad6dfdb683600ce3d304ddeadf070386c7d3c"
+        "sha256": "855013db09bd239b3df86fa59c10fba411202e60230e56150335e7b27e47f1fe"
       },
       "preview": {
         "path": "art/icons/ammunition/rifle/amm_buckshot-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "2a10229bb1ce2ebc2f6616ca2123d6a05b8b06a6a2e55bff6a47f5715beabe85"
+        "sha256": "1b0af827dbe5eb990bdcc9e4d37afa4870ece95cad86eb1968d42f232d85ed98"
       }
     },
     {
@@ -7387,18 +7559,26 @@
       "group_order": 42,
       "item_order": 37,
       "version": "v004",
-      "publication_version": "2026-11-23.2",
+      "presentation": {
+        "crop_xyxy_exclusive": [
+          77,
+          162,
+          882,
+          806
+        ]
+      },
+      "publication_version": "2026-11-23.6",
       "thumbnail": {
         "path": "art/icons/ammunition/rifle/amm_buck_and_ball-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "0947a791d26bd7d8926a8c655324dd6360b6ad57f15e45b84d299d90f2256eac"
+        "sha256": "994e155d999865fa90871d2094b3bf3c40fcfb66a7dd97194368ed006fe023cf"
       },
       "preview": {
         "path": "art/icons/ammunition/rifle/amm_buck_and_ball-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "3f437c4ee9c1dfda0494989a3e0d2fedd7980d71f0e686697230525172150d08"
+        "sha256": "84445372fd3942060927738a08326c987ad0067331deb7bedc8efe404a243f85"
       }
     },
     {
@@ -7412,18 +7592,26 @@
       "group_order": 43,
       "item_order": 38,
       "version": "v002",
-      "publication_version": "2026-11-23.2",
+      "presentation": {
+        "crop_xyxy_exclusive": [
+          157,
+          245,
+          857,
+          805
+        ]
+      },
+      "publication_version": "2026-11-23.6",
       "thumbnail": {
         "path": "art/icons/ammunition/gatling/amm_paper_cartridge-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "41e27a1a0f74fd4cbd45258fdeb180e58e0ac14fdf376951d4f8a1e4eb6baf3a"
+        "sha256": "5ba90ae81cc12d532f62da719102f2e053a9b6b71dfb9383eb02e44dfe1194d9"
       },
       "preview": {
         "path": "art/icons/ammunition/gatling/amm_paper_cartridge-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "f2d998e6f30217fc867047d6ccd1dfa40729aee42fc8c5e080e76d9a9859c927"
+        "sha256": "96aea735dd1d5577944cf6c50f229b5b8f7cfa2b67143be0b5aa2ff5b3d8feb8"
       }
     },
     {
@@ -7628,18 +7816,26 @@
       "group_order": 46,
       "item_order": 45,
       "version": "v002",
-      "publication_version": "2026-11-23.2",
+      "presentation": {
+        "crop_xyxy_exclusive": [
+          63,
+          163,
+          953,
+          875
+        ]
+      },
+      "publication_version": "2026-11-23.6",
       "thumbnail": {
         "path": "art/icons/ammunition/large-artillery/amm_hollow_shot-thumbnail.png",
         "width": 100,
         "height": 80,
-        "sha256": "64fba49ec0e7d3295da8e272fd933290147156859571536ea61afdcfa62e544d"
+        "sha256": "c354077da320af56fcb084a68d7f3a1ec1582b35fdfa4bcf9690fa5918c89853"
       },
       "preview": {
         "path": "art/icons/ammunition/large-artillery/amm_hollow_shot-preview.png",
         "width": 400,
         "height": 320,
-        "sha256": "a0b58741f5754c600b58d33da77d098aaf8e5106eab0fe7b04a61927308e2343"
+        "sha256": "ba1c33ffceb5c681c720b9c56cae226421a640e4a4106e36e785a7b3a5e6c0e7"
       }
     }
   ],
@@ -7651,5 +7847,5 @@
       "retired_in": "2026-10-16.3"
     }
   ],
-  "latest_release": "2026-11-23.5"
+  "latest_release": "2026-11-23.6"
 }

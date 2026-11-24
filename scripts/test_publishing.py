@@ -76,6 +76,34 @@ class PublishingTests(unittest.TestCase):
                 # x=112 in the square becomes x=10 after the exact live crop.
                 self.assertGreater(im.getpixel((int(size[0] * .11), size[1] // 2))[3], 240)
 
+    def test_presentation_geometry_and_mirror_survive_order_updates(self):
+        source = Image.new("RGBA", (1024, 1024))
+        source.paste((160, 100, 40, 255), (310, 310, 630, 600))
+        source.save(self.master)
+        item = dict(self.items[0], source_sha256=p.sha(self.master.read_bytes()))
+        crop = [250, 250, 750, 650]
+        framed = dict(item, presentation={"crop_xyxy_exclusive": crop})
+        mirrored = dict(item, presentation={"crop_xyxy_exclusive": crop, "mirror_x": True})
+        outputs = p.derivatives(self.master, "icon", framed["presentation"])
+        self.prepare([mirrored])
+        first = p.read_catalog()["items"][0]
+        for (raw, _), label in zip(outputs, ("thumbnail", "preview"), strict=True):
+            with Image.open(io.BytesIO(raw)) as plain, Image.open(self.public / first[label]["path"]) as flip:
+                self.assertEqual(plain.transpose(Image.Transpose.FLIP_LEFT_RIGHT).tobytes(), flip.tobytes())
+        with patch.object(p, "derivatives", side_effect=AssertionError("cache miss")):
+            self.prepare([item])
+        before = self.snapshot()
+        with self.assertRaises(ValueError):
+            self.prepare([dict(item, presentation=None)], "test.2")
+        self.assertEqual(before, self.snapshot())
+        self.prepare([dict(item, item_order=3)], "test.2")
+        second = p.read_catalog()["items"][0]
+        self.assertEqual(first["presentation"], second["presentation"])
+        self.assertEqual(first["preview"], second["preview"])
+        for bad in ([250, 250, 700, 650], [350, 250, 850, 650], [-5, 0, 495, 400]):
+            with self.assertRaises(ValueError):
+                p.derivatives(self.master, "icon", {"crop_xyxy_exclusive": bad})
+
     def test_idempotency_and_one_item_update(self):
         self.prepare()
         before = self.snapshot()
