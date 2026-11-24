@@ -104,6 +104,23 @@ class PublishingTests(unittest.TestCase):
             with self.assertRaises(ValueError):
                 p.derivatives(self.master, "icon", {"crop_xyxy_exclusive": bad})
 
+    def test_float_framing_supports_padding_and_verified_alpha_guard(self):
+        image = Image.open(self.master).copy()
+        image.putpixel((20, 600), (255, 0, 0, 1))
+        image.save(self.master)
+        style = {"crop_xyxy_exclusive": [-40, 80, 1080, 976],
+                 "resampling": "float-lanczos", "alpha_guard_xyxy": [100, 200, 924, 824]}
+        for (raw, _), size in zip(p.derivatives(self.master, "icon", style), [(100, 80), (400, 320)]):
+            result = Image.open(io.BytesIO(raw))
+            self.assertEqual(result.size, size)
+            self.assertEqual(result.getpixel((0, 0)), (0, 0, 0, 0))
+            self.assertEqual(result.getpixel((size[0] // 2, size[1] // 2)), (160, 100, 40, 255))
+        for bad in (dict(style, alpha_guard_xyxy=[113, 212, 912, 812]),
+                    dict(style, crop_xyxy_exclusive=[-1000, -1000, 1500, 1000]),
+                    dict(style, resampling="nearest")):
+            with self.assertRaises(ValueError):
+                p.derivatives(self.master, "icon", bad)
+
     def test_idempotency_and_one_item_update(self):
         self.prepare()
         before = self.snapshot()

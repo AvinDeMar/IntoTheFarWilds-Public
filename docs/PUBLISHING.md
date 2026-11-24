@@ -34,6 +34,8 @@ The external selection file contains `items`. Each item requires:
 - `group`, `group_slug`, `group_order`, `item_order`: explicit presentation order and stable filesystem grouping. Initial icon groups use resource families 1–27, then currency groups 28–30; members retain their original source order. New groups need unused order values.
 - Optional `presentation` applies to approved icon derivatives. Supply `crop_xyxy_exclusive` as four integer coordinates in the 1024-square master and `mirror_x: true` for an approved horizontal flip. A crop must be 5:4 and retain every pixel with alpha of at least 2/255. Omission carries the recorded presentation for order-only updates of the same artwork version. Review explicit presentation settings when selecting a new artwork version.
 
+- For a reviewed float-premultiplied inventory export, set `presentation.resampling` to `float-lanczos`. The 5:4 crop may extend up to 256 pixels past the square master for transparent padding. An optional `alpha_guard_xyxy` inside the master discards only exterior pixels below 2/255 alpha. Compare decoded RGBA pixels at both public resolutions with the approved review files.
+
 - Optional `additional_groups` lists further display memberships with the same four group/order fields. Each membership links to the same canonical artwork.
 - `source_path`, `source_sha256`: a private staged source and its verified hash.
 - `approval_status: "Approved"` and `rights_status: "cleared"`: record these only after source approval and provenance/publication checks.

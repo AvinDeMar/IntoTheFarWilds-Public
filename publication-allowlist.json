@@ -2473,7 +2473,7 @@
     },
     {
       "path": "docs/PUBLISHING.md",
-      "sha256": "92c589d93724f1b630c720abbdb4328c9e9851e227cf4ed4724f1564ef345635"
+      "sha256": "482ac23d54258c5d33eb9f579f3f1addd3127cd107a78b4c5062f187a1c7dbf8"
     },
     {
       "path": "docs/RELEASES.md",
@@ -2537,15 +2537,15 @@
     },
     {
       "path": "requirements.txt",
-      "sha256": "41b54a6fb2918667ca47a61d73b522629d84490f3d78f0f20b21135faba10d35"
+      "sha256": "d0524439f7a0da67c1283d44683e00fcc795a0657e726f22087cfcbe198f7c89"
     },
     {
       "path": "scripts/publish_art.py",
-      "sha256": "c1193c2049b35a826af2339415c17c4a9a45ed164f15a16d0813716b38532d80"
+      "sha256": "0474467d372017a058cbf0f9accb58920142d6efafcc27a5e76a9b10acd75a8c"
     },
     {
       "path": "scripts/test_publishing.py",
-      "sha256": "6137872f061be397842708fa90d07de20da390acefdca9df0f8ea8697adbb605"
+      "sha256": "137204455f76ba76d5ae4b4a0c04f8bd76682343cbc6113059df4dd3aea5d2e8"
     },
     {
       "path": "site/app.js",

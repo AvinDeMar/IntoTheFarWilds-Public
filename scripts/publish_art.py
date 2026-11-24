@@ -137,18 +137,46 @@ def png_bytes(image):
 
 def validate_presentation(presentation, kind):
     if (kind != "icon" or not isinstance(presentation, dict) or not presentation
-            or presentation.keys() - {"crop_xyxy_exclusive", "mirror_x"}):
+            or presentation.keys() - {"crop_xyxy_exclusive", "mirror_x", "resampling", "alpha_guard_xyxy"}):
         fail("Presentation overrides require a supported icon crop or horizontal mirror")
     if "mirror_x" in presentation and type(presentation["mirror_x"]) is not bool:
         fail("Horizontal mirroring must be a boolean")
+    if "resampling" in presentation and presentation["resampling"] != "float-lanczos":
+        fail("Unsupported icon resampling method")
+    if "alpha_guard_xyxy" in presentation:
+        box = presentation["alpha_guard_xyxy"]
+        if not isinstance(box, list) or len(box) != 4 or any(type(v) is not int for v in box):
+            fail("Icon alpha guard requires four integer bounds")
+        if not (0 <= box[0] < box[2] <= 1024 and 0 <= box[1] < box[3] <= 1024):
+            fail("Icon alpha guard must be inside the master")
     if "crop_xyxy_exclusive" in presentation:
         box = presentation["crop_xyxy_exclusive"]
         if not isinstance(box, list) or len(box) != 4 or any(type(v) is not int for v in box):
             fail("Icon crop requires four integer bounds")
         x0, y0, x1, y1 = box
-        if not (0 <= x0 < x1 <= 1024 and 0 <= y0 < y1 <= 1024
+        padding = 256 if presentation.get("resampling") == "float-lanczos" else 0
+        if not (-padding <= x0 < x1 <= 1024 + padding and -padding <= y0 < y1 <= 1024 + padding
                 and 4 * (x1 - x0) == 5 * (y1 - y0)):
-            fail("Icon crop must be a 5:4 rectangle within the master")
+            fail("Icon crop must be a bounded 5:4 rectangle")
+
+
+def resize_float_lanczos(image, size):
+    """Filter four premultiplied float channels before the single RGBA8 quantization."""
+    import numpy as np
+    from PIL import Image
+
+    values = np.asarray(image, dtype=np.float32) / 255.0
+    alpha = values[:, :, 3:4]
+    channels = np.concatenate((values[:, :, :3] * alpha, alpha), axis=2)
+    filtered = np.stack([
+        np.asarray(Image.fromarray(channels[:, :, n]).resize(size, Image.Resampling.LANCZOS))
+        for n in range(4)
+    ], axis=2)
+    alpha = filtered[:, :, 3:4]
+    rgb = np.divide(filtered[:, :, :3], alpha, out=np.zeros_like(filtered[:, :, :3]),
+                    where=alpha > 1e-8)
+    rgba = np.clip(np.concatenate((rgb, alpha), axis=2), 0, 1)
+    return Image.fromarray(np.floor(rgba * 255 + 0.5).astype(np.uint8))
 
 
 def derivatives(source, kind, presentation=None):
@@ -166,12 +194,20 @@ def derivatives(source, kind, presentation=None):
             if not bbox or bbox[0] < LIVE[0] or bbox[1] < LIVE[1] or bbox[2] > LIVE[2] or bbox[3] > LIVE[3]:
                 fail("Icon subject extends outside the approved live area")
             crop = presentation.get("crop_xyxy_exclusive", LIVE)
-            if crop != LIVE:
-                retained = original.getchannel("A").point(lambda v: 255 if v >= 2 else 0).getbbox()
-                if not retained or any(a < b for a, b in zip(retained[:2], crop[:2])) or any(
-                        a > b for a, b in zip(retained[2:], crop[2:])):
-                    fail("Icon crop clips retained subject pixels")
-            image = original.crop(crop)
+            guard = presentation.get("alpha_guard_xyxy")
+            retained = original.getchannel("A").point(lambda v: 255 if v >= 2 else 0).getbbox()
+            for box in (crop, guard):
+                if box is None or (box is crop and tuple(crop) == tuple(LIVE) and guard is None):
+                    continue
+                if not retained or not (box[0] <= retained[0] and box[1] <= retained[1]
+                                        and box[2] >= retained[2] and box[3] >= retained[3]):
+                    fail("Icon framing clips retained subject pixels")
+            if guard is None:
+                image = original.crop(crop)
+            else:
+                clean = Image.new("RGBA", original.size)
+                clean.paste(original.crop(guard), guard[:2])
+                image = clean.crop(crop)
             sizes = [(100, 80), (400, 320)]
         else:
             image = original.convert("RGBA" if "A" in original.getbands() else "RGB")
@@ -189,7 +225,10 @@ def derivatives(source, kind, presentation=None):
         output = []
         for size in sizes:
             # Pillow's RGBA LANCZOS path resamples premultiplied alpha internally.
-            result = image.resize(size, Image.Resampling.LANCZOS)
+            if presentation.get("resampling") == "float-lanczos":
+                result = resize_float_lanczos(image, size)
+            else:
+                result = image.resize(size, Image.Resampling.LANCZOS)
             if presentation.get("mirror_x"):
                 result = ImageOps.mirror(result)
             output.append((png_bytes(result), list(size)))
