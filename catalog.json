@@ -18,7 +18,8 @@
     "2026-11-23.5",
     "2026-11-23.6",
     "2026-11-23.7",
-    "2026-11-24.1"
+    "2026-11-24.1",
+    "2026-11-24.2"
   ],
   "items": [
     {
@@ -6684,6 +6685,39 @@
       }
     },
     {
+      "id": "AMM_SIMPLE_ARROW_INFECTION",
+      "name": "simple arrow (infection)",
+      "display_name": "Simple Arrow (Infection)",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Bow",
+      "group_slug": "bow",
+      "group_order": 37,
+      "item_order": 3,
+      "version": "v001",
+      "presentation": {
+        "crop_xyxy_exclusive": [
+          12,
+          112,
+          1012,
+          912
+        ]
+      },
+      "publication_version": "2026-11-24.2",
+      "thumbnail": {
+        "path": "art/icons/ammunition/bow/amm_simple_arrow_infection-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "a9e3490a9e51da2b7672a388ba90f9c2c393f0bd3b528a96eb1b912a18c878ac"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/bow/amm_simple_arrow_infection-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "e503fca51b24c668c13bb74a6e540f5715ab4f3dd9011d0971f6a1f66b494b75"
+      }
+    },
+    {
       "id": "AMM_FEATHERED_ARROW",
       "name": "feathered arrow",
       "display_name": "Feathered Arrow",
@@ -6692,9 +6726,9 @@
       "group": "Ammunition - Bow",
       "group_slug": "bow",
       "group_order": 37,
-      "item_order": 3,
+      "item_order": 4,
       "version": "v006",
-      "publication_version": "2026-11-23.2",
+      "publication_version": "2026-11-24.2",
       "thumbnail": {
         "path": "art/icons/ammunition/bow/amm_feathered_arrow-thumbnail.png",
         "width": 100,
@@ -6717,9 +6751,9 @@
       "group": "Ammunition - Bow",
       "group_slug": "bow",
       "group_order": 37,
-      "item_order": 4,
+      "item_order": 5,
       "version": "v005",
-      "publication_version": "2026-11-23.2",
+      "publication_version": "2026-11-24.2",
       "thumbnail": {
         "path": "art/icons/ammunition/bow/amm_feathered_arrow_fire-thumbnail.png",
         "width": 100,
@@ -6742,7 +6776,7 @@
       "group": "Ammunition - Bow",
       "group_slug": "bow",
       "group_order": 37,
-      "item_order": 5,
+      "item_order": 6,
       "version": "v006",
       "presentation": {
         "crop_xyxy_exclusive": [
@@ -6752,7 +6786,7 @@
           912
         ]
       },
-      "publication_version": "2026-11-24.1",
+      "publication_version": "2026-11-24.2",
       "thumbnail": {
         "path": "art/icons/ammunition/bow/amm_feathered_arrow_poison-thumbnail.png",
         "width": 100,
@@ -6767,6 +6801,39 @@
       }
     },
     {
+      "id": "AMM_FEATHERED_ARROW_INFECTION",
+      "name": "feathered arrow (infection)",
+      "display_name": "Feathered Arrow (Infection)",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Bow",
+      "group_slug": "bow",
+      "group_order": 37,
+      "item_order": 7,
+      "version": "v001",
+      "presentation": {
+        "crop_xyxy_exclusive": [
+          12,
+          112,
+          1012,
+          912
+        ]
+      },
+      "publication_version": "2026-11-24.2",
+      "thumbnail": {
+        "path": "art/icons/ammunition/bow/amm_feathered_arrow_infection-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "1517ecaf6b4c29fd33f733152f5fd4c1ba6263ffbbdffadf8f0182322d2b5a9c"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/bow/amm_feathered_arrow_infection-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "5d5781a18aa18869425139d9fa06afbd9b1c8d565f407b36685f24dc0e4ab59f"
+      }
+    },
+    {
       "id": "AMM_METAL_ARROW",
       "name": "metal arrow",
       "display_name": "Metal Arrow",
@@ -6775,9 +6842,9 @@
       "group": "Ammunition - Bow",
       "group_slug": "bow",
       "group_order": 37,
-      "item_order": 6,
+      "item_order": 8,
       "version": "v004",
-      "publication_version": "2026-11-23.2",
+      "publication_version": "2026-11-24.2",
       "thumbnail": {
         "path": "art/icons/ammunition/bow/amm_metal_arrow-thumbnail.png",
         "width": 100,
@@ -6800,9 +6867,9 @@
       "group": "Ammunition - Bow",
       "group_slug": "bow",
       "group_order": 37,
-      "item_order": 7,
+      "item_order": 9,
       "version": "v006",
-      "publication_version": "2026-11-23.2",
+      "publication_version": "2026-11-24.2",
       "thumbnail": {
         "path": "art/icons/ammunition/bow/amm_metal_arrow_fire-thumbnail.png",
         "width": 100,
@@ -6825,7 +6892,7 @@
       "group": "Ammunition - Bow",
       "group_slug": "bow",
       "group_order": 37,
-      "item_order": 8,
+      "item_order": 10,
       "version": "v005",
       "presentation": {
         "crop_xyxy_exclusive": [
@@ -6835,7 +6902,7 @@
           912
         ]
       },
-      "publication_version": "2026-11-24.1",
+      "publication_version": "2026-11-24.2",
       "thumbnail": {
         "path": "art/icons/ammunition/bow/amm_metal_arrow_poison-thumbnail.png",
         "width": 100,
@@ -6850,6 +6917,39 @@
       }
     },
     {
+      "id": "AMM_METAL_ARROW_INFECTION",
+      "name": "metal arrow (infection)",
+      "display_name": "Metal Arrow (Infection)",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Bow",
+      "group_slug": "bow",
+      "group_order": 37,
+      "item_order": 11,
+      "version": "v001",
+      "presentation": {
+        "crop_xyxy_exclusive": [
+          12,
+          112,
+          1012,
+          912
+        ]
+      },
+      "publication_version": "2026-11-24.2",
+      "thumbnail": {
+        "path": "art/icons/ammunition/bow/amm_metal_arrow_infection-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "98fac1da2c267034d49146d909a9d995f2c003d31a8ba9039c54e36a427266f7"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/bow/amm_metal_arrow_infection-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "7a5fb3ef67a9ab2cfbd61ebd40f3be3b48775b1e7d61a019d6cac18992033977"
+      }
+    },
+    {
       "id": "AMM_ALLOY_ARROW",
       "name": "alloy arrow",
       "display_name": "Alloy Arrow",
@@ -6858,9 +6958,9 @@
       "group": "Ammunition - Bow",
       "group_slug": "bow",
       "group_order": 37,
-      "item_order": 9,
+      "item_order": 12,
       "version": "v004",
-      "publication_version": "2026-11-23.2",
+      "publication_version": "2026-11-24.2",
       "thumbnail": {
         "path": "art/icons/ammunition/bow/amm_alloy_arrow-thumbnail.png",
         "width": 100,
@@ -6883,9 +6983,9 @@
       "group": "Ammunition - Bow",
       "group_slug": "bow",
       "group_order": 37,
-      "item_order": 10,
+      "item_order": 13,
       "version": "v004",
-      "publication_version": "2026-11-23.2",
+      "publication_version": "2026-11-24.2",
       "thumbnail": {
         "path": "art/icons/ammunition/bow/amm_alloy_arrow_fire-thumbnail.png",
         "width": 100,
@@ -6908,7 +7008,7 @@
       "group": "Ammunition - Bow",
       "group_slug": "bow",
       "group_order": 37,
-      "item_order": 11,
+      "item_order": 14,
       "version": "v004",
       "presentation": {
         "crop_xyxy_exclusive": [
@@ -6918,7 +7018,7 @@
           912
         ]
       },
-      "publication_version": "2026-11-24.1",
+      "publication_version": "2026-11-24.2",
       "thumbnail": {
         "path": "art/icons/ammunition/bow/amm_alloy_arrow_poison-thumbnail.png",
         "width": 100,
@@ -6930,6 +7030,39 @@
         "width": 400,
         "height": 320,
         "sha256": "55ac182147564acf2f9984855904ee19a1cb6876a236906e906280b5216b0a5a"
+      }
+    },
+    {
+      "id": "AMM_ALLOY_ARROW_INFECTION",
+      "name": "alloy arrow (infection)",
+      "display_name": "Alloy Arrow (Infection)",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Bow",
+      "group_slug": "bow",
+      "group_order": 37,
+      "item_order": 15,
+      "version": "v001",
+      "presentation": {
+        "crop_xyxy_exclusive": [
+          12,
+          112,
+          1012,
+          912
+        ]
+      },
+      "publication_version": "2026-11-24.2",
+      "thumbnail": {
+        "path": "art/icons/ammunition/bow/amm_alloy_arrow_infection-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "c00e991bc647549b9b1722246b16fdd10beb185c77d6692002902f547ef5cade"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/bow/amm_alloy_arrow_infection-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "bf22159c7073aafc9ff9f61257ef7060b6e5e83711245a16695f5040383a0df5"
       }
     },
     {
@@ -7023,6 +7156,40 @@
       }
     },
     {
+      "id": "AMM_SIMPLE_BOLTS_INFECTION",
+      "name": "simple bolts (infection)",
+      "display_name": "Simple Bolts (Infection)",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Crossbow",
+      "group_slug": "crossbow",
+      "group_order": 38,
+      "item_order": 15,
+      "version": "v001",
+      "presentation": {
+        "crop_xyxy_exclusive": [
+          12,
+          112,
+          1012,
+          912
+        ],
+        "mirror_x": true
+      },
+      "publication_version": "2026-11-24.2",
+      "thumbnail": {
+        "path": "art/icons/ammunition/crossbow/amm_simple_bolts_infection-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "730acf359236d3aaacc3b17ef2022944b6c0c48eb479461423f74fc5c691d27d"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/crossbow/amm_simple_bolts_infection-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "91236ffde75e965e046f2e54c07f0c16d4ad352006f5231890ddd2da97aeead6"
+      }
+    },
+    {
       "id": "AMM_METAL_BOLTS",
       "name": "metal bolts",
       "display_name": "Metal Bolts",
@@ -7031,12 +7198,12 @@
       "group": "Ammunition - Crossbow",
       "group_slug": "crossbow",
       "group_order": 38,
-      "item_order": 15,
+      "item_order": 16,
       "version": "v005",
       "presentation": {
         "mirror_x": true
       },
-      "publication_version": "2026-11-23.6",
+      "publication_version": "2026-11-24.2",
       "thumbnail": {
         "path": "art/icons/ammunition/crossbow/amm_metal_bolts-thumbnail.png",
         "width": 100,
@@ -7059,12 +7226,12 @@
       "group": "Ammunition - Crossbow",
       "group_slug": "crossbow",
       "group_order": 38,
-      "item_order": 16,
+      "item_order": 17,
       "version": "v006",
       "presentation": {
         "mirror_x": true
       },
-      "publication_version": "2026-11-23.6",
+      "publication_version": "2026-11-24.2",
       "thumbnail": {
         "path": "art/icons/ammunition/crossbow/amm_metal_bolts_fire-thumbnail.png",
         "width": 100,
@@ -7087,7 +7254,7 @@
       "group": "Ammunition - Crossbow",
       "group_slug": "crossbow",
       "group_order": 38,
-      "item_order": 17,
+      "item_order": 18,
       "version": "v007",
       "presentation": {
         "crop_xyxy_exclusive": [
@@ -7098,7 +7265,7 @@
         ],
         "mirror_x": true
       },
-      "publication_version": "2026-11-24.1",
+      "publication_version": "2026-11-24.2",
       "thumbnail": {
         "path": "art/icons/ammunition/crossbow/amm_metal_bolts_poison-thumbnail.png",
         "width": 100,
@@ -7113,6 +7280,40 @@
       }
     },
     {
+      "id": "AMM_METAL_BOLTS_INFECTION",
+      "name": "metal bolts (infection)",
+      "display_name": "Metal Bolts (Infection)",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Crossbow",
+      "group_slug": "crossbow",
+      "group_order": 38,
+      "item_order": 19,
+      "version": "v001",
+      "presentation": {
+        "crop_xyxy_exclusive": [
+          12,
+          112,
+          1012,
+          912
+        ],
+        "mirror_x": true
+      },
+      "publication_version": "2026-11-24.2",
+      "thumbnail": {
+        "path": "art/icons/ammunition/crossbow/amm_metal_bolts_infection-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "b15d9e6c771f62c3c9d828a8ed0d24b42bda0df7e710fdfbc30a89c57c174a77"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/crossbow/amm_metal_bolts_infection-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "cfc9882ece39b6b667bbc460f004020512cd8148a045ea0c4904316a2e661ae4"
+      }
+    },
+    {
       "id": "AMM_ALLOY_BOLTS",
       "name": "alloy bolts",
       "display_name": "Alloy Bolts",
@@ -7121,12 +7322,12 @@
       "group": "Ammunition - Crossbow",
       "group_slug": "crossbow",
       "group_order": 38,
-      "item_order": 18,
+      "item_order": 20,
       "version": "v007",
       "presentation": {
         "mirror_x": true
       },
-      "publication_version": "2026-11-23.6",
+      "publication_version": "2026-11-24.2",
       "thumbnail": {
         "path": "art/icons/ammunition/crossbow/amm_alloy_bolts-thumbnail.png",
         "width": 100,
@@ -7149,12 +7350,12 @@
       "group": "Ammunition - Crossbow",
       "group_slug": "crossbow",
       "group_order": 38,
-      "item_order": 19,
+      "item_order": 21,
       "version": "v006",
       "presentation": {
         "mirror_x": true
       },
-      "publication_version": "2026-11-23.6",
+      "publication_version": "2026-11-24.2",
       "thumbnail": {
         "path": "art/icons/ammunition/crossbow/amm_alloy_bolts_fire-thumbnail.png",
         "width": 100,
@@ -7177,7 +7378,7 @@
       "group": "Ammunition - Crossbow",
       "group_slug": "crossbow",
       "group_order": 38,
-      "item_order": 20,
+      "item_order": 22,
       "version": "v008",
       "presentation": {
         "crop_xyxy_exclusive": [
@@ -7188,7 +7389,7 @@
         ],
         "mirror_x": true
       },
-      "publication_version": "2026-11-24.1",
+      "publication_version": "2026-11-24.2",
       "thumbnail": {
         "path": "art/icons/ammunition/crossbow/amm_alloy_bolts_poison-thumbnail.png",
         "width": 100,
@@ -7200,6 +7401,40 @@
         "width": 400,
         "height": 320,
         "sha256": "fdfd7df44219492d3c11d64e00ae002580480da5531091686ef148e4611d2024"
+      }
+    },
+    {
+      "id": "AMM_ALLOY_BOLTS_INFECTION",
+      "name": "alloy bolts (infection)",
+      "display_name": "Alloy Bolts (Infection)",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Crossbow",
+      "group_slug": "crossbow",
+      "group_order": 38,
+      "item_order": 23,
+      "version": "v001",
+      "presentation": {
+        "crop_xyxy_exclusive": [
+          12,
+          112,
+          1012,
+          912
+        ],
+        "mirror_x": true
+      },
+      "publication_version": "2026-11-24.2",
+      "thumbnail": {
+        "path": "art/icons/ammunition/crossbow/amm_alloy_bolts_infection-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "20f48e8a01deca1dd7f4206345708083c09565349e5d3b052ffc201de30d05df"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/crossbow/amm_alloy_bolts_infection-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "a875afcadaafee6ccf552fc66fc6af4ad61bd945eb1a7f4785f52c07931ea7d5"
       }
     },
     {
@@ -7286,6 +7521,39 @@
       }
     },
     {
+      "id": "AMM_CRUDE_BALLISTA_BOLTS_INFECTION",
+      "name": "crude ballista bolts (infection)",
+      "display_name": "Crude Ballista Bolts (Infection)",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Ballista",
+      "group_slug": "ballista",
+      "group_order": 39,
+      "item_order": 24,
+      "version": "v001",
+      "presentation": {
+        "crop_xyxy_exclusive": [
+          12,
+          112,
+          1012,
+          912
+        ]
+      },
+      "publication_version": "2026-11-24.2",
+      "thumbnail": {
+        "path": "art/icons/ammunition/ballista/amm_crude_ballista_bolts_infection-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "17652ac18a7032547a108eb13f5e784010b63e672c775ab1c55b0abe20f6847d"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/ballista/amm_crude_ballista_bolts_infection-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "14cc7ec9218ed32941d52cce4b8692098d68f437cb013ec34ce70de90f101ab5"
+      }
+    },
+    {
       "id": "AMM_CRUDE_BALLISTA_BOLTS_HARPOON",
       "name": "crude ballista bolts (harpoon)",
       "display_name": "Crude Ballista Bolts (Harpoon)",
@@ -7294,9 +7562,9 @@
       "group": "Ammunition - Ballista",
       "group_slug": "ballista",
       "group_order": 39,
-      "item_order": 24,
+      "item_order": 25,
       "version": "v002",
-      "publication_version": "2026-11-23.2",
+      "publication_version": "2026-11-24.2",
       "thumbnail": {
         "path": "art/icons/ammunition/ballista/amm_crude_ballista_bolts_harpoon-thumbnail.png",
         "width": 100,
@@ -7319,9 +7587,9 @@
       "group": "Ammunition - Ballista",
       "group_slug": "ballista",
       "group_order": 39,
-      "item_order": 25,
+      "item_order": 26,
       "version": "v002",
-      "publication_version": "2026-11-23.2",
+      "publication_version": "2026-11-24.2",
       "thumbnail": {
         "path": "art/icons/ammunition/ballista/amm_metal_ballista_bolts-thumbnail.png",
         "width": 100,
@@ -7344,9 +7612,9 @@
       "group": "Ammunition - Ballista",
       "group_slug": "ballista",
       "group_order": 39,
-      "item_order": 26,
+      "item_order": 27,
       "version": "v002",
-      "publication_version": "2026-11-23.2",
+      "publication_version": "2026-11-24.2",
       "thumbnail": {
         "path": "art/icons/ammunition/ballista/amm_metal_ballista_bolts_fire-thumbnail.png",
         "width": 100,
@@ -7369,9 +7637,9 @@
       "group": "Ammunition - Ballista",
       "group_slug": "ballista",
       "group_order": 39,
-      "item_order": 27,
+      "item_order": 28,
       "version": "v002",
-      "publication_version": "2026-11-23.2",
+      "publication_version": "2026-11-24.2",
       "thumbnail": {
         "path": "art/icons/ammunition/ballista/amm_metal_ballista_bolts_poison-thumbnail.png",
         "width": 100,
@@ -7386,6 +7654,39 @@
       }
     },
     {
+      "id": "AMM_METAL_BALLISTA_BOLTS_INFECTION",
+      "name": "metal ballista bolts (infection)",
+      "display_name": "Metal Ballista Bolts (Infection)",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Ballista",
+      "group_slug": "ballista",
+      "group_order": 39,
+      "item_order": 29,
+      "version": "v001",
+      "presentation": {
+        "crop_xyxy_exclusive": [
+          12,
+          112,
+          1012,
+          912
+        ]
+      },
+      "publication_version": "2026-11-24.2",
+      "thumbnail": {
+        "path": "art/icons/ammunition/ballista/amm_metal_ballista_bolts_infection-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "a2608f951d181ca7e970a8d7badf440fe7b01f5138bd439943dba58b54a0b46b"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/ballista/amm_metal_ballista_bolts_infection-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "3cb775a9b8a7b6f77946a063fa26ce6593756c0825479b1b725703f3a70e02bd"
+      }
+    },
+    {
       "id": "AMM_METAL_BALLISTA_BOLTS_HARPOON",
       "name": "metal ballista bolts (harpoon)",
       "display_name": "Metal Ballista Bolts (Harpoon)",
@@ -7394,9 +7695,9 @@
       "group": "Ammunition - Ballista",
       "group_slug": "ballista",
       "group_order": 39,
-      "item_order": 28,
+      "item_order": 30,
       "version": "v002",
-      "publication_version": "2026-11-23.2",
+      "publication_version": "2026-11-24.2",
       "thumbnail": {
         "path": "art/icons/ammunition/ballista/amm_metal_ballista_bolts_harpoon-thumbnail.png",
         "width": 100,
@@ -7419,9 +7720,9 @@
       "group": "Ammunition - Ballista",
       "group_slug": "ballista",
       "group_order": 39,
-      "item_order": 29,
+      "item_order": 31,
       "version": "v002",
-      "publication_version": "2026-11-23.2",
+      "publication_version": "2026-11-24.2",
       "thumbnail": {
         "path": "art/icons/ammunition/ballista/amm_alloy_ballista_bolts-thumbnail.png",
         "width": 100,
@@ -7444,9 +7745,9 @@
       "group": "Ammunition - Ballista",
       "group_slug": "ballista",
       "group_order": 39,
-      "item_order": 30,
+      "item_order": 32,
       "version": "v002",
-      "publication_version": "2026-11-23.2",
+      "publication_version": "2026-11-24.2",
       "thumbnail": {
         "path": "art/icons/ammunition/ballista/amm_alloy_ballista_bolts_fire-thumbnail.png",
         "width": 100,
@@ -7469,7 +7770,7 @@
       "group": "Ammunition - Ballista",
       "group_slug": "ballista",
       "group_order": 39,
-      "item_order": 31,
+      "item_order": 33,
       "version": "v003",
       "presentation": {
         "crop_xyxy_exclusive": [
@@ -7479,7 +7780,7 @@
           912
         ]
       },
-      "publication_version": "2026-11-24.1",
+      "publication_version": "2026-11-24.2",
       "thumbnail": {
         "path": "art/icons/ammunition/ballista/amm_alloy_ballista_bolts_poison-thumbnail.png",
         "width": 100,
@@ -7494,6 +7795,39 @@
       }
     },
     {
+      "id": "AMM_ALLOY_BALLISTA_BOLTS_INFECTION",
+      "name": "alloy ballista bolts (infection)",
+      "display_name": "Alloy Ballista Bolts (Infection)",
+      "kind": "icon",
+      "category": "ammunition",
+      "group": "Ammunition - Ballista",
+      "group_slug": "ballista",
+      "group_order": 39,
+      "item_order": 34,
+      "version": "v001",
+      "presentation": {
+        "crop_xyxy_exclusive": [
+          12,
+          112,
+          1012,
+          912
+        ]
+      },
+      "publication_version": "2026-11-24.2",
+      "thumbnail": {
+        "path": "art/icons/ammunition/ballista/amm_alloy_ballista_bolts_infection-thumbnail.png",
+        "width": 100,
+        "height": 80,
+        "sha256": "a66f7505cba1eba75efd7b89b35139074977f3cdd9930c4978e1002fe3a7bba4"
+      },
+      "preview": {
+        "path": "art/icons/ammunition/ballista/amm_alloy_ballista_bolts_infection-preview.png",
+        "width": 400,
+        "height": 320,
+        "sha256": "bc6a2277e777e5fc10456f48dc32e33352ca48707d12b596ce95566a49e44810"
+      }
+    },
+    {
       "id": "AMM_ALLOY_BALLISTA_BOLTS_HARPOON",
       "name": "alloy ballista bolts (harpoon)",
       "display_name": "Alloy Ballista Bolts (Harpoon)",
@@ -7502,9 +7836,9 @@
       "group": "Ammunition - Ballista",
       "group_slug": "ballista",
       "group_order": 39,
-      "item_order": 32,
+      "item_order": 35,
       "version": "v002",
-      "publication_version": "2026-11-23.2",
+      "publication_version": "2026-11-24.2",
       "thumbnail": {
         "path": "art/icons/ammunition/ballista/amm_alloy_ballista_bolts_harpoon-thumbnail.png",
         "width": 100,
@@ -7981,5 +8315,5 @@
       "retired_in": "2026-10-16.3"
     }
   ],
-  "latest_release": "2026-11-24.1"
+  "latest_release": "2026-11-24.2"
 }
