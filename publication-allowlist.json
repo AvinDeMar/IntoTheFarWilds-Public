@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "release": "2026-11-23.7",
+  "release": "2026-11-24.1",
   "self": "publication-allowlist.json",
   "files": [
     {
@@ -65,11 +65,11 @@
     },
     {
       "path": "art/icons/ammunition/ballista/amm_alloy_ballista_bolts_poison-preview.png",
-      "sha256": "50516db3793cca08c7f5a321be25c149fb77fe5a9ea55d8b221fd681dd77fafc"
+      "sha256": "807691c5f3f78b1a52111133a5fadff98aff975d9d96f7f3ead52e60927ebdd2"
     },
     {
       "path": "art/icons/ammunition/ballista/amm_alloy_ballista_bolts_poison-thumbnail.png",
-      "sha256": "209c9cabe0b11c1ad3c8972501a1be8db7cb891cbda8375d06032598a96bd408"
+      "sha256": "5166d8e164d5b5d2d4475273bcbd9ae084a63aa1b26abda2aaea53dafb1ec9ec"
     },
     {
       "path": "art/icons/ammunition/ballista/amm_crude_ballista_bolts-preview.png",
@@ -97,11 +97,11 @@
     },
     {
       "path": "art/icons/ammunition/ballista/amm_crude_ballista_bolts_poison-preview.png",
-      "sha256": "5302d50d9bd58d4699592cac8f6c85efa6fb031c7c5df8c11e9004d4fa6932fe"
+      "sha256": "b6b76f8000c2f69543d1df122e1b94a1c9b02c5b67492dde2188340adcf70433"
     },
     {
       "path": "art/icons/ammunition/ballista/amm_crude_ballista_bolts_poison-thumbnail.png",
-      "sha256": "9477c3960bb210282123f62c38716ff4fd71e72e55f74b96113a0639eaf99a36"
+      "sha256": "4508824266b7c84968861c383642373313e28e162a53fb02a6de144f68b09856"
     },
     {
       "path": "art/icons/ammunition/ballista/amm_metal_ballista_bolts-preview.png",
@@ -153,11 +153,11 @@
     },
     {
       "path": "art/icons/ammunition/bow/amm_alloy_arrow_poison-preview.png",
-      "sha256": "35893a3c91b81b17f5c1bb0c1ecf9929c33d89b20c586ce0646208dc8c251ee4"
+      "sha256": "55ac182147564acf2f9984855904ee19a1cb6876a236906e906280b5216b0a5a"
     },
     {
       "path": "art/icons/ammunition/bow/amm_alloy_arrow_poison-thumbnail.png",
-      "sha256": "6b369f24f5fde2abf5b9c93ffe659a65dfdf5b8e1918ceb6a3064caa7afcf30c"
+      "sha256": "f8f4aee87f19e9b76560d477999528ed3c14f94db16d0f71a94d27e498bef0c2"
     },
     {
       "path": "art/icons/ammunition/bow/amm_feathered_arrow-preview.png",
@@ -177,11 +177,11 @@
     },
     {
       "path": "art/icons/ammunition/bow/amm_feathered_arrow_poison-preview.png",
-      "sha256": "0b2100f26a43778638713fae935a29672d03046b3b95056318e37125973eeff5"
+      "sha256": "db853ec1a8aaf812dfa4d4b972e20e822c46d4e012861bb133115666a07ea982"
     },
     {
       "path": "art/icons/ammunition/bow/amm_feathered_arrow_poison-thumbnail.png",
-      "sha256": "ed0f21502e2efad08cab18e2600a090b7476932e463e818a1e170965f4535e90"
+      "sha256": "b0d70bfc5655b2589740cc4dd52347cd43d6c254ad96586d58d7494caf26e89e"
     },
     {
       "path": "art/icons/ammunition/bow/amm_metal_arrow-preview.png",
@@ -201,11 +201,11 @@
     },
     {
       "path": "art/icons/ammunition/bow/amm_metal_arrow_poison-preview.png",
-      "sha256": "3771cac5699972c0d285df84135610370c0e3fdf92c3fd7abb3988fa92aded0c"
+      "sha256": "d75d27e9361845b5cc2591f44e86bc18d753c9aea43443b887316a3e97672b69"
     },
     {
       "path": "art/icons/ammunition/bow/amm_metal_arrow_poison-thumbnail.png",
-      "sha256": "57c02797bb631cc4de72dfaca1b0f3127b19db29b9fa5a4647fb7a8bd8f98e2b"
+      "sha256": "420b96cc69abe531b51f410d6c320ca6c201aff252bd51e5405cf7dd94382341"
     },
     {
       "path": "art/icons/ammunition/bow/amm_simple_arrow-preview.png",
@@ -225,11 +225,11 @@
     },
     {
       "path": "art/icons/ammunition/bow/amm_simple_arrow_poison-preview.png",
-      "sha256": "44fe3f7822fb3bfa2453419594ca87d954eee6f18c2ca1cb4580317841389833"
+      "sha256": "169aa649383d70e36e884251f8f11e2fdcdd859a83a64d25412c54e8535cd47b"
     },
     {
       "path": "art/icons/ammunition/bow/amm_simple_arrow_poison-thumbnail.png",
-      "sha256": "e2f63abf3d7d1713d109ea87136ba5f58e7e5fd3a84d89bd10a55d9abc29b43d"
+      "sha256": "0e3230e865bd59d95b7e13c6b590b95ac00b360c8f650f104ad28881f15efb86"
     },
     {
       "path": "art/icons/ammunition/crossbow/amm_alloy_bolts-preview.png",
@@ -249,11 +249,11 @@
     },
     {
       "path": "art/icons/ammunition/crossbow/amm_alloy_bolts_poison-preview.png",
-      "sha256": "44fb3c51b4bab9105a3a75b3d64bc29bf78d77e738c6e309488617e43a686e4f"
+      "sha256": "fdfd7df44219492d3c11d64e00ae002580480da5531091686ef148e4611d2024"
     },
     {
       "path": "art/icons/ammunition/crossbow/amm_alloy_bolts_poison-thumbnail.png",
-      "sha256": "471c617396e50d99e554fb88f09576cc5d03f7237c7264c4218a7f32a6c91340"
+      "sha256": "e4d559842d91c0d999b35ca04e9ee26f1445c7361fc98d5a5f959d7685dd6ebf"
     },
     {
       "path": "art/icons/ammunition/crossbow/amm_metal_bolts-preview.png",
@@ -273,11 +273,11 @@
     },
     {
       "path": "art/icons/ammunition/crossbow/amm_metal_bolts_poison-preview.png",
-      "sha256": "96fef4ac146561b9ad6af179a9af8284162efd5ac2ec231694df688529ef8890"
+      "sha256": "ad0338008586f5773337b79fc3aeaa26568bb898586d30ca9a6568275d628548"
     },
     {
       "path": "art/icons/ammunition/crossbow/amm_metal_bolts_poison-thumbnail.png",
-      "sha256": "c727aba02ed89baf2556dfadd619c88a2a5b63b7a52166f9b5d1bc03a1130a1f"
+      "sha256": "7d44e924f18d0d00630d059057c8258c669387e59625f3973d70da304c30060f"
     },
     {
       "path": "art/icons/ammunition/crossbow/amm_simple_bolts-preview.png",
@@ -297,11 +297,11 @@
     },
     {
       "path": "art/icons/ammunition/crossbow/amm_simple_bolts_poison-preview.png",
-      "sha256": "a1844684f532e62b2ff5b696971310c1ea315dc2375a419f5168858a4907c33a"
+      "sha256": "38c21eff89d53b1d37e408a4d120f9d5d4d25fa413bb435f3d426b60f40d95a4"
     },
     {
       "path": "art/icons/ammunition/crossbow/amm_simple_bolts_poison-thumbnail.png",
-      "sha256": "668b0e0c6e60d4e5793d839bc131494ba37fc93733c5c5979773441f218c5db8"
+      "sha256": "cc1d4692cf47bda00403c29f02cb076b0df2706269ebf324a6b47391deb285dd"
     },
     {
       "path": "art/icons/ammunition/gatling/amm_paper_cartridge-preview.png",
@@ -2465,11 +2465,11 @@
     },
     {
       "path": "catalog.json",
-      "sha256": "4d0643f3491eca50461acc227209ec97cd723777dcc08083db1eac2f7c769aeb"
+      "sha256": "20781b17cb01479b1ea795f19baf81db3fee723939631668696fb497bae2c01c"
     },
     {
       "path": "docs/ARTWORK_CATALOG.md",
-      "sha256": "67897717a021fedf0971e6e45a96b701eb152d65d4ce8432c0692065d77a9e8a"
+      "sha256": "04b99d7259021192b91041198cf3f21e00fbbddd229cb70b9108b4104d300b5a"
     },
     {
       "path": "docs/PUBLISHING.md",
@@ -2477,7 +2477,7 @@
     },
     {
       "path": "docs/RELEASES.md",
-      "sha256": "c6f37f60ccf2b7aa41ceaa8377af9f27c8b69d386173d8b7e4577406d4818f5b"
+      "sha256": "647a2284027064ed784b02947d47d8707f738092bc42bcfee1d1f37d05256b71"
     },
     {
       "path": "releases/2026-10-16.1.json",
@@ -2538,6 +2538,10 @@
     {
       "path": "releases/2026-11-23.7.json",
       "sha256": "106fd0daa28323299e994b772d447be2cf9bbb5aa3886c0b12603679ad3b0c33"
+    },
+    {
+      "path": "releases/2026-11-24.1.json",
+      "sha256": "60ad23c6906cdee818ee7aa0a79069622ac7534350288ae16fcf4e058ef8993e"
     },
     {
       "path": "requirements.txt",

@@ -1,0 +1,18 @@
+{
+  "release": "2026-11-24.1",
+  "date": "2026-11-24",
+  "operation": "add-or-update",
+  "changed_ids": [
+    "AMM_SIMPLE_ARROW_POISON",
+    "AMM_FEATHERED_ARROW_POISON",
+    "AMM_METAL_ARROW_POISON",
+    "AMM_ALLOY_ARROW_POISON",
+    "AMM_SIMPLE_BOLTS_POISON",
+    "AMM_METAL_BOLTS_POISON",
+    "AMM_ALLOY_BOLTS_POISON",
+    "AMM_CRUDE_BALLISTA_BOLTS_POISON",
+    "AMM_ALLOY_BALLISTA_BOLTS_POISON"
+  ],
+  "published_items": 304,
+  "selection": "Explicitly owner-authorized approved artwork; no automatic source synchronization"
+}
