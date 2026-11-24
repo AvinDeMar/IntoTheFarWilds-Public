@@ -323,17 +323,17 @@ By Crow Brain Games. Select an image to open its larger public preview.
 
 | Fresh Firewood | Dry Firewood | Timber | White Oak Timber | Red Cedar Timber | Pitch Pine Timber | Bald Cypress Timber |
 |---|---|---|---|---|---|---|
-| [![Fresh Firewood](../art/icons/resources/31-crafted-utility/res_fresh_firewood-thumbnail.png?v=97da017e6096)](../art/icons/resources/31-crafted-utility/res_fresh_firewood-preview.png?v=f9fe1f513a8f) | [![Dry Firewood](../art/icons/resources/31-crafted-utility/res_dry_firewood-thumbnail.png?v=d16bc3f0a737)](../art/icons/resources/31-crafted-utility/res_dry_firewood-preview.png?v=26f2174783fb) | [![Timber](../art/icons/resources/31-crafted-utility/res_timber-thumbnail.png?v=b9f512de95bb)](../art/icons/resources/31-crafted-utility/res_timber-preview.png?v=f9acceb006e3) | [![White Oak Timber](../art/icons/resources/31-chopper-products/res_white_oak_timber-thumbnail.png?v=96f78da137a8)](../art/icons/resources/31-chopper-products/res_white_oak_timber-preview.png?v=fa4d078cbbab) | [![Red Cedar Timber](../art/icons/resources/31-chopper-products/res_red_cedar_timber-thumbnail.png?v=bc1bd0922c37)](../art/icons/resources/31-chopper-products/res_red_cedar_timber-preview.png?v=888ff740f3d1) | [![Pitch Pine Timber](../art/icons/resources/31-chopper-products/res_pitch_pine_timber-thumbnail.png?v=a02b0cb71339)](../art/icons/resources/31-chopper-products/res_pitch_pine_timber-preview.png?v=2b23ca8dcfa7) | [![Bald Cypress Timber](../art/icons/resources/31-chopper-products/res_bald_cypress_timber-thumbnail.png?v=951bea144138)](../art/icons/resources/31-chopper-products/res_bald_cypress_timber-preview.png?v=226c4b6f382c) |
+| [![Fresh Firewood](../art/icons/resources/31-crafted-utility/res_fresh_firewood-thumbnail.png?v=97da017e6096)](../art/icons/resources/31-crafted-utility/res_fresh_firewood-preview.png?v=f9fe1f513a8f) | [![Dry Firewood](../art/icons/resources/31-crafted-utility/res_dry_firewood-thumbnail.png?v=d16bc3f0a737)](../art/icons/resources/31-crafted-utility/res_dry_firewood-preview.png?v=26f2174783fb) | [![Timber](../art/icons/resources/31-crafted-utility/res_timber-thumbnail.png?v=feee6a6f09b7)](../art/icons/resources/31-crafted-utility/res_timber-preview.png?v=0602428a6000) | [![White Oak Timber](../art/icons/resources/31-chopper-products/res_white_oak_timber-thumbnail.png?v=08100f920caf)](../art/icons/resources/31-chopper-products/res_white_oak_timber-preview.png?v=a140e44832d0) | [![Red Cedar Timber](../art/icons/resources/31-chopper-products/res_red_cedar_timber-thumbnail.png?v=2cfde8c64300)](../art/icons/resources/31-chopper-products/res_red_cedar_timber-preview.png?v=6942645da851) | [![Pitch Pine Timber](../art/icons/resources/31-chopper-products/res_pitch_pine_timber-thumbnail.png?v=d9444ea9fabc)](../art/icons/resources/31-chopper-products/res_pitch_pine_timber-preview.png?v=dc3a610fb3b6) | [![Bald Cypress Timber](../art/icons/resources/31-chopper-products/res_bald_cypress_timber-thumbnail.png?v=ef09d31698b6)](../art/icons/resources/31-chopper-products/res_bald_cypress_timber-preview.png?v=e5da9561e77b) |
 | v002 | v002 | v002 | v001 | v001 | v001 | v001 |
 
 | Teak Timber | Coconut Palm Timber | Lumber | White Oak Lumber | Red Cedar Lumber | Pitch Pine Lumber | Bald Cypress Lumber |
 |---|---|---|---|---|---|---|
-| [![Teak Timber](../art/icons/resources/31-chopper-products/res_teak_timber-thumbnail.png?v=de04f05037c7)](../art/icons/resources/31-chopper-products/res_teak_timber-preview.png?v=260778471427) | [![Coconut Palm Timber](../art/icons/resources/31-chopper-products/res_coconut_palm_timber-thumbnail.png?v=6381c5dcd411)](../art/icons/resources/31-chopper-products/res_coconut_palm_timber-preview.png?v=5531b03536e0) | [![Lumber](../art/icons/resources/31-crafted-utility/res_lumber_plank-thumbnail.png?v=e249e4daf12d)](../art/icons/resources/31-crafted-utility/res_lumber_plank-preview.png?v=aa71729bd1d2) | [![White Oak Lumber](../art/icons/resources/31-chopper-products/res_white_oak_lumber-thumbnail.png?v=5b9390e0c2c1)](../art/icons/resources/31-chopper-products/res_white_oak_lumber-preview.png?v=ae70c2a41c57) | [![Red Cedar Lumber](../art/icons/resources/31-chopper-products/res_red_cedar_lumber-thumbnail.png?v=f4c6bf4eee25)](../art/icons/resources/31-chopper-products/res_red_cedar_lumber-preview.png?v=a8b0a09d5e3c) | [![Pitch Pine Lumber](../art/icons/resources/31-chopper-products/res_pitch_pine_lumber-thumbnail.png?v=38f6a3c00e7e)](../art/icons/resources/31-chopper-products/res_pitch_pine_lumber-preview.png?v=8b16fecd2be8) | [![Bald Cypress Lumber](../art/icons/resources/31-chopper-products/res_bald_cypress_lumber-thumbnail.png?v=3f7bcf2f27ba)](../art/icons/resources/31-chopper-products/res_bald_cypress_lumber-preview.png?v=4f77431a4ca8) |
+| [![Teak Timber](../art/icons/resources/31-chopper-products/res_teak_timber-thumbnail.png?v=d0bbbb860eee)](../art/icons/resources/31-chopper-products/res_teak_timber-preview.png?v=ac86e5a590cd) | [![Coconut Palm Timber](../art/icons/resources/31-chopper-products/res_coconut_palm_timber-thumbnail.png?v=c7d8367664c4)](../art/icons/resources/31-chopper-products/res_coconut_palm_timber-preview.png?v=8d1cf198c4c0) | [![Lumber](../art/icons/resources/31-crafted-utility/res_lumber_plank-thumbnail.png?v=212bbe688590)](../art/icons/resources/31-crafted-utility/res_lumber_plank-preview.png?v=37f0ec3bb2ef) | [![White Oak Lumber](../art/icons/resources/31-chopper-products/res_white_oak_lumber-thumbnail.png?v=b1e661a2a9bd)](../art/icons/resources/31-chopper-products/res_white_oak_lumber-preview.png?v=a421b1ad6a5b) | [![Red Cedar Lumber](../art/icons/resources/31-chopper-products/res_red_cedar_lumber-thumbnail.png?v=b0c1d68eb0ca)](../art/icons/resources/31-chopper-products/res_red_cedar_lumber-preview.png?v=89387b195929) | [![Pitch Pine Lumber](../art/icons/resources/31-chopper-products/res_pitch_pine_lumber-thumbnail.png?v=dbc7d69bfd17)](../art/icons/resources/31-chopper-products/res_pitch_pine_lumber-preview.png?v=8ab9329ad909) | [![Bald Cypress Lumber](../art/icons/resources/31-chopper-products/res_bald_cypress_lumber-thumbnail.png?v=15a250e1da15)](../art/icons/resources/31-chopper-products/res_bald_cypress_lumber-preview.png?v=c3d069b50446) |
 | v001 | v001 | v001 | v001 | v001 | v001 | v001 |
 
 | Teak Lumber | Coconut Palm Lumber |
 |---|---|
-| [![Teak Lumber](../art/icons/resources/31-chopper-products/res_teak_lumber-thumbnail.png?v=f0896e04c31b)](../art/icons/resources/31-chopper-products/res_teak_lumber-preview.png?v=e1e84ca83f44) | [![Coconut Palm Lumber](../art/icons/resources/31-chopper-products/res_coconut_palm_lumber-thumbnail.png?v=98d76733c7ba)](../art/icons/resources/31-chopper-products/res_coconut_palm_lumber-preview.png?v=72e3bc1f9b23) |
+| [![Teak Lumber](../art/icons/resources/31-chopper-products/res_teak_lumber-thumbnail.png?v=cbb492568743)](../art/icons/resources/31-chopper-products/res_teak_lumber-preview.png?v=b59227ae588e) | [![Coconut Palm Lumber](../art/icons/resources/31-chopper-products/res_coconut_palm_lumber-thumbnail.png?v=efa9e0cdbce3)](../art/icons/resources/31-chopper-products/res_coconut_palm_lumber-preview.png?v=0d507d179c91) |
 | v001 | v001 |
 
 [Back to collections](#collections)
@@ -448,8 +448,8 @@ By Crow Brain Games. Select an image to open its larger public preview.
 
 | Improvised Shot | Ball Shot |
 |---|---|
-| [![Improvised Shot](../art/icons/ammunition/any/amm_improvised_shot-thumbnail.png?v=20593b02db3a)](../art/icons/ammunition/any/amm_improvised_shot-preview.png?v=0beb12cb7ba2) | [![Ball Shot](../art/icons/ammunition/pistol/amm_ball_shot-thumbnail.png?v=2ece5ba4c29c)](../art/icons/ammunition/pistol/amm_ball_shot-preview.png?v=e7456c79c642) |
-| v005 | v004 |
+| [![Improvised Shot](../art/icons/ammunition/any/amm_improvised_shot-thumbnail.png?v=f403f520e155)](../art/icons/ammunition/any/amm_improvised_shot-preview.png?v=3775065efc01) | [![Ball Shot](../art/icons/ammunition/pistol/amm_ball_shot-thumbnail.png?v=0b78b2f8e9e3)](../art/icons/ammunition/pistol/amm_ball_shot-preview.png?v=5d78faec1011) |
+| v007 | v005 |
 
 [Back to collections](#collections)
 
@@ -458,8 +458,8 @@ By Crow Brain Games. Select an image to open its larger public preview.
 
 | Improvised Shot | Musket Shot | Buckshot | Buck &amp; Ball |
 |---|---|---|---|
-| [![Improvised Shot](../art/icons/ammunition/any/amm_improvised_shot-thumbnail.png?v=20593b02db3a)](../art/icons/ammunition/any/amm_improvised_shot-preview.png?v=0beb12cb7ba2) | [![Musket Shot](../art/icons/ammunition/rifle/amm_musket_shot-thumbnail.png?v=737b445cbe11)](../art/icons/ammunition/rifle/amm_musket_shot-preview.png?v=7c5064fd68eb) | [![Buckshot](../art/icons/ammunition/rifle/amm_buckshot-thumbnail.png?v=855013db09bd)](../art/icons/ammunition/rifle/amm_buckshot-preview.png?v=1b0af827dbe5) | [![Buck &amp; Ball](../art/icons/ammunition/rifle/amm_buck_and_ball-thumbnail.png?v=994e155d9998)](../art/icons/ammunition/rifle/amm_buck_and_ball-preview.png?v=84445372fd39) |
-| v005 | v004 | v004 | v004 |
+| [![Improvised Shot](../art/icons/ammunition/any/amm_improvised_shot-thumbnail.png?v=f403f520e155)](../art/icons/ammunition/any/amm_improvised_shot-preview.png?v=3775065efc01) | [![Musket Shot](../art/icons/ammunition/rifle/amm_musket_shot-thumbnail.png?v=dcc79404ee83)](../art/icons/ammunition/rifle/amm_musket_shot-preview.png?v=0ddf8f3c6d57) | [![Buckshot](../art/icons/ammunition/rifle/amm_buckshot-thumbnail.png?v=11a156afb5c5)](../art/icons/ammunition/rifle/amm_buckshot-preview.png?v=d9925c17affa) | [![Buck &amp; Ball](../art/icons/ammunition/rifle/amm_buck_and_ball-thumbnail.png?v=56d210cdef4a)](../art/icons/ammunition/rifle/amm_buck_and_ball-preview.png?v=b5dc188e2231) |
+| v007 | v005 | v005 | v005 |
 
 [Back to collections](#collections)
 
@@ -468,7 +468,7 @@ By Crow Brain Games. Select an image to open its larger public preview.
 
 | Paper Cartridge |
 |---|
-| [![Paper Cartridge](../art/icons/ammunition/gatling/amm_paper_cartridge-thumbnail.png?v=5ba90ae81cc1)](../art/icons/ammunition/gatling/amm_paper_cartridge-preview.png?v=96aea735dd1d) |
+| [![Paper Cartridge](../art/icons/ammunition/gatling/amm_paper_cartridge-thumbnail.png?v=93baf1a12395)](../art/icons/ammunition/gatling/amm_paper_cartridge-preview.png?v=4c52f65434f9) |
 | v002 |
 
 [Back to collections](#collections)
@@ -478,7 +478,7 @@ By Crow Brain Games. Select an image to open its larger public preview.
 
 | Grapeshot | Incendiary Shell | Small Cannonball |
 |---|---|---|
-| [![Grapeshot](../art/icons/ammunition/small-artillery/amm_grapeshot-thumbnail.png?v=b43f93bce718)](../art/icons/ammunition/small-artillery/amm_grapeshot-preview.png?v=534937d33697) | [![Incendiary Shell](../art/icons/ammunition/small-artillery/amm_incendiary_shell-thumbnail.png?v=365bea90d7e4)](../art/icons/ammunition/small-artillery/amm_incendiary_shell-preview.png?v=9acf9bfbf176) | [![Small Cannonball](../art/icons/ammunition/small-artillery/amm_small_cannonball-thumbnail.png?v=9c1e04bf3416)](../art/icons/ammunition/small-artillery/amm_small_cannonball-preview.png?v=dd407ecf73ac) |
+| [![Grapeshot](../art/icons/ammunition/small-artillery/amm_grapeshot-thumbnail.png?v=d0f97e188009)](../art/icons/ammunition/small-artillery/amm_grapeshot-preview.png?v=2d2fd6dacb45) | [![Incendiary Shell](../art/icons/ammunition/small-artillery/amm_incendiary_shell-thumbnail.png?v=365bea90d7e4)](../art/icons/ammunition/small-artillery/amm_incendiary_shell-preview.png?v=9acf9bfbf176) | [![Small Cannonball](../art/icons/ammunition/small-artillery/amm_small_cannonball-thumbnail.png?v=9c1e04bf3416)](../art/icons/ammunition/small-artillery/amm_small_cannonball-preview.png?v=dd407ecf73ac) |
 | v002 | v003 | v002 |
 
 [Back to collections](#collections)
@@ -488,7 +488,7 @@ By Crow Brain Games. Select an image to open its larger public preview.
 
 | Case Shot | Chain Shot | Medium Cannonball |
 |---|---|---|
-| [![Case Shot](../art/icons/ammunition/medium-artillery/amm_case_shot-thumbnail.png?v=a284ca7cde03)](../art/icons/ammunition/medium-artillery/amm_case_shot-preview.png?v=536ab33331a8) | [![Chain Shot](../art/icons/ammunition/medium-artillery/amm_chain_shot-thumbnail.png?v=bc0c1e3840f7)](../art/icons/ammunition/medium-artillery/amm_chain_shot-preview.png?v=9892fb216579) | [![Medium Cannonball](../art/icons/ammunition/medium-artillery/amm_medium_cannonball-thumbnail.png?v=1aa034b33d40)](../art/icons/ammunition/medium-artillery/amm_medium_cannonball-preview.png?v=4dd6ee6780eb) |
+| [![Case Shot](../art/icons/ammunition/medium-artillery/amm_case_shot-thumbnail.png?v=a284ca7cde03)](../art/icons/ammunition/medium-artillery/amm_case_shot-preview.png?v=536ab33331a8) | [![Chain Shot](../art/icons/ammunition/medium-artillery/amm_chain_shot-thumbnail.png?v=1edaaa02dabe)](../art/icons/ammunition/medium-artillery/amm_chain_shot-preview.png?v=64b3c5f5ddf6) | [![Medium Cannonball](../art/icons/ammunition/medium-artillery/amm_medium_cannonball-thumbnail.png?v=1aa034b33d40)](../art/icons/ammunition/medium-artillery/amm_medium_cannonball-preview.png?v=4dd6ee6780eb) |
 | v002 | v002 | v002 |
 
 [Back to collections](#collections)
@@ -498,7 +498,7 @@ By Crow Brain Games. Select an image to open its larger public preview.
 
 | Case Shot | Chain Shot | Large Cannonball | Hollow Shot |
 |---|---|---|---|
-| [![Case Shot](../art/icons/ammunition/medium-artillery/amm_case_shot-thumbnail.png?v=a284ca7cde03)](../art/icons/ammunition/medium-artillery/amm_case_shot-preview.png?v=536ab33331a8) | [![Chain Shot](../art/icons/ammunition/medium-artillery/amm_chain_shot-thumbnail.png?v=bc0c1e3840f7)](../art/icons/ammunition/medium-artillery/amm_chain_shot-preview.png?v=9892fb216579) | [![Large Cannonball](../art/icons/ammunition/large-artillery/amm_large_cannonball-thumbnail.png?v=b4ce9d8b1cab)](../art/icons/ammunition/large-artillery/amm_large_cannonball-preview.png?v=0899300490f4) | [![Hollow Shot](../art/icons/ammunition/large-artillery/amm_hollow_shot-thumbnail.png?v=c354077da320)](../art/icons/ammunition/large-artillery/amm_hollow_shot-preview.png?v=ba1c33ffceb5) |
+| [![Case Shot](../art/icons/ammunition/medium-artillery/amm_case_shot-thumbnail.png?v=a284ca7cde03)](../art/icons/ammunition/medium-artillery/amm_case_shot-preview.png?v=536ab33331a8) | [![Chain Shot](../art/icons/ammunition/medium-artillery/amm_chain_shot-thumbnail.png?v=1edaaa02dabe)](../art/icons/ammunition/medium-artillery/amm_chain_shot-preview.png?v=64b3c5f5ddf6) | [![Large Cannonball](../art/icons/ammunition/large-artillery/amm_large_cannonball-thumbnail.png?v=b4ce9d8b1cab)](../art/icons/ammunition/large-artillery/amm_large_cannonball-preview.png?v=0899300490f4) | [![Hollow Shot](../art/icons/ammunition/large-artillery/amm_hollow_shot-thumbnail.png?v=c354077da320)](../art/icons/ammunition/large-artillery/amm_hollow_shot-preview.png?v=ba1c33ffceb5) |
 | v002 | v002 | v002 | v002 |
 
 [Back to collections](#collections)

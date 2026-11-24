@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "release": "2026-11-23.6",
+  "release": "2026-11-23.7",
   "self": "publication-allowlist.json",
   "files": [
     {
@@ -33,11 +33,11 @@
     },
     {
       "path": "art/icons/ammunition/any/amm_improvised_shot-preview.png",
-      "sha256": "0beb12cb7ba21a30ef4e9e5b456786bcb641f38ee5b38e5297550fd913bd7b7a"
+      "sha256": "3775065efc0128200b381770a7fb35076dd5ff8d23e103f33abef8cbaa51e242"
     },
     {
       "path": "art/icons/ammunition/any/amm_improvised_shot-thumbnail.png",
-      "sha256": "20593b02db3a4f34fc7a6e27773c27577e73991bd2c3047f8aa9eebdefa8b0a2"
+      "sha256": "f403f520e15542af6b919d93402eb0dae3e7b5b4dbd5b899c6fb36d99dfc0f62"
     },
     {
       "path": "art/icons/ammunition/ballista/amm_alloy_ballista_bolts-preview.png",
@@ -305,11 +305,11 @@
     },
     {
       "path": "art/icons/ammunition/gatling/amm_paper_cartridge-preview.png",
-      "sha256": "96aea735dd1d5577944cf6c50f229b5b8f7cfa2b67143be0b5aa2ff5b3d8feb8"
+      "sha256": "4c52f65434f93c7f4e5b6aa2843405bc97fa36e50635b191cc9194c0854e2548"
     },
     {
       "path": "art/icons/ammunition/gatling/amm_paper_cartridge-thumbnail.png",
-      "sha256": "5ba90ae81cc12d532f62da719102f2e053a9b6b71dfb9383eb02e44dfe1194d9"
+      "sha256": "93baf1a1239582fd40742293a85a0ad29b9fc95a141aede2637d287f3953849d"
     },
     {
       "path": "art/icons/ammunition/large-artillery/amm_hollow_shot-preview.png",
@@ -337,11 +337,11 @@
     },
     {
       "path": "art/icons/ammunition/medium-artillery/amm_chain_shot-preview.png",
-      "sha256": "9892fb2165792d80c2d32748bc539dd49cd73ecf1a3d2293eca0003368cb80a1"
+      "sha256": "64b3c5f5ddf6c41803fe05694f92d41616efbeffe4b0182b9a65adadc263a95d"
     },
     {
       "path": "art/icons/ammunition/medium-artillery/amm_chain_shot-thumbnail.png",
-      "sha256": "bc0c1e3840f7453a32742baf59e41c17b1bd7a8642db95a80dfc74d165c44185"
+      "sha256": "1edaaa02dabea19654da596cbd18680138e9f16e2be212528abf6b8886861f2f"
     },
     {
       "path": "art/icons/ammunition/medium-artillery/amm_medium_cannonball-preview.png",
@@ -353,43 +353,43 @@
     },
     {
       "path": "art/icons/ammunition/pistol/amm_ball_shot-preview.png",
-      "sha256": "e7456c79c642c41d8dfb402dc17d95cd6208de9091546d982731ea756f319527"
+      "sha256": "5d78faec1011651fca70912c8a1475a291ee068ef8452da74d05150de3fb8643"
     },
     {
       "path": "art/icons/ammunition/pistol/amm_ball_shot-thumbnail.png",
-      "sha256": "2ece5ba4c29c8a797975b758b3d6d7de5d57d1a928cce3683faedc9b5a16b69b"
+      "sha256": "0b78b2f8e9e3033ad959c29e4ca0171e515993a799e44d7cb201bb31310f2832"
     },
     {
       "path": "art/icons/ammunition/rifle/amm_buck_and_ball-preview.png",
-      "sha256": "84445372fd3942060927738a08326c987ad0067331deb7bedc8efe404a243f85"
+      "sha256": "b5dc188e22310d19a39fb98fc3a86959367f5975181c8c31c320235e20073849"
     },
     {
       "path": "art/icons/ammunition/rifle/amm_buck_and_ball-thumbnail.png",
-      "sha256": "994e155d999865fa90871d2094b3bf3c40fcfb66a7dd97194368ed006fe023cf"
+      "sha256": "56d210cdef4ad811b354bc1e7326477bf421c118ecac8792aa677708538315ba"
     },
     {
       "path": "art/icons/ammunition/rifle/amm_buckshot-preview.png",
-      "sha256": "1b0af827dbe5eb990bdcc9e4d37afa4870ece95cad86eb1968d42f232d85ed98"
+      "sha256": "d9925c17affaaa6a0d7653176dd7779688720acad70d88fcee566f57773877fe"
     },
     {
       "path": "art/icons/ammunition/rifle/amm_buckshot-thumbnail.png",
-      "sha256": "855013db09bd239b3df86fa59c10fba411202e60230e56150335e7b27e47f1fe"
+      "sha256": "11a156afb5c530b5641dc162ac6cc2045def99ed34176182c90e233f02a5efa5"
     },
     {
       "path": "art/icons/ammunition/rifle/amm_musket_shot-preview.png",
-      "sha256": "7c5064fd68eb79bd87e76a0ed5081375c576f776bbced5182bdb151e2f415676"
+      "sha256": "0ddf8f3c6d57d3cda94c89883bba137de5d963a4527b0cd63788a2f8c33099c2"
     },
     {
       "path": "art/icons/ammunition/rifle/amm_musket_shot-thumbnail.png",
-      "sha256": "737b445cbe11c782b3d894fd8d3153d1109bf4198acf0c4506911a5c49bc81e1"
+      "sha256": "dcc79404ee83297794eda553f2d16e9096b2decebd4c83fd5eace786ba97785c"
     },
     {
       "path": "art/icons/ammunition/small-artillery/amm_grapeshot-preview.png",
-      "sha256": "534937d336979e9c89a283b00adce9105d3270dac705e4f476b06c0a6e4eb72f"
+      "sha256": "2d2fd6dacb45aa1eb7fcf144a0de49e05671f88ee13242130137a1961a779adc"
     },
     {
       "path": "art/icons/ammunition/small-artillery/amm_grapeshot-thumbnail.png",
-      "sha256": "b43f93bce718e11f7604be8ca11e75f02e5c6a57d3a1e1bc8dda8005e572f5fb"
+      "sha256": "d0f97e1880092ca8d88dfa336aea52fbfb54dcb27bdf0f6dc061a2b97480c712"
     },
     {
       "path": "art/icons/ammunition/small-artillery/amm_incendiary_shell-preview.png",
@@ -2017,99 +2017,99 @@
     },
     {
       "path": "art/icons/resources/31-chopper-products/res_bald_cypress_lumber-preview.png",
-      "sha256": "4f77431a4ca8c62a1d791c3212da192c9f1a356c77ab082bfabb2b91958d12f8"
+      "sha256": "c3d069b504461e83d2050072ba9ac3734d76f0a34f4b7868afe21251fc1f2566"
     },
     {
       "path": "art/icons/resources/31-chopper-products/res_bald_cypress_lumber-thumbnail.png",
-      "sha256": "3f7bcf2f27ba5932c0a4caff58b8e51316c51e14d59641b7ba06303deb3137c3"
+      "sha256": "15a250e1da156ca5d02013e7dd930d5a657020a820ccb5cee61f3303a54a0389"
     },
     {
       "path": "art/icons/resources/31-chopper-products/res_bald_cypress_timber-preview.png",
-      "sha256": "226c4b6f382c3492680a04e0904da39e5a1697761b67f8000ef71f8fc66ccff5"
+      "sha256": "e5da9561e77b503eecd882fc745aebc61cc31566b8b0a00d6cc840993ccb05d2"
     },
     {
       "path": "art/icons/resources/31-chopper-products/res_bald_cypress_timber-thumbnail.png",
-      "sha256": "951bea14413879e60c9c81a8e6012f7b0ed38cfaae569206413c71608baf0307"
+      "sha256": "ef09d31698b63cf0be6ebcab5673973bbc8c79fce8371946c3bcb0932bced3f9"
     },
     {
       "path": "art/icons/resources/31-chopper-products/res_coconut_palm_lumber-preview.png",
-      "sha256": "72e3bc1f9b230d3a0a6af1bbb398d70affded1b72d78a50c4264bc5efecb84b6"
+      "sha256": "0d507d179c917683008b6fafe2821b1d928616f7311cc23a92663b82563785de"
     },
     {
       "path": "art/icons/resources/31-chopper-products/res_coconut_palm_lumber-thumbnail.png",
-      "sha256": "98d76733c7ba34e4229f1a1691ddcb44385c088fe1d3fde182465e17b1e12cc1"
+      "sha256": "efa9e0cdbce30251f3bedf5c215370548ae4f71dad613d2776b6369efe7d0b48"
     },
     {
       "path": "art/icons/resources/31-chopper-products/res_coconut_palm_timber-preview.png",
-      "sha256": "5531b03536e07405a09f0963ed510bf87611d2a05ca9590808906d357db3f60a"
+      "sha256": "8d1cf198c4c0ae5b31af21a0b632e500d30712d5e39c864975d75689b37e2ac7"
     },
     {
       "path": "art/icons/resources/31-chopper-products/res_coconut_palm_timber-thumbnail.png",
-      "sha256": "6381c5dcd4118b2d36eda6dbaca8f3fa07d23deac6c01df93679b2cf063d3383"
+      "sha256": "c7d8367664c46458940125c3cab8b0829eb203c9c9ba5a12274f12ea636010fc"
     },
     {
       "path": "art/icons/resources/31-chopper-products/res_pitch_pine_lumber-preview.png",
-      "sha256": "8b16fecd2be80a119fbf09f4db47b4fdd4b9d5cac0ce951fde5b88387975aec0"
+      "sha256": "8ab9329ad909f0ec165c569ce048b378974bb66cb09a09c0f1112afd2c72bc58"
     },
     {
       "path": "art/icons/resources/31-chopper-products/res_pitch_pine_lumber-thumbnail.png",
-      "sha256": "38f6a3c00e7ec6d28a65dbd05a55cd04525ffed79697e74621aaf50a5cf08568"
+      "sha256": "dbc7d69bfd17bb7075466bf3d1fd036f2f27d7a13225a6c139286e8df3c79e64"
     },
     {
       "path": "art/icons/resources/31-chopper-products/res_pitch_pine_timber-preview.png",
-      "sha256": "2b23ca8dcfa7d46ebe7cc9f5b6a717fa6fc4090bf9d1e395b838639eb5d62cca"
+      "sha256": "dc3a610fb3b6e1d40b4ac33bd9555999d53ff547edd39e75a7700a15ce21bb43"
     },
     {
       "path": "art/icons/resources/31-chopper-products/res_pitch_pine_timber-thumbnail.png",
-      "sha256": "a02b0cb71339ca9eef477531823f08b52d747607f875e023ad9a4256cf9cfcac"
+      "sha256": "d9444ea9fabc710d9bbef7e20c9c9429ce90132e173c17f5221aa13f7e0f0c19"
     },
     {
       "path": "art/icons/resources/31-chopper-products/res_red_cedar_lumber-preview.png",
-      "sha256": "a8b0a09d5e3c1754f29fd17c0489ba942a5897998de664f6022dc049fb0ea19c"
+      "sha256": "89387b1959294cd3670132105f0aed33d57a40d570eec512268f9f968a198842"
     },
     {
       "path": "art/icons/resources/31-chopper-products/res_red_cedar_lumber-thumbnail.png",
-      "sha256": "f4c6bf4eee259ea2aebeed0187d0650ea1675dbf0457b7954846daa9af4fab14"
+      "sha256": "b0c1d68eb0ca496aaa761592c2214a612789f48abf838fdc0ed23fc5ad262f79"
     },
     {
       "path": "art/icons/resources/31-chopper-products/res_red_cedar_timber-preview.png",
-      "sha256": "888ff740f3d1eae84c8a788b364656a8555cc0f0f05a95ba09eca3c259cb9bd3"
+      "sha256": "6942645da85195b7848694200b2450f34bedda3d705a4c4ee8419e8996757d80"
     },
     {
       "path": "art/icons/resources/31-chopper-products/res_red_cedar_timber-thumbnail.png",
-      "sha256": "bc1bd0922c3750cd77c0009daa610312800bf620c08b3fea0bf4de18d73ae344"
+      "sha256": "2cfde8c643001517e224c5dc54cdd805b69ae6c543e36e6f822c9a9a81dd6d54"
     },
     {
       "path": "art/icons/resources/31-chopper-products/res_teak_lumber-preview.png",
-      "sha256": "e1e84ca83f441cbdb62302b2aaa1e56661223f482238615045e07a694e40bc5a"
+      "sha256": "b59227ae588ee509155f16ad0d27ef1786fb6e718f00b3b47a466e2261692f84"
     },
     {
       "path": "art/icons/resources/31-chopper-products/res_teak_lumber-thumbnail.png",
-      "sha256": "f0896e04c31b366bf24c7b08cfb253ca6bac71393ae9e34e23fe9d9205227607"
+      "sha256": "cbb4925687439f45ab4242a765f74295c25a6146bfdfb2a0e40ff59e1b6a143c"
     },
     {
       "path": "art/icons/resources/31-chopper-products/res_teak_timber-preview.png",
-      "sha256": "260778471427dc783eaa963c598e9ea1d3777e3282be77ccadc019af29a073c1"
+      "sha256": "ac86e5a590cd71d461e7408f1b25e5bb97cc0f1adf52d8945efbc8158e2cb7ea"
     },
     {
       "path": "art/icons/resources/31-chopper-products/res_teak_timber-thumbnail.png",
-      "sha256": "de04f05037c7fccebdf0d9c07966d591730d52cbb8b2dbb5e9100c3f5b010d11"
+      "sha256": "d0bbbb860eee0a8554aec65e28bcdd7f47d4d8052fbf308fb02949f3748e24dc"
     },
     {
       "path": "art/icons/resources/31-chopper-products/res_white_oak_lumber-preview.png",
-      "sha256": "ae70c2a41c5782f6a517da6c2d165a3abac4e55e3cb1bc36cd6117d50064f911"
+      "sha256": "a421b1ad6a5b13dbe7f89665362e0bc5c81496d32b9ce6b3eac2542f86b83f01"
     },
     {
       "path": "art/icons/resources/31-chopper-products/res_white_oak_lumber-thumbnail.png",
-      "sha256": "5b9390e0c2c1bcc07d4a151ba337cf5d119b63a8a54c5807301a06073b2d7870"
+      "sha256": "b1e661a2a9bdc22132a5b64e9caf0706013f14a83c1277d280ff54d73649bfaa"
     },
     {
       "path": "art/icons/resources/31-chopper-products/res_white_oak_timber-preview.png",
-      "sha256": "fa4d078cbbaba34c55160a9bc86a75b60d030390d6caec63b70dfb458ee4abd0"
+      "sha256": "a140e44832d0f78e17d4ab105cd3fbc59dfd08e0464e4811af84dc8517a9816b"
     },
     {
       "path": "art/icons/resources/31-chopper-products/res_white_oak_timber-thumbnail.png",
-      "sha256": "96f78da137a82f7156aa91f6ed62868f143e273ae5d64eec687d7040ce73b268"
+      "sha256": "08100f920caf9c0ef32bdb2e15c5122488ec4660d8efeb551fc9339337ac1ae4"
     },
     {
       "path": "art/icons/resources/31-crafted-utility/amm_empty_vial-preview.png",
@@ -2297,11 +2297,11 @@
     },
     {
       "path": "art/icons/resources/31-crafted-utility/res_lumber_plank-preview.png",
-      "sha256": "aa71729bd1d24134bef645f3f8fa3fe82c174db93e95141988442cea69b47c79"
+      "sha256": "37f0ec3bb2ef74cea2a510f0db607dddbe08c7e684e446c6f3e9d3b070c6609c"
     },
     {
       "path": "art/icons/resources/31-crafted-utility/res_lumber_plank-thumbnail.png",
-      "sha256": "e249e4daf12d0a0b9bf53c4003cdf2046a3fff7444cabaa7044cc3fdd28f9682"
+      "sha256": "212bbe688590ebb77cc35f9bd98ffff863a7ad1fd160894a099af3782d74a305"
     },
     {
       "path": "art/icons/resources/31-crafted-utility/res_magic_crystal-preview.png",
@@ -2409,11 +2409,11 @@
     },
     {
       "path": "art/icons/resources/31-crafted-utility/res_timber-preview.png",
-      "sha256": "f9acceb006e32faade1e52b704c8b1803f7866dea8695d03bc79f3bd7adba5f9"
+      "sha256": "0602428a6000f1af6b2b25bffc4e6e26a61e5f9dbb205ea9525933cb4247e77f"
     },
     {
       "path": "art/icons/resources/31-crafted-utility/res_timber-thumbnail.png",
-      "sha256": "b9f512de95bb22c639197f6a24c4720c95044594fea89cb436daefee4d497790"
+      "sha256": "feee6a6f09b7743296e273a269edeac269bfb02460581e1fa16111b746484c97"
     },
     {
       "path": "art/icons/resources/31-crafted-utility/res_wick-preview.png",
@@ -2465,11 +2465,11 @@
     },
     {
       "path": "catalog.json",
-      "sha256": "bb02e11afe7eeba83d732a83ac3ab3e6dbbe4fdae25ec262c0aadc866ba6b16c"
+      "sha256": "4d0643f3491eca50461acc227209ec97cd723777dcc08083db1eac2f7c769aeb"
     },
     {
       "path": "docs/ARTWORK_CATALOG.md",
-      "sha256": "1945e0577b27cbad16b444d42e3bd531597748b972de5c1b046424cb6aef5320"
+      "sha256": "67897717a021fedf0971e6e45a96b701eb152d65d4ce8432c0692065d77a9e8a"
     },
     {
       "path": "docs/PUBLISHING.md",
@@ -2477,7 +2477,7 @@
     },
     {
       "path": "docs/RELEASES.md",
-      "sha256": "99532ce37418d4c808d08c3c2cb046e3a0d0638b4ab823dd9115166ef67de969"
+      "sha256": "c6f37f60ccf2b7aa41ceaa8377af9f27c8b69d386173d8b7e4577406d4818f5b"
     },
     {
       "path": "releases/2026-10-16.1.json",
@@ -2534,6 +2534,10 @@
     {
       "path": "releases/2026-11-23.6.json",
       "sha256": "27dd01d3377a0edf47ee552ac745280c1a678339b14b6095f5d6901da076c9fe"
+    },
+    {
+      "path": "releases/2026-11-23.7.json",
+      "sha256": "106fd0daa28323299e994b772d447be2cf9bbb5aa3886c0b12603679ad3b0c33"
     },
     {
       "path": "requirements.txt",
